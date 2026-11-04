@@ -1,0 +1,21 @@
+{
+  "name": "artrend-web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "15.5.28",
+    "react": "19.1.10",
+    "react-dom": "19.1.10"
+  },
+  "devDependencies": {
+    "@types/node": "22.7.4",
+    "@types/react": "19.1.13",
+    "typescript": "5.6.2"
+  }
+}
