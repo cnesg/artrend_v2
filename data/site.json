@@ -1,0 +1,41 @@
+{
+ "asof": "2026-11-04",
+ "dates": [
+  "2026-11-04",
+  "2026-11-03",
+  "2026-11-02",
+  "2026-11-01",
+  "2026-10-31",
+  "2026-10-30",
+  "2026-10-29"
+ ],
+ "editions": [
+  {
+   "code": "KR",
+   "slug": "kr",
+   "ko": "한국",
+   "en": "Korea"
+  },
+  {
+   "code": "JP",
+   "slug": "jp",
+   "ko": "일본",
+   "en": "Japan"
+  },
+  {
+   "code": "AMERICAS",
+   "slug": "americas",
+   "ko": "미주",
+   "en": "Americas"
+  },
+  {
+   "code": "EUROPE",
+   "slug": "europe",
+   "ko": "유럽",
+   "en": "Europe"
+  }
+ ],
+ "generated_at": "2026-11-04T13:41:10+09:00",
+ "update_schedule": "매일 08:30 KST",
+ "publishable": false
+}

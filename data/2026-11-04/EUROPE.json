@@ -1,0 +1,2654 @@
+{
+ "date": "2026-11-04",
+ "edition": "EUROPE",
+ "edition_ko": "유럽",
+ "edition_en": "Europe",
+ "slug": "europe",
+ "publishable": false,
+ "headlines": [
+  {
+   "title": "MAXXI BVLGARI PRIZE 수상작, MAXXI에 걸린다 — 11월 6일",
+   "dek": "11월 6일–2027년 3월 7일. 상금보다 큰 보상, 미술관이라는 다음 무대.",
+   "power": 2,
+   "power_label": "눈에 띄는 신호",
+   "axis": "신진 경로",
+   "points": [],
+   "about": "MAXXI Museo nazionale delle arti del XXI secolo(Rome)에서 상·신진 작가 전시 《MAXXI BVLGARI PRIZE 2026》가 11월 6일 문을 연다.",
+   "what": [
+    "《MAXXI BVLGARI PRIZE 2026》 — MAXXI Museo nazionale delle arti del XXI secolo(Rome), 11월 6일–2027년 3월 7일"
+   ],
+   "evidence": "수상·신진 전시 MAXXI BVLGARI PRIZE 2026(11-06)(이번 주~2주 뒤 개막).",
+   "read": "제목에 상·신진 표기가 있는 전시만 잡는다",
+   "items": [
+    "MAXXI BVLGARI PRIZE 2026"
+   ],
+   "tags": [
+    "신진 경로"
+   ],
+   "image": null,
+   "after": false
+  },
+  {
+   "title": "Irving Penn, 전시장과 뉴스에 동시 등장",
+   "dek": "화제의 기사: ‘Remember Me — 파리의 Bourse de Commerce에서의 화려한…’.",
+   "power": 2,
+   "power_label": "눈에 띄는 신호",
+   "axis": "작가",
+   "points": [
+    "지금 볼 수 있는 곳: Thaddaeus Ropac 《Irving Penn》, 1월 30일까지",
+    "함께 오른 이름: Anselm Kiefer, Mathilde Denize, Martine Syms"
+   ],
+   "about": "Irving Penn(미국 출신, 1917년생) — 관련 전시와 기사:",
+   "what": [
+    "《Irving Penn: L'Essence du portrait》 — Thaddaeus Ropac(파리), 11월 7일–2027년 1월 30일",
+    "Thaddaeus Ropac 11/3: ‘2026년 11월 3일 파이낸셜 타임즈에 소개됨 Remember Me — 파리의 Bourse de Commerce에서의 화려한 사진 촬영 Irving Penn J…’"
+   ],
+   "evidence": "서로 다른 경로 2곳 이상에서 동시에 보이는 작가 6명(전시 ±30일·보도 7일) — 전시와 보도에 함께 나온 작가 5명. Irving Penn(전시 1 · 보도 2), Anselm Kiefer(보도 1 · 전시 1), Mathilde Denize(전시 1 · 보도 1), Martine Syms(보도 1 · 전시 1), Ryan Gander(전시 1 · 보도 1).",
+   "read": "",
+   "items": [],
+   "tags": [
+    "Irving Penn"
+   ],
+   "image": null,
+   "after": false
+  },
+  {
+   "title": "갤러리들이 밀어주는 이름: John Akomfrah, Irving Penn",
+   "dek": "소속 작가의 미술관 전시·수상·언론 소개를 앞세운 발표가 잇따랐다.",
+   "power": 2,
+   "power_label": "눈에 띄는 신호",
+   "axis": "갤러리",
+   "points": [
+    "갤러리 홍보가 '우리 전시'에서 '우리 작가의 바깥 성과'로 옮겨갔다."
+   ],
+   "about": "갤러리들이 직접 낸 공식 소식 가운데 소속 작가의 바깥 성과(미술관 전시·수상·언론 소개)를 알린 글:",
+   "what": [
+    "《Théo Mercier Reiffers Initiatives, Paris》 — kamel mennour(파리), 10월 23일–12월 12일",
+    "《seven lakes》 — Mendes Wood DM(Brussels), 10월 30일–2027년 1월 9일",
+    "PKM Gallery 11/1: ‘Kim Jiwon’",
+    "ANOMALY 10/30: ‘Kohei Kobayashi｜Kohei Kobayashi x core of bells “Control Manual”’",
+    "ANOMALY 10/30: ‘Yusuke Asak, Yayoi Deki, Daisuke Takahashi｜Artful Living from Ginza’"
+   ],
+   "evidence": "갤러리 개막 2건(최근 14일) — kamel mennour 1, Mendes Wood DM 1. 갤러리 공식 소식 16건(최근 7일)",
+   "read": "갤러리가 스스로 알리는 소식은 언론 소개 2·기관 전시 2 순 — 소속 작가의 미술관 전시·수상을 홍보하는 흐름이면 갤러리 사건이 아니라 작가 사건(A축)으로 옮겨 본다.",
+   "items": [
+    "Théo Mercier Reiffers Initiatives, Paris",
+    "seven lakes",
+    "[Kim Jiwon: Group Exhibition](https://www.pkmgallery.com/news/kim-jiwon-group-exhibition6)",
+    "[Kohei Kobayashi｜Kohei Kobayashi x core of bells “Control Man](https://anomalytokyo.com/en/news/kohei-kobayashi_control-manual/)",
+    "[Yusuke Asak, Yayoi Deki, Daisuke Takahashi｜Artful Living fro](https://anomalytokyo.com/en/news/artful%e3%83%bcliving/)"
+   ],
+   "tags": [
+    "Irving Penn"
+   ],
+   "image": "https://mennour.com/_ipx/h_630&q_80/https://staging-admin.mennour.com/uploads/img/Sans-titre-2560-x-2880-px.jpg",
+   "after": false
+  },
+  {
+   "title": "신진상 시즌 개막 — 첫 수상자는 Hana Elhaddad·Okiki Akinfe",
+   "dek": "한 달 새 신진 대상 상 4개가 수상자를 냈다.",
+   "power": 2,
+   "power_label": "눈에 띄는 신호",
+   "axis": "수상·루키",
+   "points": [
+    "상보다 중요한 건 다음 무대(개인전·레지던시)를 누가 얻느냐."
+   ],
+   "about": "최근 한 달 신진 대상 상과 수상자:",
+   "what": [
+    "Salzburger Kunstverein × ArtReview 작가(비평) 레지던시 — Hana Elhaddad: 레지던시 결과물인 비평문이 ArtReview에 게재됨",
+    "프리즈 런던 신진 작가상(첫 회) — Okiki Akinfe: 첫 회 수상. 본인은 이 상이 '더 많은 작가를 키우길' 바란다고 인터뷰",
+    "Camden Art Centre 신진작가상 2026(프리즈 런던) — Ella Fleck: 2026 수상",
+    "Frieze Artist Award 2026 — Theo Triantafyllidis: 이 상으로 거대 거미 형태 조각"
+   ],
+   "evidence": "판단한 수상·선정 8건(최근 30일) — 신진 대상 4 · 경력 무관 2 · 기성 1 · 후보 단계 1. 기관 공식 공모·레지던시 선정 2건 — Delfina Foundation.",
+   "read": "신진 발굴 경로가 어디서 열리는지 본다 — 상세 판단은 홈의 ROOKIE RADAR.",
+   "items": [
+    "Delfina Foundation Residency 2026-10-19 — 2026-11-15",
+    "Delfina Foundation Residency 2026-11-01 — 2026-12-13"
+   ],
+   "tags": [
+    "레지던시"
+   ],
+   "image": null,
+   "after": false
+  },
+  {
+   "title": "이번 주 비평이 꺼낸 이름: Guadalupe Rosales, Marcel Duchamp",
+   "dek": "리뷰·비평 17편, 한 전시로 모이진 않았다 — 관심이 흩어진 주.",
+   "power": 1,
+   "power_label": "참고",
+   "axis": "비평",
+   "points": [],
+   "about": "먼저 읽을 글:",
+   "what": [
+    "Hyperallergic 11/3: ‘Guadalupe Rosales’s Portable Archive of East LA’",
+    "Hyperallergic 11/3: ‘As Politicians Break Promises, This Public Artwork Keeps Them’",
+    "The Art Newspaper 11/3: ‘왜 Mary Cassatt는 '현대 마돈나'의 단순한 화가 이상 이었습니까?’",
+    "ArtReview 11/3: ‘Hurtling Towards Our Own Destruction with Yuyan Wang’"
+   ],
+   "evidence": "비평·리뷰·인터뷰 17건(최근 7일) — review 15, criticism 1, interview 1 · 매체 Hyperallergic 5, ArtReview 5, The Art Newspaper 4.",
+   "read": "같은 전시·작가에 서로 다른 매체의 글이 2개 이상 모이면 '비평의 관점'으로 묶는다. 이번 주 글 목록은 4장 '글로벌 비평'.",
+   "items": [
+    "[Guadalupe Rosales’s Portable Archive of East LA](https://hyperallergic.com/guadalupe-rosaless-portable-archive-of-east-la/)",
+    "[As Politicians Break Promises, This Public Artwork Keeps The](https://hyperallergic.com/as-politicians-break-promises-this-public-artwork-keeps-them/)",
+    "[Why Mary Cassatt was more than just a painter of the 'modern](https://www.theartnewspaper.com/2026/11/03/why-mary-cassatt-was-more-than-just-a-painter-of-the-modern-madonna)"
+   ],
+   "tags": [
+    "비평"
+   ],
+   "image": null,
+   "after": false
+  },
+  {
+   "title": "이번 주, 크게 터진 뉴스는 없었다",
+   "dek": "대신 전시·수상 쪽 흐름을 위에서 짚었다.",
+   "power": 1,
+   "power_label": "참고",
+   "axis": "보도",
+   "points": [],
+   "about": "관련 기사:",
+   "what": [
+    "ADIAF 11/3: ‘Visite des ateliers de Mathilde Denize et Yann Lacroix’"
+   ],
+   "evidence": "기사 95건 → 같은 소식 묶음 95개(최근 7일) — 그 밖의 소식 59, 전시·프로그램 21, 수상·인물 10.",
+   "read": "화제성(보도 확산)은 중요도와 다르다 — 중요도는 아래 '주요 소식'의 기준 판정을 본다.",
+   "items": [],
+   "tags": [
+    "보도"
+   ],
+   "image": null,
+   "after": false
+  },
+  {
+   "title": "전시 개막, 잠시 숨 고르기",
+   "dek": "대신 2주 안에 새 전시 21개가 문을 연다.",
+   "power": 1,
+   "power_label": "참고",
+   "axis": "전시",
+   "points": [
+    "주목: 《Artissima 2026》 — 작가가 뉴스에도 함께 오른다."
+   ],
+   "about": "이번 주 토리노에서 문을 연 전시:",
+   "what": [
+    "《Artissima 2026》 — Artissima(토리노), 10월 30일–11월 1일 · 작가 1/9UNOSUNOVE, 10 E ZERO UNO, 1301PE 외 182명",
+    "《seven lakes》 — Mendes Wood DM(Brussels), 10월 30일–2027년 1월 9일"
+   ],
+   "evidence": "지난 7일 개막 2건(직전 4주 주평균 16.0건, -88%) — 갤러리 1 · 미술관·기관 0 · 도시 Torino 1, Brussels 1. 앞으로 2주 개막 예정 21건.",
+   "read": "개막이 평소보다 적은 주다",
+   "items": [
+    "Artissima 2026",
+    "seven lakes"
+   ],
+   "tags": [
+    "Artissima"
+   ],
+   "image": "https://static-assets.artlogic.net/w_1200,c_limit,f_auto,fl_lossy,q_auto,dpr_auto/ws-mendeswood/usr/images/exhibitions/main_image_override/424/dsc00089.jpg",
+   "after": false
+  },
+  {
+   "title": "Biennale Arte 2026, 폐막 D-18",
+   "dek": "막바지 관람·리뷰가 몰리는 구간.",
+   "power": 2,
+   "power_label": "눈에 띄는 신호",
+   "axis": "페어·비엔날레",
+   "points": [],
+   "about": "진행 중이거나 3주 안에 열리는 페어·비엔날레:",
+   "what": [
+    "《Biennale Arte 2026: In Minor Keys (61th International Art Exhibition)》 — La Biennale di Venezia(베네치아), 5월 9일–11월 22일 · 작가 Adebunmi Gbadebo, Akinbode Akinbiyi, Alan Phelan 외 108명"
+   ],
+   "evidence": "진행 중 Biennale Arte 2026: In Minor Keys (61th International Art Exhibition)(~11-22) · 3주 안 개막 없음.",
+   "read": "아트페어·비엔날레 주간에는 갤러리 개막·신진상·판매 보도가 같이 늘어난다",
+   "items": [],
+   "tags": [
+    "페어·비엔날레"
+   ],
+   "image": null,
+   "after": true
+  }
+ ],
+ "keywords": [
+  {
+   "label": "Artissima",
+   "kind": "행사",
+   "n": 2,
+   "sources": 2,
+   "rise": "새로 등장",
+   "lift": 7.07,
+   "score": 2.579,
+   "note": "이번 주 2건 · 새로 등장",
+   "examples": [
+    {
+     "title": "토리노의 Artissima Fair, 현대 미술 연구자의 머리를 위한 교환 장소",
+     "url": "https://www.lemonde.fr/culture/article/2026/10/31/la-foire-artissima-de-turin-lieu-d-echanges-pour-les-tetes-chercheuses-de-l-art-contemporain_6803673_3246.html",
+     "date": "2026-10-31"
+    },
+    {
+     "title": "Artissima 2026",
+     "url": "https://www.artissima.art/",
+     "date": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "label": "사진",
+   "kind": "매체",
+   "n": 4,
+   "sources": 3,
+   "rise": "평소의 2.8배",
+   "lift": 2.83,
+   "score": 2.176,
+   "note": "이번 주 4건 · 평소의 2.8배",
+   "examples": [
+    {
+     "title": "Remember Me — 파리의 Bourse de Commerce에서의 화려한 사진 촬영 Irving Penn Jackie Wullschläger가 파리의 Bourse de Commerce에서 Irving Penn의 사진에 대한 설문 조사를 검토한다.",
+     "url": "https://ropac.net/news/3213-remember-me-an-ebullient-photography-extravaganza-at-featuring-irving-penn/",
+     "date": "2026-11-03"
+    },
+    {
+     "title": "A la Maison européenne de la photographie, Julie Jones veut « prendre le risque de donner de larges espaces à des artistes émergents »",
+     "url": "https://www.lemonde.fr/culture/article/2026/11/01/a-la-maison-europeenne-de-la-photographie-julie-jones-veut-prendre-le-risque-de-donner-de-larges-espaces-a-des-artistes-emergents_6804136_3246.html",
+     "date": "2026-11-01"
+    },
+    {
+     "title": "BNF에서, 핵 외상에서 젠 미니멀리즘에 이르기까지 일본 사진에 대한 숨막히는 다이빙",
+     "url": "https://www.lemonde.fr/culture/article/2026/10/30/a-la-bnf-une-plongee-epoustouflante-dans-la-photographie-japonaise-du-traumatisme-nucleaire-au-minimalisme-zen_6802766_3246.html",
+     "date": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "label": "레지던시",
+   "kind": "형식",
+   "n": 2,
+   "sources": 2,
+   "rise": "평소의 2.4배",
+   "lift": 2.36,
+   "score": 1.131,
+   "note": "이번 주 2건 · 평소의 2.4배",
+   "examples": [
+    {
+     "title": "Delfina Foundation Residency 2026-11-01 — 2026-12-13",
+     "url": "https://www.delfinafoundation.com/in-residence/",
+     "date": "2026-11-01"
+    },
+    {
+     "title": "가나 아크라의 림보 박물관(Limbo Museum, Accra, Ghana) 2026년 10월 29일~2027년 2월 1일 림보 박물관에서 알바로 배링턴 배링턴(Alvaro Barrington Barrington)의 거주지는 아프리카 대륙에서의 첫 단독 공연으로 절정에 이른다.",
+     "url": "https://ropac.net/news/3080-alvaro-barrington/",
+     "date": "2026-10-29"
+    }
+   ]
+  },
+  {
+   "label": "Irving Penn",
+   "kind": "작가",
+   "n": 3,
+   "sources": null,
+   "rise": "이번 주 화제",
+   "lift": null,
+   "score": 0,
+   "note": "보도 2 · 전시 1",
+   "examples": [
+    {
+     "title": "Remember Me — an ebullient photography extravaganza at Paris’s Bourse de Commerce Featuring Irving Penn Jackie Wullschläger reviews the survey of Irving Penn's photographs at the Bourse de Commerce, Paris.",
+     "url": "https://ropac.net/news/3213-remember-me-an-ebullient-photography-extravaganza-at-featuring-irving-penn/",
+     "date": null
+    }
+   ]
+  },
+  {
+   "label": "Anselm Kiefer",
+   "kind": "작가",
+   "n": 2,
+   "sources": null,
+   "rise": "이번 주 화제",
+   "lift": null,
+   "score": 0,
+   "note": "보도 1 · 전시 1",
+   "examples": [
+    {
+     "title": "Anselm Kiefer Into the Golden Crucible Anselm Kiefer’s The Women Alchemists, at Palazzo Reale Milan.",
+     "url": "https://ropac.net/news/3207-anselm-kiefer-into-the-golden-crucible/",
+     "date": null
+    }
+   ]
+  }
+ ],
+ "top": {
+  "trending": [
+   {
+    "title": "Tate 《Hyundai Commission》",
+    "url": "https://www.tate.org.uk/whats-on/tate-modern/tarek-atoui",
+    "date": "2026-10-13",
+    "ago": "개막 23일째",
+    "topic": "체크",
+    "image": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Tate-HYUNDAI-2026_41.width-600.jpg",
+    "reason": "Tarek Atoui — 최근 석 달 5개 매체에 오른 이름"
+   },
+   {
+    "title": "Lisson Gallery 《Lisson Artists in Venice 2026》",
+    "url": "https://lisson.com/exhibitions/lisson-artists-in-venice-2026",
+    "date": "2026-05-09",
+    "ago": "개막 180일째",
+    "topic": "체크",
+    "image": "https://d7ra36y65tyn0.cloudfront.net/image/553853451406/image_d08pmkhrad4jp10c1e0v229b7q/-S3840x-FWEBP",
+    "reason": "Anish Kapoor — 최근 석 달 4개 매체에 오른 이름"
+   },
+   {
+    "title": "Tate 《ARTIST ROOMS》",
+    "url": "https://www.tate.org.uk/whats-on/atkinson-southport/gilbert--george",
+    "date": "2026-11-07",
+    "ago": "개막 D-3",
+    "topic": "체크",
+    "image": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-600_4YjZXFE.jpg",
+    "reason": "오늘 헤드라인에 오른 기관"
+   }
+  ],
+  "rookie": {
+   "title": "신진상 시즌 개막 — 첫 수상자는 Hana Elhaddad·Okiki Akinfe",
+   "dek": "한 달 새 신진 대상 상 4개가 수상자를 냈다.",
+   "label": "Rookie Radar"
+  },
+  "gallery": {
+   "title": "갤러리들이 밀어주는 이름: John Akomfrah, Irving Penn",
+   "dek": "소속 작가의 미술관 전시·수상·언론 소개를 앞세운 발표가 잇따랐다.",
+   "label": "Gallery Moves"
+  },
+  "hero": [
+   0,
+   1,
+   4,
+   5,
+   6,
+   7
+  ]
+ },
+ "early": [
+  {
+   "title": "Hyundai Commission: Tarek Atoui",
+   "venue": "Tate",
+   "city": "London",
+   "start": "2026-10-13",
+   "end": "2027-04-11",
+   "status": "개막 23일째",
+   "level": "체크",
+   "score": 3.5,
+   "reasons": [
+    "Tarek Atoui — 최근 석 달 5개 매체에 오른 이름",
+    "오늘 헤드라인에 오른 기관"
+   ],
+   "url": "https://www.tate.org.uk/whats-on/tate-modern/tarek-atoui",
+   "image": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Tate-HYUNDAI-2026_41.width-600.jpg",
+   "event_id": "evt_ee1d57edbcc8a0a9",
+   "artists": [
+    "Tarek Atoui"
+   ],
+   "press": [
+    {
+     "title": "런던의 프리즈, 테이트 모던의 타렉 아토이, 시에나 조각가 프란체스코 디 조르지오 – 포드 캐스트",
+     "url": "https://www.theartnewspaper.com/2026/10/16/frieze-london-tarek-atoui-tate-modern-sienese-sculptor-francesco-di-giorgio-podcast",
+     "outlet": "The Art Newspaper"
+    },
+    {
+     "title": "Hyundai Commission: Tarek Atoui: Hold",
+     "url": "https://www.tate.org.uk/press/press-releases/hyundai-commission-tarek-atoui-hold",
+     "outlet": "Tate"
+    },
+    {
+     "title": "'터빈 홀을 건강한 용기로 본다': Tate Modern위원회의 아티스트 Tarek Atoui",
+     "url": "https://www.theartnewspaper.com/2026/10/12/turbine-hall-sound-vessel-artist-tarek-atoui-on-his-tate-modern-commission",
+     "outlet": "The Art Newspaper"
+    }
+   ]
+  },
+  {
+   "title": "Lisson Artists in Venice 2026",
+   "venue": "Lisson Gallery",
+   "city": "Venice",
+   "start": "2026-05-09",
+   "end": "2026-11-22",
+   "status": "개막 180일째",
+   "level": "체크",
+   "score": 3.1,
+   "reasons": [
+    "Anish Kapoor — 최근 석 달 4개 매체에 오른 이름",
+    "오늘 헤드라인에 오른 기관"
+   ],
+   "url": "https://lisson.com/exhibitions/lisson-artists-in-venice-2026",
+   "image": "https://d7ra36y65tyn0.cloudfront.net/image/553853451406/image_d08pmkhrad4jp10c1e0v229b7q/-S3840x-FWEBP",
+   "event_id": "evt_9a7c3ff9aeba64b7",
+   "artists": [
+    "Anish Kapoor",
+    "Ceal Floyer",
+    "Dana Awartani"
+   ],
+   "press": []
+  },
+  {
+   "title": "ARTIST ROOMS: Gilbert & George",
+   "venue": "Tate",
+   "city": "Southport",
+   "start": "2026-11-07",
+   "end": "2027-02-20",
+   "status": "개막 D-3",
+   "level": "체크",
+   "score": 3.0,
+   "reasons": [
+    "오늘 헤드라인에 오른 기관",
+    "11월 7일 개막 — 첫 주에 가면 붐비기 전",
+    "미술관이 막 연 작가전 — 보도가 붙기 전"
+   ],
+   "url": "https://www.tate.org.uk/whats-on/atkinson-southport/gilbert--george",
+   "image": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-600_4YjZXFE.jpg",
+   "event_id": "evt_48c172ae724ddb1f",
+   "artists": [
+    "Gilbert & George"
+   ],
+   "press": []
+  },
+  {
+   "title": "Ana Mendieta",
+   "venue": "Tate",
+   "city": "London",
+   "start": "2026-07-14",
+   "end": "2027-01-17",
+   "status": "개막 114일째",
+   "level": "체크",
+   "score": 2.7,
+   "reasons": [
+    "이번 주 보도가 나오기 시작했다",
+    "오늘 헤드라인에 오른 기관"
+   ],
+   "url": "https://www.tate.org.uk/whats-on/tate-modern/ana-mendieta",
+   "image": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Ana_Mendieta_lead_img.width-600.jpg",
+   "event_id": "evt_0890457e14fc3c6d",
+   "artists": [],
+   "press": [
+    {
+     "title": "Ana Mendieta's Lasting Imprint on Art",
+     "url": "https://hyperallergic.com/ana-mendietas-lasting-imprint-on-art/",
+     "outlet": "Hyperallergic"
+    },
+    {
+     "title": "One Fine Show: 런던의 테이트 모던 (Tate Modern)에서 \"애나 멘디에타 (Ana Mendieta)\"",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBXckhhQkZKVkRPNm01SUwxWmdWYV9NcGwzWi1sbllJN0hEUVBScDFqSHpkUlkwMkF5eUtnTDUxR1NTUnF1dHZ4UTZhaXp0NkNvWndnV3VzbDdoRTZmTXJWejhFOUxhOWxEakpHbTNEc3hLdVYtOFZRSUp5bw?oc=5",
+     "outlet": "Observer"
+    },
+    {
+     "title": "Shoptalk: Ana Mendieta, 그녀의 'Art Daughters'를 멘토링하는 딜러 Mary Sabbatino",
+     "url": "https://news.artnet.com/market/mary-sabbatino-galerie-lelong-shoptalk-2794561",
+     "outlet": "Artnet News"
+    }
+   ]
+  },
+  {
+   "title": "Gallerie dell’Accademia, Venice, Italy",
+   "venue": "Lisson Gallery",
+   "city": "Venice",
+   "start": "2026-09-10",
+   "end": "2026-11-22",
+   "status": "개막 56일째",
+   "level": "체크",
+   "score": 2.7,
+   "reasons": [
+    "Leiko Ikemura — 최근 석 달 3개 매체에 오른 이름",
+    "오늘 헤드라인에 오른 기관"
+   ],
+   "url": "https://lisson.com/exhibitions/leiko-ikemura-translucent-la-forma-della-luce-2026",
+   "image": "https://lisson.com/_next/image?url=https%3A%2F%2Flisson-art.s3.amazonaws.com%2Fuploads%2Fattachment%2Fimage%2Fbody%2F24055%2FLA.jpg&w=3840&q=75",
+   "event_id": "evt_e335974e38f651f8",
+   "artists": [
+    "Leiko Ikemura"
+   ],
+   "press": []
+  }
+ ],
+ "official": [
+  {
+   "title": "Institutional Centre Pompidou, M+, and MoMA Announce Unprecedented Cultural Alliance",
+   "title_ko": null,
+   "url": "https://www.centrepompidou.fr/en/offre-aux-professionnels/espace-presse/cultural-alliance",
+   "date": "2026-10-30",
+   "org": "Centre Pompidou",
+   "weight": 2
+  },
+  {
+   "title": "Ferdinand Vaandrager joins the Supervisory Board of the Rijksakademie",
+   "title_ko": null,
+   "url": "https://rijksakademie.nl/en/news/2026-10-28-ferdinand-vaandrager-joins-the-supervisory-board-of-the-rijksakademie",
+   "date": "2026-10-28",
+   "org": "Rijksakademie",
+   "weight": 2
+  },
+  {
+   "title": "Unique collection of historic Anglo-Indian artworks gifted to Tate by Charles Greig",
+   "title_ko": null,
+   "url": "https://www.tate.org.uk/press/press-releases/tate-acquires-new-works-for-the-unique-collection-of-historic-anglo-indian-artworks-gifted-to-tate-by-charles-greig",
+   "date": "2026-10-26",
+   "org": "Tate",
+   "weight": 2
+  },
+  {
+   "title": "Hedwig Fijen steps down as Director of Manifesta …",
+   "title_ko": null,
+   "url": "https://manifesta.org/news/hedwig-fijen-steps-down-as-director-of-manifesta-after-years",
+   "date": "2026-10-26",
+   "org": "International Foundation Manifesta",
+   "weight": 2
+  },
+  {
+   "title": "Prize Brognon Rollin",
+   "title_ko": null,
+   "url": "https://www.centrepompidou.fr/en/offer-to-professionals/press-area/brognon-rollin",
+   "date": "2026-10-22",
+   "org": "Centre Pompidou",
+   "weight": 2
+  },
+  {
+   "title": "La veglia dell’Acqua Granda 1966-2066",
+   "title_ko": null,
+   "url": "https://www.labiennale.org/it/news/la-veglia-dell%E2%80%99acqua-granda-1966-2066",
+   "date": "2026-11-03",
+   "org": "La Biennale di Venezia",
+   "weight": 1
+  },
+  {
+   "title": "Visite des ateliers de Mathilde Denize et Yann Lacroix",
+   "title_ko": null,
+   "url": "https://www.adiaf.com/visite-des-ateliers-de-mathilde-denize-et-yann-lacroix/",
+   "date": "2026-11-03",
+   "org": "ADIAF",
+   "weight": 1
+  },
+  {
+   "title": "Visite d’atelier de Gabriel Moraes Aquino",
+   "title_ko": null,
+   "url": "https://www.adiaf.com/visite-datelier-de-gabriel-moraes-aquino/",
+   "date": "2026-11-03",
+   "org": "ADIAF",
+   "weight": 1
+  },
+  {
+   "title": "La colonna e il fondamento della verità di Pavel A. Florenskij",
+   "title_ko": null,
+   "url": "https://www.labiennale.org/it/news/la-colonna-e-il-fondamento-della-verit%C3%A0-di-pavel-florenskij",
+   "date": "2026-11-02",
+   "org": "La Biennale di Venezia",
+   "weight": 1
+  },
+  {
+   "title": "Parole L'Inventaire Foucault 2 novembre 2026",
+   "title_ko": null,
+   "url": "https://www.centrepompidou.fr/en/offre-aux-professionnels/espace-presse/linventaire-foucault",
+   "date": "2026-11-02",
+   "org": "Centre Pompidou",
+   "weight": 1
+  },
+  {
+   "title": "Visite de l’exposition “Ce qui reste – Lionel Sabatté” en sa présence",
+   "title_ko": null,
+   "url": "https://www.adiaf.com/visite-de-lexposition-ce-qui-reste-lionel-sabatte-en-sa-presence/",
+   "date": "2026-11-02",
+   "org": "ADIAF",
+   "weight": 1
+  },
+  {
+   "title": "Week of Bequests to Culture Week van Nalaten aan Cultuur",
+   "title_ko": null,
+   "url": "https://rijksakademie.nl/en/news/2026-11-02-week-of-bequests-to-culture",
+   "date": "2026-11-02",
+   "org": "Rijksakademie",
+   "weight": 1
+  },
+  {
+   "title": "Preview Prélude! 3 weekends of discovery 17 – 18 oct. 24 – 25 oct. 31 oct. – 1 nov. 2026 Centre Pompidou Francilien - fabrique de l'Art",
+   "title_ko": null,
+   "url": "https://www.centrepompidou.fr/en/offre-aux-professionnels/espace-presse/prelude-3-week-ends-de-decouverte",
+   "date": "2026-11-01",
+   "org": "Centre Pompidou",
+   "weight": 1
+  },
+  {
+   "title": "Paloma Varga Weisz in ROHKUNSTBAU 31 – die Kunst des Überschreitens",
+   "title_ko": null,
+   "url": "https://www.sadiecoles.com/news/paloma-varga-weisz-in-rohkunstbau-31-die-kunst-des-überschreitens",
+   "date": "2026-11-01",
+   "org": "Sadie Coles HQ",
+   "weight": 1
+  }
+ ],
+ "briefing": {
+  "editor": null,
+  "insights": [
+   "MAXXI BVLGARI PRIZE 수상작, MAXXI에 걸린다 — 11월 6일 → 11월 6일–2027년 3월 7일.",
+   "Irving Penn, 전시장과 뉴스에 동시 등장 → 화제의 기사: ‘Remember Me.",
+   "갤러리들이 밀어주는 이름: John Akomfrah, Irving Penn → 소속 작가의 미술관 전시·수상·언론 소개를 앞세운 발표가 잇따랐다.",
+   "신진상 시즌 개막 — 첫 수상자는 Hana Elhaddad·Okiki Akinfe → 한 달 새 신진 대상 상 4개가 수상자를 냈다."
+  ],
+  "major": [
+   {
+    "rank": 1,
+    "headline": "퐁피두센터, 프랑스 역사기념물 등재 확정",
+    "brief": "퐁피두센터 건물이 프랑스 역사기념물로 등재 확정 — 리노베이션 중 보존 지위 확정.",
+    "summary": "프랑스 문화부가 10월 28일 파리 퐁피두센터 건물을 역사기념물(monuments historiques)로 등재했다고 확인했다. 보자르 매거진은 '반(反)기념비'로 불린 건물이 받은 이례적 인정이라고 평했다.",
+    "lead": "퐁피두센터 건물이 프랑스 역사기념물로 등재 확정 — 리노베이션 중 보존 지위 확정.",
+    "why": [
+     "국가(문화부) 결정 — 제도적 지위 변화",
+     "유럽 최대 현대미술관 중 하나의 건물 보존 조건이 바뀜"
+    ],
+    "so_what": "큰 사건은 아니지만 이번 주 흐름을 보여 주는 소식이다.",
+    "related": [
+     "Centre Pompidou"
+    ],
+    "topic": "그 밖의 소식",
+    "date": "2026-10-29",
+    "criteria": [
+     {
+      "label": "공공·국가 주체",
+      "evidence": "…tre Pompidou inscrit aux monuments historiques : la reconnaissance exce…"
+     },
+     {
+      "label": "ARTREND 관찰 대상",
+      "evidence": "Centre Pompidou"
+     }
+    ],
+    "importance": 3,
+    "sources": [
+     {
+      "title": "Le Centre Pompidou inscrit aux monuments historiques : la reconnaissance exceptionnelle d’un « anti-monument »",
+      "url": "https://www.beauxarts.com/grand-format/le-centre-pompidou-inscrit-aux-monuments-historiques-la-reconnaissance-exceptionnelle-dun-anti-monument/",
+      "outlet": "Beaux Arts & Cie",
+      "date": "2026-10-29"
+     }
+    ],
+    "n_sources": 1
+   },
+   {
+    "rank": 4,
+    "headline": "도쿠멘타 16, 큐레이터팀 4명 추가 — 개막 8개월 앞",
+    "brief": "도쿠멘타 16이 큐레이터 4명을 추가 — 개막 8개월 전 팀 확대.",
+    "summary": "2027년 6월 12일 카셀에서 열릴 도쿠멘타 16이 작가·음악가 레이븐 차콘을 큐레이터 앳 라지로, 오세이 본수·티메아 융하우스·노암 세갈을 큐레이토리얼 어드바이저로 임명했다. 예술감독 나오미 벡위드와 기존 팀(카를라 아세베도-야테스 등 4명)에 합류한다. 도쿠멘타가 이스라엘 비판을 포함하는 반유대주의 정의를 채택한 뒤 일부 작가가 참여를 거절했다는 보도가 이어지고 있다.",
+    "lead": "도쿠멘타 16이 큐레이터 4명을 추가 — 개막 8개월 전 팀 확대.",
+    "why": [
+     "세계 주요 정기 전시의 기획 조직 변화",
+     "표현의 자유 논쟁이 진행 중인 행사 — 참여 거절 등 후속 사건 가능성"
+    ],
+    "so_what": "큰 사건은 아니지만 이번 주 흐름을 보여 주는 소식이다.",
+    "related": [
+     "documenta",
+     "Naomi Beckwith",
+     "Raven Chacon"
+    ],
+    "topic": "그 밖의 소식",
+    "date": "2026-10-29",
+    "criteria": [
+     {
+      "label": "제도·조직 변화",
+      "evidence": "…undup of must-know news, appointments, awards, and other…"
+     },
+     {
+      "label": "공식 선정·수상",
+      "evidence": "…know news, appointments, awards, and other happenings i…"
+     },
+     {
+      "label": "ARTREND 관찰 대상",
+      "evidence": "Documenta"
+     }
+    ],
+    "importance": 4,
+    "sources": [
+     {
+      "title": "Documenta 16 Names Four New Curatorial Team Members",
+      "url": "https://hyperallergic.com/documenta-16-names-four-new-curatorial-team-members/",
+      "outlet": "Hyperallergic",
+      "date": "2026-10-29"
+     }
+    ],
+    "n_sources": 1
+   }
+  ],
+  "judged_by": "auto"
+ },
+ "artists": [
+  {
+   "entity_id": "ent_9a27a9d2ee6db21c",
+   "name": "Irving Penn",
+   "press": 2,
+   "shows": 1,
+   "story_url": "https://ropac.net/news/3213-remember-me-an-ebullient-photography-extravaganza-at-featuring-irving-penn/",
+   "cats": [
+    "전시 중"
+   ]
+  },
+  {
+   "entity_id": "ent_9ae5e6aee7c295ad",
+   "name": "Anselm Kiefer",
+   "press": 1,
+   "shows": 1,
+   "story_url": "https://ropac.net/news/3207-anselm-kiefer-into-the-golden-crucible/",
+   "cats": [
+    "전시 중"
+   ]
+  },
+  {
+   "entity_id": "ent_4c4978ba3b0f0f44",
+   "name": "Mathilde Denize",
+   "press": 1,
+   "shows": 1,
+   "story_url": "https://www.adiaf.com/visite-des-ateliers-de-mathilde-denize-et-yann-lacroix/",
+   "cats": [
+    "전시 중"
+   ]
+  },
+  {
+   "entity_id": "ent_9801bdfc4589e669",
+   "name": "Martine Syms",
+   "press": 1,
+   "shows": 1,
+   "story_url": "https://www.sadiecoles.com/news/alex-da-corte-and-martine-syms-in-character-development",
+   "cats": [
+    "전시 중"
+   ]
+  },
+  {
+   "entity_id": "ent_3426562c2ff764c1",
+   "name": "Ryan Gander",
+   "press": 1,
+   "shows": 1,
+   "story_url": "https://lisson.com/news/opening-in-november-ryan-gander-s-maybe-at-towner-eastbourne",
+   "cats": [
+    "전시 중"
+   ]
+  },
+  {
+   "entity_id": "ent_49b2125f803df17d",
+   "name": "Alvaro Barrington",
+   "press": 2,
+   "shows": 0,
+   "story_url": "https://www.sadiecoles.com/news/alvaro-barrington",
+   "cats": [
+    "뉴스"
+   ]
+  },
+  {
+   "entity_id": null,
+   "name": "Gilbert & George",
+   "press": 0,
+   "shows": 1,
+   "story_url": "https://www.tate.org.uk/whats-on/atkinson-southport/gilbert--george",
+   "cats": [
+    "개인전"
+   ],
+   "where": "Tate"
+  },
+  {
+   "entity_id": null,
+   "name": "Vanessa Bell & Duncan Grant",
+   "press": 0,
+   "shows": 1,
+   "story_url": "https://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant",
+   "cats": [
+    "개인전"
+   ],
+   "where": "Tate"
+  },
+  {
+   "entity_id": null,
+   "name": "Dana Awartani",
+   "press": 0,
+   "shows": 1,
+   "story_url": "https://lisson.com/exhibitions/museum-folkwang-essen-germany",
+   "cats": [
+    "개인전"
+   ],
+   "where": "Lisson Gallery"
+  }
+ ],
+ "stories": [
+  {
+   "title": "Le président du Mucem Pierre-Olivier Costa retrouve ses fonctions après quatre mois de suspension ; les salariés déposent un préavis de grève",
+   "title_ko": "Mucem Pierre-Olivier Costa의 대통령은 4개월의 중단 후 취임했다; 직원 파일 스트라이크 통지",
+   "url": "https://www.beauxarts.com/grand-format/le-president-du-mucem-pierre-olivier-costa-retrouve-ses-fonctions-apres-quatre-mois-de-suspension-les-salaries-deposent-un-preavis-de-greve/",
+   "outlet": "Beaux Arts",
+   "date": "2026-11-02",
+   "n_outlets": 1,
+   "outlets": [
+    "Beaux Arts"
+   ],
+   "sources": [
+    {
+     "outlet": "Beaux Arts",
+     "url": "https://www.beauxarts.com/grand-format/le-president-du-mucem-pierre-olivier-costa-retrouve-ses-fonctions-apres-quatre-mois-de-suspension-les-salaries-deposent-un-preavis-de-greve/",
+     "date": "2026-11-02",
+     "title": "Le président du Mucem Pierre-Olivier Costa retrouve ses fonctions après quatre mois de suspension ; les salariés déposent un préavis de grève"
+    }
+   ],
+   "topic": "전시·프로그램",
+   "score": 6.0,
+   "short": true,
+   "judged_by": "auto",
+   "summary": "Mucem Pierre-Olivier Costa의 대통령은 4개월의 중단 후 취임했다; 직원 파일 스트라이크 통지 (제목 기준·자동번역)",
+   "why": [],
+   "so_what": "사람·제도가 바뀌면 그 기관의 다음 전시와 소장 방향도 바뀐다.",
+   "level": "짧은 소식",
+   "points": 2,
+   "lead": "사람·제도가 바뀌면 그 기관의 다음 전시와 소장 방향도 바뀐다.",
+   "bullets": [
+    "→ 사람·제도가 바뀌면 그 기관의 다음 전시와 소장 방향도 바뀐다."
+   ],
+   "tags": [
+    "제도·인사"
+   ],
+   "rank": 1
+  },
+  {
+   "title": "Featured in the Financial Times 3 November 2026 Remember Me — an ebullient photography extravaganza at Paris’s Bourse de Commerce Featuring Irving Penn Jackie Wullschläger reviews the survey of Irving Penn's photographs at the Bourse de Commerce, Paris.",
+   "title_ko": "2026년 11월 3일 파이낸셜 타임즈에 소개됨 Remember Me — 파리의 Bourse de Commerce에서의 화려한 사진 촬영 Irving Penn Jackie Wullschläger가 파리의 Bourse de Commerce에서 Irving Penn의 사진에 대한 설문 조사를 검토한다.",
+   "url": "https://ropac.net/news/3213-remember-me-an-ebullient-photography-extravaganza-at-featuring-irving-penn/",
+   "outlet": "Thaddaeus Ropac",
+   "date": "2026-11-03",
+   "n_outlets": 1,
+   "outlets": [
+    "Thaddaeus Ropac"
+   ],
+   "sources": [
+    {
+     "outlet": "Thaddaeus Ropac",
+     "url": "https://ropac.net/news/3213-remember-me-an-ebullient-photography-extravaganza-at-featuring-irving-penn/",
+     "date": "2026-11-03",
+     "title": "Featured in the Financial Times 3 November 2026 Remember Me — an ebullient photography extravaganza at Paris’s Bourse de Commerce Featuring Irving Penn Jackie Wullschläger reviews the survey of Irving Penn's photographs at the Bourse de Commerce, Paris."
+    }
+   ],
+   "topic": "비평·리뷰",
+   "score": 5.5,
+   "short": true,
+   "judged_by": "auto",
+   "summary": "2026년 11월 3일 파이낸셜 타임즈에 소개됨 Remember Me — 파리의 Bourse de Commerce에서의 화려한 사진 촬영 Irving Penn Jackie Wullschläger가 파리의 Bourse de Commerce에서 Irving Penn의 사진에 대한 설문 조사를 검토한다. (제목 기준·자동번역)",
+   "why": [],
+   "so_what": "사건이 아니라 해석을 담은 글 — 같은 전시의 다른 리뷰와 함께 읽으면 관점이 보인다.",
+   "level": "짧은 소식",
+   "points": 1,
+   "lead": "사건이 아니라 해석을 담은 글 — 같은 전시의 다른 리뷰와 함께 읽으면 관점이 보인다.",
+   "bullets": [
+    "→ 사건이 아니라 해석을 담은 글. 같은 전시의 다른 리뷰와 함께 읽으면 관점이 보인다."
+   ],
+   "tags": [],
+   "rank": 2
+  },
+  {
+   "title": "Visite des ateliers de Mathilde Denize et Yann Lacroix",
+   "title_ko": null,
+   "url": "https://www.adiaf.com/visite-des-ateliers-de-mathilde-denize-et-yann-lacroix/",
+   "outlet": "ADIAF",
+   "date": "2026-11-03",
+   "n_outlets": 1,
+   "outlets": [
+    "ADIAF"
+   ],
+   "sources": [
+    {
+     "outlet": "ADIAF",
+     "url": "https://www.adiaf.com/visite-des-ateliers-de-mathilde-denize-et-yann-lacroix/",
+     "date": "2026-11-03",
+     "title": "Visite des ateliers de Mathilde Denize et Yann Lacroix"
+    }
+   ],
+   "topic": "그 밖의 소식",
+   "score": 5.5,
+   "short": true,
+   "judged_by": "auto",
+   "summary": "Nous vous proposons de visiter les ateliers des artistes Mathilde Denize et Yann Lacroix en leur présence.",
+   "why": [],
+   "so_what": "큰 사건은 아니지만 이번 주 흐름을 보여 주는 소식이다.",
+   "level": "짧은 소식",
+   "points": 1,
+   "lead": "Nous vous proposons de visiter les ateliers des artistes Mathilde Denize et Yann Lacroix en leur présence.",
+   "bullets": [
+    "Nous vous proposons de visiter les ateliers des artistes Mathilde Denize et Yann Lacroix en leur présence."
+   ],
+   "tags": [],
+   "rank": 3
+  },
+  {
+   "title": "News Sir John Akomfrah Featured in the 2026 Wuhan Biennale",
+   "title_ko": null,
+   "url": "https://lisson.com/news/sir-john-akomfrah-featured-in-the-2026-wuhan-biennale",
+   "outlet": "Lisson Gallery",
+   "date": "2026-11-03",
+   "n_outlets": 1,
+   "outlets": [
+    "Lisson Gallery"
+   ],
+   "sources": [
+    {
+     "outlet": "Lisson Gallery",
+     "url": "https://lisson.com/news/sir-john-akomfrah-featured-in-the-2026-wuhan-biennale",
+     "date": "2026-11-03",
+     "title": "News Sir John Akomfrah Featured in the 2026 Wuhan Biennale"
+    }
+   ],
+   "topic": "전시·프로그램",
+   "score": 5.5,
+   "short": true,
+   "judged_by": "auto",
+   "summary": null,
+   "why": [],
+   "so_what": "지금 가 볼 수 있는 전시다.",
+   "level": "짧은 소식",
+   "points": 1,
+   "lead": "지금 가 볼 수 있는 전시다.",
+   "bullets": [
+    "→ 지금 가 볼 수 있는 전시다."
+   ],
+   "tags": [],
+   "rank": 4
+  },
+  {
+   "title": "Preview Prélude! 3 weekends of discovery 17 – 18 oct. 24 – 25 oct. 31 oct. – 1 nov. 2026 Centre Pompidou Francilien - fabrique de l'Art",
+   "title_ko": null,
+   "url": "https://www.centrepompidou.fr/en/offre-aux-professionnels/espace-presse/prelude-3-week-ends-de-decouverte",
+   "outlet": "Centre Pompidou",
+   "date": "2026-11-01",
+   "n_outlets": 1,
+   "outlets": [
+    "Centre Pompidou"
+   ],
+   "sources": [
+    {
+     "outlet": "Centre Pompidou",
+     "url": "https://www.centrepompidou.fr/en/offre-aux-professionnels/espace-presse/prelude-3-week-ends-de-decouverte",
+     "date": "2026-11-01",
+     "title": "Preview Prélude! 3 weekends of discovery 17 – 18 oct. 24 – 25 oct. 31 oct. – 1 nov. 2026 Centre Pompidou Francilien - fabrique de l'Art"
+    }
+   ],
+   "topic": "비평·리뷰",
+   "score": 4.0,
+   "short": true,
+   "judged_by": "auto",
+   "summary": null,
+   "why": [],
+   "so_what": "사건이 아니라 해석을 담은 글 — 같은 전시의 다른 리뷰와 함께 읽으면 관점이 보인다.",
+   "level": "짧은 소식",
+   "points": 1,
+   "lead": "사건이 아니라 해석을 담은 글 — 같은 전시의 다른 리뷰와 함께 읽으면 관점이 보인다.",
+   "bullets": [
+    "→ 사건이 아니라 해석을 담은 글. 같은 전시의 다른 리뷰와 함께 읽으면 관점이 보인다."
+   ],
+   "tags": [],
+   "rank": 5
+  },
+  {
+   "title": "The Indian Pavilion in Venice Asks: What Is Home?",
+   "title_ko": null,
+   "url": "https://hyperallergic.com/the-indian-pavilion-in-venice-asks-what-is-home/",
+   "outlet": "Hyperallergic",
+   "date": "2026-11-03",
+   "n_outlets": 1,
+   "outlets": [
+    "Hyperallergic"
+   ],
+   "sources": [
+    {
+     "outlet": "Hyperallergic",
+     "url": "https://hyperallergic.com/the-indian-pavilion-in-venice-asks-what-is-home/",
+     "date": "2026-11-03",
+     "title": "The Indian Pavilion in Venice Asks: What Is Home?"
+    }
+   ],
+   "topic": "전시·프로그램",
+   "score": 3.5,
+   "short": true,
+   "judged_by": "auto",
+   "summary": null,
+   "why": [],
+   "so_what": "지금 가 볼 수 있는 전시다.",
+   "level": "짧은 소식",
+   "points": 0,
+   "lead": "지금 가 볼 수 있는 전시다.",
+   "bullets": [
+    "→ 지금 가 볼 수 있는 전시다."
+   ],
+   "tags": [],
+   "rank": 6
+  },
+  {
+   "title": "À Paris, une exposition raconte l’une des plus belles histoires d’amitié de l’art entre Louis Aragon et Alékos Fassianós",
+   "title_ko": "파리에서는 루이 아라곤 (Louis Aragon)과 알레코스 파시아노 (Alékos Fassianós) 사이의 예술 우정에 관한 가장 아름다운 이야기 중 하나를 전시한다",
+   "url": "https://www.beauxarts.com/expos/a-paris-une-exposition-raconte-lune-des-plus-belles-histoires-damitie-de-lart-entre-louis-aragon-et-alekos-fassianos/",
+   "outlet": "Beaux Arts",
+   "date": "2026-11-03",
+   "n_outlets": 1,
+   "outlets": [
+    "Beaux Arts"
+   ],
+   "sources": [
+    {
+     "outlet": "Beaux Arts",
+     "url": "https://www.beauxarts.com/expos/a-paris-une-exposition-raconte-lune-des-plus-belles-histoires-damitie-de-lart-entre-louis-aragon-et-alekos-fassianos/",
+     "date": "2026-11-03",
+     "title": "À Paris, une exposition raconte l’une des plus belles histoires d’amitié de l’art entre Louis Aragon et Alékos Fassianós"
+    }
+   ],
+   "topic": "전시·프로그램",
+   "score": 3.5,
+   "short": true,
+   "judged_by": "auto",
+   "summary": "파리에서는 루이 아라곤 (Louis Aragon)과 알레코스 파시아노 (Alékos Fassianós) 사이의 예술 우정에 관한 가장 아름다운 이야기 중 하나를 전시한다 (제목 기준·자동번역)",
+   "why": [],
+   "so_what": "지금 가 볼 수 있는 전시다.",
+   "level": "짧은 소식",
+   "points": 0,
+   "lead": "지금 가 볼 수 있는 전시다.",
+   "bullets": [
+    "→ 지금 가 볼 수 있는 전시다."
+   ],
+   "tags": [],
+   "rank": 7
+  },
+  {
+   "title": "Pourquoi mange-t-on des images depuis l’Antiquité ? Réponse dans une expo fascinante au Mucem",
+   "title_ko": "고대부터 이미지를 먹는 이유는 무엇입니까? Mucem의 매혹적인 전시회에서 답변",
+   "url": "https://www.beauxarts.com/expos/pourquoi-mange-t-on-des-images-depuis-lantiquite-reponse-dans-une-expo-fascinante-au-mucem/",
+   "outlet": "Beaux Arts",
+   "date": "2026-11-03",
+   "n_outlets": 1,
+   "outlets": [
+    "Beaux Arts"
+   ],
+   "sources": [
+    {
+     "outlet": "Beaux Arts",
+     "url": "https://www.beauxarts.com/expos/pourquoi-mange-t-on-des-images-depuis-lantiquite-reponse-dans-une-expo-fascinante-au-mucem/",
+     "date": "2026-11-03",
+     "title": "Pourquoi mange-t-on des images depuis l’Antiquité ? Réponse dans une expo fascinante au Mucem"
+    }
+   ],
+   "topic": "전시·프로그램",
+   "score": 3.5,
+   "short": true,
+   "judged_by": "auto",
+   "summary": "고대부터 이미지를 먹는 이유는 무엇입니까? Mucem의 매혹적인 전시회에서 답변 (제목 기준·자동번역)",
+   "why": [],
+   "so_what": "지금 가 볼 수 있는 전시다.",
+   "level": "짧은 소식",
+   "points": 0,
+   "lead": "지금 가 볼 수 있는 전시다.",
+   "bullets": [
+    "→ 지금 가 볼 수 있는 전시다."
+   ],
+   "tags": [],
+   "rank": 8
+  },
+  {
+   "title": "Un tableau volé en 1940 au musée d’Orléans retrouvé grâce à l’opération « Wanted »",
+   "title_ko": "1940년 오를레앙 박물관에서 도난당한 그림은 Operation Wanted 덕분에 발견되었다",
+   "url": "https://www.beauxarts.com/grand-format/un-tableau-vole-en-1940-au-musee-dorleans-retrouve-grace-a-loperation-wanted/",
+   "outlet": "Beaux Arts",
+   "date": "2026-11-03",
+   "n_outlets": 1,
+   "outlets": [
+    "Beaux Arts"
+   ],
+   "sources": [
+    {
+     "outlet": "Beaux Arts",
+     "url": "https://www.beauxarts.com/grand-format/un-tableau-vole-en-1940-au-musee-dorleans-retrouve-grace-a-loperation-wanted/",
+     "date": "2026-11-03",
+     "title": "Un tableau volé en 1940 au musée d’Orléans retrouvé grâce à l’opération « Wanted »"
+    }
+   ],
+   "topic": "전시·프로그램",
+   "score": 3.5,
+   "short": true,
+   "judged_by": "auto",
+   "summary": "1940년 오를레앙 박물관에서 도난당한 그림은 Operation Wanted 덕분에 발견되었다 (제목 기준·자동번역)",
+   "why": [],
+   "so_what": "지금 가 볼 수 있는 전시다.",
+   "level": "짧은 소식",
+   "points": 0,
+   "lead": "지금 가 볼 수 있는 전시다.",
+   "bullets": [
+    "→ 지금 가 볼 수 있는 전시다."
+   ],
+   "tags": [],
+   "rank": 9
+  },
+  {
+   "title": "Innovativstes Hochhaus steht in Brüssel",
+   "title_ko": null,
+   "url": "https://www.monopol-magazin.de/innovativstes-hochhaus-steht-bruessel",
+   "outlet": "Monopol",
+   "date": "2026-11-03",
+   "n_outlets": 1,
+   "outlets": [
+    "Monopol"
+   ],
+   "sources": [
+    {
+     "outlet": "Monopol",
+     "url": "https://www.monopol-magazin.de/innovativstes-hochhaus-steht-bruessel",
+     "date": "2026-11-03",
+     "title": "Innovativstes Hochhaus steht in Brüssel"
+    }
+   ],
+   "topic": "그 밖의 소식",
+   "score": 3.5,
+   "short": true,
+   "judged_by": "auto",
+   "summary": null,
+   "why": [],
+   "so_what": "큰 사건은 아니지만 이번 주 흐름을 보여 주는 소식이다.",
+   "level": "짧은 소식",
+   "points": 0,
+   "lead": "",
+   "bullets": [],
+   "tags": [],
+   "rank": 10
+  },
+  {
+   "title": "\"Die Bilder sind nicht schuld\"",
+   "title_ko": "\"사진은 비난할 대상이 아니다.\"",
+   "url": "https://www.monopol-magazin.de/medienschau-03112026",
+   "outlet": "Monopol",
+   "date": "2026-11-03",
+   "n_outlets": 1,
+   "outlets": [
+    "Monopol"
+   ],
+   "sources": [
+    {
+     "outlet": "Monopol",
+     "url": "https://www.monopol-magazin.de/medienschau-03112026",
+     "date": "2026-11-03",
+     "title": "\"Die Bilder sind nicht schuld\""
+    }
+   ],
+   "topic": "그 밖의 소식",
+   "score": 3.5,
+   "short": true,
+   "judged_by": "auto",
+   "summary": "\"사진은 비난할 대상이 아니다.\" (제목 기준·자동번역)",
+   "why": [],
+   "so_what": "큰 사건은 아니지만 이번 주 흐름을 보여 주는 소식이다.",
+   "level": "짧은 소식",
+   "points": 0,
+   "lead": "\"사진은 비난할 대상이 아니다.\" (제목 기준·자동번역)",
+   "bullets": [],
+   "tags": [],
+   "rank": 11
+  },
+  {
+   "title": "Au Jeu de Paume, les images stupéfiantes de Stan Douglas entre réalité et fiction",
+   "title_ko": "주 드 파우메(Jeu de Paume)에서 현실과 소설 사이의 스탠 더글러스의 놀라운 이미지",
+   "url": "https://www.beauxarts.com/expos/au-jeu-de-paume-les-images-stupefiantes-de-stan-douglas-entre-realite-et-fiction/",
+   "outlet": "Beaux Arts",
+   "date": "2026-11-03",
+   "n_outlets": 1,
+   "outlets": [
+    "Beaux Arts"
+   ],
+   "sources": [
+    {
+     "outlet": "Beaux Arts",
+     "url": "https://www.beauxarts.com/expos/au-jeu-de-paume-les-images-stupefiantes-de-stan-douglas-entre-realite-et-fiction/",
+     "date": "2026-11-03",
+     "title": "Au Jeu de Paume, les images stupéfiantes de Stan Douglas entre réalité et fiction"
+    }
+   ],
+   "topic": "그 밖의 소식",
+   "score": 3.5,
+   "short": true,
+   "judged_by": "auto",
+   "summary": "주 드 파우메(Jeu de Paume)에서 현실과 소설 사이의 스탠 더글러스의 놀라운 이미지 (제목 기준·자동번역)",
+   "why": [],
+   "so_what": "큰 사건은 아니지만 이번 주 흐름을 보여 주는 소식이다.",
+   "level": "짧은 소식",
+   "points": 0,
+   "lead": "주 드 파우메(Jeu de Paume)에서 현실과 소설 사이의 스탠 더글러스의 놀라운 이미지 (제목 기준·자동번역)",
+   "bullets": [],
+   "tags": [],
+   "rank": 12
+  },
+  {
+   "title": "Durch die Hintertür ins Jenseits",
+   "title_ko": "[중고] 삶의 뒷걸음질",
+   "url": "https://www.monopol-magazin.de/gonzalo-borondo-villa-stuck-muenchen",
+   "outlet": "Monopol",
+   "date": "2026-11-03",
+   "n_outlets": 1,
+   "outlets": [
+    "Monopol"
+   ],
+   "sources": [
+    {
+     "outlet": "Monopol",
+     "url": "https://www.monopol-magazin.de/gonzalo-borondo-villa-stuck-muenchen",
+     "date": "2026-11-03",
+     "title": "Durch die Hintertür ins Jenseits"
+    }
+   ],
+   "topic": "그 밖의 소식",
+   "score": 3.5,
+   "short": true,
+   "judged_by": "auto",
+   "summary": "[중고] 삶의 뒷걸음질 (제목 기준·자동번역)",
+   "why": [],
+   "so_what": "큰 사건은 아니지만 이번 주 흐름을 보여 주는 소식이다.",
+   "level": "짧은 소식",
+   "points": 0,
+   "lead": "[중고] 삶의 뒷걸음질 (제목 기준·자동번역)",
+   "bullets": [],
+   "tags": [],
+   "rank": 13
+  },
+  {
+   "title": "Zwei Künstler, ein Sehnsuchtsort",
+   "title_ko": null,
+   "url": "https://www.monopol-magazin.de/zwei-kuenstler-ein-sehnsuchtsort",
+   "outlet": "Monopol",
+   "date": "2026-11-03",
+   "n_outlets": 1,
+   "outlets": [
+    "Monopol"
+   ],
+   "sources": [
+    {
+     "outlet": "Monopol",
+     "url": "https://www.monopol-magazin.de/zwei-kuenstler-ein-sehnsuchtsort",
+     "date": "2026-11-03",
+     "title": "Zwei Künstler, ein Sehnsuchtsort"
+    }
+   ],
+   "topic": "수상·인물",
+   "score": 3.5,
+   "short": true,
+   "judged_by": "auto",
+   "summary": null,
+   "why": [],
+   "so_what": "이 이름이 다음 전시·수상으로 이어질지 주목.",
+   "level": "짧은 소식",
+   "points": 0,
+   "lead": "이 이름이 다음 전시·수상으로 이어질지 주목.",
+   "bullets": [
+    "→ 이 이름이 다음 전시·수상으로 이어질지 주목."
+   ],
+   "tags": [],
+   "rank": 14
+  },
+  {
+   "title": "Die Kamera als Komplizin",
+   "title_ko": null,
+   "url": "https://www.monopol-magazin.de/fluchtpunkt-paris-bonn",
+   "outlet": "Monopol",
+   "date": "2026-11-03",
+   "n_outlets": 1,
+   "outlets": [
+    "Monopol"
+   ],
+   "sources": [
+    {
+     "outlet": "Monopol",
+     "url": "https://www.monopol-magazin.de/fluchtpunkt-paris-bonn",
+     "date": "2026-11-03",
+     "title": "Die Kamera als Komplizin"
+    }
+   ],
+   "topic": "그 밖의 소식",
+   "score": 3.5,
+   "short": true,
+   "judged_by": "auto",
+   "summary": null,
+   "why": [],
+   "so_what": "큰 사건은 아니지만 이번 주 흐름을 보여 주는 소식이다.",
+   "level": "짧은 소식",
+   "points": 0,
+   "lead": "",
+   "bullets": [],
+   "tags": [],
+   "rank": 15
+  },
+  {
+   "title": "Au château de Chambord, des tables de fête invitent à un délicieux voyage dans le temps",
+   "title_ko": "샹 보르 성 (Chambord Castle)에서 파티 테이블은 시간을 통해 맛있는 여행에 당신을 초대한다",
+   "url": "https://www.beauxarts.com/expos/au-chateau-de-chambord-des-tables-de-fete-invitent-a-un-delicieux-voyage-dans-le-temps/",
+   "outlet": "Beaux Arts",
+   "date": "2026-11-03",
+   "n_outlets": 1,
+   "outlets": [
+    "Beaux Arts"
+   ],
+   "sources": [
+    {
+     "outlet": "Beaux Arts",
+     "url": "https://www.beauxarts.com/expos/au-chateau-de-chambord-des-tables-de-fete-invitent-a-un-delicieux-voyage-dans-le-temps/",
+     "date": "2026-11-03",
+     "title": "Au château de Chambord, des tables de fête invitent à un délicieux voyage dans le temps"
+    }
+   ],
+   "topic": "그 밖의 소식",
+   "score": 3.5,
+   "short": true,
+   "judged_by": "auto",
+   "summary": "샹 보르 성 (Chambord Castle)에서 파티 테이블은 시간을 통해 맛있는 여행에 당신을 초대한다 (제목 기준·자동번역)",
+   "why": [],
+   "so_what": "큰 사건은 아니지만 이번 주 흐름을 보여 주는 소식이다.",
+   "level": "짧은 소식",
+   "points": 0,
+   "lead": "샹 보르 성 (Chambord Castle)에서 파티 테이블은 시간을 통해 맛있는 여행에 당신을 초대한다 (제목 기준·자동번역)",
+   "bullets": [],
+   "tags": [],
+   "rank": 16
+  }
+ ],
+ "topics": [
+  {
+   "label": "그 밖의 소식",
+   "count": 59
+  },
+  {
+   "label": "전시·프로그램",
+   "count": 21
+  },
+  {
+   "label": "수상·인물",
+   "count": 10
+  },
+  {
+   "label": "비평·리뷰",
+   "count": 4
+  },
+  {
+   "label": "시장·경매·아트페어",
+   "count": 1
+  }
+ ],
+ "exhibitions": {
+  "open_count": 209,
+  "featured": [
+   {
+    "id": "evt_b6a72bb8e3edb691",
+    "title": "Irving Penn: L'Essence du portrait",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "Thaddaeus Ropac",
+    "city": "Paris Marais",
+    "country": "FR",
+    "start": "2026-11-07",
+    "end": "2027-01-30",
+    "artists": [
+     "Irving Penn"
+    ],
+    "url": "https://ropac.net/exhibitions/804-irving-penn-l-essence-du-portrait/",
+    "image": null,
+    "why": "작가가 이번 주 보도에도 함께 오르내린다"
+   },
+   {
+    "id": "evt_742e4c4472a0d126",
+    "title": "Towner Eastbourne, Eastbourne, UK",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "Lisson Gallery",
+    "city": null,
+    "country": "GB",
+    "start": "2026-11-14",
+    "end": "2027-04-11",
+    "artists": [
+     "Ryan Gander"
+    ],
+    "url": "https://lisson.com/exhibitions/towner-eastbourne-eastbourne-uk",
+    "image": "https://lisson.com/_next/image?url=https%3A%2F%2Flisson-art.s3.amazonaws.com%2Fuploads%2Fattachment%2Fimage%2Fbody%2F24055%2FLA.jpg&w=3840&q=75",
+    "why": "작가가 이번 주 보도에도 함께 오르내린다"
+   },
+   {
+    "id": "evt_74193c2e07900de5",
+    "title": "MAXXI BVLGARI PRIZE 2026",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "MAXXI Museo nazionale delle arti del XXI secolo",
+    "city": "Rome",
+    "country": "IT",
+    "start": "2026-11-06",
+    "end": "2027-03-07",
+    "artists": [],
+    "url": "https://www.maxxi.art/en/events/maxxi-bvlgari-prize-2026/",
+    "image": null,
+    "why": "수상·신진 작가의 후속 전시"
+   },
+   {
+    "id": "evt_48c172ae724ddb1f",
+    "title": "ARTIST ROOMS: Gilbert & George",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "Tate",
+    "city": "Southport",
+    "country": "GB",
+    "start": "2026-11-07",
+    "end": "2027-02-20",
+    "artists": [
+     "Gilbert & George"
+    ],
+    "url": "https://www.tate.org.uk/whats-on/atkinson-southport/gilbert--george",
+    "image": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-600_4YjZXFE.jpg",
+    "why": "미술관이 한 작가에게 내준 개인전"
+   },
+   {
+    "id": "evt_2a2167f7acdfd961",
+    "title": "Vanessa Bell & Duncan Grant: Inside Bloomsbury",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "Tate",
+    "city": "London",
+    "country": "GB",
+    "start": "2026-11-12",
+    "end": "2027-04-11",
+    "artists": [
+     "Vanessa Bell & Duncan Grant"
+    ],
+    "url": "https://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant",
+    "image": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Tate_Website_-_VBDG_2.width-600.jpg",
+    "why": "미술관이 한 작가에게 내준 개인전"
+   },
+   {
+    "id": "evt_394048fd097f094c",
+    "title": "Aurèlia Muñoz. Beings",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "MACBA Museu d'Art Contemporani de Barcelona",
+    "city": "Barcelona",
+    "country": "ES",
+    "start": "2026-11-05",
+    "end": "2027-05-02",
+    "artists": [],
+    "url": "https://www.macba.cat/en/exhibitions/aurelia-munoz-beings/",
+    "image": "https://img.macba.cat/wp-content/uploads/2025/10/Cometa-ocell-B2-foto-Josep-Gri-1.png",
+    "why": "미술관 기획전"
+   }
+  ],
+  "opened": [
+   {
+    "id": "evt_fecb6d8eeb9ae649",
+    "title": "Artissima 2026",
+    "kind": "fair",
+    "type": "fair_edition",
+    "venue": "Artissima",
+    "city": "Torino",
+    "country": "IT",
+    "start": "2026-10-30",
+    "end": "2026-11-01",
+    "artists": [
+     "1/9UNOSUNOVE",
+     "10 E ZERO UNO",
+     "1301PE",
+     "193 GALLERY",
+     "22,48 M2",
+     "418GALLERY"
+    ],
+    "url": "https://www.artissima.art/",
+    "image": null
+   },
+   {
+    "id": "evt_4abe0761ed943d4f",
+    "title": "seven lakes",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "Mendes Wood DM",
+    "city": "Brussels",
+    "country": "BE",
+    "start": "2026-10-30",
+    "end": "2027-01-09",
+    "artists": [],
+    "url": "https://mendeswooddm.com/exhibitions/424-seven-lakes-shota-nakamura/",
+    "image": "https://static-assets.artlogic.net/w_1200,c_limit,f_auto,fl_lossy,q_auto,dpr_auto/ws-mendeswood/usr/images/exhibitions/main_image_override/424/dsc00089.jpg"
+   }
+  ],
+  "upcoming": [
+   {
+    "id": "evt_0aa80369c9bbf510",
+    "title": "No Plan at All: Prints from BORCH Editions",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "David Zwirner",
+    "city": "London",
+    "country": "GB",
+    "start": "2026-11-05",
+    "end": "2026-12-19",
+    "artists": [],
+    "url": "https://www.davidzwirner.com/exhibitions/2026/no-plan-at-all-prints-from-borch-editions",
+    "image": null
+   },
+   {
+    "id": "evt_394048fd097f094c",
+    "title": "Aurèlia Muñoz. Beings",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "MACBA Museu d'Art Contemporani de Barcelona",
+    "city": "Barcelona",
+    "country": "ES",
+    "start": "2026-11-05",
+    "end": "2027-05-02",
+    "artists": [],
+    "url": "https://www.macba.cat/en/exhibitions/aurelia-munoz-beings/",
+    "image": "https://img.macba.cat/wp-content/uploads/2025/10/Cometa-ocell-B2-foto-Josep-Gri-1.png"
+   },
+   {
+    "id": "evt_6e4aaf6f684bc757",
+    "title": "Hyun-Sook Song",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "Sprüth Magers",
+    "city": "London",
+    "country": "GB",
+    "start": "2026-11-06",
+    "end": "2027-01-23",
+    "artists": [],
+    "url": "https://spruethmagers.com/exhibitions/hyun-sook-song-london/",
+    "image": null
+   },
+   {
+    "id": "evt_74193c2e07900de5",
+    "title": "MAXXI BVLGARI PRIZE 2026",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "MAXXI Museo nazionale delle arti del XXI secolo",
+    "city": "Rome",
+    "country": "IT",
+    "start": "2026-11-06",
+    "end": "2027-03-07",
+    "artists": [],
+    "url": "https://www.maxxi.art/en/events/maxxi-bvlgari-prize-2026/",
+    "image": null
+   },
+   {
+    "id": "evt_75ae2e7266e1d81b",
+    "title": "Elephant",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "Esther Schipper",
+    "city": "Berlin",
+    "country": "DE",
+    "start": "2026-11-06",
+    "end": "2026-12-19",
+    "artists": [],
+    "url": "https://www.estherschipper.com/exhibitions/1610-elephant-sara-cwynar/",
+    "image": null
+   },
+   {
+    "id": "evt_a431883abea334f9",
+    "title": "Make A Wish",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "Esther Schipper",
+    "city": "Berlin",
+    "country": "DE",
+    "start": "2026-11-06",
+    "end": "2026-12-19",
+    "artists": [],
+    "url": "https://www.estherschipper.com/exhibitions/1609-make-a-wish-jenny-brosinski/",
+    "image": null
+   },
+   {
+    "id": "evt_bf14d7a577d2b685",
+    "title": "Museum Folkwang, Essen, Germany",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "Lisson Gallery",
+    "city": null,
+    "country": "DE",
+    "start": "2026-11-06",
+    "end": "2027-02-21",
+    "artists": [
+     "Dana Awartani"
+    ],
+    "url": "https://lisson.com/exhibitions/museum-folkwang-essen-germany",
+    "image": "https://lisson.com/_next/image?url=https%3A%2F%2Flisson-art.s3.amazonaws.com%2Fuploads%2Fattachment%2Fimage%2Fbody%2F24055%2FLA.jpg&w=3840&q=75"
+   },
+   {
+    "id": "evt_48c172ae724ddb1f",
+    "title": "ARTIST ROOMS: Gilbert & George",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "Tate",
+    "city": "Southport",
+    "country": "GB",
+    "start": "2026-11-07",
+    "end": "2027-02-20",
+    "artists": [
+     "Gilbert & George"
+    ],
+    "url": "https://www.tate.org.uk/whats-on/atkinson-southport/gilbert--george",
+    "image": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-600_4YjZXFE.jpg"
+   },
+   {
+    "id": "evt_74d304446f79c097",
+    "title": "Aage Gaup",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "Moderna Museet",
+    "city": "Stockholm",
+    "country": "SE",
+    "start": "2026-11-07",
+    "end": "2027-01-24",
+    "artists": [],
+    "url": "https://www.modernamuseet.se/en/stockholm/exhibitions/aage-gaup/",
+    "image": "https://www.modernamuseet.se/app/uploads/2026/10/MM_Gaup_15_w-800x533.jpg"
+   },
+   {
+    "id": "evt_a5780f292358b624",
+    "title": "FEAR: Art in the Age of Anxiety",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "Thaddaeus Ropac",
+    "city": "Paris Pantin",
+    "country": "FR",
+    "start": "2026-11-07",
+    "end": "2027-02-06",
+    "artists": [
+     "FEAR"
+    ],
+    "url": "https://ropac.net/exhibitions/815-fear-art-in-the-age-of-anxiety/",
+    "image": null
+   },
+   {
+    "id": "evt_b6a72bb8e3edb691",
+    "title": "Irving Penn: L'Essence du portrait",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "Thaddaeus Ropac",
+    "city": "Paris Marais",
+    "country": "FR",
+    "start": "2026-11-07",
+    "end": "2027-01-30",
+    "artists": [
+     "Irving Penn"
+    ],
+    "url": "https://ropac.net/exhibitions/804-irving-penn-l-essence-du-portrait/",
+    "image": null
+   },
+   {
+    "id": "evt_2a2167f7acdfd961",
+    "title": "Vanessa Bell & Duncan Grant: Inside Bloomsbury",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "Tate",
+    "city": "London",
+    "country": "GB",
+    "start": "2026-11-12",
+    "end": "2027-04-11",
+    "artists": [
+     "Vanessa Bell & Duncan Grant"
+    ],
+    "url": "https://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant",
+    "image": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Tate_Website_-_VBDG_2.width-600.jpg"
+   }
+  ],
+  "closing": [
+   {
+    "id": "evt_5b77699cab911b64",
+    "title": "Martine Syms: Knot Eye",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "Sadie Coles HQ",
+    "city": "London",
+    "country": "GB",
+    "start": "2026-09-17",
+    "end": "2026-11-07",
+    "artists": [
+     "Martine Syms"
+    ],
+    "url": "https://www.sadiecoles.com/exhibitions/knot-eye",
+    "image": null
+   },
+   {
+    "id": "evt_eba9b64949826832",
+    "title": "Catherine Murphy: Recent Work",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "Sadie Coles HQ",
+    "city": "London",
+    "country": "GB",
+    "start": "2026-09-02",
+    "end": "2026-11-07",
+    "artists": [
+     "Catherine Murphy"
+    ],
+    "url": "https://www.sadiecoles.com/exhibitions/recent-work",
+    "image": null
+   },
+   {
+    "id": "evt_32fe3f177018e129",
+    "title": "Pulse, Pause, Repeat",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "Lisson Gallery",
+    "city": "London",
+    "country": "GB",
+    "start": "2026-09-24",
+    "end": "2026-11-07",
+    "artists": [
+     "Carmen Herrera"
+    ],
+    "url": "https://lisson.com/exhibitions/carmen-herrera-lisson-london",
+    "image": "https://d7ra36y65tyn0.cloudfront.net/image/553853451406/image_qan77nn1l90nf69f95qo52932o/-S3840x-FWEBP"
+   },
+   {
+    "id": "evt_5c0cb47bb9a897f0",
+    "title": "Ha Chong-Hyun",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "Lisson Gallery",
+    "city": "London",
+    "country": "GB",
+    "start": "2026-09-24",
+    "end": "2026-11-07",
+    "artists": [
+     "Ha Chong-Hyun"
+    ],
+    "url": "https://lisson.com/exhibitions/ha-chong-hyun",
+    "image": "https://d7ra36y65tyn0.cloudfront.net/image/553853451406/image_qan77nn1l90nf69f95qo52932o/-S3840x-FWEBP"
+   },
+   {
+    "id": "evt_4d1f1d6bc0c2257a",
+    "title": "WWF Italia",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "MAXXI Museo nazionale delle arti del XXI secolo",
+    "city": "Rome",
+    "country": "IT",
+    "start": "2026-10-09",
+    "end": "2026-11-08",
+    "artists": [],
+    "url": "https://www.maxxi.art/en/events/wwf-italia-rivoluzione-naturale/",
+    "image": null
+   },
+   {
+    "id": "evt_5279f308c101c8f9",
+    "title": "Art Now: Mohammed Z Rahman",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "Tate",
+    "city": "London",
+    "country": "GB",
+    "start": "2026-06-05",
+    "end": "2026-11-08",
+    "artists": [
+     "Mohammed Z Rahman"
+    ],
+    "url": "https://www.tate.org.uk/whats-on/tate-britain/art-now-mohammed-z-rahman",
+    "image": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-600_wpoIz50.jpg"
+   },
+   {
+    "id": "evt_e7b2063e8673b113",
+    "title": "This Must Be the Place: Artists for Whitechapel Gallery",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "Whitechapel Gallery",
+    "city": "London",
+    "country": "GB",
+    "start": "2026-10-08",
+    "end": "2026-11-08",
+    "artists": [],
+    "url": "https://www.whitechapelgallery.org/exhibitions/this-must-be-the-place-artists-for-whitechapel-gallery/",
+    "image": "https://www.whitechapelgallery.org/wp-content/uploads/2026/08/tmbtp-scent-570x428.png"
+   }
+  ],
+  "cities": [
+   {
+    "city": "Venice",
+    "count": 101
+   },
+   {
+    "city": "Paris",
+    "count": 33
+   },
+   {
+    "city": "London",
+    "count": 30
+   },
+   {
+    "city": "Stockholm",
+    "count": 8
+   },
+   {
+    "city": "Rome",
+    "count": 6
+   },
+   {
+    "city": "Berlin",
+    "count": 6
+   }
+  ]
+ },
+ "galleries": {
+  "openings": [
+   {
+    "id": "evt_4abe0761ed943d4f",
+    "title": "seven lakes",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "Mendes Wood DM",
+    "city": "Brussels",
+    "country": "BE",
+    "start": "2026-10-30",
+    "end": "2027-01-09",
+    "artists": [],
+    "url": "https://mendeswooddm.com/exhibitions/424-seven-lakes-shota-nakamura/",
+    "image": "https://static-assets.artlogic.net/w_1200,c_limit,f_auto,fl_lossy,q_auto,dpr_auto/ws-mendeswood/usr/images/exhibitions/main_image_override/424/dsc00089.jpg"
+   },
+   {
+    "id": "evt_4fa453210885d2be",
+    "title": "Théo Mercier Reiffers Initiatives, Paris",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "kamel mennour",
+    "city": "Paris",
+    "country": "FR",
+    "start": "2026-10-23",
+    "end": "2026-12-12",
+    "artists": [],
+    "url": "https://mennour.com/exhibition/reiffers-mentoship-théo-mercier-thomas-houseago",
+    "image": "https://mennour.com/_ipx/h_630&q_80/https://staging-admin.mennour.com/uploads/img/Sans-titre-2560-x-2880-px.jpg"
+   }
+  ],
+  "news": [
+   {
+    "title": "Kim Jiwon: Group Exhibition",
+    "url": "https://www.pkmgallery.com/news/kim-jiwon-group-exhibition6",
+    "date": "2026-11-01",
+    "source": "PKM Gallery"
+   },
+   {
+    "title": "Kohei Kobayashi｜Kohei Kobayashi x core of bells “Control Manual”",
+    "url": "https://anomalytokyo.com/en/news/kohei-kobayashi_control-manual/",
+    "date": "2026-10-30",
+    "source": "ANOMALY"
+   },
+   {
+    "title": "Yusuke Asak, Yayoi Deki, Daisuke Takahashi｜Artful Living from Ginza",
+    "url": "https://anomalytokyo.com/en/news/artful%e3%83%bcliving/",
+    "date": "2026-10-30",
+    "source": "ANOMALY"
+   },
+   {
+    "title": "He Xiangyu_TANK Shanghai",
+    "url": "https://www.scaithebathhouse.com/data/news/../../en/news/2026/10/he_xiangyu_tank_shanghai/",
+    "date": "2026-10-30",
+    "source": "SCAI THE BATHHOUSE"
+   },
+   {
+    "title": "Ushio Shinohara｜ART TAIPEI",
+    "url": "https://anomalytokyo.com/en/news/shinohara-art-taipei-2026/",
+    "date": "2026-10-29",
+    "source": "ANOMALY"
+   },
+   {
+    "title": "Leonor Antunes",
+    "url": "https://www.takaishiigallery.com/en/archives/32289/",
+    "date": "2026-10-29",
+    "source": "Taka Ishii Gallery"
+   },
+   {
+    "title": "Sir John Akomfrah Featured in the 2026 Wuhan Biennale",
+    "url": "https://lisson.com/news/sir-john-akomfrah-featured-in-the-2026-wuhan-biennale",
+    "date": "2026-11-03",
+    "source": "Lisson Gallery"
+   },
+   {
+    "title": "[the Financial Times] Remember Me — an ebullient photography extravaganza at Paris’s Bourse de Commerce Featuring Irving Penn Jackie Wullschläger reviews the survey of Irving Penn's photographs at the Bourse de Commerce, Paris.",
+    "url": "https://ropac.net/news/3213-remember-me-an-ebullient-photography-extravaganza-at-featuring-irving-penn/",
+    "date": "2026-11-03",
+    "source": "Thaddaeus Ropac"
+   }
+  ]
+ },
+ "rookie": {
+  "people": [
+   {
+    "name": "Ella Fleck",
+    "status": "지켜볼 신진",
+    "watch": true,
+    "award": "Camden Art Centre 신진작가상 2026(프리즈 런던)",
+    "track": "신진 대상 상",
+    "genre": null,
+    "why": "2026 수상.",
+    "weight": {
+     "points": 4,
+     "level": "보통",
+     "reasons": [
+      "주최 Camden Art Centre(공공재단) +2",
+      "전문가 심사·공모 절차 공개 +1",
+      "후속 전시 지원 +1"
+     ]
+    },
+    "checks": [
+     {
+      "rule": "R01 공식 선정",
+      "ok": true,
+      "detail": "Camden Art Centre 신진작가상 2026(프리즈 런던) — 보도 1곳"
+     },
+     {
+      "rule": "R02 초기 경력",
+      "ok": null,
+      "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+     },
+     {
+      "rule": "R03 독립 확인",
+      "ok": null,
+      "detail": "이름 검색을 하지 않음(한국어 뉴스 검색만 지원) — 편집자 확인 필요"
+     },
+     {
+      "rule": "R05 지속성(후속 지원)",
+      "ok": true,
+      "detail": "상에 딸린 후속 지원: 캠든아트센터 전시"
+     }
+    ],
+    "homonym_note": null
+   },
+   {
+    "name": "Okiki Akinfe",
+    "status": "지켜볼 신진",
+    "watch": true,
+    "award": "프리즈 런던 신진 작가상(첫 회)",
+    "track": "신진 대상 상",
+    "genre": "회화",
+    "why": "첫 회 수상. 본인은 이 상이 '더 많은 작가를 키우길' 바란다고 인터뷰.",
+    "weight": {
+     "points": 3,
+     "level": "보통",
+     "reasons": [
+      "주최 Frieze London(민간 재단·기업) +1",
+      "전문가 심사·공모 절차 공개 +1",
+      "상금 £30,000(1천만원 이상으로 봄) +1"
+     ]
+    },
+    "checks": [
+     {
+      "rule": "R01 공식 선정",
+      "ok": true,
+      "detail": "프리즈 런던 신진 작가상(첫 회) — 보도 2곳"
+     },
+     {
+      "rule": "R02 초기 경력",
+      "ok": null,
+      "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+     },
+     {
+      "rule": "R03 독립 확인",
+      "ok": null,
+      "detail": "이름 검색을 하지 않음(한국어 뉴스 검색만 지원) — 편집자 확인 필요"
+     },
+     {
+      "rule": "R05 지속성(후속 지원)",
+      "ok": true,
+      "detail": "상에 딸린 후속 지원: 상금 £30,000"
+     }
+    ],
+    "homonym_note": null
+   },
+   {
+    "name": "Theo Triantafyllidis",
+    "status": "지켜볼 신진",
+    "watch": true,
+    "award": "Frieze Artist Award 2026",
+    "track": "신진 대상 상",
+    "genre": "조각·디지털",
+    "why": "이 상으로 거대 거미 형태 조각(관객이 앉는 구조물)을 제작.",
+    "weight": {
+     "points": 3,
+     "level": "보통",
+     "reasons": [
+      "주최 Frieze London(민간 재단·기업) +1",
+      "2003년부터 운영(23년) +1",
+      "전문가 심사·공모 절차 공개 +1"
+     ]
+    },
+    "checks": [
+     {
+      "rule": "R01 공식 선정",
+      "ok": true,
+      "detail": "Frieze Artist Award 2026 — 보도 2곳"
+     },
+     {
+      "rule": "R02 초기 경력",
+      "ok": null,
+      "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+     },
+     {
+      "rule": "R03 독립 확인",
+      "ok": null,
+      "detail": "이름 검색을 하지 않음(한국어 뉴스 검색만 지원) — 편집자 확인 필요"
+     },
+     {
+      "rule": "R05 지속성(후속 지원)",
+      "ok": true,
+      "detail": "상에 딸린 후속 지원: 프리즈 런던 신작 커미션"
+     }
+    ],
+    "homonym_note": null
+   },
+   {
+    "name": "Hana Elhaddad",
+    "status": "지켜볼 신진",
+    "watch": true,
+    "award": "Salzburger Kunstverein × ArtReview 작가(비평) 레지던시",
+    "track": "신진 대상 상",
+    "genre": "비평",
+    "why": "레지던시 결과물인 비평문이 ArtReview에 게재됨.",
+    "weight": {
+     "points": 1,
+     "level": "낮음",
+     "reasons": [
+      "주최 Salzburger Kunstverein·ArtReview(민간 재단·기업) +1"
+     ]
+    },
+    "checks": [
+     {
+      "rule": "R01 공식 선정",
+      "ok": true,
+      "detail": "Salzburger Kunstverein × ArtReview 작가(비평) 레지던시 — 보도 1곳"
+     },
+     {
+      "rule": "R02 초기 경력",
+      "ok": null,
+      "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+     },
+     {
+      "rule": "R03 독립 확인",
+      "ok": null,
+      "detail": "이름 검색을 하지 않음(한국어 뉴스 검색만 지원) — 편집자 확인 필요"
+     },
+     {
+      "rule": "R05 지속성(후속 지원)",
+      "ok": true,
+      "detail": "상에 딸린 후속 지원: 레지던시, ArtReview 게재"
+     }
+    ],
+    "homonym_note": null
+   },
+   {
+    "name": "Brognon Rollin",
+    "status": "지켜볼 신진",
+    "watch": true,
+    "award": "Prix Marcel Duchamp 2026",
+    "track": "경력 제한 없는 상·선정",
+    "genre": "설치",
+    "why": "후보 4팀(안드리아노메아리소아·앙노·은잠) 중 최종 선정.",
+    "weight": {
+     "points": 7,
+     "level": "높음",
+     "reasons": [
+      "주최 ADIAF·퐁피두센터(국제 기관) +2",
+      "2000년부터 운영(26년) +1",
+      "전문가 심사·공모 절차 공개 +1",
+      "국제 심사위원 +1",
+      "후속 전시 지원 +1",
+      "상금 €35,000(1천만원 이상으로 봄) +1"
+     ]
+    },
+    "checks": [
+     {
+      "rule": "R01 공식 선정",
+      "ok": true,
+      "detail": "Prix Marcel Duchamp 2026 — 보도 3곳"
+     },
+     {
+      "rule": "R02 초기 경력",
+      "ok": null,
+      "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+     },
+     {
+      "rule": "R03 독립 확인",
+      "ok": null,
+      "detail": "이름 검색을 하지 않음(한국어 뉴스 검색만 지원) — 편집자 확인 필요"
+     },
+     {
+      "rule": "R05 지속성(후속 지원)",
+      "ok": true,
+      "detail": "상에 딸린 후속 지원: 상금 €35,000, 퐁피두센터 전시"
+     }
+    ],
+    "homonym_note": null
+   },
+   {
+    "name": "Julia Phillips",
+    "status": "지켜볼 신진",
+    "watch": true,
+    "award": "K21 Global Art Award 2026",
+    "track": "경력 제한 없는 상·선정",
+    "genre": "조각·도자",
+    "why": "e-flux 공지 — 수상(본문은 이미지 캡션 위주라 사유 미확인).",
+    "weight": {
+     "points": 3,
+     "level": "보통",
+     "reasons": [
+      "주최 Kunstsammlung Nordrhein-Westfalen(K21)(국공립 미술관·지자체) +2",
+      "후속 전시 지원 +1"
+     ]
+    },
+    "checks": [
+     {
+      "rule": "R01 공식 선정",
+      "ok": true,
+      "detail": "K21 Global Art Award 2026 — 보도 1곳"
+     },
+     {
+      "rule": "R02 초기 경력",
+      "ok": null,
+      "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+     },
+     {
+      "rule": "R03 독립 확인",
+      "ok": null,
+      "detail": "이름 검색을 하지 않음(한국어 뉴스 검색만 지원) — 편집자 확인 필요"
+     },
+     {
+      "rule": "R05 지속성(후속 지원)",
+      "ok": true,
+      "detail": "상에 딸린 후속 지원: K21 전시"
+     }
+    ],
+    "homonym_note": null
+   },
+   {
+    "name": "Hoda Afshar",
+    "status": "최종 후보",
+    "watch": false,
+    "award": "Deutsche Börse 사진상 2027 최종 후보",
+    "track": "후보 명단(최종 아님)",
+    "genre": "사진",
+    "why": "2027 최종 후보 4인.",
+    "weight": {
+     "points": 4,
+     "level": "보통",
+     "reasons": [
+      "주최 Deutsche Börse Photography Foundation·Photographers' Gallery(국제 기관) +2",
+      "1996년부터 운영(30년) +1",
+      "전문가 심사·공모 절차 공개 +1"
+     ]
+    },
+    "checks": [
+     {
+      "rule": "R01 공식 선정",
+      "ok": true,
+      "detail": "Deutsche Börse 사진상 2027 최종 후보 — 보도 2곳"
+     },
+     {
+      "rule": "R02 초기 경력",
+      "ok": null,
+      "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+     },
+     {
+      "rule": "R03 독립 확인",
+      "ok": null,
+      "detail": "이름 검색을 하지 않음(한국어 뉴스 검색만 지원) — 편집자 확인 필요"
+     },
+     {
+      "rule": "R05 지속성(후속 지원)",
+      "ok": true,
+      "detail": "상에 딸린 후속 지원: Photographers' Gallery 후보전"
+     }
+    ],
+    "homonym_note": null
+   },
+   {
+    "name": "Lotus L. Kang",
+    "status": "최종 후보",
+    "watch": false,
+    "award": "Deutsche Börse 사진상 2027 최종 후보",
+    "track": "후보 명단(최종 아님)",
+    "genre": "사진·설치",
+    "why": "2027 최종 후보 4인 — 한국계 작가.",
+    "weight": {
+     "points": 4,
+     "level": "보통",
+     "reasons": [
+      "주최 Deutsche Börse Photography Foundation·Photographers' Gallery(국제 기관) +2",
+      "1996년부터 운영(30년) +1",
+      "전문가 심사·공모 절차 공개 +1"
+     ]
+    },
+    "checks": [
+     {
+      "rule": "R01 공식 선정",
+      "ok": true,
+      "detail": "Deutsche Börse 사진상 2027 최종 후보 — 보도 2곳"
+     },
+     {
+      "rule": "R02 초기 경력",
+      "ok": null,
+      "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+     },
+     {
+      "rule": "R03 독립 확인",
+      "ok": null,
+      "detail": "이름 검색을 하지 않음(한국어 뉴스 검색만 지원) — 편집자 확인 필요"
+     },
+     {
+      "rule": "R05 지속성(후속 지원)",
+      "ok": true,
+      "detail": "상에 딸린 후속 지원: Photographers' Gallery 후보전"
+     }
+    ],
+    "homonym_note": null
+   },
+   {
+    "name": "Salvatore Vitale",
+    "status": "최종 후보",
+    "watch": false,
+    "award": "Deutsche Börse 사진상 2027 최종 후보",
+    "track": "후보 명단(최종 아님)",
+    "genre": "사진",
+    "why": "2027 최종 후보 4인.",
+    "weight": {
+     "points": 4,
+     "level": "보통",
+     "reasons": [
+      "주최 Deutsche Börse Photography Foundation·Photographers' Gallery(국제 기관) +2",
+      "1996년부터 운영(30년) +1",
+      "전문가 심사·공모 절차 공개 +1"
+     ]
+    },
+    "checks": [
+     {
+      "rule": "R01 공식 선정",
+      "ok": true,
+      "detail": "Deutsche Börse 사진상 2027 최종 후보 — 보도 2곳"
+     },
+     {
+      "rule": "R02 초기 경력",
+      "ok": null,
+      "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+     },
+     {
+      "rule": "R03 독립 확인",
+      "ok": null,
+      "detail": "이름 검색을 하지 않음(한국어 뉴스 검색만 지원) — 편집자 확인 필요"
+     },
+     {
+      "rule": "R05 지속성(후속 지원)",
+      "ok": true,
+      "detail": "상에 딸린 후속 지원: Photographers' Gallery 후보전"
+     }
+    ],
+    "homonym_note": null
+   },
+   {
+    "name": "Sasha Kurmaz",
+    "status": "최종 후보",
+    "watch": false,
+    "award": "Deutsche Börse 사진상 2027 최종 후보",
+    "track": "후보 명단(최종 아님)",
+    "genre": "사진",
+    "why": "2027 최종 후보 4인.",
+    "weight": {
+     "points": 4,
+     "level": "보통",
+     "reasons": [
+      "주최 Deutsche Börse Photography Foundation·Photographers' Gallery(국제 기관) +2",
+      "1996년부터 운영(30년) +1",
+      "전문가 심사·공모 절차 공개 +1"
+     ]
+    },
+    "checks": [
+     {
+      "rule": "R01 공식 선정",
+      "ok": true,
+      "detail": "Deutsche Börse 사진상 2027 최종 후보 — 보도 2곳"
+     },
+     {
+      "rule": "R02 초기 경력",
+      "ok": null,
+      "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+     },
+     {
+      "rule": "R03 독립 확인",
+      "ok": null,
+      "detail": "이름 검색을 하지 않음(한국어 뉴스 검색만 지원) — 편집자 확인 필요"
+     },
+     {
+      "rule": "R05 지속성(후속 지원)",
+      "ok": true,
+      "detail": "상에 딸린 후속 지원: Photographers' Gallery 후보전"
+     }
+    ],
+    "homonym_note": null
+   },
+   {
+    "name": "Basim Magdy",
+    "status": "기성 작가",
+    "watch": false,
+    "award": "Helmut-Kraft-Kunstpreis 2026",
+    "track": "기성 작가 상",
+    "genre": "영상·회화",
+    "why": "e-flux 공지 — 수상과 신작 'PINGPINPOOLPONG' 전시.",
+    "weight": {
+     "points": 3,
+     "level": "보통",
+     "reasons": [
+      "주최 Museum für Neue Kunst(프라이부르크)(국공립 미술관·지자체) +2",
+      "후속 전시 지원 +1"
+     ]
+    },
+    "checks": [
+     {
+      "rule": "R01 공식 선정",
+      "ok": true,
+      "detail": "Helmut-Kraft-Kunstpreis 2026 — 보도 1곳"
+     },
+     {
+      "rule": "R02 초기 경력",
+      "ok": true,
+      "detail": "편집 확인: 기성 — 국제 비엔날레 다수 참여"
+     },
+     {
+      "rule": "R03 독립 확인",
+      "ok": null,
+      "detail": "이름 검색을 하지 않음(한국어 뉴스 검색만 지원) — 편집자 확인 필요"
+     },
+     {
+      "rule": "R05 지속성(후속 지원)",
+      "ok": true,
+      "detail": "상에 딸린 후속 지원: 미술관 전시"
+     }
+    ],
+    "homonym_note": null
+   }
+  ],
+  "awards": [
+   {
+    "award": "Prix Marcel Duchamp 2026",
+    "organizer": "ADIAF·퐁피두센터",
+    "weight": {
+     "points": 7,
+     "level": "높음",
+     "reasons": [
+      "주최 ADIAF·퐁피두센터(국제 기관) +2",
+      "2000년부터 운영(26년) +1",
+      "전문가 심사·공모 절차 공개 +1",
+      "국제 심사위원 +1",
+      "후속 전시 지원 +1",
+      "상금 €35,000(1천만원 이상으로 봄) +1"
+     ]
+    },
+    "track": "경력 제한 없는 상·선정",
+    "track_reason": "프랑스 최대 현대미술상. 경력 제한은 없고 중견 작가가 많이 받는다.",
+    "winners": [
+     "Brognon Rollin"
+    ],
+    "url": "https://artreview.com/brognon-rollin-wins-2026-prix-marcel-duchamp/",
+    "date": "2026-10-23"
+   },
+   {
+    "award": "Camden Art Centre 신진작가상 2026(프리즈 런던)",
+    "organizer": "Camden Art Centre",
+    "weight": {
+     "points": 4,
+     "level": "보통",
+     "reasons": [
+      "주최 Camden Art Centre(공공재단) +2",
+      "전문가 심사·공모 절차 공개 +1",
+      "후속 전시 지원 +1"
+     ]
+    },
+    "track": "신진 대상 상",
+    "track_reason": "공공 미술기관이 주는 신진상이며 기관 전시로 이어지는 구조.",
+    "winners": [
+     "Ella Fleck"
+    ],
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQUJSRDA4elFDQVRETzVuZnhlUmhnT1pqdDl5eEliODhkNmlabWFCUC1jb",
+    "date": "2026-10-14"
+   },
+   {
+    "award": "Deutsche Börse 사진상 2027 최종 후보",
+    "organizer": "Deutsche Börse Photography Foundation·Photographers' Gallery",
+    "weight": {
+     "points": 4,
+     "level": "보통",
+     "reasons": [
+      "주최 Deutsche Börse Photography Foundation·Photographers' Gallery(국제 기관) +2",
+      "1996년부터 운영(30년) +1",
+      "전문가 심사·공모 절차 공개 +1"
+     ]
+    },
+    "track": "후보 명단(최종 아님)",
+    "track_reason": "후보 명단이라 EV09상 아직 '수상'이 아니다. 최종 발표 때 다시 판단.",
+    "winners": [
+     "Hoda Afshar",
+     "Lotus L. Kang",
+     "Sasha Kurmaz",
+     "Salvatore Vitale"
+    ],
+    "url": "https://artreview.com/in-pictures-2027-deutsche-borse-photography-prize-shortlist-announced/",
+    "date": "2026-10-29"
+   },
+   {
+    "award": "프리즈 런던 신진 작가상(첫 회)",
+    "organizer": "Frieze London",
+    "weight": {
+     "points": 3,
+     "level": "보통",
+     "reasons": [
+      "주최 Frieze London(민간 재단·기업) +1",
+      "전문가 심사·공모 절차 공개 +1",
+      "상금 £30,000(1천만원 이상으로 봄) +1"
+     ]
+    },
+    "track": "신진 대상 상",
+    "track_reason": "이름부터 신진(emerging) 대상이고 상금이 크다. 첫 회라 상의 이력은 없음.",
+    "winners": [
+     "Okiki Akinfe"
+    ],
+    "url": "https://www.theartnewspaper.com/2026/10/15/okiki-akinfe-wins-inaugural-£30000-emerging-artist-prize-at-frieze-london",
+    "date": "2026-10-15"
+   },
+   {
+    "award": "Frieze Artist Award 2026",
+    "organizer": "Frieze London",
+    "weight": {
+     "points": 3,
+     "level": "보통",
+     "reasons": [
+      "주최 Frieze London(민간 재단·기업) +1",
+      "2003년부터 운영(23년) +1",
+      "전문가 심사·공모 절차 공개 +1"
+     ]
+    },
+    "track": "신진 대상 상",
+    "track_reason": "신진 작가에게 페어 현장 신작 제작을 맡기는 상. 수상 자체가 신작 제작비 지원.",
+    "winners": [
+     "Theo Triantafyllidis"
+    ],
+    "url": "https://www.theartnewspaper.com/2026/10/14/frieze-prizewinner-theo-triantafyllidiss-spider-sculpture-aims-to-bring-people-together",
+    "date": "2026-10-14"
+   },
+   {
+    "award": "K21 Global Art Award 2026",
+    "organizer": "Kunstsammlung Nordrhein-Westfalen(K21)",
+    "weight": {
+     "points": 3,
+     "level": "보통",
+     "reasons": [
+      "주최 Kunstsammlung Nordrhein-Westfalen(K21)(국공립 미술관·지자체) +2",
+      "후속 전시 지원 +1"
+     ]
+    },
+    "track": "경력 제한 없는 상·선정",
+    "track_reason": "주립 미술관의 국제상. 경력 제한 없음.",
+    "winners": [
+     "Julia Phillips"
+    ],
+    "url": "https://www.e-flux.com/announcements/6788334/julia-phillips-wins-2026-k21-global-art-award",
+    "date": "2026-10-10"
+   },
+   {
+    "award": "Helmut-Kraft-Kunstpreis 2026",
+    "organizer": "Museum für Neue Kunst(프라이부르크)",
+    "weight": {
+     "points": 3,
+     "level": "보통",
+     "reasons": [
+      "주최 Museum für Neue Kunst(프라이부르크)(국공립 미술관·지자체) +2",
+      "후속 전시 지원 +1"
+     ]
+    },
+    "track": "기성 작가 상",
+    "track_reason": "국제 활동 20년 차 작가 수상 — 기성.",
+    "winners": [
+     "Basim Magdy"
+    ],
+    "url": "https://www.e-flux.com/announcements/6788309/basim-magdy-awarded-helmut-kraft-art-prize-2026",
+    "date": "2026-10-03"
+   },
+   {
+    "award": "Salzburger Kunstverein × ArtReview 작가(비평) 레지던시",
+    "organizer": "Salzburger Kunstverein·ArtReview",
+    "weight": {
+     "points": 1,
+     "level": "낮음",
+     "reasons": [
+      "주최 Salzburger Kunstverein·ArtReview(민간 재단·기업) +1"
+     ]
+    },
+    "track": "신진 대상 상",
+    "track_reason": "신진 비평가 레지던시 — 작가가 아니라 비평(C) 축의 신진.",
+    "winners": [
+     "Hana Elhaddad"
+    ],
+    "url": "https://artreview.com/salzburger-kunstverein-x-artreview-writers-residency-hana-elhaddad/",
+    "date": "2026-10-21"
+   }
+  ]
+ },
+ "criticism": [
+  {
+   "title": "Guadalupe Rosales’s Portable Archive of East LA",
+   "url": "https://hyperallergic.com/guadalupe-rosaless-portable-archive-of-east-la/",
+   "date": "2026-11-03",
+   "type": "review",
+   "outlet": "Hyperallergic",
+   "title_ko": null
+  },
+  {
+   "title": "As Politicians Break Promises, This Public Artwork Keeps Them",
+   "url": "https://hyperallergic.com/as-politicians-break-promises-this-public-artwork-keeps-them/",
+   "date": "2026-11-03",
+   "type": "criticism",
+   "outlet": "Hyperallergic",
+   "title_ko": null
+  },
+  {
+   "title": "Why Mary Cassatt was more than just a painter of the 'modern Madonna'",
+   "url": "https://www.theartnewspaper.com/2026/11/03/why-mary-cassatt-was-more-than-just-a-painter-of-the-modern-madonna",
+   "date": "2026-11-03",
+   "type": "interview",
+   "outlet": "The Art Newspaper",
+   "title_ko": "왜 Mary Cassatt는 '현대 마돈나'의 단순한 화가 이상 이었습니까?"
+  },
+  {
+   "title": "Hurtling Towards Our Own Destruction with Yuyan Wang",
+   "url": "https://artreview.com/yayan-wang-pilgrims-emalin-london-review-yuwen-jiang/",
+   "date": "2026-11-03",
+   "type": "review",
+   "outlet": "ArtReview",
+   "title_ko": null
+  },
+  {
+   "title": "A new book looks at how Marcel Duchamp’s ‘impossible’ love for the sculptor Maria Martins changed his work",
+   "url": "https://www.theartnewspaper.com/2026/11/03/a-new-book-looks-at-how-marcel-duchamps-impossible-love-for-the-sculptor-maria-martins-changed-his-work",
+   "date": "2026-11-03",
+   "type": "review",
+   "outlet": "The Art Newspaper",
+   "title_ko": "마르셀 뒤샹 (Marcel Duchamp)의 조각가 마리아 마틴 (Maria Martins)에 대한 ‘불가능한’사랑이 어떻게 그의 작품을 변화 시켰는지 살펴 본다."
+  },
+  {
+   "title": "A collection of intimate interviews with the late Jo Spence provides further texture to her life and legacy",
+   "url": "https://www.theartnewspaper.com/2026/11/03/a-collection-of-intimate-interviews-with-the-late-jo-spence-provides-further-texture-to-her-life-and-legacy",
+   "date": "2026-11-03",
+   "type": "review",
+   "outlet": "The Art Newspaper",
+   "title_ko": "Jo Spence와의 친밀한 인터뷰 컬렉션은 그녀의 삶과 유산에 더 많은 질감을 제공한다."
+  },
+  {
+   "title": "Direct your eyes outdoors",
+   "url": "https://www.e-flux.com/criticism/6782491/direct-your-eyes-outdoors",
+   "date": "2026-11-03",
+   "type": "review",
+   "outlet": "e-flux Criticism",
+   "title_ko": "당신의 눈을 야외에서 직접"
+  },
+  {
+   "title": "“The Man I Love” Wants Us to Do More Than Mourn",
+   "url": "https://hyperallergic.com/the-man-i-love-wants-us-to-do-more-than-mourn/",
+   "date": "2026-11-02",
+   "type": "review",
+   "outlet": "Hyperallergic",
+   "title_ko": "\"내가 사랑하는 사람\"은 우리가 슬퍼하는 것 이상을하기를 원한다."
+  },
+  {
+   "title": "Ana Mendieta's Lasting Imprint on Art",
+   "url": "https://hyperallergic.com/ana-mendietas-lasting-imprint-on-art/",
+   "date": "2026-11-02",
+   "type": "review",
+   "outlet": "Hyperallergic",
+   "title_ko": null
+  },
+  {
+   "title": "Converge 45 2026 Review: A Generative Encounter",
+   "url": "https://artreview.com/converge-45-2026-here-to-you-now-portland-review-qingyuan-deng/",
+   "date": "2026-11-02",
+   "type": "review",
+   "outlet": "ArtReview",
+   "title_ko": null
+  }
+ ],
+ "fairs": [
+  {
+   "id": "evt_e1d757c93da4a5d0",
+   "title": "Biennale Arte 2026: In Minor Keys (61th International Art Exhibition)",
+   "kind": "biennial",
+   "type": "biennial_edition",
+   "venue": "La Biennale di Venezia",
+   "city": "Venice",
+   "country": "IT",
+   "start": "2026-05-09",
+   "end": "2026-11-22",
+   "artists": [
+    "Adebunmi Gbadebo",
+    "Akinbode Akinbiyi",
+    "Alan Phelan",
+    "Alexa Kumiko Hatanaka",
+    "Alfredo Jaar",
+    "Alice Maher"
+   ],
+   "url": "https://www.labiennale.org/en/art/2026",
+   "image": null,
+   "status": "진행 중",
+   "d_day": 18
+  },
+  {
+   "id": "evt_fecb6d8eeb9ae649",
+   "title": "Artissima 2026",
+   "kind": "fair",
+   "type": "fair_edition",
+   "venue": "Artissima",
+   "city": "Torino",
+   "country": "IT",
+   "start": "2026-10-30",
+   "end": "2026-11-01",
+   "artists": [
+    "1/9UNOSUNOVE",
+    "10 E ZERO UNO",
+    "1301PE",
+    "193 GALLERY",
+    "22,48 M2",
+    "418GALLERY"
+   ],
+   "url": "https://www.artissima.art/",
+   "image": null,
+   "status": "종료",
+   "d_day": -3
+  }
+ ],
+ "stats": {
+  "articles_7d": 95,
+  "stories_7d": 95
+ }
+}

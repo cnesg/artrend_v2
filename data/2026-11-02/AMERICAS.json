@@ -1,0 +1,2002 @@
+{
+ "date": "2026-11-02",
+ "edition": "AMERICAS",
+ "edition_ko": "미주",
+ "edition_en": "Americas",
+ "slug": "americas",
+ "publishable": false,
+ "headlines": [
+  {
+   "title": "BTS RM 전시, 입장권 6만 6000장이 팔렸다",
+   "dek": "관객이 먼저 움직였다. 숫자는 작품값이 아니라 관심의 온도다.",
+   "power": 3,
+   "power_label": "강한 신호",
+   "axis": "화제",
+   "points": [],
+   "about": "BTS RM — 관련 기사:",
+   "what": [
+    "queen.co.kr 10/28: ‘BTS RM, 미술관도 살렸다…개인 소장품 전시에 6만6000장 판매’",
+    "news1.kr 10/28: ‘티켓 6만 6000장 판매…BTS RM 파워, 특별 전시로 '적자' 美 미술관도 살...’",
+    "동아일보 문화 10/28: ‘티켓 6만 6000장 판매…BTS RM 파워, 특별 전시로 ‘적자’ 美 미술관도 살렸다’"
+   ],
+   "evidence": "보도 5곳(최근 7일) — 근거 헤드라인: ‘BTS RM, 미술관도 살렸다…개인 소장품 전시에 6만6000장 판매’(queen.co.kr).",
+   "read": "보도 제목에서 '첫 공개·관객·기록·수상' 단서를 읽어 다시 쓴 헤드라인이다 — 관객 수와 가격은 관심과 시장의 온도이지 예술적 가치가 아니다.",
+   "items": [
+    "[BTS RM, 미술관도 살렸다…개인 소장품 전시에 6만6000장 판매](http://www.queen.co.kr/news/articleView.html?idxno=465423)"
+   ],
+   "tags": [
+    "화제"
+   ],
+   "image": null,
+   "after": false
+  },
+  {
+   "title": "Tishan Hsu, 전시장과 뉴스에 동시 등장",
+   "dek": "지금 전시 중이고, 해외 매체도 주목했다.",
+   "power": 2,
+   "power_label": "눈에 띄는 신호",
+   "axis": "작가",
+   "points": [
+    "지금 볼 수 있는 곳: Lisson Gallery 《MOCA Cleveland, Ohio, USA》, 3월 7일까지"
+   ],
+   "about": "Tishan Hsu(미국 출신) — 관련 전시와 기사:",
+   "what": [
+    "《MOCA Cleveland, Ohio, USA》 — Lisson Gallery, 8월 28일–2027년 3월 7일 · 작가 Tishan Hsu",
+    "Art21 10/27: ‘“Tishan Hsu’"
+   ],
+   "evidence": "서로 다른 경로 2곳 이상에서 동시에 보이는 작가 1명(전시 ±30일·보도 7일) — 전시와 보도에 함께 나온 작가 1명. Tishan Hsu(보도 1 · 전시 1).",
+   "read": "",
+   "items": [],
+   "tags": [
+    "Tishan Hsu"
+   ],
+   "image": "https://d7ra36y65tyn0.cloudfront.net/image/553853451406/image_kauoqrjkrh1btff7h1u7he9h63/-S3840x-FWEBP",
+   "after": false
+  },
+  {
+   "title": "Perrotin, 하루에 전시 4개 오픈 — JR·Izumi KATO",
+   "dek": "이번 주 뉴욕 새 전시 8개 중 4개가 여기서 나왔다.",
+   "power": 3,
+   "power_label": "강한 신호",
+   "axis": "전시",
+   "points": [
+    "도시가 붐빈 게 아니다 — 갤러리 한 곳이 시즌 판을 새로 짰다."
+   ],
+   "about": "Perrotin(뉴욕의 갤러리)에서 10월 28일 새 전시 4개가 한꺼번에 문을 열었다. 이번 주 뉴욕에서 문을 연 전시 8개 가운데 4개가 이곳 것이라, 이 도시의 '이번 주 전시'는 사실상 이 갤러리의 시즌 개편이다.",
+   "what": [
+    "《Izumi KATO》 — Perrotin(뉴욕), 10월 28일–12월 19일",
+    "《Moonwater》 — Perrotin(뉴욕), 10월 28일–12월 19일 · 작가 Nancy GRAVES",
+    "《In the Making: La Caverne du Pont Neuf》 — Perrotin(뉴욕), 10월 28일–12월 19일 · 작가 JR",
+    "《Focus》 — Perrotin(뉴욕), 10월 28일–12월 19일 · 작가 Laurent GRASSO"
+   ],
+   "evidence": "지난 7일 개막 8건(직전 4주 주평균 4.0건, +100%) — 갤러리 4 · 미술관·기관 4 · 도시 New York 4, São Paulo 3. 앞으로 2주 개막 예정 20건.",
+   "read": "개막이 평소보다 몰린 주다",
+   "items": [
+    "Izumi KATO",
+    "Moonwater",
+    "In the Making: La Caverne du Pont Neuf"
+   ],
+   "tags": [
+    "전시"
+   ],
+   "image": null,
+   "after": false
+  },
+  {
+   "title": "MoMA가 새로 사들인 작가: Julio Galán, Teresa Margolles",
+   "dek": "최근 30일 소장품 8점 추가(공개 데이터 기준).",
+   "power": 2,
+   "power_label": "눈에 띄는 신호",
+   "axis": "기관",
+   "points": [
+    "무엇을 사는지는 무엇을 거는지보다 오래 남는다.",
+    "다음 신호: 같은 작가의 전시가 뒤따르는지."
+   ],
+   "about": "The Museum of Modern Art의 공개 소장품 데이터에 최근 30일 사이 작가 8명의 작품 8점이 새로 등록됐다. 새로 들어온 작가: Julio Galán, Teresa Margolles, Firelei Báez, Alex Katz, Deborah Roberts, Alfred Jensen. 실제 매입일이 아니라 데이터 공개일 기준이다.",
+   "what": [],
+   "evidence": "미술관·기관 개막 4건(최근 7일) — Art Institute of Chicago, MASP – Museu de Arte de São Paulo Assis Chateaubriand. 소장품 신규 등록 8건(최근 30일, 작품 8점) — The Museum of Modern Art 8.",
+   "read": "소장품 등록은 공개 데이터 갱신일 기준이라 실제 매입일과 다를 수 있다. 이번 묶음 작가: Julio Galán, Teresa Margolles, Firelei Báez, Alex Katz — 같은 작가의 전시가 따라오는지 본다.",
+   "items": [
+    "Body and Being in African Art",
+    "Rosa Elena Curruchich: crônicas de Comalapa",
+    "Pablo Delano: O museu da antiga colônia"
+   ],
+   "tags": [
+    "기관"
+   ],
+   "image": null,
+   "after": false
+  },
+  {
+   "title": "이번 주 비평이 꺼낸 이름: Sung Tieu",
+   "dek": "리뷰·비평 24편, 한 전시로 모이진 않았다 — 관심이 흩어진 주.",
+   "power": 1,
+   "power_label": "참고",
+   "axis": "비평",
+   "points": [],
+   "about": "먼저 읽을 글:",
+   "what": [
+    "BOMB Magazine 11/2: ‘Louis Eisner by Addis Goldman’",
+    "BOMB Magazine 10/30: ‘REONA by C. Spencer Yeh’",
+    "BOMB Magazine 10/28: ‘James Perkins by Stephanie E. Goodalle’",
+    "Hyperallergic 11/2: ‘\"내가 사랑하는 사람\"은 우리가 슬퍼하는 것 이상을하기를 원한다.’"
+   ],
+   "evidence": "비평·리뷰·인터뷰 24건(최근 7일) — review 19, interview 4, criticism 1 · 매체 Hyperallergic 8, ArtReview 8, BOMB Magazine 3.",
+   "read": "같은 전시·작가에 서로 다른 매체의 글이 2개 이상 모이면 '비평의 관점'으로 묶는다. 이번 주 글 목록은 4장 '글로벌 비평'.",
+   "items": [
+    "[Louis Eisner by Addis Goldman](https://bombmagazine.org/articles/2026/11/02/louis-eisner-by-addis-goldman)",
+    "[REONA by C. Spencer Yeh](https://bombmagazine.org/articles/2026/10/30/reona-by-c-spencer-yeh)",
+    "[James Perkins by Stephanie E. Goodalle](https://bombmagazine.org/articles/2026/10/28/james-perkins-by-stephanie-e-goodalle)"
+   ],
+   "tags": [
+    "비평"
+   ],
+   "image": null,
+   "after": false
+  },
+  {
+   "title": "이번 달 상은 기성 작가 몫",
+   "dek": "신진 작가 대상 수상 소식은 없었다.",
+   "power": 1,
+   "power_label": "참고",
+   "axis": "수상·루키",
+   "points": [],
+   "about": "",
+   "what": [],
+   "evidence": "판단한 수상·선정 3건(최근 30일) — 신진 대상 0 · 경력 무관 2 · 기성 1.",
+   "read": "신진 발굴 경로가 어디서 열리는지 본다 — 상세 판단은 홈의 ROOKIE RADAR.",
+   "items": [],
+   "tags": [
+    "수상·루키"
+   ],
+   "image": null,
+   "after": false
+  },
+  {
+   "title": "이번 주, 크게 터진 뉴스는 없었다",
+   "dek": "대신 전시·수상 쪽 흐름을 위에서 짚었다.",
+   "power": 1,
+   "power_label": "참고",
+   "axis": "보도",
+   "points": [],
+   "about": "관련 기사:",
+   "what": [
+    "Artishock Revista 11/2: ‘REGINA JOSÉ GALINDO’"
+   ],
+   "evidence": "기사 24건 → 같은 소식 묶음 23개(최근 7일) — 그 밖의 소식 9, 전시·프로그램 6, 비평·리뷰 4.",
+   "read": "화제성(보도 확산)은 중요도와 다르다 — 중요도는 아래 '주요 소식'의 기준 판정을 본다.",
+   "items": [],
+   "tags": [
+    "보도"
+   ],
+   "image": null,
+   "after": false
+  }
+ ],
+ "keywords": [
+  {
+   "label": "Tishan Hsu",
+   "kind": "작가",
+   "n": 2,
+   "sources": null,
+   "rise": "이번 주 화제",
+   "lift": null,
+   "score": 0,
+   "note": "보도 1 · 전시 1",
+   "examples": [
+    {
+     "title": "“Tishan Hsu: Digital Flesh” New Art21 Film to Premiere October 28, 2026",
+     "url": "https://art21.org/2026/10/27/tishan-hsu-digital-flesh-new-art21-film-to-premiere-october-28-2026/",
+     "date": null
+    }
+   ]
+  }
+ ],
+ "top": {
+  "trending": [
+   {
+    "title": "Whitney Museum of American Art 《Roy Lichtenstein》",
+    "url": "https://whitney.org/exhibitions/lichtenstein",
+    "date": "2026-10-11",
+    "ago": "개막 23일째",
+    "topic": "체크",
+    "image": null,
+    "reason": "Roy Lichtenstein — 최근 석 달 7개 매체에 오른 이름"
+   },
+   {
+    "title": "New Museum 《Arthur Jafa》",
+    "url": "https://www.newmuseum.org/exhibition/arthur-jafa-i-am-tony/",
+    "date": "2026-09-25",
+    "ago": "개막 39일째",
+    "topic": "체크",
+    "image": "https://admin.newmuseum.org/wp-content/uploads/2026/06/Pledge-of-Allegiance-2.jpeg",
+    "reason": "Arthur Jafa — 최근 석 달 5개 매체에 오른 이름"
+   },
+   {
+    "title": "Pinacoteca de São Paulo 《Sara Ramo》",
+    "url": "https://pinacoteca.org.br/programacao/exposicoes/sara-ramo/",
+    "date": "2026-11-07",
+    "ago": "개막 D-5",
+    "topic": "체크",
+    "image": null,
+    "reason": "오늘 헤드라인에 오른 기관"
+   }
+  ],
+  "rookie": {
+   "title": "Margaret Honda, 지켜볼 신진",
+   "dek": "e-flux 공지 — 레지던시 초청 작가.",
+   "label": "Rookie Radar"
+  },
+  "gallery": {
+   "title": "Perrotin, 《Izumi KATO》",
+   "dek": "10월 28일 개막",
+   "label": "Gallery Moves",
+   "url": "https://www.perrotin.com/en/events/untitled-2026-new-york-13216"
+  },
+  "hero": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ "early": [
+  {
+   "title": "Roy Lichtenstein: Like New",
+   "venue": "Whitney Museum of American Art",
+   "city": "New York",
+   "start": "2026-10-11",
+   "end": null,
+   "status": "개막 23일째",
+   "level": "체크",
+   "score": 4.0,
+   "reasons": [
+    "Roy Lichtenstein — 최근 석 달 7개 매체에 오른 이름"
+   ],
+   "url": "https://whitney.org/exhibitions/lichtenstein",
+   "image": null,
+   "event_id": "evt_4476a0acbc3af54a",
+   "artists": [
+    "Roy Lichtenstein"
+   ],
+   "press": [
+    {
+     "title": "갭 앤 휘트니 박물관이 로이 리히텐슈타인 컬렉션에 참여한다.",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLWI4eUVidkJBTjFPYkZxQ3lwSDZkTTFVSVhEbVJLTDNNdm1WUUhnUkFyS2xWajdtb0JxOG45cDZ3Nm9kUWIyUlctNFBzQjVaUGpOODFqaDEzTGZCV2VJTTFQeTMwLWtyNHFjU2FFQUxZdTZJVm55SGtKUDFhZFZaakVlMEdTdlp6a0xqWGVKSE1nbGZURkYtUlZrVTRFTUtyb29VZGJmNA?oc=5",
+     "outlet": "Artsy"
+    },
+    {
+     "title": "휘트니 박물관의 로이 리히텐슈타인: 세련된 팝 아트 쇼",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdFNlS05mMFR0ZlFXbGNZV1dZMUJlNEdGbEx3blJ0WUY3WGFXWTFLQ2ZJRmNzdjh3M3kzT3hubnpyUFhydFRfMEd5Y3A0Vzl6Z0dxSU9hdHpuWXh2Z0RnUXFQbG0yUUtLRDNiYm9FTEU4X2VkNXV4Q1pPNlB0anF5UzNoNWpVNEJvSmFJOHhyU1g0cFZjYnc?oc=5",
+     "outlet": "ARTnews.com"
+    },
+    {
+     "title": "휘트니 박물관 유니온, 로이 리히텐슈타인 소령 쇼에 앞서 스트라이크 날짜 설정",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLWtKQW92UUdXNVZlWElkWVZhUEN2TWo1M25OcTBGdTdKNGhDRXlzbEUzdTJpRkhpSXVKdmZiN1FLSDd4QUZ0NG9jelRxeEZVYVRhNDE1YmY0am1fcXV0UV9ja1QxLTZiTEcyQ3ZIUTVPVEEtbVhSU2hYUEVON2t1NjhGYkRTclo2VFJ0Y1ppOWJOV3BiQVpxUDNxYm5BVDRubm53?oc=5",
+     "outlet": "Hyperallergic"
+    }
+   ]
+  },
+  {
+   "title": "Arthur Jafa: I Am Tony",
+   "venue": "New Museum",
+   "city": "New York",
+   "start": "2026-09-25",
+   "end": "2027-01-04",
+   "status": "개막 39일째",
+   "level": "체크",
+   "score": 3.2,
+   "reasons": [
+    "Arthur Jafa — 최근 석 달 5개 매체에 오른 이름"
+   ],
+   "url": "https://www.newmuseum.org/exhibition/arthur-jafa-i-am-tony/",
+   "image": "https://admin.newmuseum.org/wp-content/uploads/2026/06/Pledge-of-Allegiance-2.jpeg",
+   "event_id": "evt_193588fbdf2fbfed",
+   "artists": [
+    "Arthur Jafa"
+   ],
+   "press": [
+    {
+     "title": "뉴 뮤지엄의 아서 자파 (Arthur Jafa), 검토: 시대의 공포 쇼",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU2FCTG1wR3NLTUkwWGdDVi1rMDNVN3h1OWVaVTBzTGVCaWRiU2hqV2RuNi1CLWVRd0JPM2hkSll3VU14aHllUGh2Q1FMSFRfZDFLbF9Oc1RhejN0eF8zREhORXFBUlNESVZadUZreF92MXJIdWJ1TTA3NW9BVkJLYWhyYlZvenpjM3c?oc=5",
+     "outlet": "ARTnews.com"
+    }
+   ]
+  },
+  {
+   "title": "Sara Ramo: a fúria dos restos vivos",
+   "venue": "Pinacoteca de São Paulo",
+   "city": "São Paulo",
+   "start": "2026-11-07",
+   "end": "2027-04-18",
+   "status": "개막 D-5",
+   "level": "체크",
+   "score": 3.0,
+   "reasons": [
+    "오늘 헤드라인에 오른 기관",
+    "11월 7일 개막 — 첫 주에 가면 붐비기 전",
+    "미술관이 막 연 작가전 — 보도가 붙기 전"
+   ],
+   "url": "https://pinacoteca.org.br/programacao/exposicoes/sara-ramo/",
+   "image": null,
+   "event_id": "evt_871eae3639128d9b",
+   "artists": [
+    "Sara Ramo"
+   ],
+   "press": []
+  }
+ ],
+ "official": [
+  {
+   "title": "MALBA y la Hispanic Society Museum & Library se unen para expandir la Residencia de Escritores Malba a Nueva York",
+   "title_ko": null,
+   "url": "https://malba.org.ar/malba-y-la-hispanic-society-museum-library-se-unen-para-expandir-la-residencia-de-escritores-malba-a-nueva-york/",
+   "date": "2026-10-28",
+   "org": "Fundación Costantini (MALBA)",
+   "weight": 2
+  },
+  {
+   "title": "Ìrókò: entrevista com Nádia Taquary",
+   "title_ko": null,
+   "url": "https://bienal.org.br/iroko-entrevista-com-nadia-taquary/",
+   "date": "2026-10-30",
+   "org": "Fundação Bienal de São Paulo",
+   "weight": 1
+  },
+  {
+   "title": "Eduardo F. Costantini recibió en Nueva York la Medalla Sorolla de la Hispanic Society Museum & Library",
+   "title_ko": null,
+   "url": "https://malba.org.ar/eduardo-f-costantini-recibio-en-nueva-york-la-medalla-sorolla-de-la-hispanic-society-museum-library/",
+   "date": "2026-10-30",
+   "org": "Fundación Costantini (MALBA)",
+   "weight": 1
+  },
+  {
+   "title": "arteBA 2026: Malba anuncia la adquisición de la obra Paraíso (1984), de Diana Aisenberg",
+   "title_ko": null,
+   "url": "https://malba.org.ar/arteba-2026-malba-anuncia-la-adquisicion-de-la-obra-paraiso-1984-de-diana-aisenberg/",
+   "date": "2026-10-28",
+   "org": "Fundación Costantini (MALBA)",
+   "weight": 1
+  },
+  {
+   "title": "Ministro Francisco Undurraga invita a espacios culturales a inscribir sus actividades para Noche de Museos",
+   "title_ko": null,
+   "url": "https://www.mnba.gob.cl/noticias/ministro-francisco-undurraga-invita-espacios-culturales-inscribir-sus-actividades-para",
+   "date": "2026-10-27",
+   "org": "Museo Nacional de Bellas Artes, Chile",
+   "weight": 1
+  },
+  {
+   "title": "White Cube at Art Basel Paris 2026",
+   "title_ko": null,
+   "url": "https://www.whitecube.com/news/white-cube-at-art-basel-paris-2026",
+   "date": "2026-10-25",
+   "org": "White Cube",
+   "weight": 1
+  },
+  {
+   "title": "Víctor Castillo. La jaula invisible",
+   "title_ko": null,
+   "url": "https://www.mnba.gob.cl/noticias/victor-castillo-la-jaula-invisible",
+   "date": "2026-10-23",
+   "org": "Museo Nacional de Bellas Artes, Chile",
+   "weight": 1
+  },
+  {
+   "title": "Rejouer la Petite collection : deuxième tour",
+   "title_ko": null,
+   "url": "https://galerie.uqam.ca/expositions/rejouer-la-petite-collection-deuxieme-tour/?utm_source=rss&utm_medium=rss&utm_campaign=rejouer-la-petite-collection-deuxieme-tour",
+   "date": "2026-10-22",
+   "org": "Galerie de l’UQAM",
+   "weight": 1
+  },
+  {
+   "title": "Malba recibió una distinción de la Universidad de Buenos Aires (UBA) por sus 25 años",
+   "title_ko": null,
+   "url": "https://malba.org.ar/malba-recibio-una-distincion-de-la-universidad-de-buenos-aires-uba-por-sus-25-anos/",
+   "date": "2026-10-21",
+   "org": "Fundación Costantini (MALBA)",
+   "weight": 1
+  }
+ ],
+ "briefing": {
+  "editor": null,
+  "insights": [
+   "BTS RM 전시, 입장권 6만 6000장이 팔렸다 → 관객이 먼저 움직였다.",
+   "Tishan Hsu, 전시장과 뉴스에 동시 등장 → 지금 전시 중이고, 해외 매체도 주목했다.",
+   "Perrotin, 하루에 전시 4개 오픈 — JR·Izumi KATO → 이번 주 뉴욕 새 전시 8개 중 4개가 여기서 나왔다.",
+   "MoMA가 새로 사들인 작가: Julio Galán, Teresa Margolles → 최근 30일 소장품 8점 추가(공개 데이터 기준)."
+  ],
+  "major": [
+   {
+    "rank": 1,
+    "headline": "허시혼 조각정원, 스기모토 히로시 재설계 뒤 10월 31일 재개장",
+    "brief": "허시혼 조각정원이 스기모토 히로시 재설계로 10월 31일 재개장.",
+    "summary": "워싱턴 DC 스미스소니언 허시혼미술관 조각정원이 작가·건축가 스기모토 히로시가 이끈 4년간의 정비를 마치고 10월 31일 다시 연다. 리슨 갤러리가 소속 작가 소식으로 알렸다.",
+    "lead": "허시혼 조각정원이 스기모토 히로시 재설계로 10월 31일 재개장.",
+    "why": [
+     "국립 미술관(스미스소니언) 시설 변화",
+     "작가가 공공 미술관 공간 설계를 맡은 드문 사례"
+    ],
+    "so_what": "큰 사건은 아니지만 이번 주 흐름을 보여 주는 소식이다.",
+    "related": [
+     "Hirshhorn Museum and Sculpture Garden",
+     "Hiroshi Sugimoto"
+    ],
+    "topic": "기관·정책·제도",
+    "date": "2026-10-27",
+    "criteria": [
+     {
+      "label": "제도·조직 변화",
+      "evidence": "…rshhorn Sculpture Garden Reopens Following Hiroshi Sugim…"
+     }
+    ],
+    "importance": 2,
+    "sources": [
+     {
+      "title": "Hirshhorn Sculpture Garden Reopens Following Hiroshi Sugimoto Redesign",
+      "url": "https://lisson.com/news/hirshhorn-sculpture-garden-reopens-following-hiroshi-sugimoto-redesign",
+      "outlet": "Lisson Gallery",
+      "date": "2026-10-27"
+     }
+    ],
+    "n_sources": 1
+   }
+  ],
+  "judged_by": "auto"
+ },
+ "artists": [
+  {
+   "entity_id": "ent_2c707574efdaebcc",
+   "name": "Tishan Hsu",
+   "press": 1,
+   "shows": 1,
+   "story_url": "https://art21.org/2026/10/27/tishan-hsu-digital-flesh-new-art21-film-to-premiere-october-28-2026/",
+   "cats": [
+    "전시 중"
+   ]
+  },
+  {
+   "entity_id": null,
+   "name": "Rosa Elena Curruchich",
+   "press": 0,
+   "shows": 1,
+   "story_url": "https://masp.org.br/exposicoes/rosa-elena-curruchich-cronicas-de-comalapa",
+   "cats": [
+    "개인전"
+   ],
+   "where": "MASP – Museu de Arte de São Paulo Assis Chateaubriand"
+  },
+  {
+   "entity_id": null,
+   "name": "Pablo Delano",
+   "press": 0,
+   "shows": 1,
+   "story_url": "https://masp.org.br/exposicoes/pablo-delano-museu-da-antiga-colonia",
+   "cats": [
+    "개인전"
+   ],
+   "where": "MASP – Museu de Arte de São Paulo Assis Chateaubriand"
+  },
+  {
+   "entity_id": null,
+   "name": "Sara Ramo",
+   "press": 0,
+   "shows": 1,
+   "story_url": "https://pinacoteca.org.br/programacao/exposicoes/sara-ramo/",
+   "cats": [
+    "개인전"
+   ],
+   "where": "Pinacoteca de São Paulo"
+  },
+  {
+   "entity_id": null,
+   "name": "Na Mira",
+   "press": 0,
+   "shows": 1,
+   "story_url": "https://www.moma.org/calendar/exhibitions/5869",
+   "cats": [
+    "개인전"
+   ],
+   "where": "The Museum of Modern Art"
+  },
+  {
+   "entity_id": null,
+   "name": "Beatriz González",
+   "press": 0,
+   "shows": 1,
+   "story_url": "https://www.artic.edu/exhibitions/10589/beatriz-gonzalez-in-series-and-full-color",
+   "cats": [
+    "개인전"
+   ],
+   "where": "Art Institute of Chicago"
+  },
+  {
+   "entity_id": null,
+   "name": "Laurent GRASSO",
+   "press": 0,
+   "shows": 1,
+   "story_url": "https://www.perrotin.com/en/events/focus-2026-new-york",
+   "cats": [
+    "개인전"
+   ],
+   "where": "Perrotin"
+  },
+  {
+   "entity_id": null,
+   "name": "Izumi KATO",
+   "press": 0,
+   "shows": 1,
+   "story_url": "https://www.perrotin.com/en/events/untitled-2026-new-york-13216",
+   "cats": [
+    "개인전"
+   ],
+   "where": "Perrotin"
+  },
+  {
+   "entity_id": null,
+   "name": "Nancy GRAVES",
+   "press": 0,
+   "shows": 1,
+   "story_url": "https://www.perrotin.com/en/events/moonwater-2026-new-york",
+   "cats": [
+    "개인전"
+   ],
+   "where": "Perrotin"
+  }
+ ],
+ "stories": [
+  {
+   "title": "REGINA JOSÉ GALINDO: LOS PEORES TIEMPOS POSIBLES",
+   "title_ko": null,
+   "url": "https://artishockrevista.com/2026/11/02/regina-jose-galindo-los-peores-tiempos-posibles/",
+   "outlet": "Artishock Revista",
+   "date": "2026-11-02",
+   "n_outlets": 1,
+   "outlets": [
+    "Artishock Revista"
+   ],
+   "sources": [
+    {
+     "outlet": "Artishock Revista",
+     "url": "https://artishockrevista.com/2026/11/02/regina-jose-galindo-los-peores-tiempos-posibles/",
+     "date": "2026-11-02",
+     "title": "REGINA JOSÉ GALINDO: LOS PEORES TIEMPOS POSIBLES"
+    }
+   ],
+   "topic": "전시·프로그램",
+   "score": 3.5,
+   "short": true,
+   "judged_by": "auto",
+   "summary": null,
+   "why": [],
+   "so_what": "지금 가 볼 수 있는 전시다.",
+   "level": "짧은 소식",
+   "points": 0,
+   "lead": "지금 가 볼 수 있는 전시다.",
+   "bullets": [
+    "→ 지금 가 볼 수 있는 전시다."
+   ],
+   "tags": [],
+   "rank": 1
+  },
+  {
+   "title": "10 Art Shows to See in Upstate New York This November",
+   "title_ko": "이번 11월 뉴욕 북부에서 볼 수 있는 10가지 예술 쇼",
+   "url": "https://hyperallergic.com/10-art-shows-to-see-in-upstate-new-york-this-november-2026/",
+   "outlet": "Hyperallergic",
+   "date": "2026-11-02",
+   "n_outlets": 1,
+   "outlets": [
+    "Hyperallergic"
+   ],
+   "sources": [
+    {
+     "outlet": "Hyperallergic",
+     "url": "https://hyperallergic.com/10-art-shows-to-see-in-upstate-new-york-this-november-2026/",
+     "date": "2026-11-02",
+     "title": "10 Art Shows to See in Upstate New York This November"
+    }
+   ],
+   "topic": "전시·프로그램",
+   "score": 3.5,
+   "short": true,
+   "judged_by": "auto",
+   "summary": "이번 11월 뉴욕 북부에서 볼 수 있는 10가지 예술 쇼 (제목 기준·자동번역)",
+   "why": [],
+   "so_what": "지금 가 볼 수 있는 전시다.",
+   "level": "짧은 소식",
+   "points": 0,
+   "lead": "지금 가 볼 수 있는 전시다.",
+   "bullets": [
+    "→ 지금 가 볼 수 있는 전시다."
+   ],
+   "tags": [],
+   "rank": 2
+  },
+  {
+   "title": "“The Man I Love” Wants Us to Do More Than Mourn",
+   "title_ko": "\"내가 사랑하는 사람\"은 우리가 슬퍼하는 것 이상을하기를 원한다.",
+   "url": "https://hyperallergic.com/the-man-i-love-wants-us-to-do-more-than-mourn/",
+   "outlet": "Hyperallergic",
+   "date": "2026-11-02",
+   "n_outlets": 1,
+   "outlets": [
+    "Hyperallergic"
+   ],
+   "sources": [
+    {
+     "outlet": "Hyperallergic",
+     "url": "https://hyperallergic.com/the-man-i-love-wants-us-to-do-more-than-mourn/",
+     "date": "2026-11-02",
+     "title": "“The Man I Love” Wants Us to Do More Than Mourn"
+    }
+   ],
+   "topic": "비평·리뷰",
+   "score": 3.5,
+   "short": true,
+   "judged_by": "auto",
+   "summary": "\"내가 사랑하는 사람\"은 우리가 슬퍼하는 것 이상을하기를 원한다. (제목 기준·자동번역)",
+   "why": [],
+   "so_what": "사건이 아니라 해석을 담은 글 — 같은 전시의 다른 리뷰와 함께 읽으면 관점이 보인다.",
+   "level": "짧은 소식",
+   "points": 0,
+   "lead": "사건이 아니라 해석을 담은 글 — 같은 전시의 다른 리뷰와 함께 읽으면 관점이 보인다.",
+   "bullets": [
+    "→ 사건이 아니라 해석을 담은 글. 같은 전시의 다른 리뷰와 함께 읽으면 관점이 보인다."
+   ],
+   "tags": [],
+   "rank": 3
+  },
+  {
+   "title": "Collectors Cristina Chacón and Diego Uribe to open contemporary art space in Miami",
+   "title_ko": "Collectors Cristina Chacón과 Diego Uribe가 마이애미에서 현대 미술 공간을 연다.",
+   "url": "https://www.theartnewspaper.com/2026/11/02/dc-art-foundation-to-open-new-space-in-miami",
+   "outlet": "The Art Newspaper",
+   "date": "2026-11-02",
+   "n_outlets": 1,
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "sources": [
+    {
+     "outlet": "The Art Newspaper",
+     "url": "https://www.theartnewspaper.com/2026/11/02/dc-art-foundation-to-open-new-space-in-miami",
+     "date": "2026-11-02",
+     "title": "Collectors Cristina Chacón and Diego Uribe to open contemporary art space in Miami"
+    }
+   ],
+   "topic": "시장·경매·아트페어",
+   "score": 3.5,
+   "short": true,
+   "judged_by": "auto",
+   "summary": "Collectors Cristina Chacón과 Diego Uribe가 마이애미에서 현대 미술 공간을 연다. (제목 기준·자동번역)",
+   "why": [],
+   "so_what": "가격은 시장의 온도일 뿐 작품의 가치가 아니다.",
+   "level": "짧은 소식",
+   "points": 0,
+   "lead": "가격은 시장의 온도일 뿐 작품의 가치가 아니다.",
+   "bullets": [
+    "→ 가격은 시장의 온도일 뿐 작품의 가치가 아니다."
+   ],
+   "tags": [],
+   "rank": 4
+  },
+  {
+   "title": "Louis Eisner by Addis Goldman",
+   "title_ko": null,
+   "url": "https://bombmagazine.org/articles/2026/11/02/louis-eisner-by-addis-goldman",
+   "outlet": "BOMB Magazine",
+   "date": "2026-11-02",
+   "n_outlets": 1,
+   "outlets": [
+    "BOMB Magazine"
+   ],
+   "sources": [
+    {
+     "outlet": "BOMB Magazine",
+     "url": "https://bombmagazine.org/articles/2026/11/02/louis-eisner-by-addis-goldman",
+     "date": "2026-11-02",
+     "title": "Louis Eisner by Addis Goldman"
+    }
+   ],
+   "topic": "비평·리뷰",
+   "score": 3.5,
+   "short": true,
+   "judged_by": "auto",
+   "summary": null,
+   "why": [],
+   "so_what": "사건이 아니라 해석을 담은 글 — 같은 전시의 다른 리뷰와 함께 읽으면 관점이 보인다.",
+   "level": "짧은 소식",
+   "points": 0,
+   "lead": "사건이 아니라 해석을 담은 글 — 같은 전시의 다른 리뷰와 함께 읽으면 관점이 보인다.",
+   "bullets": [
+    "→ 사건이 아니라 해석을 담은 글. 같은 전시의 다른 리뷰와 함께 읽으면 관점이 보인다."
+   ],
+   "tags": [],
+   "rank": 5
+  },
+  {
+   "title": "MERCADO DE ARTE EN CUBA… UNA HISTORIA INCOMPLETA, DE PEDRO EDGAR RIZO PEÑA",
+   "title_ko": null,
+   "url": "https://artishockrevista.com/2026/11/01/mercado-de-arte-en-cuba-pedro-rizo-pena/",
+   "outlet": "Artishock Revista",
+   "date": "2026-11-01",
+   "n_outlets": 1,
+   "outlets": [
+    "Artishock Revista"
+   ],
+   "sources": [
+    {
+     "outlet": "Artishock Revista",
+     "url": "https://artishockrevista.com/2026/11/01/mercado-de-arte-en-cuba-pedro-rizo-pena/",
+     "date": "2026-11-01",
+     "title": "MERCADO DE ARTE EN CUBA… UNA HISTORIA INCOMPLETA, DE PEDRO EDGAR RIZO PEÑA"
+    }
+   ],
+   "topic": "그 밖의 소식",
+   "score": 3.5,
+   "short": true,
+   "judged_by": "auto",
+   "summary": null,
+   "why": [],
+   "so_what": "큰 사건은 아니지만 이번 주 흐름을 보여 주는 소식이다.",
+   "level": "짧은 소식",
+   "points": 0,
+   "lead": "",
+   "bullets": [],
+   "tags": [],
+   "rank": 6
+  },
+  {
+   "title": "A Los Angeles Itinerary for Art Lovers",
+   "title_ko": null,
+   "url": "https://observer.com/list/travel-guide-art-and-design-in-los-angeles-museums-galleries/",
+   "outlet": "Observer Arts",
+   "date": "2026-11-01",
+   "n_outlets": 1,
+   "outlets": [
+    "Observer Arts"
+   ],
+   "sources": [
+    {
+     "outlet": "Observer Arts",
+     "url": "https://observer.com/list/travel-guide-art-and-design-in-los-angeles-museums-galleries/",
+     "date": "2026-11-01",
+     "title": "A Los Angeles Itinerary for Art Lovers"
+    }
+   ],
+   "topic": "시장·경매·아트페어",
+   "score": 3.5,
+   "short": true,
+   "judged_by": "auto",
+   "summary": null,
+   "why": [],
+   "so_what": "가격은 시장의 온도일 뿐 작품의 가치가 아니다.",
+   "level": "짧은 소식",
+   "points": 0,
+   "lead": "가격은 시장의 온도일 뿐 작품의 가치가 아니다.",
+   "bullets": [
+    "→ 가격은 시장의 온도일 뿐 작품의 가치가 아니다."
+   ],
+   "tags": [],
+   "rank": 7
+  },
+  {
+   "title": "Art Toronto reflects Canadian art community’s focus on sustaining domestic ecosystem",
+   "title_ko": "Art Toronto는 국내 생태계 유지에 대한 캐나다 예술 공동체의 초점을 반영한다.",
+   "url": "https://www.theartnewspaper.com/2026/10/30/art-toronto-fair-report-canadian-art-focus",
+   "outlet": "The Art Newspaper",
+   "date": "2026-10-30",
+   "n_outlets": 1,
+   "outlets": [
+    "The Art Newspaper"
+   ],
+   "sources": [
+    {
+     "outlet": "The Art Newspaper",
+     "url": "https://www.theartnewspaper.com/2026/10/30/art-toronto-fair-report-canadian-art-focus",
+     "date": "2026-10-30",
+     "title": "Art Toronto reflects Canadian art community’s focus on sustaining domestic ecosystem"
+    }
+   ],
+   "topic": "시장·경매·아트페어",
+   "score": 2.0,
+   "short": true,
+   "judged_by": "auto",
+   "summary": "Art Toronto는 국내 생태계 유지에 대한 캐나다 예술 공동체의 초점을 반영한다. (제목 기준·자동번역)",
+   "why": [],
+   "so_what": "가격은 시장의 온도일 뿐 작품의 가치가 아니다.",
+   "level": "짧은 소식",
+   "points": 0,
+   "lead": "가격은 시장의 온도일 뿐 작품의 가치가 아니다.",
+   "bullets": [
+    "→ 가격은 시장의 온도일 뿐 작품의 가치가 아니다."
+   ],
+   "tags": [],
+   "rank": 8
+  },
+  {
+   "title": "EL CONCURSO DE ARTE EDUARDO LEÓN JIMENES AMPLÍA SU HORIZONTE CARIBEÑO",
+   "title_ko": null,
+   "url": "https://artishockrevista.com/2026/10/30/29-concurso-eduardo-leon-jimenes/",
+   "outlet": "Artishock Revista",
+   "date": "2026-10-30",
+   "n_outlets": 1,
+   "outlets": [
+    "Artishock Revista"
+   ],
+   "sources": [
+    {
+     "outlet": "Artishock Revista",
+     "url": "https://artishockrevista.com/2026/10/30/29-concurso-eduardo-leon-jimenes/",
+     "date": "2026-10-30",
+     "title": "EL CONCURSO DE ARTE EDUARDO LEÓN JIMENES AMPLÍA SU HORIZONTE CARIBEÑO"
+    }
+   ],
+   "topic": "그 밖의 소식",
+   "score": 2.0,
+   "short": true,
+   "judged_by": "auto",
+   "summary": null,
+   "why": [],
+   "so_what": "큰 사건은 아니지만 이번 주 흐름을 보여 주는 소식이다.",
+   "level": "짧은 소식",
+   "points": 0,
+   "lead": "",
+   "bullets": [],
+   "tags": [],
+   "rank": 9
+  },
+  {
+   "title": "Surprise! US Pavilion Needs More Cash to Ship Works Home",
+   "title_ko": "놀랍게도! 미국 파빌리온은 선박 작업에 더 많은 현금이 필요한다.",
+   "url": "https://hyperallergic.com/surprise-us-pavilion-needs-more-cash-to-ship-works-home/",
+   "outlet": "Hyperallergic",
+   "date": "2026-10-30",
+   "n_outlets": 1,
+   "outlets": [
+    "Hyperallergic"
+   ],
+   "sources": [
+    {
+     "outlet": "Hyperallergic",
+     "url": "https://hyperallergic.com/surprise-us-pavilion-needs-more-cash-to-ship-works-home/",
+     "date": "2026-10-30",
+     "title": "Surprise! US Pavilion Needs More Cash to Ship Works Home"
+    }
+   ],
+   "topic": "전시·프로그램",
+   "score": 2.0,
+   "short": true,
+   "judged_by": "auto",
+   "summary": "놀랍게도! 미국 파빌리온은 선박 작업에 더 많은 현금이 필요한다. (제목 기준·자동번역)",
+   "why": [],
+   "so_what": "지금 가 볼 수 있는 전시다.",
+   "level": "짧은 소식",
+   "points": 0,
+   "lead": "지금 가 볼 수 있는 전시다.",
+   "bullets": [
+    "→ 지금 가 볼 수 있는 전시다."
+   ],
+   "tags": [],
+   "rank": 10
+  },
+  {
+   "title": "Ìrókò: entrevista com Nádia Taquary",
+   "title_ko": null,
+   "url": "https://bienal.org.br/iroko-entrevista-com-nadia-taquary/",
+   "outlet": "Fundação Bienal de São Paulo",
+   "date": "2026-10-30",
+   "n_outlets": 1,
+   "outlets": [
+    "Fundação Bienal de São Paulo"
+   ],
+   "sources": [
+    {
+     "outlet": "Fundação Bienal de São Paulo",
+     "url": "https://bienal.org.br/iroko-entrevista-com-nadia-taquary/",
+     "date": "2026-10-30",
+     "title": "Ìrókò: entrevista com Nádia Taquary"
+    }
+   ],
+   "topic": "그 밖의 소식",
+   "score": 2.0,
+   "short": true,
+   "judged_by": "auto",
+   "summary": null,
+   "why": [],
+   "so_what": "큰 사건은 아니지만 이번 주 흐름을 보여 주는 소식이다.",
+   "level": "짧은 소식",
+   "points": 0,
+   "lead": "",
+   "bullets": [],
+   "tags": [],
+   "rank": 11
+  },
+  {
+   "title": "REONA by C. Spencer Yeh",
+   "title_ko": null,
+   "url": "https://bombmagazine.org/articles/2026/10/30/reona-by-c-spencer-yeh",
+   "outlet": "BOMB Magazine",
+   "date": "2026-10-30",
+   "n_outlets": 1,
+   "outlets": [
+    "BOMB Magazine"
+   ],
+   "sources": [
+    {
+     "outlet": "BOMB Magazine",
+     "url": "https://bombmagazine.org/articles/2026/10/30/reona-by-c-spencer-yeh",
+     "date": "2026-10-30",
+     "title": "REONA by C. Spencer Yeh"
+    }
+   ],
+   "topic": "비평·리뷰",
+   "score": 2.0,
+   "short": true,
+   "judged_by": "auto",
+   "summary": null,
+   "why": [],
+   "so_what": "사건이 아니라 해석을 담은 글 — 같은 전시의 다른 리뷰와 함께 읽으면 관점이 보인다.",
+   "level": "짧은 소식",
+   "points": 0,
+   "lead": "사건이 아니라 해석을 담은 글 — 같은 전시의 다른 리뷰와 함께 읽으면 관점이 보인다.",
+   "bullets": [
+    "→ 사건이 아니라 해석을 담은 글. 같은 전시의 다른 리뷰와 함께 읽으면 관점이 보인다."
+   ],
+   "tags": [],
+   "rank": 12
+  },
+  {
+   "title": "Eduardo F. Costantini recibió en Nueva York la Medalla Sorolla de la Hispanic Society Museum & Library",
+   "title_ko": null,
+   "url": "https://malba.org.ar/eduardo-f-costantini-recibio-en-nueva-york-la-medalla-sorolla-de-la-hispanic-society-museum-library/",
+   "outlet": "Fundación Costantini",
+   "date": "2026-10-30",
+   "n_outlets": 1,
+   "outlets": [
+    "Fundación Costantini"
+   ],
+   "sources": [
+    {
+     "outlet": "Fundación Costantini",
+     "url": "https://malba.org.ar/eduardo-f-costantini-recibio-en-nueva-york-la-medalla-sorolla-de-la-hispanic-society-museum-library/",
+     "date": "2026-10-30",
+     "title": "Eduardo F. Costantini recibió en Nueva York la Medalla Sorolla de la Hispanic Society Museum & Library"
+    }
+   ],
+   "topic": "전시·프로그램",
+   "score": 2.0,
+   "short": true,
+   "judged_by": "auto",
+   "summary": null,
+   "why": [],
+   "so_what": "지금 가 볼 수 있는 전시다.",
+   "level": "짧은 소식",
+   "points": 0,
+   "lead": "지금 가 볼 수 있는 전시다.",
+   "bullets": [
+    "→ 지금 가 볼 수 있는 전시다."
+   ],
+   "tags": [],
+   "rank": 13
+  }
+ ],
+ "topics": [
+  {
+   "label": "그 밖의 소식",
+   "count": 9
+  },
+  {
+   "label": "전시·프로그램",
+   "count": 6
+  },
+  {
+   "label": "비평·리뷰",
+   "count": 4
+  },
+  {
+   "label": "시장·경매·아트페어",
+   "count": 3
+  },
+  {
+   "label": "기관·정책·제도",
+   "count": 1
+  }
+ ],
+ "exhibitions": {
+  "open_count": 92,
+  "featured": [
+   {
+    "id": "evt_63658125e26651cd",
+    "title": "Rosa Elena Curruchich: crônicas de Comalapa",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "MASP – Museu de Arte de São Paulo Assis Chateaubriand",
+    "city": "São Paulo",
+    "country": "BR",
+    "start": "2026-10-30",
+    "end": "2027-04-04",
+    "artists": [
+     "Rosa Elena Curruchich"
+    ],
+    "url": "https://masp.org.br/exposicoes/rosa-elena-curruchich-cronicas-de-comalapa",
+    "image": "https://assets.masp.org.br/uploads/exposures/tfFSc1gwEOuHZ0ML18L7-bX2HpvaM18ebEa4eGBmk.jpg",
+    "why": "미술관이 한 작가에게 내준 개인전"
+   },
+   {
+    "id": "evt_89e9eb6df7c53c5f",
+    "title": "Pablo Delano: O museu da antiga colônia",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "MASP – Museu de Arte de São Paulo Assis Chateaubriand",
+    "city": "São Paulo",
+    "country": "BR",
+    "start": "2026-10-30",
+    "end": "2027-01-31",
+    "artists": [
+     "Pablo Delano"
+    ],
+    "url": "https://masp.org.br/exposicoes/pablo-delano-museu-da-antiga-colonia",
+    "image": "https://assets.masp.org.br/uploads/exposures/ZYUY6WEotg5RB2akcSWa-626h43FFNyrGkCsET6MM.png",
+    "why": "미술관이 한 작가에게 내준 개인전"
+   },
+   {
+    "id": "evt_b2d779001217764c",
+    "title": "Sala de vídeo: Edgar Calel",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "MASP – Museu de Arte de São Paulo Assis Chateaubriand",
+    "city": "São Paulo",
+    "country": "BR",
+    "start": "2026-10-30",
+    "end": "2027-01-31",
+    "artists": [
+     "Sala de vídeo"
+    ],
+    "url": "https://masp.org.br/exposicoes/sala-de-video-edgar-calel",
+    "image": "https://assets.masp.org.br/uploads/exposures/ceRt8B3degGDzqaU3a8G-VOHcbT7pbO2OtMomIeSp.png",
+    "why": "미술관이 한 작가에게 내준 개인전"
+   },
+   {
+    "id": "evt_871eae3639128d9b",
+    "title": "Sara Ramo: a fúria dos restos vivos",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "Pinacoteca de São Paulo",
+    "city": "São Paulo",
+    "country": "BR",
+    "start": "2026-11-07",
+    "end": "2027-04-18",
+    "artists": [
+     "Sara Ramo"
+    ],
+    "url": "https://pinacoteca.org.br/programacao/exposicoes/sara-ramo/",
+    "image": null,
+    "why": "미술관이 한 작가에게 내준 개인전"
+   },
+   {
+    "id": "evt_ef10206f95eab295",
+    "title": "Na Mira: NO SMOKING",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "The Museum of Modern Art",
+    "city": "New York",
+    "country": "US",
+    "start": "2026-11-14",
+    "end": "2027-02-15",
+    "artists": [
+     "Na Mira"
+    ],
+    "url": "https://www.moma.org/calendar/exhibitions/5869",
+    "image": null,
+    "why": "미술관이 한 작가에게 내준 개인전"
+   },
+   {
+    "id": "evt_d337ea6b7309cf11",
+    "title": "Beatriz González: In Series and Full Color",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "Art Institute of Chicago",
+    "city": "Chicago",
+    "country": "US",
+    "start": "2026-11-15",
+    "end": "2027-03-01",
+    "artists": [
+     "Beatriz González"
+    ],
+    "url": "https://www.artic.edu/exhibitions/10589/beatriz-gonzalez-in-series-and-full-color",
+    "image": null,
+    "why": "미술관이 한 작가에게 내준 개인전"
+   }
+  ],
+  "opened": [
+   {
+    "id": "evt_2b92e0ea81196e45",
+    "title": "Body and Being in African Art",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "Art Institute of Chicago",
+    "city": "Chicago",
+    "country": "US",
+    "start": "2026-11-02",
+    "end": "2028-03-01",
+    "artists": [],
+    "url": "https://www.artic.edu/exhibitions/10833/body-and-being-in-african-art",
+    "image": null
+   },
+   {
+    "id": "evt_b2d779001217764c",
+    "title": "Sala de vídeo: Edgar Calel",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "MASP – Museu de Arte de São Paulo Assis Chateaubriand",
+    "city": "São Paulo",
+    "country": "BR",
+    "start": "2026-10-30",
+    "end": "2027-01-31",
+    "artists": [
+     "Sala de vídeo"
+    ],
+    "url": "https://masp.org.br/exposicoes/sala-de-video-edgar-calel",
+    "image": "https://assets.masp.org.br/uploads/exposures/ceRt8B3degGDzqaU3a8G-VOHcbT7pbO2OtMomIeSp.png"
+   },
+   {
+    "id": "evt_89e9eb6df7c53c5f",
+    "title": "Pablo Delano: O museu da antiga colônia",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "MASP – Museu de Arte de São Paulo Assis Chateaubriand",
+    "city": "São Paulo",
+    "country": "BR",
+    "start": "2026-10-30",
+    "end": "2027-01-31",
+    "artists": [
+     "Pablo Delano"
+    ],
+    "url": "https://masp.org.br/exposicoes/pablo-delano-museu-da-antiga-colonia",
+    "image": "https://assets.masp.org.br/uploads/exposures/ZYUY6WEotg5RB2akcSWa-626h43FFNyrGkCsET6MM.png"
+   },
+   {
+    "id": "evt_63658125e26651cd",
+    "title": "Rosa Elena Curruchich: crônicas de Comalapa",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "MASP – Museu de Arte de São Paulo Assis Chateaubriand",
+    "city": "São Paulo",
+    "country": "BR",
+    "start": "2026-10-30",
+    "end": "2027-04-04",
+    "artists": [
+     "Rosa Elena Curruchich"
+    ],
+    "url": "https://masp.org.br/exposicoes/rosa-elena-curruchich-cronicas-de-comalapa",
+    "image": "https://assets.masp.org.br/uploads/exposures/tfFSc1gwEOuHZ0ML18L7-bX2HpvaM18ebEa4eGBmk.jpg"
+   },
+   {
+    "id": "evt_b2dea5d027c2a0c3",
+    "title": "Focus",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "Perrotin",
+    "city": "New York",
+    "country": "US",
+    "start": "2026-10-28",
+    "end": "2026-12-19",
+    "artists": [
+     "Laurent GRASSO"
+    ],
+    "url": "https://www.perrotin.com/en/events/focus-2026-new-york",
+    "image": null
+   },
+   {
+    "id": "evt_4c21b44076218f46",
+    "title": "In the Making: La Caverne du Pont Neuf",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "Perrotin",
+    "city": "New York",
+    "country": "US",
+    "start": "2026-10-28",
+    "end": "2026-12-19",
+    "artists": [
+     "JR"
+    ],
+    "url": "https://www.perrotin.com/en/events/in-the-making-la-caverne-du-pont-neuf-2026-new-york",
+    "image": null
+   },
+   {
+    "id": "evt_3b2efb1a87411786",
+    "title": "Izumi KATO",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "Perrotin",
+    "city": "New York",
+    "country": "US",
+    "start": "2026-10-28",
+    "end": "2026-12-19",
+    "artists": [
+     "Izumi KATO"
+    ],
+    "url": "https://www.perrotin.com/en/events/untitled-2026-new-york-13216",
+    "image": null
+   },
+   {
+    "id": "evt_2c850f8026a16e90",
+    "title": "Moonwater",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "Perrotin",
+    "city": "New York",
+    "country": "US",
+    "start": "2026-10-28",
+    "end": "2026-12-19",
+    "artists": [
+     "Nancy GRAVES"
+    ],
+    "url": "https://www.perrotin.com/en/events/moonwater-2026-new-york",
+    "image": null
+   }
+  ],
+  "upcoming": [
+   {
+    "id": "evt_5e75c5ad01e4f1f8",
+    "title": "Myth Migration",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "Lisson Gallery",
+    "city": "New York",
+    "country": "US",
+    "start": "2026-11-04",
+    "end": "2027-01-09",
+    "artists": [
+     "Carmen Herrera",
+     "Huguette Caland",
+     "Hélio Oiticica",
+     "Mira Schendel"
+    ],
+    "url": "https://lisson.com/exhibitions/myth-migration",
+    "image": "https://d7ra36y65tyn0.cloudfront.net/image/553853451406/image_tmkg1inmvd5hd3pg06tln2be3e/-S3840x-FWEBP"
+   },
+   {
+    "id": "evt_7d51fc39109be585",
+    "title": "Field of Asura",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "Lisson Gallery",
+    "city": "New York",
+    "country": "US",
+    "start": "2026-11-04",
+    "end": "2027-01-09",
+    "artists": [
+     "Yu Hong"
+    ],
+    "url": "https://lisson.com/exhibitions/yu-hong-lisson-new-york",
+    "image": "https://d7ra36y65tyn0.cloudfront.net/image/553853451406/image_tmkg1inmvd5hd3pg06tln2be3e/-S3840x-FWEBP"
+   },
+   {
+    "id": "evt_e7a6e55491cf1192",
+    "title": "Yale Center for British Art, Connecticut, USA",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "Lisson Gallery",
+    "city": null,
+    "country": "US",
+    "start": "2026-11-04",
+    "end": "2027-07-11",
+    "artists": [
+     "Richard Long"
+    ],
+    "url": "https://lisson.com/exhibitions/yale-center-for-british-art-connecticut-usa",
+    "image": "https://lisson.com/_next/image?url=https%3A%2F%2Flisson-art.s3.amazonaws.com%2Fuploads%2Fattachment%2Fimage%2Fbody%2F24055%2FLA.jpg&w=3840&q=75"
+   },
+   {
+    "id": "evt_1bb926965fa959d4",
+    "title": "carlos amorales: anteparaíso",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "kurimanzutto",
+    "city": "Mexico City",
+    "country": "MX",
+    "start": "2026-11-05",
+    "end": "2026-12-16",
+    "artists": [
+     "carlos amorales"
+    ],
+    "url": "https://www.kurimanzutto.com/exhibitions/carlos-amorales-anteparaiso",
+    "image": "https://www.kurimanzutto.com/h_700"
+   },
+   {
+    "id": "evt_bc426f215b30af34",
+    "title": "Yoshitomo Nara",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "David Zwirner",
+    "city": "New York",
+    "country": "US",
+    "start": "2026-11-05",
+    "end": "2026-12-12",
+    "artists": [],
+    "url": "https://www.davidzwirner.com/exhibitions/2026/yoshitomo-nara",
+    "image": null
+   },
+   {
+    "id": "evt_66acc9b33ed49a38",
+    "title": "Jem Perucchini: Sospiro",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "David Zwirner",
+    "city": "New York",
+    "country": "US",
+    "start": "2026-11-06",
+    "end": "2026-12-19",
+    "artists": [
+     "Jem Perucchini"
+    ],
+    "url": "https://www.davidzwirner.com/exhibitions/2026/jem-perucchini",
+    "image": null
+   },
+   {
+    "id": "evt_871eae3639128d9b",
+    "title": "Sara Ramo: a fúria dos restos vivos",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "Pinacoteca de São Paulo",
+    "city": "São Paulo",
+    "country": "BR",
+    "start": "2026-11-07",
+    "end": "2027-04-18",
+    "artists": [
+     "Sara Ramo"
+    ],
+    "url": "https://pinacoteca.org.br/programacao/exposicoes/sara-ramo/",
+    "image": null
+   },
+   {
+    "id": "evt_cba2ca58c751d498",
+    "title": "Voice Leading",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "Mendes Wood DM",
+    "city": "São Paulo",
+    "country": "BR",
+    "start": "2026-11-07",
+    "end": null,
+    "artists": [],
+    "url": "https://mendeswooddm.com/exhibitions/429-voice-leading-peter-shear/",
+    "image": "https://static-assets.artlogic.net/w_1200,c_limit,f_auto,fl_lossy,q_auto,dpr_auto/ws-mendeswood/usr/images/exhibitions/main_image_override/429/mw.psh.091-d1-to-al.jpg"
+   },
+   {
+    "id": "evt_e9213cea34f335a6",
+    "title": "Atrás da superfície",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "Mendes Wood DM",
+    "city": "São Paulo",
+    "country": "BR",
+    "start": "2026-11-07",
+    "end": null,
+    "artists": [],
+    "url": "https://mendeswooddm.com/exhibitions/428-atras-da-superficie-paulo-monteiro/",
+    "image": "https://static-assets.artlogic.net/w_1200,c_limit,f_auto,fl_lossy,q_auto,dpr_auto/ws-mendeswood/usr/images/exhibitions/main_image_override/428/261013eeo_mwdm_067-to-al.jpg"
+   },
+   {
+    "id": "evt_e03e28855e90fda2",
+    "title": "Sage-Based Drag Night",
+    "kind": "museum",
+    "type": "program",
+    "venue": "The Broad",
+    "city": "Los Angeles",
+    "country": "US",
+    "start": "2026-11-08",
+    "end": null,
+    "artists": [],
+    "url": "https://www.thebroad.org/events/sage-based-drag-night",
+    "image": "https://www.thebroad.org/sites/default/files/styles/broad_380px_square/public/2026-09/Bohenne%20Arreaux.jpg.webp?itok=J29wO_JH"
+   },
+   {
+    "id": "evt_63d91c8d51dfae82",
+    "title": "成長物 성장물",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "Mendes Wood DM",
+    "city": "New York",
+    "country": "US",
+    "start": "2026-11-11",
+    "end": "2027-01-09",
+    "artists": [],
+    "url": "https://mendeswooddm.com/exhibitions/427-eunnam-hong/",
+    "image": "https://static-assets.artlogic.net/w_1200,c_limit,f_auto,fl_lossy,q_auto,dpr_auto/ws-mendeswood/usr/images/exhibitions/main_image_override/427/mw-eho-031-1-5-image.jpg"
+   },
+   {
+    "id": "evt_68e397278bd047b7",
+    "title": "Nairy Baghramian nameless",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "Marian Goodman Gallery",
+    "city": "New York",
+    "country": "US",
+    "start": "2026-11-11",
+    "end": "2027-01-16",
+    "artists": [],
+    "url": "https://www.mariangoodman.com/exhibitions/639-nairy-baghramian-nameless/",
+    "image": null
+   }
+  ],
+  "closing": [
+   {
+    "id": "evt_032bfbbea9c404f8",
+    "title": "Robert Nideffer: 12 Years in Azeroth – The Journey Begins",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "Whitney Museum of American Art",
+    "city": "New York",
+    "country": "US",
+    "start": "2025-11-04",
+    "end": "2026-11-04",
+    "artists": [
+     "Robert Nideffer"
+    ],
+    "url": "https://whitney.org/exhibitions/12-years-in-azeroth",
+    "image": "https://whitneymedia.org/assets/image/833002/12_years_screenshot_1.png"
+   },
+   {
+    "id": "evt_8542fbd3bafee4b3",
+    "title": "Cantaria",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "Mendes Wood DM",
+    "city": "São Paulo",
+    "country": "BR",
+    "start": "2026-08-22",
+    "end": "2026-11-06",
+    "artists": [],
+    "url": "https://mendeswooddm.com/exhibitions/418-cantaria-daniel-jorge/",
+    "image": "https://static-assets.artlogic.net/w_1200,c_limit,f_auto,fl_lossy,q_auto,dpr_auto/ws-mendeswood/usr/images/exhibitions/main_image_override/418/ggr_0619_tiff-to-al.jpg"
+   },
+   {
+    "id": "evt_b7951fee27d477ad",
+    "title": "Déboussolé est le mot exact",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "Mendes Wood DM",
+    "city": "São Paulo",
+    "country": "BR",
+    "start": "2026-08-22",
+    "end": "2026-11-06",
+    "artists": [],
+    "url": "https://mendeswooddm.com/exhibitions/420-deboussole-est-le-mot-exact-jean-claracq/",
+    "image": "https://static-assets.artlogic.net/w_1200,c_limit,f_auto,fl_lossy,q_auto,dpr_auto/ws-mendeswood/usr/images/exhibitions/main_image_override/420/ggr_0527_tiff-to-al.jpg"
+   },
+   {
+    "id": "evt_a79274c654230fac",
+    "title": "Olympia",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "Perrotin",
+    "city": "Los Angeles",
+    "country": "US",
+    "start": "2026-09-18",
+    "end": "2026-11-07",
+    "artists": [
+     "Paul PFEIFFER"
+    ],
+    "url": "https://www.perrotin.com/en/events/olympia-2026-los-angeles",
+    "image": null
+   },
+   {
+    "id": "evt_25845abd8ac026c9",
+    "title": "Form Follows Feeling",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "Lisson Gallery",
+    "city": "Los Angeles",
+    "country": "US",
+    "start": "2026-09-18",
+    "end": "2026-11-07",
+    "artists": [
+     "Oliver Lee Jackson"
+    ],
+    "url": "https://lisson.com/exhibitions/form-follows-feeling",
+    "image": "https://d7ra36y65tyn0.cloudfront.net/image/553853451406/image_0vdk8svo751v54qpts1j127u3h/-S3840x-FWEBP"
+   },
+   {
+    "id": "evt_53cf6c26e5c10ac5",
+    "title": "Shahzia Sikander: The Last Post",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "Smithsonian American Art Museum",
+    "city": "Washington",
+    "country": "US",
+    "start": "2025-07-03",
+    "end": "2026-11-08",
+    "artists": [
+     "Shahzia Sikander"
+    ],
+    "url": "https://americanart.si.edu/exhibitions/shahzia-sikander-last-post",
+    "image": null
+   },
+   {
+    "id": "evt_a0fead74de2226fa",
+    "title": "Self, Made: Fourteen Modern Artists from the Richard and Ellen Sandor Family Collection",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "Art Institute of Chicago",
+    "city": "Chicago",
+    "country": "US",
+    "start": "2026-06-25",
+    "end": "2026-11-09",
+    "artists": [
+     "Bill Traylor",
+     "Eddie Arning",
+     "Jesse Howard",
+     "Joseph Yoakum",
+     "Kara Walker",
+     "Lee Godie"
+    ],
+    "url": "https://www.artic.edu/exhibitions/10587/self-made-fourteen-modern-artists-from-the-richard-and-ellen-sandor-family-collection",
+    "image": "https://www.artic.edu/iiif/2/24b098d6-f7b7-54e7-785d-08d8fa87887d/full/843,/0/default.jpg"
+   }
+  ],
+  "cities": [
+   {
+    "city": "New York",
+    "count": 31
+   },
+   {
+    "city": "São Paulo",
+    "count": 15
+   },
+   {
+    "city": "Chicago",
+    "count": 14
+   },
+   {
+    "city": "Los Angeles",
+    "count": 8
+   },
+   {
+    "city": "Ciudad de México",
+    "count": 7
+   },
+   {
+    "city": "San Francisco",
+    "count": 7
+   }
+  ]
+ },
+ "galleries": {
+  "openings": [
+   {
+    "id": "evt_3b2efb1a87411786",
+    "title": "Izumi KATO",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "Perrotin",
+    "city": "New York",
+    "country": "US",
+    "start": "2026-10-28",
+    "end": "2026-12-19",
+    "artists": [
+     "Izumi KATO"
+    ],
+    "url": "https://www.perrotin.com/en/events/untitled-2026-new-york-13216",
+    "image": null
+   },
+   {
+    "id": "evt_2c850f8026a16e90",
+    "title": "Moonwater",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "Perrotin",
+    "city": "New York",
+    "country": "US",
+    "start": "2026-10-28",
+    "end": "2026-12-19",
+    "artists": [
+     "Nancy GRAVES"
+    ],
+    "url": "https://www.perrotin.com/en/events/moonwater-2026-new-york",
+    "image": null
+   },
+   {
+    "id": "evt_4c21b44076218f46",
+    "title": "In the Making: La Caverne du Pont Neuf",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "Perrotin",
+    "city": "New York",
+    "country": "US",
+    "start": "2026-10-28",
+    "end": "2026-12-19",
+    "artists": [
+     "JR"
+    ],
+    "url": "https://www.perrotin.com/en/events/in-the-making-la-caverne-du-pont-neuf-2026-new-york",
+    "image": null
+   },
+   {
+    "id": "evt_b2dea5d027c2a0c3",
+    "title": "Focus",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "Perrotin",
+    "city": "New York",
+    "country": "US",
+    "start": "2026-10-28",
+    "end": "2026-12-19",
+    "artists": [
+     "Laurent GRASSO"
+    ],
+    "url": "https://www.perrotin.com/en/events/focus-2026-new-york",
+    "image": null
+   }
+  ],
+  "news": []
+ },
+ "rookie": {
+  "people": [
+   {
+    "name": "Margaret Honda",
+    "status": "지켜볼 신진",
+    "watch": true,
+    "award": "Audain Visual Artist in Residence 2026 가을",
+    "track": "경력 제한 없는 상·선정",
+    "genre": "영상·설치",
+    "why": "e-flux 공지 — 레지던시 초청 작가.",
+    "weight": {
+     "points": 2,
+     "level": "낮음",
+     "reasons": [
+      "주최 사이먼프레이저대 현대예술학교(국제 기관) +2"
+     ]
+    },
+    "checks": [
+     {
+      "rule": "R01 공식 선정",
+      "ok": true,
+      "detail": "Audain Visual Artist in Residence 2026 가을 — 보도 1곳"
+     },
+     {
+      "rule": "R02 초기 경력",
+      "ok": null,
+      "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+     },
+     {
+      "rule": "R03 독립 확인",
+      "ok": null,
+      "detail": "이름 검색을 하지 않음(한국어 뉴스 검색만 지원) — 편집자 확인 필요"
+     },
+     {
+      "rule": "R05 지속성(후속 지원)",
+      "ok": true,
+      "detail": "상에 딸린 후속 지원: 레지던시"
+     }
+    ],
+    "homonym_note": null
+   },
+   {
+    "name": "Sandra Mujinga",
+    "status": "지켜볼 신진",
+    "watch": true,
+    "award": "메트로폴리탄미술관 2027 파사드·그레이트홀 커미션",
+    "track": "경력 제한 없는 상·선정",
+    "genre": "설치·영상",
+    "why": "메트 그레이트홀 커미션 선정. 미주 대형 기관 선정.",
+    "weight": {
+     "points": 2,
+     "level": "낮음",
+     "reasons": [
+      "주최 The Metropolitan Museum of Art(국제 기관) +2"
+     ]
+    },
+    "checks": [
+     {
+      "rule": "R01 공식 선정",
+      "ok": true,
+      "detail": "메트로폴리탄미술관 2027 파사드·그레이트홀 커미션 — 보도 2곳"
+     },
+     {
+      "rule": "R02 초기 경력",
+      "ok": null,
+      "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+     },
+     {
+      "rule": "R03 독립 확인",
+      "ok": null,
+      "detail": "이름 검색을 하지 않음(한국어 뉴스 검색만 지원) — 편집자 확인 필요"
+     },
+     {
+      "rule": "R05 지속성(후속 지원)",
+      "ok": true,
+      "detail": "상에 딸린 후속 지원: 신작 제작·설치"
+     }
+    ],
+    "homonym_note": null
+   },
+   {
+    "name": "Danh Vo",
+    "status": "기성 작가",
+    "watch": false,
+    "award": "메트로폴리탄미술관 2027 파사드·그레이트홀 커미션",
+    "track": "경력 제한 없는 상·선정",
+    "genre": "설치",
+    "why": "같은 달 이사무 노구치상도 수상 — 기성 작가로 분류.",
+    "weight": {
+     "points": 2,
+     "level": "낮음",
+     "reasons": [
+      "주최 The Metropolitan Museum of Art(국제 기관) +2"
+     ]
+    },
+    "checks": [
+     {
+      "rule": "R01 공식 선정",
+      "ok": true,
+      "detail": "메트로폴리탄미술관 2027 파사드·그레이트홀 커미션 — 보도 2곳"
+     },
+     {
+      "rule": "R02 초기 경력",
+      "ok": true,
+      "detail": "편집 확인: 기성 — 2015 베니스 덴마크관 대표"
+     },
+     {
+      "rule": "R03 독립 확인",
+      "ok": null,
+      "detail": "이름 검색을 하지 않음(한국어 뉴스 검색만 지원) — 편집자 확인 필요"
+     },
+     {
+      "rule": "R05 지속성(후속 지원)",
+      "ok": true,
+      "detail": "상에 딸린 후속 지원: 신작 제작·설치"
+     }
+    ],
+    "homonym_note": null
+   },
+   {
+    "name": "Christine Sun Kim",
+    "status": "기성 작가",
+    "watch": false,
+    "award": "2026 MacArthur Fellowship",
+    "track": "기성 작가 상",
+    "genre": "사운드·드로잉",
+    "why": null,
+    "weight": {
+     "points": 2,
+     "level": "낮음",
+     "reasons": [
+      "주최 MacArthur Foundation(국제 기관) +2"
+     ]
+    },
+    "checks": [
+     {
+      "rule": "R01 공식 선정",
+      "ok": true,
+      "detail": "2026 MacArthur Fellowship — 보도 2곳"
+     },
+     {
+      "rule": "R02 초기 경력",
+      "ok": null,
+      "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+     },
+     {
+      "rule": "R03 독립 확인",
+      "ok": null,
+      "detail": "이름 검색을 하지 않음(한국어 뉴스 검색만 지원) — 편집자 확인 필요"
+     },
+     {
+      "rule": "R05 지속성(후속 지원)",
+      "ok": null,
+      "detail": "상에 딸린 후속 지원: 보도에 없음"
+     }
+    ],
+    "homonym_note": null
+   },
+   {
+    "name": "Rodney McMillian",
+    "status": "기성 작가",
+    "watch": false,
+    "award": "2026 MacArthur Fellowship",
+    "track": "기성 작가 상",
+    "genre": null,
+    "why": null,
+    "weight": {
+     "points": 2,
+     "level": "낮음",
+     "reasons": [
+      "주최 MacArthur Foundation(국제 기관) +2"
+     ]
+    },
+    "checks": [
+     {
+      "rule": "R01 공식 선정",
+      "ok": true,
+      "detail": "2026 MacArthur Fellowship — 보도 2곳"
+     },
+     {
+      "rule": "R02 초기 경력",
+      "ok": null,
+      "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+     },
+     {
+      "rule": "R03 독립 확인",
+      "ok": null,
+      "detail": "이름 검색을 하지 않음(한국어 뉴스 검색만 지원) — 편집자 확인 필요"
+     },
+     {
+      "rule": "R05 지속성(후속 지원)",
+      "ok": null,
+      "detail": "상에 딸린 후속 지원: 보도에 없음"
+     }
+    ],
+    "homonym_note": null
+   }
+  ],
+  "awards": [
+   {
+    "award": "2026 MacArthur Fellowship",
+    "organizer": "MacArthur Foundation",
+    "weight": {
+     "points": 2,
+     "level": "낮음",
+     "reasons": [
+      "주최 MacArthur Foundation(국제 기관) +2"
+     ]
+    },
+    "track": "기성 작가 상",
+    "track_reason": "이미 국제 기관 전시 이력이 많은 작가 — 작가 포커스 대상.",
+    "winners": [
+     "Christine Sun Kim",
+     "Rodney McMillian"
+    ],
+    "url": null,
+    "date": null
+   },
+   {
+    "award": "메트로폴리탄미술관 2027 파사드·그레이트홀 커미션",
+    "organizer": "The Metropolitan Museum of Art",
+    "weight": {
+     "points": 2,
+     "level": "낮음",
+     "reasons": [
+      "주최 The Metropolitan Museum of Art(국제 기관) +2"
+     ]
+    },
+    "track": "경력 제한 없는 상·선정",
+    "track_reason": "공모가 아니라 미술관 지명. 경력 제한 없음.",
+    "winners": [
+     "Danh Vo",
+     "Sandra Mujinga"
+    ],
+    "url": "https://hyperallergic.com/danh-vo-and-sandra-mujinga-selected-for-met-museum-commissions/",
+    "date": "2026-10-15"
+   },
+   {
+    "award": "Audain Visual Artist in Residence 2026 가을",
+    "organizer": "사이먼프레이저대 현대예술학교",
+    "weight": {
+     "points": 2,
+     "level": "낮음",
+     "reasons": [
+      "주최 사이먼프레이저대 현대예술학교(국제 기관) +2"
+     ]
+    },
+    "track": "경력 제한 없는 상·선정",
+    "track_reason": "대학 레지던시 초청. 경력 제한 없음.",
+    "winners": [
+     "Margaret Honda"
+    ],
+    "url": "https://www.e-flux.com/announcements/6787799/fall-2026-audain-visual-artist-in-residence-margaret-honda",
+    "date": "2026-10-09"
+   }
+  ]
+ },
+ "criticism": [
+  {
+   "title": "“The Man I Love” Wants Us to Do More Than Mourn",
+   "url": "https://hyperallergic.com/the-man-i-love-wants-us-to-do-more-than-mourn/",
+   "date": "2026-11-02",
+   "type": "review",
+   "outlet": "Hyperallergic",
+   "title_ko": "\"내가 사랑하는 사람\"은 우리가 슬퍼하는 것 이상을하기를 원한다."
+  },
+  {
+   "title": "Ana Mendieta's Lasting Imprint on Art",
+   "url": "https://hyperallergic.com/ana-mendietas-lasting-imprint-on-art/",
+   "date": "2026-11-02",
+   "type": "review",
+   "outlet": "Hyperallergic",
+   "title_ko": null
+  },
+  {
+   "title": "Converge 45 2026 Review: A Generative Encounter",
+   "url": "https://artreview.com/converge-45-2026-here-to-you-now-portland-review-qingyuan-deng/",
+   "date": "2026-11-02",
+   "type": "review",
+   "outlet": "ArtReview",
+   "title_ko": null
+  },
+  {
+   "title": "Louis Eisner by Addis Goldman",
+   "url": "https://bombmagazine.org/articles/2026/11/02/louis-eisner-by-addis-goldman",
+   "date": "2026-11-02",
+   "type": "interview",
+   "outlet": "BOMB Magazine",
+   "title_ko": null
+  },
+  {
+   "title": "Tom McCarthy’s *The Rhyl Poster*",
+   "url": "https://www.e-flux.com/criticism/6782490/tom-mccarthy-s-the-rhyl-poster",
+   "date": "2026-10-31",
+   "type": "review",
+   "outlet": "e-flux Criticism",
+   "title_ko": null
+  },
+  {
+   "title": "New book explores how Ukraine’s artists are shaping the memory of war",
+   "url": "https://www.theartnewspaper.com/2026/10/30/new-book-explores-how-ukraines-artists-are-shaping-the-memory-of-war",
+   "date": "2026-10-30",
+   "type": "review",
+   "outlet": "The Art Newspaper",
+   "title_ko": "새로운 책은 우크라이나의 예술가들이 전쟁의 기억을 형성하는 방법을 탐구한다."
+  },
+  {
+   "title": "Are There Lessons to Be Learned From Gen X?",
+   "url": "https://artreview.com/gen-x-tales-from-the-forgotten-generation-deste-foundation-athens-review-stephanie-bailey/",
+   "date": "2026-10-30",
+   "type": "review",
+   "outlet": "ArtReview",
+   "title_ko": null
+  },
+  {
+   "title": "REONA by C. Spencer Yeh",
+   "url": "https://bombmagazine.org/articles/2026/10/30/reona-by-c-spencer-yeh",
+   "date": "2026-10-30",
+   "type": "interview",
+   "outlet": "BOMB Magazine",
+   "title_ko": null
+  },
+  {
+   "title": "Before AI There Was the Octopus",
+   "url": "https://hyperallergic.com/before-ai-there-was-the-octopus/",
+   "date": "2026-10-29",
+   "type": "review",
+   "outlet": "Hyperallergic",
+   "title_ko": null
+  },
+  {
+   "title": "Busan Biennale 2026 Review: Let’s Misbehave!",
+   "url": "https://artreview.com/busan-biennale-2026-dissident-chorus-review-mark-rappolt/",
+   "date": "2026-10-29",
+   "type": "review",
+   "outlet": "ArtReview",
+   "title_ko": null
+  }
+ ],
+ "fairs": [
+  {
+   "id": "evt_11de4658c813d572",
+   "title": "NADA Miami 2026",
+   "kind": "fair",
+   "type": "fair_edition",
+   "venue": "New Art Dealers Alliance (NADA)",
+   "city": "Miami",
+   "country": "US",
+   "start": "2026-12-01",
+   "end": "2026-12-05",
+   "artists": [],
+   "url": "https://www.newartdealers.org/fairs/nada-miami-2026",
+   "image": null,
+   "status": "개막 예정",
+   "d_day": 29
+  }
+ ],
+ "stats": {
+  "articles_7d": 24,
+  "stories_7d": 23
+ }
+}

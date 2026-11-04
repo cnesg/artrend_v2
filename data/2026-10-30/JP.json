@@ -1,0 +1,2232 @@
+{
+ "date": "2026-10-30",
+ "edition": "JP",
+ "edition_ko": "일본",
+ "edition_en": "Japan",
+ "slug": "jp",
+ "publishable": false,
+ "headlines": [
+  {
+   "title": "Kohei Kobayashi, 전시장과 뉴스에 동시 등장",
+   "dek": "지금 전시 중이고, 해외 매체도 주목했다.",
+   "power": 2,
+   "power_label": "눈에 띄는 신호",
+   "axis": "작가",
+   "points": [
+    "지금 볼 수 있는 곳: ANOMALY 《Reflection Cycle Picture / Sky…》, 11월 8일까지"
+   ],
+   "about": "Kohei Kobayashi — 관련 전시와 기사:",
+   "what": [
+    "《Reflection Cycle Picture / Sky / Thing》 — ANOMALY(도쿄), 10월 10일–11월 8일 · 작가 Kohei Kobayashi",
+    "ANOMALY 10/30: ‘Kohei Kobayashi｜Kohei Kobayashi x core of bells “Control Manual”’"
+   ],
+   "evidence": "서로 다른 경로 2곳 이상에서 동시에 보이는 작가 1명(전시 ±30일·보도 7일) — 전시와 보도에 함께 나온 작가 1명. Kohei Kobayashi(전시 1 · 보도 1).",
+   "read": "",
+   "items": [],
+   "tags": [
+    "Kohei Kobayashi"
+   ],
+   "image": "https://anomalytokyo.com/log/wp-content/uploads/2026/09/反省サイクル_映像タイトル_ol-500x313.jpg",
+   "after": false
+  },
+  {
+   "title": "Art Collaboration Kyoto 2026 D-8, 갤러리는 숨 고르기",
+   "dek": "최근 2주 갤러리 개막은 1개뿐 — 힘은 페어 부스 준비로 쏠렸다.",
+   "power": 2,
+   "power_label": "눈에 띄는 신호",
+   "axis": "갤러리",
+   "points": [
+    "관전 포인트: 누가 어떤 작가를 부스에 거느냐."
+   ],
+   "about": "Art Collaboration Kyoto 2026는 교토에서 11월 7일–11월 9일 열리는 아트페어다. 페어가 코앞이라 갤러리 자체 전시는 최근 2주 1개만 새로 열렸다:",
+   "what": [
+    "《Ugo Rondinone: 침묵 형성(Ugo Rondinone: shaping silence)》 — Sadie Coles HQ(교토), 10월 27일–11월 12일"
+   ],
+   "evidence": "갤러리 개막 1건(최근 14일) — Sadie Coles HQ 1. 갤러리 공식 소식 1건(최근 7일)",
+   "read": "갤러리 공식 소식은 전시 공지 위주다.",
+   "items": [
+    "Ugo Rondinone: shaping silence",
+    "[Art Week Tokyo 2026](https://anomalytokyo.com/en/news/artweektokyo2026/)"
+   ],
+   "tags": [
+    "갤러리"
+   ],
+   "image": null,
+   "after": false
+  },
+  {
+   "title": "Mori Art Award 받은 Katayama Mari, 모리미술관서 개인전 10월 31일 개막",
+   "dek": "10월 31일–2027년 3월 28일. 상금보다 큰 보상, 미술관이라는 다음 무대.",
+   "power": 2,
+   "power_label": "눈에 띄는 신호",
+   "axis": "신진 경로",
+   "points": [],
+   "about": "Mori Art Museum(도쿄)에서 상·신진 작가 전시 《Mori Art Award 2026 Grand Prize Exhibition》가 10월 31일 문을 연다. 참여 작가: Katayama Mari.",
+   "what": [
+    "《Mori Art Award 2026 Grand Prize Exhibition: Katayama Mari》 — Mori Art Museum(도쿄), 10월 31일–2027년 3월 28일"
+   ],
+   "evidence": "수상·신진 전시 Mori Art Award 2026 Grand Prize Exhibition: Katayama Mari(10-31)(이번 주~2주 뒤 개막).",
+   "read": "제목에 상·신진 표기가 있는 전시만 잡는다",
+   "items": [
+    "Mori Art Award 2026 Grand Prize Exhibition: Katayama Mari"
+   ],
+   "tags": [
+    "신진 경로"
+   ],
+   "image": "https://www.mori.art.museum/assets_c/2026/05/bnr_moricaf2026_1280_en-thumb-450xauto-17991.jpg",
+   "after": false
+  },
+  {
+   "title": "이번 주 전시 키워드: 기후와 자연",
+   "dek": "《Sterling Ruby “OCEAN”》(Taka Ishii Gallery), 《Glacier Diary》(KOTARO NUKAGA) — 같은 주, 전시 2곳이 같은 주제를 꺼냈다.",
+   "power": 2,
+   "power_label": "눈에 띄는 신호",
+   "axis": "주제",
+   "points": [
+    "기후 위기가 전시장의 의제가 됐다."
+   ],
+   "about": "어떤 전시인지:",
+   "what": [
+    "《Sterling Ruby “OCEAN”》 — Taka Ishii Gallery(도쿄), 11월 4일–12월 12일",
+    "《Glacier Diary》 — KOTARO NUKAGA(도쿄), 10월 31일–12월 19일"
+   ],
+   "evidence": "주제 '기후와 자연' — 전시 2건, 서로 다른 기관·소식 2곳(전시: 이번 주~2주 뒤 개막, 보도·비평: 최근 7일).",
+   "read": "키워드 기준 자동 판단이다 — 같은 단어가 다른 뜻으로 쓰였을 수 있으니 원문을 확인한 뒤 기사화한다.",
+   "items": [
+    "Sterling Ruby “OCEAN”",
+    "Glacier Diary"
+   ],
+   "tags": [
+    "주제"
+   ],
+   "image": "https://www.takaishiigallery.com/en/wp-content/uploads/SR-WP_26_9210_72dpi_1200px.jpg",
+   "after": false
+  },
+  {
+   "title": "비평 14편, 한 전시로 모이지 않았다",
+   "dek": "관심이 흩어진 주 — 먼저 읽을 글은 '자세히'에.",
+   "power": 1,
+   "power_label": "참고",
+   "axis": "비평",
+   "points": [],
+   "about": "먼저 읽을 글:",
+   "what": [
+    "Bijutsu Techo 10/30: ‘故郷を離れて見えてきたもの。ワン・トゥオ×ルオ・ヤンが語る、身体と記憶、そして歴史’ (원문 — 자동 번역이 부정확해 싣지 않음)",
+    "artscape 10/30: ‘松房子｜中島崇個展 水跡 – traces of energy –’ (원문 — 자동 번역이 부정확해 싣지 않음)",
+    "美術評論＋ 10/30: ‘남자가 계단을 올라갈 때’",
+    "artscape 10/30: ‘아코 Sugie | 길 위에?’"
+   ],
+   "evidence": "비평·리뷰·인터뷰 14건(최근 7일) — review 10, interview 3, criticism 1 · 매체 artscape 5, 美術評論＋ 5, Bijutsu Techo 4.",
+   "read": "같은 전시·작가에 서로 다른 매체의 글이 2개 이상 모이면 '비평의 관점'으로 묶는다. 이번 주 글 목록은 4장 '글로벌 비평'.",
+   "items": [
+    "[故郷を離れて見えてきたもの。ワン・トゥオ×ルオ・ヤンが語る、身体と記憶、そして歴史](https://bijutsutecho.com/magazine/interview/33256)",
+    "[松房子｜中島崇個展 水跡 – traces of energy –](https://artscape.jp/article/80347/)",
+    "[男が階段を上る時 市原尚士評](https://critique.aicajapan.com/20925)"
+   ],
+   "tags": [
+    "비평"
+   ],
+   "image": null,
+   "after": false
+  },
+  {
+   "title": "미술관들, 새 시즌 개막",
+   "dek": "Fukuoka Asian Art Museum, The National Art Center, Tokyo 등 4곳에서 새 전시 5개.",
+   "power": 1,
+   "power_label": "참고",
+   "axis": "기관",
+   "points": [],
+   "about": "이번 주 미술관·기관에서 새로 시작한 전시:",
+   "what": [
+    "《쇼조 만화 인피니티: 모토 하기오, 야마기시 료코, 야마토 와키(Shojo Manga Infinity: Moto Hagio, Ryoko…)》 — The National Art Center, Tokyo(도쿄), 10월 28일–2027년 2월 8일",
+    "《보석 꿈 누구(ジュエリーは、誰を夢みる)》 — 京都国立近代美術館(교토), 10월 24일–2027년 1월 17일",
+    "《2026 제3회 컬렉션 전시회(2026年度 第3回コレクション展)》 — 京都国立近代美術館(교토), 10월 24일–2027년 1월 17일",
+    "《Tate Museum 터너 전시회 — 숭고한 그림, cont 예술과의 대화(テート美術館 ターナー展――崇高の絵画、現代美術との対話)》 — 国立西洋美術館(도쿄), 10월 24일–2027년 2월 21일"
+   ],
+   "evidence": "미술관·기관 개막 5건(최근 7일) — Fukuoka Asian Art Museum, The National Art Center, Tokyo, 京都国立近代美術館, 国立西洋美術館.",
+   "read": "기관 쪽은 전시 개막 외에 소장·인사 변화가 데이터로 잡히지 않았다(뉴스 축에서 확인).",
+   "items": [
+    "Shojo Manga Infinity: Moto Hagio, Ryoko Yamagishi, and Waki Yamato",
+    "ジュエリーは、誰を夢みる",
+    "2026年度 第3回コレクション展"
+   ],
+   "tags": [
+    "기관"
+   ],
+   "image": "https://www.nact.jp/english/exhibition_special/media/banner_1920_1080px_fin.jpg",
+   "after": false
+  },
+  {
+   "title": "Tokyo Arts and Space, 신진 작가 선정 진행 중",
+   "dek": "누가 뽑히는지, 그 다음 무대는 어디인지 — ROOKIE RADAR에서 이어서 본다.",
+   "power": 1,
+   "power_label": "참고",
+   "axis": "수상·루키",
+   "points": [],
+   "about": "관련 전시·기사:",
+   "what": [
+    "《OPEN SITE 11》 — Tokyo Arts and Space(도쿄), 11월 21일–2027년 2월 7일",
+    "《LIU Zihan “When Error Appears”》 — Tokyo Arts and Space(도쿄), 11월 21일–12월 20일"
+   ],
+   "evidence": "판단한 수상·선정 4건(최근 30일) — 신진 대상 0 · 경력 무관 3 · 기성 1. 기관 공식 공모·레지던시 선정 6건 — Tokyo Arts and Space.",
+   "read": "신진 발굴 경로가 어디서 열리는지 본다 — 상세 판단은 홈의 ROOKIE RADAR.",
+   "items": [
+    "OPEN SITE 11",
+    "LIU Zihan “When Error Appears”"
+   ],
+   "tags": [
+    "수상·루키"
+   ],
+   "image": "https://www.tokyoartsandspace.jp/static/page/54038/74377/briddzExA1.jpg",
+   "after": false
+  },
+  {
+   "title": "이번 주, 크게 터진 뉴스는 없었다",
+   "dek": "대신 전시·수상 쪽 흐름을 위에서 짚었다.",
+   "power": 1,
+   "power_label": "참고",
+   "axis": "보도",
+   "points": [],
+   "about": "관련 기사:",
+   "what": [
+    "ANOMALY 10/30: ‘Yusuke Asak, Yayoi Deki, Daisuke Takahashi｜Artful Living from Ginza’"
+   ],
+   "evidence": "기사 39건 → 같은 소식 묶음 37개(최근 7일) — 그 밖의 소식 15, 비평·리뷰 13, 전시·프로그램 7.",
+   "read": "화제성(보도 확산)은 중요도와 다르다 — 중요도는 아래 '주요 소식'의 기준 판정을 본다.",
+   "items": [],
+   "tags": [
+    "보도"
+   ],
+   "image": null,
+   "after": false
+  },
+  {
+   "title": "이번 주 교토 전시, 미술관이 판을 이끈다",
+   "dek": "새로 문을 연 전시 6개.",
+   "power": 1,
+   "power_label": "참고",
+   "axis": "전시",
+   "points": [
+    "눈여겨볼 전시: 《ジュエリーは、誰を夢みる》 · 《2026年度 第3回コレクション展》"
+   ],
+   "about": "이번 주 교토에서 문을 연 전시:",
+   "what": [
+    "《보석 꿈 누구(ジュエリーは、誰を夢みる)》 — 京都国立近代美術館(교토), 10월 24일–2027년 1월 17일",
+    "《2026 제3회 컬렉션 전시회(2026年度 第3回コレクション展)》 — 京都国立近代美術館(교토), 10월 24일–2027년 1월 17일",
+    "《Tate Museum 터너 전시회 — 숭고한 그림, cont 예술과의 대화(テート美術館 ターナー展――崇高の絵画、現代美術との対話)》 — 国立西洋美術館(도쿄), 10월 24일–2027년 2월 21일"
+   ],
+   "evidence": "지난 7일 개막 6건(직전 4주 수집 14건뿐이라 증감 비교 보류) — 갤러리 1 · 미술관·기관 5 · 도시 Kyoto 3, Tokyo 2. 앞으로 2주 개막 예정 18건.",
+   "read": "이 에디션은 일 단위 전시 수집이 최근에야 쌓이기 시작해 '평소'를 아직 말할 수 없다 — 숫자는 이번 주 현황으로만 읽는다. 이번 주 흐름은 미술관·기관 쪽이 주도한다.",
+   "items": [
+    "ジュエリーは、誰を夢みる",
+    "2026年度 第3回コレクション展",
+    "テート美術館 ターナー展――崇高の絵画、現代美術との対話"
+   ],
+   "tags": [
+    "전시"
+   ],
+   "image": null,
+   "after": false
+  }
+ ],
+ "keywords": [
+  {
+   "label": "건축",
+   "kind": "매체",
+   "n": 2,
+   "sources": 2,
+   "rise": "평소의 6.6배",
+   "lift": 6.58,
+   "score": 2.485,
+   "note": "이번 주 2건 · 평소의 6.6배",
+   "examples": [
+    {
+     "title": "“오래된 건물이 남아 있지 않은 사회”. 교토 현대 건축 축제, 카사하라, 건축 붐과 보존의 위기",
+     "url": "https://bijutsutecho.com/magazine/interview/33245",
+     "date": "2026-10-29"
+    },
+    {
+     "title": "아코 Sugie | DOCOMOMO Japan 300 선정 기념 \"모단 무부멘토와 건축의 오늘\"",
+     "url": "https://artscape.jp/article/80557/",
+     "date": "2026-10-27"
+    }
+   ]
+  },
+  {
+   "label": "Kohei Kobayashi",
+   "kind": "작가",
+   "n": 2,
+   "sources": null,
+   "rise": "이번 주 화제",
+   "lift": null,
+   "score": 0,
+   "note": "보도 1 · 전시 1",
+   "examples": [
+    {
+     "title": "Kohei Kobayashi｜Kohei Kobayashi x core of bells “Control Manual”",
+     "url": "https://anomalytokyo.com/en/news/kohei-kobayashi_control-manual/",
+     "date": null
+    }
+   ]
+  }
+ ],
+ "top": {
+  "trending": [
+   {
+    "title": "모리미술관 《Mariko Mori》",
+    "url": "https://www.mori.art.museum/en/exhibitions/marikomori/index.html",
+    "date": "2026-10-31",
+    "ago": "개막 D-1",
+    "topic": "체크",
+    "image": "https://www.mori.art.museum/assets_c/2026/09/bnr_mori_mariko_1280_260916_en-thumb-1280x640-19119.jpg",
+    "reason": "오늘 헤드라인에 오른 기관"
+   },
+   {
+    "title": "모리미술관 《MAM Screen 024》",
+    "url": "https://www.mori.art.museum/en/exhibitions/mamscreen024/index.html",
+    "date": "2026-10-31",
+    "ago": "개막 D-1",
+    "topic": "체크",
+    "image": "https://www.mori.art.museum/assets_c/2026/09/bnr_mams024_1280_en-thumb-450xauto-18966.jpg",
+    "reason": "오늘 헤드라인에 오른 기관"
+   },
+   {
+    "title": "모리미술관 《MAM Project 035》",
+    "url": "https://www.mori.art.museum/en/exhibitions/mamproject035/index.html",
+    "date": "2026-10-31",
+    "ago": "개막 D-1",
+    "topic": "체크",
+    "image": "https://www.mori.art.museum/assets_c/2026/08/bnr_mamproject035_1280_en-thumb-450xauto-18859.jpg",
+    "reason": "오늘 헤드라인에 오른 기관"
+   }
+  ],
+  "rookie": {
+   "title": "窪田望, 지켜볼 신진",
+   "dek": "AI가 만드는 '보이지 않는 배제'를 다룬 《AIが消し去る声》로 일본인 유일 수상.",
+   "label": "Rookie Radar"
+  },
+  "gallery": {
+   "title": "Art Collaboration Kyoto 2026 D-8, 갤러리는 숨 고르기",
+   "dek": "최근 2주 갤러리 개막은 1개뿐 — 힘은 페어 부스 준비로 쏠렸다.",
+   "label": "Gallery Moves"
+  },
+  "hero": [
+   0,
+   2,
+   3,
+   4,
+   5,
+   6
+  ]
+ },
+ "early": [
+  {
+   "title": "Mariko Mori: All That Shines",
+   "venue": "Mori Art Museum",
+   "city": "Tokyo",
+   "start": "2026-10-31",
+   "end": "2027-03-28",
+   "status": "개막 D-1",
+   "level": "체크",
+   "score": 4.2,
+   "reasons": [
+    "오늘 헤드라인에 오른 기관",
+    "10월 31일 개막 — 첫 주에 가면 붐비기 전",
+    "미술관이 막 연 작가전 — 보도가 붙기 전"
+   ],
+   "url": "https://www.mori.art.museum/en/exhibitions/marikomori/index.html",
+   "image": "https://www.mori.art.museum/assets_c/2026/09/bnr_mori_mariko_1280_260916_en-thumb-1280x640-19119.jpg",
+   "event_id": "evt_3dbf36a92ae1a772",
+   "artists": [
+    "Mariko Mori"
+   ],
+   "press": [
+    {
+     "title": "Roppongi Art Night 2026 – Nighttime special! Enjoy both the Mariko Mori: All That Shines exhibition and the observation deck for just 1,000 yen.",
+     "url": "https://www.mori.art.museum/en/news/2026/10/9109/",
+     "outlet": "Mori Building"
+    },
+    {
+     "title": "Art and Breathtaking Views in One Visit! Great-Value Mariko Mori: All That Shines Exhibition + Tokyo City View Combo Ticket On Sale October 31!",
+     "url": "https://www.mori.art.museum/en/exhibitions/marikomori/05/",
+     "outlet": "Mori Building"
+    },
+    {
+     "title": "Mariko Mori_Mori Art Museum",
+     "url": "https://www.scaithebathhouse.com/data/news/../../en/news/2026/09/mariko_mori_mori_art_museum/",
+     "outlet": "SCAI THE BATHHOUSE"
+    }
+   ]
+  },
+  {
+   "title": "MAM Screen 024: Jakrawal Nilthamrong",
+   "venue": "Mori Art Museum",
+   "city": "Tokyo",
+   "start": "2026-10-31",
+   "end": "2027-03-28",
+   "status": "개막 D-1",
+   "level": "체크",
+   "score": 4.2,
+   "reasons": [
+    "오늘 헤드라인에 오른 기관",
+    "10월 31일 개막 — 첫 주에 가면 붐비기 전",
+    "미술관이 막 연 작가전 — 보도가 붙기 전"
+   ],
+   "url": "https://www.mori.art.museum/en/exhibitions/mamscreen024/index.html",
+   "image": "https://www.mori.art.museum/assets_c/2026/09/bnr_mams024_1280_en-thumb-450xauto-18966.jpg",
+   "event_id": "evt_d2d58ce9be8b5902",
+   "artists": [
+    "Jakrawal Nilthamrong"
+   ],
+   "press": []
+  },
+  {
+   "title": "MAM Project 035: Brie Ruais",
+   "venue": "Mori Art Museum",
+   "city": "Tokyo",
+   "start": "2026-10-31",
+   "end": "2027-03-28",
+   "status": "개막 D-1",
+   "level": "체크",
+   "score": 4.2,
+   "reasons": [
+    "오늘 헤드라인에 오른 기관",
+    "10월 31일 개막 — 첫 주에 가면 붐비기 전",
+    "미술관이 막 연 작가전 — 보도가 붙기 전"
+   ],
+   "url": "https://www.mori.art.museum/en/exhibitions/mamproject035/index.html",
+   "image": "https://www.mori.art.museum/assets_c/2026/08/bnr_mamproject035_1280_en-thumb-450xauto-18859.jpg",
+   "event_id": "evt_4dcc446d8a2fefd8",
+   "artists": [
+    "Brie Ruais"
+   ],
+   "press": []
+  },
+  {
+   "title": "Mori Art Award 2026 Grand Prize Exhibition: Katayama Mari",
+   "venue": "Mori Art Museum",
+   "city": "Tokyo",
+   "start": "2026-10-31",
+   "end": "2027-03-28",
+   "status": "개막 D-1",
+   "level": "체크",
+   "score": 4.2,
+   "reasons": [
+    "오늘 헤드라인에 오른 기관",
+    "10월 31일 개막 — 첫 주에 가면 붐비기 전",
+    "미술관이 막 연 작가전 — 보도가 붙기 전"
+   ],
+   "url": "https://www.mori.art.museum/en/exhibitions/moricaf2026/index.html",
+   "image": "https://www.mori.art.museum/assets_c/2026/05/bnr_moricaf2026_1280_en-thumb-450xauto-17991.jpg",
+   "event_id": "evt_d1592b84ac63d919",
+   "artists": [
+    "Katayama Mari"
+   ],
+   "press": []
+  },
+  {
+   "title": "Exhibition in collaboration with the Maebashi Biennale 2026: Haruki Ohno “Fishing Village / Symbol”",
+   "venue": "Taka Ishii Gallery",
+   "city": "Maebashi",
+   "start": "2026-10-31",
+   "end": "2026-12-20",
+   "status": "개막 D-1",
+   "level": "체크",
+   "score": 4.0,
+   "reasons": [
+    "비엔날레·페어급 대형 행사",
+    "10월 31일 개막 — 첫 주에 가면 붐비기 전"
+   ],
+   "url": "https://www.takaishiigallery.com/en/archives/44183/",
+   "image": "https://www.takaishiigallery.com/en/wp-content/uploads/HRO-SC_22_001_a_72dpi-1200x900.jpg",
+   "event_id": "evt_b25938ec0feef59b",
+   "artists": [],
+   "press": []
+  },
+  {
+   "title": "Art Week Tokyo 2026",
+   "venue": "Art Week Tokyo",
+   "city": "Tokyo",
+   "start": "2026-11-04",
+   "end": "2026-11-08",
+   "status": "개막 D-5",
+   "level": "체크",
+   "score": 2.7,
+   "reasons": [
+    "이번 주 보도가 나오기 시작했다",
+    "11월 4일 개막 — 첫 주에 가면 붐비기 전"
+   ],
+   "url": "https://www.artweektokyo.com/events/",
+   "image": null,
+   "event_id": "evt_505ce5caf186b9ce",
+   "artists": [],
+   "press": [
+    {
+     "title": "Art Week Tokyo 2026",
+     "url": "https://anomalytokyo.com/en/news/artweektokyo2026/",
+     "outlet": "ANOMALY"
+    },
+    {
+     "title": "쿄카 스즈키, Art Week Tokyo 2026의 모든 프로그램을 대사에게 발표",
+     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA4NGRBVGFfWWo3Y0xoTExzTUJZaVZPLU5XR2JCVXFTT3p4OU81Sk1uaTBJQlhGREdVc1FlUHBNaHpGcUJDRVE?oc=5",
+     "outlet": "Koubo"
+    }
+   ]
+  }
+ ],
+ "official": [
+  {
+   "title": "【TCAA】「Tokyo Contemporary Art Award 2026-2028」受賞者のインタビュー公開のお知らせ",
+   "title_ko": null,
+   "url": "https://www.tokyoartsandspace.jp/archive/news/2026/data-20261029-1744.html",
+   "date": "2026-10-29",
+   "org": "Tokyo Metropolitan Foundation for History and Culture",
+   "weight": 2
+  },
+  {
+   "title": "【TCAA】「Tokyo Contemporary Art Award 2024-2026」｜梅田哲也、呉夏枝のモノグラフ希望者配布のご案内",
+   "title_ko": null,
+   "url": "https://www.tokyoartsandspace.jp/archive/news/2026/data-20261027-1752.html",
+   "date": "2026-10-27",
+   "org": "Tokyo Metropolitan Foundation for History and Culture",
+   "weight": 2
+  },
+  {
+   "title": "（金）・31日（土） 各日15:00～20:00",
+   "title_ko": null,
+   "url": "https://www.nmwa.go.jp/jp/experience-learn/detail/event_163.html",
+   "date": "2026-10-30",
+   "org": "国立西洋美術館 (NMWA)",
+   "weight": 1
+  },
+  {
+   "title": "Kohei Kobayashi｜Kohei Kobayashi x core of bells “Control Manual”",
+   "title_ko": null,
+   "url": "https://anomalytokyo.com/en/news/kohei-kobayashi_control-manual/",
+   "date": "2026-10-30",
+   "org": "ANOMALY",
+   "weight": 1
+  },
+  {
+   "title": "Yusuke Asak, Yayoi Deki, Daisuke Takahashi｜Artful Living from Ginza",
+   "title_ko": null,
+   "url": "https://anomalytokyo.com/en/news/artful%e3%83%bcliving/",
+   "date": "2026-10-30",
+   "org": "ANOMALY",
+   "weight": 1
+  },
+  {
+   "title": "【TOKAS本郷】「TOKAS-Emerging 2027」出展作家決定",
+   "title_ko": null,
+   "url": "https://www.tokyoartsandspace.jp/archive/news/2026/data-20261030-1751.html",
+   "date": "2026-10-30",
+   "org": "Tokyo Metropolitan Foundation for History and Culture",
+   "weight": 1
+  },
+  {
+   "title": "He Xiangyu_TANK Shanghai",
+   "title_ko": null,
+   "url": "https://www.scaithebathhouse.com/data/news/../../en/news/2026/10/he_xiangyu_tank_shanghai/",
+   "date": "2026-10-30",
+   "org": "SCAI THE BATHHOUSE",
+   "weight": 1
+  },
+  {
+   "title": "お知らせ 11/3（火・祝）はアジアギャラリーの観覧が無料です",
+   "title_ko": null,
+   "url": "https://faam.city.fukuoka.lg.jp/topics/27775/",
+   "date": "2026-10-29",
+   "org": "Fukuoka Asian Art Museum",
+   "weight": 1
+  },
+  {
+   "title": "Art Week Tokyo 2026",
+   "title_ko": null,
+   "url": "https://anomalytokyo.com/en/news/artweektokyo2026/",
+   "date": "2026-10-29",
+   "org": "ANOMALY",
+   "weight": 1
+  },
+  {
+   "title": "Ushio Shinohara｜ART TAIPEI",
+   "title_ko": null,
+   "url": "https://anomalytokyo.com/en/news/shinohara-art-taipei-2026/",
+   "date": "2026-10-29",
+   "org": "ANOMALY",
+   "weight": 1
+  },
+  {
+   "title": "Leonor Antunes",
+   "title_ko": null,
+   "url": "https://www.takaishiigallery.com/en/archives/32289/",
+   "date": "2026-10-29",
+   "org": "Taka Ishii Gallery",
+   "weight": 1
+  },
+  {
+   "title": "Shimada Yoshiko",
+   "title_ko": null,
+   "url": "https://www.otafinearts.com/news/621-shimada-yoshiko-the-constitution-of-japan-2026-mujin-to-production-tokyo/",
+   "date": "2026-10-28",
+   "org": "Ota Fine Arts",
+   "weight": 1
+  },
+  {
+   "title": "【TOKASレジデンシー】齋藤春佳がヘルシンキでのオープン・スタジオに参加",
+   "title_ko": null,
+   "url": "https://www.tokyoartsandspace.jp/archive/news/2026/data-20261028-1757.html",
+   "date": "2026-10-28",
+   "org": "Tokyo Metropolitan Foundation for History and Culture",
+   "weight": 1
+  },
+  {
+   "title": "Kosuke Nagata｜Fire in Water Installation & Screening",
+   "title_ko": null,
+   "url": "https://anomalytokyo.com/en/news/kosuke-nagata_fiw_kyushu-uni/",
+   "date": "2026-10-28",
+   "org": "ANOMALY",
+   "weight": 1
+  }
+ ],
+ "briefing": {
+  "editor": "GJC 세션 에이전트 — 패킷의 보도 요약·본문 핵심문장만 근거로 작성, 편집자 검수 전",
+  "insights": [
+   "일본판 수집 기사는 주 70여 건으로 적다. 주요 소식은 현대미술 사건보다 기관 재개관·건축 공개 같은 인프라 소식이었다.",
+   "수상 쪽은 '수상 뒤 전시'가 몰렸다 — 오카모토 다로 현대예술상 수상자 바바 게이이치 개인전, 도몬켄상 수상작 전시, 도요타통상 아프리카 현대미술상 첫 수상자 5인전.",
+   "기술 주제가 국제상에서 확인된다 — 구보타 노조무가 아르스 일렉트로니카 Digital Humanity 부문(754건 중 15건)에서 일본인 유일 수상, AI가 만드는 '보이지 않는 배제'를 다룬 작업."
+  ],
+  "major": [
+   {
+    "rank": 1,
+    "headline": "가나가와현립역사박물관, 1년 10개월 설비 개수 뒤 재개관",
+    "brief": "가나가와현립역사박물관이 1년 10개월 설비 개수를 마치고 재개관.",
+    "summary": "2025년 1월부터 설비 개수로 문을 닫았던 가나가와현립역사박물관(요코하마)이 다시 열고 소장품 전체를 보여 주는 특별전을 하고 있다. 저반사 필름을 붙인 진열장으로 국가·현 지정 중요문화재를 다시 공개했다.",
+    "lead": "가나가와현립역사박물관이 1년 10개월 설비 개수를 마치고 재개관.",
+    "why": [
+     "현립 기관의 재개관(제도·시설 변화)",
+     "중요문화재 일괄 공개"
+    ],
+    "so_what": "큰 사건은 아니지만 이번 주 흐름을 보여 주는 소식이다.",
+    "related": [
+     "神奈川県立歴史博物館"
+    ],
+    "topic": "전시·프로그램",
+    "date": "2026-10-29",
+    "criteria": [
+     {
+      "label": "공공·국가 주체",
+      "evidence": "…「縄文最大級のアタマ」が出迎え 神奈川県立歴史博物館が改修後再開 絵画や仏像クリアに 700…"
+     },
+     {
+      "label": "제도·조직 변화",
+      "evidence": "…越しでも鮮やかに－。設備改修工事のため昨年1月から休館していた神奈川県立歴史博物館（横浜市中区）が再開し…"
+     }
+    ],
+    "importance": 4,
+    "sources": [
+     {
+      "title": "「縄文最大級のアタマ」が出迎え 神奈川県立歴史博物館が改修後再開 絵画や仏像クリアに",
+      "url": "https://www.sankei.com/article/20261029-MPWMT7OCQ5MMDJ2BZZDZKGD264/",
+      "outlet": "産経新聞",
+      "date": "2026-10-29"
+     }
+    ],
+    "n_sources": 1
+   },
+   {
+    "rank": 2,
+    "headline": "교토 모던 건축제 10월 31일~11월 8일 — 5회째, 참여 건축 약 150곳",
+    "brief": "교토 모던 건축제 5회째, 근대 건축 약 150곳 공개(10/31~11/8).",
+    "summary": "교토의 근현대 건축을 한꺼번에 공개하는 '교토 모던 건축제'가 10월 31일부터 11월 8일까지 열린다. 2022년 문화청 교토 이전 기념사업으로 시작해 첫해 연인원 약 3만 명에서 2025년 약 7만1천 명으로 늘었고, 올해 참여 건축은 역대 최다인 약 150곳이다. 기획자 가사하라 가즈토는 건축 붐과 함께 보존 위기를 말한다.",
+    "lead": "교토 모던 건축제 5회째, 근대 건축 약 150곳 공개(10/31~11/8). 미술 전시가 아니라 건축 공개 행사다.",
+    "why": [
+     "관람객 수 변화(3만→7.1만)가 공개된 연속 행사",
+     "문화청 이전 기념사업으로 출발한 공공 연계 행사"
+    ],
+    "so_what": "미술 전시가 아니라 건축 공개 행사다.",
+    "related": [
+     "京都モダン建築祭",
+     "文化庁"
+    ],
+    "topic": "비평·리뷰",
+    "date": "2026-10-29",
+    "criteria": [
+     {
+      "label": "공공·국가 주체",
+      "evidence": "…0月31日〜11月8日に開催される。 2022年に文化庁京都移転記念事業としてスタートした同イベント。初年…"
+     }
+    ],
+    "importance": 2,
+    "sources": [
+     {
+      "title": "「古い建物が残らない社会が完成している」。京都モダン建築祭・笠原一人が語る、建築ブームと保存の危機",
+      "url": "https://bijutsutecho.com/magazine/interview/33245",
+      "outlet": "美術手帖 (Bijutsu Techo)",
+      "date": "2026-10-29"
+     }
+    ],
+    "n_sources": 1
+   }
+  ],
+  "judged_by": "editor"
+ },
+ "artists": [
+  {
+   "entity_id": "ent_4bf5ef85d0244b3b",
+   "name": "Kohei Kobayashi",
+   "press": 1,
+   "shows": 1,
+   "story_url": "https://anomalytokyo.com/en/news/kohei-kobayashi_control-manual/",
+   "cats": [
+    "전시 중"
+   ]
+  },
+  {
+   "entity_id": null,
+   "name": "Katayama Mari",
+   "press": 0,
+   "shows": 1,
+   "story_url": "https://www.mori.art.museum/en/exhibitions/moricaf2026/index.html",
+   "cats": [
+    "개인전"
+   ],
+   "where": "Mori Art Museum"
+  },
+  {
+   "entity_id": null,
+   "name": "Mariko Mori",
+   "press": 0,
+   "shows": 1,
+   "story_url": "https://www.mori.art.museum/en/exhibitions/marikomori/index.html",
+   "cats": [
+    "개인전"
+   ],
+   "where": "Mori Art Museum"
+  },
+  {
+   "entity_id": null,
+   "name": "Brie Ruais",
+   "press": 0,
+   "shows": 1,
+   "story_url": "https://www.mori.art.museum/en/exhibitions/mamproject035/index.html",
+   "cats": [
+    "개인전"
+   ],
+   "where": "Mori Art Museum"
+  },
+  {
+   "entity_id": null,
+   "name": "Jakrawal Nilthamrong",
+   "press": 0,
+   "shows": 1,
+   "story_url": "https://www.mori.art.museum/en/exhibitions/mamscreen024/index.html",
+   "cats": [
+    "개인전"
+   ],
+   "where": "Mori Art Museum"
+  },
+  {
+   "entity_id": null,
+   "name": "Ugo Rondinone",
+   "press": 0,
+   "shows": 1,
+   "story_url": "https://www.sadiecoles.com/exhibitions/shaping-silence",
+   "cats": [
+    "개인전"
+   ],
+   "where": "Sadie Coles HQ"
+  },
+  {
+   "entity_id": null,
+   "name": "Elena Tutatchikova",
+   "press": 0,
+   "shows": 1,
+   "story_url": "https://www.tomiokoyamagallery.com/en/exhibitions/tutatchikova_2026/",
+   "cats": [
+    "개인전"
+   ],
+   "where": "Tomio Koyama Gallery"
+  },
+  {
+   "entity_id": null,
+   "name": "Nobuko Tsuchiya",
+   "press": 0,
+   "shows": 1,
+   "story_url": "https://www.scaithebathhouse.com/data/exhibitions/../../en/exhibitions/2026/11/nobuko_tsuchiyaace_of_hearts/",
+   "cats": [
+    "개인전"
+   ],
+   "where": "SCAI THE BATHHOUSE"
+  },
+  {
+   "entity_id": null,
+   "name": "Sterling Ruby",
+   "press": 0,
+   "shows": 1,
+   "story_url": "https://www.takaishiigallery.com/en/archives/44199/",
+   "cats": [
+    "개인전"
+   ],
+   "where": "Taka Ishii Gallery"
+  }
+ ],
+ "stories": [
+  {
+   "title": "「古い建物が残らない社会が完成している」。京都モダン建築祭・笠原一人が語る、建築ブームと保存の危機",
+   "title_ko": "“오래된 건물이 남아 있지 않은 사회”. 교토 현대 건축 축제, 카사하라, 건축 붐과 보존의 위기",
+   "url": "https://bijutsutecho.com/magazine/interview/33245",
+   "outlet": "Bijutsu Techo",
+   "date": "2026-10-29",
+   "n_outlets": 1,
+   "outlets": [
+    "Bijutsu Techo"
+   ],
+   "sources": [
+    {
+     "outlet": "Bijutsu Techo",
+     "url": "https://bijutsutecho.com/magazine/interview/33245",
+     "date": "2026-10-29",
+     "title": "「古い建物が残らない社会が完成している」。京都モダン建築祭・笠原一人が語る、建築ブームと保存の危機"
+    }
+   ],
+   "topic": "비평·리뷰",
+   "score": 103.5,
+   "short": false,
+   "judged_by": "editor",
+   "summary": "교토 모던 건축제 5회째, 근대 건축 약 150곳 공개(10/31~11/8).",
+   "why": [
+    "관람객 수 변화(3만→7.1만)가 공개된 연속 행사",
+    "문화청 이전 기념사업으로 출발한 공공 연계 행사"
+   ],
+   "so_what": "미술 전시가 아니라 건축 공개 행사다.",
+   "level": "편집 판단",
+   "points": null,
+   "lead": "교토 모던 건축제 5회째, 근대 건축 약 150곳 공개(10/31~11/8). 미술 전시가 아니라 건축 공개 행사다.",
+   "bullets": [
+    "교토 모던 건축제 5회째, 근대 건축 약 150곳 공개(10/31~11/8).",
+    "→ 미술 전시가 아니라 건축 공개 행사다."
+   ],
+   "tags": [],
+   "rank": 1
+  },
+  {
+   "title": "「縄文最大級のアタマ」が出迎え 神奈川県立歴史博物館が改修後再開 絵画や仏像クリアに",
+   "title_ko": "세토우치 역사 박물관의 개보수 이후 “조몬의 가장 큰 아타마”가 다시 문을 열었다",
+   "url": "https://www.sankei.com/article/20261029-MPWMT7OCQ5MMDJ2BZZDZKGD264/",
+   "outlet": "産経新聞 ライフ",
+   "date": "2026-10-29",
+   "n_outlets": 1,
+   "outlets": [
+    "産経新聞 ライフ"
+   ],
+   "sources": [
+    {
+     "outlet": "産経新聞 ライフ",
+     "url": "https://www.sankei.com/article/20261029-MPWMT7OCQ5MMDJ2BZZDZKGD264/",
+     "date": "2026-10-29",
+     "title": "「縄文最大級のアタマ」が出迎え 神奈川県立歴史博物館が改修後再開 絵画や仏像クリアに"
+    }
+   ],
+   "topic": "전시·프로그램",
+   "score": 103.5,
+   "short": false,
+   "judged_by": "editor",
+   "summary": "가나가와현립역사박물관이 1년 10개월 설비 개수를 마치고 재개관.",
+   "why": [
+    "현립 기관의 재개관(제도·시설 변화)",
+    "중요문화재 일괄 공개"
+   ],
+   "so_what": "지금 가 볼 수 있는 전시다.",
+   "level": "편집 판단",
+   "points": null,
+   "lead": "가나가와현립역사박물관이 1년 10개월 설비 개수를 마치고 재개관. 지금 가 볼 수 있는 전시다.",
+   "bullets": [
+    "가나가와현립역사박물관이 1년 10개월 설비 개수를 마치고 재개관.",
+    "→ 지금 가 볼 수 있는 전시다."
+   ],
+   "tags": [],
+   "rank": 2
+  },
+  {
+   "title": "Yusuke Asak, Yayoi Deki, Daisuke Takahashi｜Artful Living from Ginza",
+   "title_ko": null,
+   "url": "https://anomalytokyo.com/en/news/artful%e3%83%bcliving/",
+   "outlet": "ANOMALY",
+   "date": "2026-10-30",
+   "n_outlets": 1,
+   "outlets": [
+    "ANOMALY"
+   ],
+   "sources": [
+    {
+     "outlet": "ANOMALY",
+     "url": "https://anomalytokyo.com/en/news/artful%e3%83%bcliving/",
+     "date": "2026-10-30",
+     "title": "Yusuke Asak, Yayoi Deki, Daisuke Takahashi｜Artful Living from Ginza"
+    }
+   ],
+   "topic": "그 밖의 소식",
+   "score": 5.5,
+   "short": true,
+   "judged_by": "auto",
+   "summary": null,
+   "why": [],
+   "so_what": "큰 사건은 아니지만 이번 주 흐름을 보여 주는 소식이다.",
+   "level": "짧은 소식",
+   "points": 1,
+   "lead": "",
+   "bullets": [],
+   "tags": [],
+   "rank": 3
+  },
+  {
+   "title": "Kohei Kobayashi｜Kohei Kobayashi x core of bells “Control Manual”",
+   "title_ko": null,
+   "url": "https://anomalytokyo.com/en/news/kohei-kobayashi_control-manual/",
+   "outlet": "ANOMALY",
+   "date": "2026-10-30",
+   "n_outlets": 1,
+   "outlets": [
+    "ANOMALY"
+   ],
+   "sources": [
+    {
+     "outlet": "ANOMALY",
+     "url": "https://anomalytokyo.com/en/news/kohei-kobayashi_control-manual/",
+     "date": "2026-10-30",
+     "title": "Kohei Kobayashi｜Kohei Kobayashi x core of bells “Control Manual”"
+    }
+   ],
+   "topic": "그 밖의 소식",
+   "score": 5.5,
+   "short": true,
+   "judged_by": "auto",
+   "summary": null,
+   "why": [],
+   "so_what": "큰 사건은 아니지만 이번 주 흐름을 보여 주는 소식이다.",
+   "level": "짧은 소식",
+   "points": 1,
+   "lead": "",
+   "bullets": [],
+   "tags": [],
+   "rank": 4
+  },
+  {
+   "title": "Art Week Tokyo 2026",
+   "title_ko": null,
+   "url": "https://anomalytokyo.com/en/news/artweektokyo2026/",
+   "outlet": "ANOMALY",
+   "date": "2026-10-29",
+   "n_outlets": 1,
+   "outlets": [
+    "ANOMALY"
+   ],
+   "sources": [
+    {
+     "outlet": "ANOMALY",
+     "url": "https://anomalytokyo.com/en/news/artweektokyo2026/",
+     "date": "2026-10-29",
+     "title": "Art Week Tokyo 2026"
+    }
+   ],
+   "topic": "그 밖의 소식",
+   "score": 5.5,
+   "short": true,
+   "judged_by": "auto",
+   "summary": null,
+   "why": [],
+   "so_what": "큰 사건은 아니지만 이번 주 흐름을 보여 주는 소식이다.",
+   "level": "짧은 소식",
+   "points": 1,
+   "lead": "",
+   "bullets": [],
+   "tags": [],
+   "rank": 5
+  },
+  {
+   "title": "【TCAA】「Tokyo Contemporary Art Award 2026-2028」受賞者のインタビュー公開のお知らせ",
+   "title_ko": null,
+   "url": "https://www.tokyoartsandspace.jp/archive/news/2026/data-20261029-1744.html",
+   "outlet": "Tokyo Metropolitan Foundation for History and Culture",
+   "date": "2026-10-29",
+   "n_outlets": 1,
+   "outlets": [
+    "Tokyo Metropolitan Foundation for History and Culture"
+   ],
+   "sources": [
+    {
+     "outlet": "Tokyo Metropolitan Foundation for History and Culture",
+     "url": "https://www.tokyoartsandspace.jp/archive/news/2026/data-20261029-1744.html",
+     "date": "2026-10-29",
+     "title": "【TCAA】「Tokyo Contemporary Art Award 2026-2028」受賞者のインタビュー公開のお知らせ"
+    }
+   ],
+   "topic": "수상·인물",
+   "score": 5.5,
+   "short": true,
+   "judged_by": "auto",
+   "summary": null,
+   "why": [],
+   "so_what": "수상 뒤 개인전·후원이 이어지는지가 진짜 신호다.",
+   "level": "짧은 소식",
+   "points": 1,
+   "lead": "수상 뒤 개인전·후원이 이어지는지가 진짜 신호다.",
+   "bullets": [
+    "→ 수상 뒤 개인전·후원이 이어지는지가 진짜 신호다."
+   ],
+   "tags": [
+    "수상"
+   ],
+   "rank": 6
+  },
+  {
+   "title": "【TCAA】「Tokyo Contemporary Art Award 2024-2026」｜梅田哲也、呉夏枝のモノグラフ希望者配布のご案内",
+   "title_ko": null,
+   "url": "https://www.tokyoartsandspace.jp/archive/news/2026/data-20261027-1752.html",
+   "outlet": "Tokyo Metropolitan Foundation for History and Culture",
+   "date": "2026-10-27",
+   "n_outlets": 1,
+   "outlets": [
+    "Tokyo Metropolitan Foundation for History and Culture"
+   ],
+   "sources": [
+    {
+     "outlet": "Tokyo Metropolitan Foundation for History and Culture",
+     "url": "https://www.tokyoartsandspace.jp/archive/news/2026/data-20261027-1752.html",
+     "date": "2026-10-27",
+     "title": "【TCAA】「Tokyo Contemporary Art Award 2024-2026」｜梅田哲也、呉夏枝のモノグラフ希望者配布のご案内"
+    }
+   ],
+   "topic": "수상·인물",
+   "score": 4.0,
+   "short": true,
+   "judged_by": "auto",
+   "summary": null,
+   "why": [],
+   "so_what": "수상 뒤 개인전·후원이 이어지는지가 진짜 신호다.",
+   "level": "짧은 소식",
+   "points": 1,
+   "lead": "수상 뒤 개인전·후원이 이어지는지가 진짜 신호다.",
+   "bullets": [
+    "→ 수상 뒤 개인전·후원이 이어지는지가 진짜 신호다."
+   ],
+   "tags": [
+    "수상"
+   ],
+   "rank": 7
+  },
+  {
+   "title": "本村をめぐるスタンプラリー「直島本村集印図会」開催のお知らせ｜2026年11月17日～",
+   "title_ko": "메인 마을 주변의 스탬프 랠리 「나오시마모토 마을 서명회」의 소식 | 2026년 11월 17일~",
+   "url": "https://benesse-artsite.jp/news/20261027-3660.html",
+   "outlet": "ベネッセアートサイト直島",
+   "date": "2026-10-27",
+   "n_outlets": 1,
+   "outlets": [
+    "ベネッセアートサイト直島"
+   ],
+   "sources": [
+    {
+     "outlet": "ベネッセアートサイト直島",
+     "url": "https://benesse-artsite.jp/news/20261027-3660.html",
+     "date": "2026-10-27",
+     "title": "本村をめぐるスタンプラリー「直島本村集印図会」開催のお知らせ｜2026年11月17日～"
+    }
+   ],
+   "topic": "그 밖의 소식",
+   "score": 4.0,
+   "short": true,
+   "judged_by": "auto",
+   "summary": "메인 마을 주변의 스탬프 랠리 「나오시마모토 마을 서명회」의 소식 | 2026년 11월 17일~ (제목 기준·자동번역)",
+   "why": [],
+   "so_what": "큰 사건은 아니지만 이번 주 흐름을 보여 주는 소식이다. 다음 날짜: 11월 17일.",
+   "level": "짧은 소식",
+   "points": 1,
+   "lead": "큰 사건은 아니지만 이번 주 흐름을 보여 주는 소식이다. 다음 날짜: 11월 17일.",
+   "bullets": [
+    "일정: 11월 17일"
+   ],
+   "tags": [],
+   "rank": 8
+  },
+  {
+   "title": "杉江あこ｜DOCOMOMO Japan 300選 選定記念「モダン・ムーブメントと建築の現在」",
+   "title_ko": "아코 Sugie | DOCOMOMO Japan 300 선정 기념 \"모단 무부멘토와 건축의 오늘\"",
+   "url": "https://artscape.jp/article/80557/",
+   "outlet": "artscape",
+   "date": "2026-10-27",
+   "n_outlets": 1,
+   "outlets": [
+    "artscape"
+   ],
+   "sources": [
+    {
+     "outlet": "artscape",
+     "url": "https://artscape.jp/article/80557/",
+     "date": "2026-10-27",
+     "title": "杉江あこ｜DOCOMOMO Japan 300選 選定記念「モダン・ムーブメントと建築の現在」"
+    }
+   ],
+   "topic": "비평·리뷰",
+   "score": 4.0,
+   "short": true,
+   "judged_by": "auto",
+   "summary": "아코 Sugie | DOCOMOMO Japan 300 선정 기념 \"모단 무부멘토와 건축의 오늘\" (제목 기준·자동번역)",
+   "why": [],
+   "so_what": "수상 뒤 개인전·후원이 이어지는지가 진짜 신호다.",
+   "level": "짧은 소식",
+   "points": 1,
+   "lead": "수상 뒤 개인전·후원이 이어지는지가 진짜 신호다.",
+   "bullets": [
+    "→ 수상 뒤 개인전·후원이 이어지는지가 진짜 신호다."
+   ],
+   "tags": [
+    "수상"
+   ],
+   "rank": 9
+  },
+  {
+   "title": "He Xiangyu_TANK Shanghai",
+   "title_ko": null,
+   "url": "https://www.scaithebathhouse.com/data/news/../../en/news/2026/10/he_xiangyu_tank_shanghai/",
+   "outlet": "SCAI THE BATHHOUSE",
+   "date": "2026-10-30",
+   "n_outlets": 1,
+   "outlets": [
+    "SCAI THE BATHHOUSE"
+   ],
+   "sources": [
+    {
+     "outlet": "SCAI THE BATHHOUSE",
+     "url": "https://www.scaithebathhouse.com/data/news/../../en/news/2026/10/he_xiangyu_tank_shanghai/",
+     "date": "2026-10-30",
+     "title": "He Xiangyu_TANK Shanghai"
+    }
+   ],
+   "topic": "그 밖의 소식",
+   "score": 3.5,
+   "short": true,
+   "judged_by": "auto",
+   "summary": "6 December 2026 Venue: TANK Shanghai Official website : http://tankshanghai.com/… He Xiangyu Opacity of Light Exhibition period: Sat.",
+   "why": [],
+   "so_what": "큰 사건은 아니지만 이번 주 흐름을 보여 주는 소식이다.",
+   "level": "짧은 소식",
+   "points": 0,
+   "lead": "6 December 2026 Venue: TANK Shanghai Official website : http://tankshanghai.com/… He Xiangyu Opacity of Light Exhibition period: Sat.",
+   "bullets": [
+    "6 December 2026 Venue: TANK Shanghai Official website: http://tankshanghai.com/… He Xiangyu Opacity of Light…"
+   ],
+   "tags": [],
+   "rank": 10
+  },
+  {
+   "title": "杉江あこ｜路上、お邪魔ですか？",
+   "title_ko": "아코 Sugie | 길 위에?",
+   "url": "https://artscape.jp/article/80561/",
+   "outlet": "artscape",
+   "date": "2026-10-30",
+   "n_outlets": 1,
+   "outlets": [
+    "artscape"
+   ],
+   "sources": [
+    {
+     "outlet": "artscape",
+     "url": "https://artscape.jp/article/80561/",
+     "date": "2026-10-30",
+     "title": "杉江あこ｜路上、お邪魔ですか？"
+    }
+   ],
+   "topic": "비평·리뷰",
+   "score": 3.5,
+   "short": true,
+   "judged_by": "auto",
+   "summary": "아코 Sugie | 길 위에? (제목 기준·자동번역)",
+   "why": [],
+   "so_what": "사건이 아니라 해석을 담은 글 — 같은 전시의 다른 리뷰와 함께 읽으면 관점이 보인다.",
+   "level": "짧은 소식",
+   "points": 0,
+   "lead": "사건이 아니라 해석을 담은 글 — 같은 전시의 다른 리뷰와 함께 읽으면 관점이 보인다.",
+   "bullets": [
+    "→ 사건이 아니라 해석을 담은 글. 같은 전시의 다른 리뷰와 함께 읽으면 관점이 보인다."
+   ],
+   "tags": [],
+   "rank": 11
+  },
+  {
+   "title": "男が階段を上る時 市原尚士評",
+   "title_ko": "남자가 계단을 올라갈 때",
+   "url": "https://critique.aicajapan.com/20925",
+   "outlet": "美術評論＋",
+   "date": "2026-10-30",
+   "n_outlets": 1,
+   "outlets": [
+    "美術評論＋"
+   ],
+   "sources": [
+    {
+     "outlet": "美術評論＋",
+     "url": "https://critique.aicajapan.com/20925",
+     "date": "2026-10-30",
+     "title": "男が階段を上る時 市原尚士評"
+    }
+   ],
+   "topic": "비평·리뷰",
+   "score": 3.5,
+   "short": true,
+   "judged_by": "auto",
+   "summary": "남자가 계단을 올라갈 때 (제목 기준·자동번역)",
+   "why": [],
+   "so_what": "사건이 아니라 해석을 담은 글 — 같은 전시의 다른 리뷰와 함께 읽으면 관점이 보인다.",
+   "level": "짧은 소식",
+   "points": 0,
+   "lead": "사건이 아니라 해석을 담은 글 — 같은 전시의 다른 리뷰와 함께 읽으면 관점이 보인다.",
+   "bullets": [
+    "→ 사건이 아니라 해석을 담은 글. 같은 전시의 다른 리뷰와 함께 읽으면 관점이 보인다."
+   ],
+   "tags": [],
+   "rank": 12
+  },
+  {
+   "title": "【TOKAS本郷】「TOKAS-Emerging 2027」出展作家決定",
+   "title_ko": null,
+   "url": "https://www.tokyoartsandspace.jp/archive/news/2026/data-20261030-1751.html",
+   "outlet": "Tokyo Metropolitan Foundation for History and Culture",
+   "date": "2026-10-30",
+   "n_outlets": 1,
+   "outlets": [
+    "Tokyo Metropolitan Foundation for History and Culture"
+   ],
+   "sources": [
+    {
+     "outlet": "Tokyo Metropolitan Foundation for History and Culture",
+     "url": "https://www.tokyoartsandspace.jp/archive/news/2026/data-20261030-1751.html",
+     "date": "2026-10-30",
+     "title": "【TOKAS本郷】「TOKAS-Emerging 2027」出展作家決定"
+    }
+   ],
+   "topic": "전시·프로그램",
+   "score": 3.5,
+   "short": true,
+   "judged_by": "auto",
+   "summary": null,
+   "why": [],
+   "so_what": "지금 가 볼 수 있는 전시다.",
+   "level": "짧은 소식",
+   "points": 0,
+   "lead": "지금 가 볼 수 있는 전시다.",
+   "bullets": [
+    "→ 지금 가 볼 수 있는 전시다."
+   ],
+   "tags": [],
+   "rank": 13
+  },
+  {
+   "title": "（金）・31日（土） 各日15:00～20:00",
+   "title_ko": null,
+   "url": "https://www.nmwa.go.jp/jp/experience-learn/detail/event_163.html",
+   "outlet": "国立西洋美術館",
+   "date": "2026-10-30",
+   "n_outlets": 1,
+   "outlets": [
+    "国立西洋美術館"
+   ],
+   "sources": [
+    {
+     "outlet": "国立西洋美術館",
+     "url": "https://www.nmwa.go.jp/jp/experience-learn/detail/event_163.html",
+     "date": "2026-10-30",
+     "title": "（金）・31日（土） 各日15:00～20:00"
+    }
+   ],
+   "topic": "그 밖의 소식",
+   "score": 3.5,
+   "short": true,
+   "judged_by": "auto",
+   "summary": null,
+   "why": [],
+   "so_what": "큰 사건은 아니지만 이번 주 흐름을 보여 주는 소식이다.",
+   "level": "짧은 소식",
+   "points": 0,
+   "lead": "",
+   "bullets": [],
+   "tags": [],
+   "rank": 14
+  },
+  {
+   "title": "松房子｜中島崇個展 水跡 – traces of energy –",
+   "title_ko": null,
+   "url": "https://artscape.jp/article/80347/",
+   "outlet": "artscape",
+   "date": "2026-10-30",
+   "n_outlets": 1,
+   "outlets": [
+    "artscape"
+   ],
+   "sources": [
+    {
+     "outlet": "artscape",
+     "url": "https://artscape.jp/article/80347/",
+     "date": "2026-10-30",
+     "title": "松房子｜中島崇個展 水跡 – traces of energy –"
+    }
+   ],
+   "topic": "비평·리뷰",
+   "score": 3.5,
+   "short": true,
+   "judged_by": "auto",
+   "summary": null,
+   "why": [],
+   "so_what": "사건이 아니라 해석을 담은 글 — 같은 전시의 다른 리뷰와 함께 읽으면 관점이 보인다.",
+   "level": "짧은 소식",
+   "points": 0,
+   "lead": "사건이 아니라 해석을 담은 글 — 같은 전시의 다른 리뷰와 함께 읽으면 관점이 보인다.",
+   "bullets": [
+    "→ 사건이 아니라 해석을 담은 글. 같은 전시의 다른 리뷰와 함께 읽으면 관점이 보인다."
+   ],
+   "tags": [],
+   "rank": 15
+  },
+  {
+   "title": "故郷を離れて見えてきたもの。ワン・トゥオ×ルオ・ヤンが語る、身体と記憶、そして歴史",
+   "title_ko": null,
+   "url": "https://bijutsutecho.com/magazine/interview/33256",
+   "outlet": "Bijutsu Techo",
+   "date": "2026-10-30",
+   "n_outlets": 1,
+   "outlets": [
+    "Bijutsu Techo"
+   ],
+   "sources": [
+    {
+     "outlet": "Bijutsu Techo",
+     "url": "https://bijutsutecho.com/magazine/interview/33256",
+     "date": "2026-10-30",
+     "title": "故郷を離れて見えてきたもの。ワン・トゥオ×ルオ・ヤンが語る、身体と記憶、そして歴史"
+    }
+   ],
+   "topic": "비평·리뷰",
+   "score": 3.5,
+   "short": true,
+   "judged_by": "auto",
+   "summary": null,
+   "why": [],
+   "so_what": "사건이 아니라 해석을 담은 글 — 같은 전시의 다른 리뷰와 함께 읽으면 관점이 보인다.",
+   "level": "짧은 소식",
+   "points": 0,
+   "lead": "사건이 아니라 해석을 담은 글 — 같은 전시의 다른 리뷰와 함께 읽으면 관점이 보인다.",
+   "bullets": [
+    "→ 사건이 아니라 해석을 담은 글. 같은 전시의 다른 리뷰와 함께 읽으면 관점이 보인다."
+   ],
+   "tags": [],
+   "rank": 16
+  },
+  {
+   "title": "Leonor Antunes",
+   "title_ko": null,
+   "url": "https://www.takaishiigallery.com/en/archives/32289/",
+   "outlet": "Taka Ishii Gallery",
+   "date": "2026-10-29",
+   "n_outlets": 1,
+   "outlets": [
+    "Taka Ishii Gallery"
+   ],
+   "sources": [
+    {
+     "outlet": "Taka Ishii Gallery",
+     "url": "https://www.takaishiigallery.com/en/archives/32289/",
+     "date": "2026-10-29",
+     "title": "Leonor Antunes"
+    }
+   ],
+   "topic": "그 밖의 소식",
+   "score": 3.5,
+   "short": true,
+   "judged_by": "auto",
+   "summary": null,
+   "why": [],
+   "so_what": "큰 사건은 아니지만 이번 주 흐름을 보여 주는 소식이다.",
+   "level": "짧은 소식",
+   "points": 0,
+   "lead": "",
+   "bullets": [],
+   "tags": [],
+   "rank": 17
+  },
+  {
+   "title": "Ushio Shinohara｜ART TAIPEI",
+   "title_ko": null,
+   "url": "https://anomalytokyo.com/en/news/shinohara-art-taipei-2026/",
+   "outlet": "ANOMALY",
+   "date": "2026-10-29",
+   "n_outlets": 1,
+   "outlets": [
+    "ANOMALY"
+   ],
+   "sources": [
+    {
+     "outlet": "ANOMALY",
+     "url": "https://anomalytokyo.com/en/news/shinohara-art-taipei-2026/",
+     "date": "2026-10-29",
+     "title": "Ushio Shinohara｜ART TAIPEI"
+    }
+   ],
+   "topic": "그 밖의 소식",
+   "score": 3.5,
+   "short": true,
+   "judged_by": "auto",
+   "summary": null,
+   "why": [],
+   "so_what": "큰 사건은 아니지만 이번 주 흐름을 보여 주는 소식이다.",
+   "level": "짧은 소식",
+   "points": 0,
+   "lead": "",
+   "bullets": [],
+   "tags": [],
+   "rank": 18
+  }
+ ],
+ "topics": [
+  {
+   "label": "그 밖의 소식",
+   "count": 15
+  },
+  {
+   "label": "비평·리뷰",
+   "count": 13
+  },
+  {
+   "label": "전시·프로그램",
+   "count": 7
+  },
+  {
+   "label": "수상·인물",
+   "count": 2
+  }
+ ],
+ "exhibitions": {
+  "open_count": 34,
+  "featured": [
+   {
+    "id": "evt_d1592b84ac63d919",
+    "title": "Mori Art Award 2026 Grand Prize Exhibition: Katayama Mari",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "Mori Art Museum",
+    "city": "Tokyo",
+    "country": "JP",
+    "start": "2026-10-31",
+    "end": "2027-03-28",
+    "artists": [
+     "Katayama Mari"
+    ],
+    "url": "https://www.mori.art.museum/en/exhibitions/moricaf2026/index.html",
+    "image": "https://www.mori.art.museum/assets_c/2026/05/bnr_moricaf2026_1280_en-thumb-450xauto-17991.jpg",
+    "why": "수상·신진 작가의 후속 전시"
+   },
+   {
+    "id": "evt_3dbf36a92ae1a772",
+    "title": "Mariko Mori: All That Shines",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "Mori Art Museum",
+    "city": "Tokyo",
+    "country": "JP",
+    "start": "2026-10-31",
+    "end": "2027-03-28",
+    "artists": [
+     "Mariko Mori"
+    ],
+    "url": "https://www.mori.art.museum/en/exhibitions/marikomori/index.html",
+    "image": "https://www.mori.art.museum/assets_c/2026/09/bnr_mori_mariko_1280_260916_en-thumb-1280x640-19119.jpg",
+    "why": "미술관이 한 작가에게 내준 개인전"
+   },
+   {
+    "id": "evt_4dcc446d8a2fefd8",
+    "title": "MAM Project 035: Brie Ruais",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "Mori Art Museum",
+    "city": "Tokyo",
+    "country": "JP",
+    "start": "2026-10-31",
+    "end": "2027-03-28",
+    "artists": [
+     "Brie Ruais"
+    ],
+    "url": "https://www.mori.art.museum/en/exhibitions/mamproject035/index.html",
+    "image": "https://www.mori.art.museum/assets_c/2026/08/bnr_mamproject035_1280_en-thumb-450xauto-18859.jpg",
+    "why": "미술관이 한 작가에게 내준 개인전"
+   },
+   {
+    "id": "evt_d2d58ce9be8b5902",
+    "title": "MAM Screen 024: Jakrawal Nilthamrong",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "Mori Art Museum",
+    "city": "Tokyo",
+    "country": "JP",
+    "start": "2026-10-31",
+    "end": "2027-03-28",
+    "artists": [
+     "Jakrawal Nilthamrong"
+    ],
+    "url": "https://www.mori.art.museum/en/exhibitions/mamscreen024/index.html",
+    "image": "https://www.mori.art.museum/assets_c/2026/09/bnr_mams024_1280_en-thumb-450xauto-18966.jpg",
+    "why": "미술관이 한 작가에게 내준 개인전"
+   },
+   {
+    "id": "evt_0bd494801a77ac97",
+    "title": "ジュエリーは、誰を夢みる",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "京都国立近代美術館",
+    "city": "Kyoto",
+    "country": "JP",
+    "start": "2026-10-24",
+    "end": "2027-01-17",
+    "artists": [],
+    "url": "https://www.momak.go.jp/Japanese/exhibitionarchive/2026/468.html",
+    "image": null,
+    "why": "미술관 기획전"
+   },
+   {
+    "id": "evt_2ea6c180555a1e3f",
+    "title": "テート美術館 ターナー展――崇高の絵画、現代美術との対話",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "国立西洋美術館",
+    "city": "Tokyo",
+    "country": "JP",
+    "start": "2026-10-24",
+    "end": "2027-02-21",
+    "artists": [],
+    "url": "https://www.nmwa.go.jp/jp/exhibitions/2026turner.html",
+    "image": "https://www.nmwa.go.jp/wp-content/uploads/2026/09/2026turner.jpg.nmwa.webp",
+    "why": "미술관 기획전"
+   }
+  ],
+  "opened": [
+   {
+    "id": "evt_e5b1b7a267bab32e",
+    "title": "イメージラボ写真教室 第26回作品展",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "Fukuoka Asian Art Museum",
+    "city": "Fukuoka",
+    "country": "JP",
+    "start": "2026-10-29",
+    "end": "2026-11-03",
+    "artists": [],
+    "url": "https://faam.city.fukuoka.lg.jp/exhibition/27571/",
+    "image": "https://faam.city.fukuoka.lg.jp/manager/wp-content/uploads/2026/10/26thはがき写真面SNSなど.jpg"
+   },
+   {
+    "id": "evt_fdc8386c5ea2dabd",
+    "title": "Shojo Manga Infinity: Moto Hagio, Ryoko Yamagishi, and Waki Yamato",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "The National Art Center, Tokyo",
+    "city": "Tokyo",
+    "country": "JP",
+    "start": "2026-10-28",
+    "end": "2027-02-08",
+    "artists": [],
+    "url": "https://www.nact.jp/english/exhibition_special/2026/shojomanga/",
+    "image": "https://www.nact.jp/english/exhibition_special/media/banner_1920_1080px_fin.jpg"
+   },
+   {
+    "id": "evt_63b35d84b2bc7ffb",
+    "title": "Ugo Rondinone: shaping silence",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "Sadie Coles HQ",
+    "city": "Kyoto",
+    "country": "JP",
+    "start": "2026-10-27",
+    "end": "2026-11-12",
+    "artists": [
+     "Ugo Rondinone"
+    ],
+    "url": "https://www.sadiecoles.com/exhibitions/shaping-silence",
+    "image": null
+   },
+   {
+    "id": "evt_6e6aba1162c1eca4",
+    "title": "2026年度 第3回コレクション展",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "京都国立近代美術館",
+    "city": "Kyoto",
+    "country": "JP",
+    "start": "2026-10-24",
+    "end": "2027-01-17",
+    "artists": [],
+    "url": "https://www.momak.go.jp/Japanese/collectiongalleryarchive/2026/collectiongallery2026no03.html",
+    "image": null
+   },
+   {
+    "id": "evt_2ea6c180555a1e3f",
+    "title": "テート美術館 ターナー展――崇高の絵画、現代美術との対話",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "国立西洋美術館",
+    "city": "Tokyo",
+    "country": "JP",
+    "start": "2026-10-24",
+    "end": "2027-02-21",
+    "artists": [],
+    "url": "https://www.nmwa.go.jp/jp/exhibitions/2026turner.html",
+    "image": "https://www.nmwa.go.jp/wp-content/uploads/2026/09/2026turner.jpg.nmwa.webp"
+   },
+   {
+    "id": "evt_0bd494801a77ac97",
+    "title": "ジュエリーは、誰を夢みる",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "京都国立近代美術館",
+    "city": "Kyoto",
+    "country": "JP",
+    "start": "2026-10-24",
+    "end": "2027-01-17",
+    "artists": [],
+    "url": "https://www.momak.go.jp/Japanese/exhibitionarchive/2026/468.html",
+    "image": null
+   }
+  ],
+  "upcoming": [
+   {
+    "id": "evt_2432675ebecac87e",
+    "title": "From Where the Sound of Currents Comes",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "Tomio Koyama Gallery",
+    "city": "Tokyo",
+    "country": "JP",
+    "start": "2026-10-31",
+    "end": "2026-11-28",
+    "artists": [
+     "Elena Tutatchikova"
+    ],
+    "url": "https://www.tomiokoyamagallery.com/en/exhibitions/tutatchikova_2026/",
+    "image": null
+   },
+   {
+    "id": "evt_3dbf36a92ae1a772",
+    "title": "Mariko Mori: All That Shines",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "Mori Art Museum",
+    "city": "Tokyo",
+    "country": "JP",
+    "start": "2026-10-31",
+    "end": "2027-03-28",
+    "artists": [
+     "Mariko Mori"
+    ],
+    "url": "https://www.mori.art.museum/en/exhibitions/marikomori/index.html",
+    "image": "https://www.mori.art.museum/assets_c/2026/09/bnr_mori_mariko_1280_260916_en-thumb-1280x640-19119.jpg"
+   },
+   {
+    "id": "evt_4dcc446d8a2fefd8",
+    "title": "MAM Project 035: Brie Ruais",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "Mori Art Museum",
+    "city": "Tokyo",
+    "country": "JP",
+    "start": "2026-10-31",
+    "end": "2027-03-28",
+    "artists": [
+     "Brie Ruais"
+    ],
+    "url": "https://www.mori.art.museum/en/exhibitions/mamproject035/index.html",
+    "image": "https://www.mori.art.museum/assets_c/2026/08/bnr_mamproject035_1280_en-thumb-450xauto-18859.jpg"
+   },
+   {
+    "id": "evt_53637f6ff2d0fb41",
+    "title": "Glacier Diary",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "KOTARO NUKAGA",
+    "city": "Tokyo",
+    "country": "JP",
+    "start": "2026-10-31",
+    "end": "2026-12-19",
+    "artists": [],
+    "url": "https://kotaronukaga.com/exhibition/glacier-diary/",
+    "image": "https://i0.wp.com/kotaronukaga.com/wp-content/uploads/2026/09/%E7%9F%B3%E5%A1%9A%E5%B1%95KV%EF%BC%88%E5%A4%A7%EF%BC%89.jpeg?fit=620%2C186&ssl=1"
+   },
+   {
+    "id": "evt_b25938ec0feef59b",
+    "title": "Exhibition in collaboration with the Maebashi Biennale 2026: Haruki Ohno “Fishing Village / Symbol”",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "Taka Ishii Gallery",
+    "city": "Maebashi",
+    "country": "JP",
+    "start": "2026-10-31",
+    "end": "2026-12-20",
+    "artists": [],
+    "url": "https://www.takaishiigallery.com/en/archives/44183/",
+    "image": "https://www.takaishiigallery.com/en/wp-content/uploads/HRO-SC_22_001_a_72dpi-1200x900.jpg"
+   },
+   {
+    "id": "evt_d1592b84ac63d919",
+    "title": "Mori Art Award 2026 Grand Prize Exhibition: Katayama Mari",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "Mori Art Museum",
+    "city": "Tokyo",
+    "country": "JP",
+    "start": "2026-10-31",
+    "end": "2027-03-28",
+    "artists": [
+     "Katayama Mari"
+    ],
+    "url": "https://www.mori.art.museum/en/exhibitions/moricaf2026/index.html",
+    "image": "https://www.mori.art.museum/assets_c/2026/05/bnr_moricaf2026_1280_en-thumb-450xauto-17991.jpg"
+   },
+   {
+    "id": "evt_d2d58ce9be8b5902",
+    "title": "MAM Screen 024: Jakrawal Nilthamrong",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "Mori Art Museum",
+    "city": "Tokyo",
+    "country": "JP",
+    "start": "2026-10-31",
+    "end": "2027-03-28",
+    "artists": [
+     "Jakrawal Nilthamrong"
+    ],
+    "url": "https://www.mori.art.museum/en/exhibitions/mamscreen024/index.html",
+    "image": "https://www.mori.art.museum/assets_c/2026/09/bnr_mams024_1280_en-thumb-450xauto-18966.jpg"
+   },
+   {
+    "id": "evt_eb6dc2af811a8916",
+    "title": "From Today to Tomorrow On the Stewardship of a Work",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "21st Century Museum of Contemporary Art, Kanazawa",
+    "city": "Kanazawa",
+    "country": "JP",
+    "start": "2026-10-31",
+    "end": "2027-04-18",
+    "artists": [],
+    "url": "https://www.kanazawa21.jp/en/exhibition/data_list.php?g=81&d=255",
+    "image": "http://www.kanazawa21.jp/file.php?g=78&d=255&n=main_image&gp=&lng=j&p="
+   },
+   {
+    "id": "evt_38db97fbb2b40699",
+    "title": "Nobuko Tsuchiya \"Ace of Hearts\"",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "SCAI THE BATHHOUSE",
+    "city": "Tokyo",
+    "country": "JP",
+    "start": "2026-11-04",
+    "end": "2026-12-19",
+    "artists": [
+     "Nobuko Tsuchiya"
+    ],
+    "url": "https://www.scaithebathhouse.com/data/exhibitions/../../en/exhibitions/2026/11/nobuko_tsuchiyaace_of_hearts/",
+    "image": "https://www.scaithebathhouse.com/data/exhibitions/assets_c/2026/10/7b6ac661d09836931292e333b4f4030d045ff940-thumb-2280xauto-5549.jpg"
+   },
+   {
+    "id": "evt_505ce5caf186b9ce",
+    "title": "Art Week Tokyo 2026",
+    "kind": "fair",
+    "type": "program",
+    "venue": "Art Week Tokyo",
+    "city": "Tokyo",
+    "country": "JP",
+    "start": "2026-11-04",
+    "end": "2026-11-08",
+    "artists": [],
+    "url": "https://www.artweektokyo.com/events/",
+    "image": null
+   },
+   {
+    "id": "evt_5fa4fb579cebce01",
+    "title": "Sterling Ruby “OCEAN”",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "Taka Ishii Gallery",
+    "city": "Tokyo",
+    "country": "JP",
+    "start": "2026-11-04",
+    "end": "2026-12-12",
+    "artists": [
+     "Sterling Ruby"
+    ],
+    "url": "https://www.takaishiigallery.com/en/archives/44199/",
+    "image": "https://www.takaishiigallery.com/en/wp-content/uploads/SR-WP_26_9210_72dpi_1200px.jpg"
+   },
+   {
+    "id": "evt_e0fec53542758302",
+    "title": "〈AWT FOCUS〉鴨治晃次：Everyday Life",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "Take Ninagawa",
+    "city": "Tokyo",
+    "country": "JP",
+    "start": "2026-11-04",
+    "end": "2027-01-09",
+    "artists": [],
+    "url": "https://www.takeninagawa.com/exhibitions/",
+    "image": "https://www.takeninagawa.com/wp/wp-content/uploads/2026/10/DM_CMYK_-GrayScale_1967-22Reliefy.-Prace-przestrzenne22-Galeria-Foksal-Warszawa-4-2-2400x1785.jpg"
+   }
+  ],
+  "closing": [
+   {
+    "id": "evt_2016aed755125810",
+    "title": "Kohei Yamada “green back / front”",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "Taka Ishii Gallery",
+    "city": "Tokyo",
+    "country": "JP",
+    "start": "2026-10-03",
+    "end": "2026-10-31",
+    "artists": [
+     "Kohei Yamada"
+    ],
+    "url": "https://www.takaishiigallery.com/en/archives/44069/",
+    "image": "https://www.takaishiigallery.com/en/wp-content/uploads/KYD-PA_26_005_a-720x900.jpg"
+   },
+   {
+    "id": "evt_8928e98397c9c1ba",
+    "title": "Kohei Yamada “The landscape divides, and still I go outside.”",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "Taka Ishii Gallery",
+    "city": "Kyoto",
+    "country": "JP",
+    "start": "2026-10-03",
+    "end": "2026-10-31",
+    "artists": [
+     "Kohei Yamada"
+    ],
+    "url": "https://www.takaishiigallery.com/en/archives/44072/",
+    "image": "https://www.takaishiigallery.com/en/wp-content/uploads/KYD-SC_26_005_a-900x900.jpg"
+   },
+   {
+    "id": "evt_b51eedcc73e1bf7c",
+    "title": "笹本晃 ラボラトリー",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "国立国際美術館",
+    "city": "Osaka",
+    "country": "JP",
+    "start": "2026-07-19",
+    "end": "2026-11-03",
+    "artists": [],
+    "url": "https://www.nmao.go.jp/events/event/20260719_sasamoto-aki/",
+    "image": null
+   },
+   {
+    "id": "evt_082e3dec81b7dc43",
+    "title": "コレクション1：私／行為",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "国立国際美術館",
+    "city": "Osaka",
+    "country": "JP",
+    "start": "2026-07-19",
+    "end": "2026-11-03",
+    "artists": [],
+    "url": "https://www.nmao.go.jp/events/event/collection20260719/",
+    "image": null
+   },
+   {
+    "id": "evt_e5b1b7a267bab32e",
+    "title": "イメージラボ写真教室 第26回作品展",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "Fukuoka Asian Art Museum",
+    "city": "Fukuoka",
+    "country": "JP",
+    "start": "2026-10-29",
+    "end": "2026-11-03",
+    "artists": [],
+    "url": "https://faam.city.fukuoka.lg.jp/exhibition/27571/",
+    "image": "https://faam.city.fukuoka.lg.jp/manager/wp-content/uploads/2026/10/26thはがき写真面SNSなど.jpg"
+   }
+  ],
+  "cities": [
+   {
+    "city": "Tokyo",
+    "count": 19
+   },
+   {
+    "city": "Kyoto",
+    "count": 4
+   },
+   {
+    "city": "Yokohama",
+    "count": 4
+   },
+   {
+    "city": "Osaka",
+    "count": 3
+   },
+   {
+    "city": "Kanazawa",
+    "count": 2
+   },
+   {
+    "city": "Fukuoka",
+    "count": 2
+   }
+  ]
+ },
+ "galleries": {
+  "openings": [
+   {
+    "id": "evt_63b35d84b2bc7ffb",
+    "title": "Ugo Rondinone: shaping silence",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "Sadie Coles HQ",
+    "city": "Kyoto",
+    "country": "JP",
+    "start": "2026-10-27",
+    "end": "2026-11-12",
+    "artists": [
+     "Ugo Rondinone"
+    ],
+    "url": "https://www.sadiecoles.com/exhibitions/shaping-silence",
+    "image": null
+   }
+  ],
+  "news": [
+   {
+    "title": "Art Week Tokyo 2026",
+    "url": "https://anomalytokyo.com/en/news/artweektokyo2026/",
+    "date": "2026-10-29",
+    "source": "ANOMALY"
+   }
+  ]
+ },
+ "rookie": {
+  "people": [
+   {
+    "name": "窪田望",
+    "status": "지켜볼 신진",
+    "watch": true,
+    "award": "Prix Ars Electronica 2026 Honorary Mention(Digital Humanity)",
+    "track": "경력 제한 없는 상·선정",
+    "genre": "AI·미디어",
+    "why": "AI가 만드는 '보이지 않는 배제'를 다룬 《AIが消し去る声》로 일본인 유일 수상.",
+    "weight": {
+     "points": 5,
+     "level": "보통",
+     "reasons": [
+      "주최 Ars Electronica(오스트리아)(국제 기관) +2",
+      "1987년부터 운영(39년) +1",
+      "전문가 심사·공모 절차 공개 +1",
+      "국제 심사위원 +1"
+     ]
+    },
+    "checks": [
+     {
+      "rule": "R01 공식 선정",
+      "ok": true,
+      "detail": "Prix Ars Electronica 2026 Honorary Mention(Digital Humanity) — 보도 1곳"
+     },
+     {
+      "rule": "R02 초기 경력",
+      "ok": null,
+      "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+     },
+     {
+      "rule": "R03 독립 확인",
+      "ok": null,
+      "detail": "이름 검색을 하지 않음(한국어 뉴스 검색만 지원) — 편집자 확인 필요"
+     },
+     {
+      "rule": "R05 지속성(후속 지원)",
+      "ok": true,
+      "detail": "상에 딸린 후속 지원: 오스트리아 린츠 작품 상영, 국제 학술회의 발표"
+     }
+    ],
+    "homonym_note": null
+   },
+   {
+    "name": "馬場敬一",
+    "status": "지켜볼 신진",
+    "watch": true,
+    "award": "오카모토 다로 현대예술상(TARO賞) 수상자 개인전",
+    "track": "경력 제한 없는 상·선정",
+    "genre": null,
+    "why": "보도 제목: '상처'를 독자적 신화 세계로 그린 작업 — 수상 후 개인전 개최.",
+    "weight": {
+     "points": 4,
+     "level": "보통",
+     "reasons": [
+      "주최 가와사키시 오카모토 다로 미술관 계열 재단(공공재단) +2",
+      "전문가 심사·공모 절차 공개 +1",
+      "후속 전시 지원 +1"
+     ]
+    },
+    "checks": [
+     {
+      "rule": "R01 공식 선정",
+      "ok": true,
+      "detail": "오카모토 다로 현대예술상(TARO賞) 수상자 개인전 — 보도 1곳"
+     },
+     {
+      "rule": "R02 초기 경력",
+      "ok": null,
+      "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+     },
+     {
+      "rule": "R03 독립 확인",
+      "ok": null,
+      "detail": "이름 검색을 하지 않음(한국어 뉴스 검색만 지원) — 편집자 확인 필요"
+     },
+     {
+      "rule": "R05 지속성(후속 지원)",
+      "ok": true,
+      "detail": "상에 딸린 후속 지원: 수상 후속 개인전"
+     }
+    ],
+    "homonym_note": null
+   },
+   {
+    "name": "永橋和雄",
+    "status": "기성 작가",
+    "watch": false,
+    "award": "제45회 도몬켄상",
+    "track": "기성 작가 상",
+    "genre": "사진",
+    "why": "수상작 『티베트의 미궁 포탈라궁』.",
+    "weight": {
+     "points": 4,
+     "level": "보통",
+     "reasons": [
+      "주최 마이니치신문사(언론사·재단) +1",
+      "1982년부터 운영(44년) +1",
+      "전문가 심사·공모 절차 공개 +1",
+      "후속 전시 지원 +1"
+     ]
+    },
+    "checks": [
+     {
+      "rule": "R01 공식 선정",
+      "ok": true,
+      "detail": "제45회 도몬켄상 — 보도 1곳"
+     },
+     {
+      "rule": "R02 초기 경력",
+      "ok": null,
+      "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+     },
+     {
+      "rule": "R03 독립 확인",
+      "ok": null,
+      "detail": "이름 검색을 하지 않음(한국어 뉴스 검색만 지원) — 편집자 확인 필요"
+     },
+     {
+      "rule": "R05 지속성(후속 지원)",
+      "ok": true,
+      "detail": "상에 딸린 후속 지원: 수상작 전시"
+     }
+    ],
+    "homonym_note": null
+   }
+  ],
+  "awards": [
+   {
+    "award": "Prix Ars Electronica 2026 Honorary Mention(Digital Humanity)",
+    "organizer": "Ars Electronica(오스트리아)",
+    "weight": {
+     "points": 5,
+     "level": "보통",
+     "reasons": [
+      "주최 Ars Electronica(오스트리아)(국제 기관) +2",
+      "1987년부터 운영(39년) +1",
+      "전문가 심사·공모 절차 공개 +1",
+      "국제 심사위원 +1"
+     ]
+    },
+    "track": "경력 제한 없는 상·선정",
+    "track_reason": "국제 경쟁 부문 수상. 출처가 보도자료형 기사 1건이라 공식 수상자 목록으로 다시 확인한다.",
+    "winners": [
+     "窪田望"
+    ],
+    "url": "https://media.thisisgallery.com/20278642",
+    "date": "2026-10-01"
+   },
+   {
+    "award": "오카모토 다로 현대예술상(TARO賞) 수상자 개인전",
+    "organizer": "가와사키시 오카모토 다로 미술관 계열 재단",
+    "weight": {
+     "points": 4,
+     "level": "보통",
+     "reasons": [
+      "주최 가와사키시 오카모토 다로 미술관 계열 재단(공공재단) +2",
+      "전문가 심사·공모 절차 공개 +1",
+      "후속 전시 지원 +1"
+     ]
+    },
+    "track": "경력 제한 없는 상·선정",
+    "track_reason": "나이·경력 제한 없는 공모 상. 수상 연도는 제목에 없어 이번 달은 '수상 뒤 개인전' 사건으로 본다.",
+    "winners": [
+     "馬場敬一"
+    ],
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43UUFLdW5BTFoxdDVYX1JkQWt6QkwxVHZHTnNaXzVHY3dQWmt0eUdXcVFNe",
+    "date": "2026-10-16"
+   },
+   {
+    "award": "제45회 도몬켄상",
+    "organizer": "마이니치신문사",
+    "weight": {
+     "points": 4,
+     "level": "보통",
+     "reasons": [
+      "주최 마이니치신문사(언론사·재단) +1",
+      "1982년부터 운영(44년) +1",
+      "전문가 심사·공모 절차 공개 +1",
+      "후속 전시 지원 +1"
+     ]
+    },
+    "track": "기성 작가 상",
+    "track_reason": "일본 대표 사진상이며 작품집 단위 업적 평가 — 기성 작가 상.",
+    "winners": [
+     "永橋和雄"
+    ],
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRc0huSm5BUlBsWWo1dG5abHRVelI5VjY1bkM1ck9ESndFTFlReXhxdHBkU",
+    "date": "2026-10-16"
+   },
+   {
+    "award": "도요타통상 아프리카 현대미술 어워드(첫 회)",
+    "organizer": "도요타통상",
+    "weight": {
+     "points": 1,
+     "level": "낮음",
+     "reasons": [
+      "주최 도요타통상(민간 재단·기업) +1"
+     ]
+    },
+    "track": "경력 제한 없는 상·선정",
+    "track_reason": "기업이 새로 만든 상(첫 회). 수상자 5명 이름은 제목에 없고 원문은 Google News 경유라 읽지 않았다 — 명단 확인 필요.",
+    "winners": [],
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wa2tlU211anlULUpuQm01a2FHLXFCN2dBeE1oS2Ztd0poVG5GcHdxNXRUU",
+    "date": "2026-10-16"
+   }
+  ]
+ },
+ "criticism": [
+  {
+   "title": "故郷を離れて見えてきたもの。ワン・トゥオ×ルオ・ヤンが語る、身体と記憶、そして歴史",
+   "url": "https://bijutsutecho.com/magazine/interview/33256",
+   "date": "2026-10-30",
+   "type": "interview",
+   "outlet": "Bijutsu Techo",
+   "title_ko": null
+  },
+  {
+   "title": "松房子｜中島崇個展 水跡 – traces of energy –",
+   "url": "https://artscape.jp/article/80347/",
+   "date": "2026-10-30",
+   "type": "review",
+   "outlet": "artscape",
+   "title_ko": null
+  },
+  {
+   "title": "男が階段を上る時 市原尚士評",
+   "url": "https://critique.aicajapan.com/20925",
+   "date": "2026-10-30",
+   "type": "review",
+   "outlet": "美術評論＋",
+   "title_ko": "남자가 계단을 올라갈 때"
+  },
+  {
+   "title": "杉江あこ｜路上、お邪魔ですか？",
+   "url": "https://artscape.jp/article/80561/",
+   "date": "2026-10-30",
+   "type": "review",
+   "outlet": "artscape",
+   "title_ko": "아코 Sugie | 길 위에?"
+  },
+  {
+   "title": "「古い建物が残らない社会が完成している」。京都モダン建築祭・笠原一人が語る、建築ブームと保存の危機",
+   "url": "https://bijutsutecho.com/magazine/interview/33245",
+   "date": "2026-10-29",
+   "type": "interview",
+   "outlet": "Bijutsu Techo",
+   "title_ko": "“오래된 건물이 남아 있지 않은 사회”. 교토 현대 건축 축제, 카사하라, 건축 붐과 보존의 위기"
+  },
+  {
+   "title": "目指せ新面目 市原尚士評",
+   "url": "https://critique.aicajapan.com/20915",
+   "date": "2026-10-28",
+   "type": "review",
+   "outlet": "美術評論＋",
+   "title_ko": "새로운 얼굴을 위한"
+  },
+  {
+   "title": "星野太｜レイ・ブラシエ『解き放たれた無──啓蒙と絶滅』",
+   "url": "https://artscape.jp/article/80929/",
+   "date": "2026-10-28",
+   "type": "review",
+   "outlet": "artscape",
+   "title_ko": "홈 | 레이 부라시에 — 계몽주의와 멸종"
+  },
+  {
+   "title": "戦争反対 市原尚士評",
+   "url": "https://critique.aicajapan.com/20901",
+   "date": "2026-10-28",
+   "type": "review",
+   "outlet": "美術評論＋",
+   "title_ko": null
+  },
+  {
+   "title": "松房子｜路上、お邪魔ですか？",
+   "url": "https://artscape.jp/article/80355/",
+   "date": "2026-10-28",
+   "type": "review",
+   "outlet": "artscape",
+   "title_ko": null
+  },
+  {
+   "title": "過激広告の勧め 市原尚士評",
+   "url": "https://critique.aicajapan.com/20891",
+   "date": "2026-10-27",
+   "type": "review",
+   "outlet": "美術評論＋",
+   "title_ko": null
+  }
+ ],
+ "fairs": [
+  {
+   "id": "evt_6341022437ba425d",
+   "title": "Art Collaboration Kyoto 2026",
+   "kind": "fair",
+   "type": "fair_edition",
+   "venue": "Art Collaboration Kyoto",
+   "city": "Kyoto",
+   "country": "JP",
+   "start": "2026-11-07",
+   "end": "2026-11-09",
+   "artists": [
+    "18, Murata",
+    "4649",
+    "ANOMALY",
+    "ATTA",
+    "Almine Rech",
+    "Annely Juda Fine Art"
+   ],
+   "url": "https://a-c-k.jp/visitor-information/",
+   "image": null,
+   "status": "개막 예정",
+   "d_day": 8
+  }
+ ],
+ "stats": {
+  "articles_7d": 39,
+  "stories_7d": 37
+ }
+}

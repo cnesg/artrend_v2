@@ -1,0 +1,5138 @@
+{
+ "date": "2026-10-29",
+ "edition": "KR",
+ "edition_ko": "한국",
+ "edition_en": "Korea",
+ "slug": "kr",
+ "publishable": false,
+ "headlines": [
+  {
+   "title": "홍진훤, 국립현대미술관 ‘올해의 작가상’ 품었다",
+   "dek": "국가 미술관 대표 작가상 최종 수상자로 홍진훤 — 국제 심사위원 포함 공개 심사, 후원금 6,000만원.",
+   "power": 3,
+   "power_label": "강한 신호",
+   "axis": "화제",
+   "points": [
+    "수상 뒤 전시·후원이 이어지는지가 진짜 신호다."
+   ],
+   "about": "홍진훤 — 관련 기사:",
+   "what": [
+    "경향신문 문화 10/29: ‘국립현대미술관 ‘올해의 작가상’ 최종 수상자에 홍진훤’",
+    "seoul.co.kr 10/28: ‘국립현대미술관 ‘올해의 작가상’에 홍진훤’",
+    "joongang.co.kr 10/28: ‘국립현대미술관, ‘올해의 작가상 2026’ 최종 수상자에 홍진훤’"
+   ],
+   "evidence": "보도 28곳(최근 7일) — 근거 헤드라인: ‘국립현대미술관 ‘올해의 작가상’ 최종 수상자에 홍진훤’(경향신문).",
+   "read": "보도 제목에서 '첫 공개·관객·기록·수상' 단서를 읽어 다시 쓴 헤드라인이다 — 관객 수와 가격은 관심과 시장의 온도이지 예술적 가치가 아니다.",
+   "items": [
+    "[국립현대미술관 ‘올해의 작가상’ 최종 수상자에 홍진훤](https://www.khan.co.kr/article/202610292018055/)"
+   ],
+   "tags": [
+    "홍진훤"
+   ],
+   "image": null,
+   "after": false
+  },
+  {
+   "title": "이번 주 전시 키워드: 사진",
+   "dek": "《포토 디스커버리 프로젝트》(서울시립미술관), ‘신세계갤러리 청담, 최지욱 개인전 '표면의 언어'…’ — 같은 주, 전시 3곳 · 보도 10건이 같은 주제를 꺼냈다.",
+   "power": 3,
+   "power_label": "강한 신호",
+   "axis": "주제",
+   "points": [
+    "기록 매체로서의 사진이 다시 질문받는다."
+   ],
+   "about": "어떤 전시인지:",
+   "what": [
+    "《포토 디스커버리 프로젝트 《기계적 시선: 접촉하여 보기》》 — 서울시립미술관, 10월 28일–12월 20일 · 작가 김영경",
+    "《사진전 <兪 ; 그러하다>》 — 와이아트갤러리(서울), 10월 30일–11월 12일",
+    "《포토 디스커버리 프로젝트 《기계적 시선: 접촉하여 보기》》 — 서울시립 사진미술관, 10월 28일–12월 20일"
+   ],
+   "evidence": "주제 '사진' — 전시 3 · 보도 10건, 서로 다른 기관·소식 13곳(전시: 이번 주~2주 뒤 개막, 보도·비평: 최근 7일).",
+   "read": "키워드 기준 자동 판단이다 — 같은 단어가 다른 뜻으로 쓰였을 수 있으니 원문을 확인한 뒤 기사화한다.",
+   "items": [
+    "포토 디스커버리 프로젝트 《기계적 시선: 접촉하여 보기》",
+    "사진전 <兪 ; 그러하다>",
+    "포토 디스커버리 프로젝트 《기계적 시선: 접촉하여 보기》"
+   ],
+   "tags": [
+    "주제"
+   ],
+   "image": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1035132",
+   "after": false
+  },
+  {
+   "title": "이번 주 전시 키워드: 기록과 기억",
+   "dek": "《고이즈미 메이로》(아트선재센터), ‘용인문화재단, '숲 속의 기억 나무그늘아래 展' 개…’ — 같은 주, 전시 3곳 · 보도 2건이 같은 주제를 꺼냈다.",
+   "power": 3,
+   "power_label": "강한 신호",
+   "axis": "주제",
+   "points": [
+    "새 작품보다 '다시 읽기'가 시즌의 방향."
+   ],
+   "about": "어떤 전시인지:",
+   "what": [
+    "《고이즈미 메이로: 불, 어느 아카이브》 — 아트선재센터(서울), 10월 27일–12월 27일",
+    "《김환, 남종현 <마주하는, 마주하지 않는 Facing, Without Facing>》 — 16아카이브(서울), 11월 6일–11월 29일",
+    "《2026 산지천갤러리 《SJC 아카이브 윈도우: 붉은 방》 상설전시 및 작가와의 대화》 — 산지천갤러리(제주), 10월 28일–2027년 2월 28일"
+   ],
+   "evidence": "주제 '기록과 기억' — 전시 3 · 보도 2건, 서로 다른 기관·소식 5곳(전시: 이번 주~2주 뒤 개막, 보도·비평: 최근 7일).",
+   "read": "키워드 기준 자동 판단이다 — 같은 단어가 다른 뜻으로 쓰였을 수 있으니 원문을 확인한 뒤 기사화한다.",
+   "items": [
+    "고이즈미 메이로: 불, 어느 아카이브",
+    "김환, 남종현 <마주하는, 마주하지 않는 Facing, Without Facing>",
+    "2026 산지천갤러리 《SJC 아카이브 윈도우: 붉은 방》 상설전시 및 작가와의 대화"
+   ],
+   "tags": [
+    "주제"
+   ],
+   "image": "https://www.culture.go.kr/upload/ucms/oneCltInfo/2026/202610/62d05ef03aa7443d9a9caf443c262486.png",
+   "after": false
+  },
+  {
+   "title": "씨네큐브·세화미술관, 영화 '게오르그 바젤리츠' 연계 씨네토크 개최",
+   "dek": "이틀 사이 가장 넓게 퍼진 전시·프로그램 소식.",
+   "power": 3,
+   "power_label": "강한 신호",
+   "axis": "보도",
+   "points": [],
+   "about": "관련 기사:",
+   "what": [
+    "thefirstmedia.net 10/29: ‘씨네큐브·세화미술관, 영화 '게오르그 바젤리츠' 연계 씨네토크 개최’",
+    "pinpointnews.co.kr 10/29: ‘태광 세화미술관·씨네큐브, '게오르그 바젤리츠' 씨네토크 개최’",
+    "view.asiae.co.kr 10/29: ‘씨네큐브·세화미술관, 영화 '게오르그 바젤리츠' 씨네토크 개최’"
+   ],
+   "evidence": "기사 1,443건 → 같은 소식 묶음 1,034개(최근 7일) — 전시·프로그램 504, 그 밖의 소식 406, 수상·인물 54.",
+   "read": "화제성(보도 확산)은 중요도와 다르다 — 중요도는 아래 '주요 소식'의 기준 판정을 본다.",
+   "items": [],
+   "tags": [
+    "보도"
+   ],
+   "image": null,
+   "after": false
+  },
+  {
+   "title": "울산시립미술관, 신진 작가에게 첫 무대",
+   "dek": "10월 29일–12월 6일 · 《2026 울산시립미술관 신진작가 성과전》.",
+   "power": 2,
+   "power_label": "눈에 띄는 신호",
+   "axis": "신진 경로",
+   "points": [
+    "기관이 직접 고른 신진 — 다음 행보는 아래 ROOKIE RADAR에서."
+   ],
+   "about": "울산시립미술관(Ulsan)에서 상·신진 작가 전시 《2026 울산시립미술관 신진작가 성과전》가 문을 열었다.",
+   "what": [
+    "《2026 울산시립미술관 신진작가 성과전 : 박지혜》 — 울산시립미술관(Ulsan), 10월 29일–12월 6일",
+    "《《수상한 표면 : Suspicious Surfaces》》 — 유엠 갤러리(서울), 10월 31일–11월 19일",
+    "《[UNAW Gallery] 젠야 다츠코 국내 첫 개인전 <The Unspoken Hour>》 — UNAW Gallery(서울), 10월 31일–12월 12일"
+   ],
+   "evidence": "수상·신진 전시 2026 울산시립미술관 신진작가 성과전 : 박지혜(10-29), 《수상한 표면 : Suspicious Surfaces》(10-31), [UNAW Gallery] 젠야 다츠코 국내 첫 개인전 <The Unspoken Hour>(10-31), 제26회 이인성미술상 수상자전 《이명미: 더 이상은 말할 수 없다》(11-03)(이번 주~2주 뒤 개막).",
+   "read": "제목에 상·신진 표기가 있는 전시만 잡는다",
+   "items": [
+    "2026 울산시립미술관 신진작가 성과전 : 박지혜",
+    "《수상한 표면 : Suspicious Surfaces》",
+    "[UNAW Gallery] 젠야 다츠코 국내 첫 개인전 <The Unspoken Hour>"
+   ],
+   "tags": [
+    "신진"
+   ],
+   "image": "https://www.culture.go.kr/upload/rdf/26/10/rdf_2026102921172346999.jpg",
+   "after": false
+  },
+  {
+   "title": "갤러리들이 밀어주는 이름: Georg Baselitz",
+   "dek": "소속 작가의 미술관 전시·수상·언론 소개를 앞세운 발표가 잇따랐다.",
+   "power": 2,
+   "power_label": "눈에 띄는 신호",
+   "axis": "갤러리",
+   "points": [
+    "갤러리 홍보가 '우리 전시'에서 '우리 작가의 바깥 성과'로 옮겨갔다."
+   ],
+   "about": "갤러리들이 직접 낸 공식 소식 가운데 소속 작가의 바깥 성과(미술관 전시·수상·언론 소개)를 알린 글:",
+   "what": [
+    "《(no)thing》 — Gallery Hyundai(서울), 10월 29일–12월 20일 · 작가 Myoung Ho Lee",
+    "Thaddaeus Ropac 10/29: ‘Anselm Kiefer Into the Golden Crucible Anselm Kiefer’s The Women Alchemists, at Palazzo Re…’",
+    "Thaddaeus Ropac 10/26: ‘2026년 10월 26일 Georg Baselitz The Inverted Master 세화미술관과 타대우스 로팍 서울에서 동시 개최된 Georg Baselitz…’"
+   ],
+   "evidence": "갤러리 개막 1건(최근 14일) — Gallery Hyundai 1. 갤러리 공식 소식 2건(최근 7일)",
+   "read": "갤러리가 스스로 알리는 소식은 언론 소개 2·기관 전시 1 순 — 소속 작가의 미술관 전시·수상을 홍보하는 흐름이면 갤러리 사건이 아니라 작가 사건(A축)으로 옮겨 본다.",
+   "items": [
+    "(no)thing",
+    "[Featured in The Hankyoreh 29 October 2026 Anselm Kiefer Into](https://ropac.net/news/3207-anselm-kiefer-into-the-golden-crucible/)",
+    "[Featured in Prestige 26 October 2026 Georg Baselitz The Inve](https://ropac.net/news/3201-georg-baselitz-the-inverted-master/)"
+   ],
+   "tags": [
+    "갤러리"
+   ],
+   "image": "https://www.galleryhyundai.com/public/2026/10/22/15/11/23/034109d0-7f66-4eb7-a5c4-e2793d3bc6a4.resize_large.jpg",
+   "after": false
+  },
+  {
+   "title": "신진상 시즌 개막 — 첫 수상자는 김승주·이혜진",
+   "dek": "한 달 새 신진 대상 상 3개가 수상자를 냈다.",
+   "power": 2,
+   "power_label": "눈에 띄는 신호",
+   "axis": "수상·루키",
+   "points": [
+    "상보다 중요한 건 다음 무대(개인전·레지던시)를 누가 얻느냐."
+   ],
+   "about": "최근 한 달 신진 대상 상과 수상자:",
+   "what": [
+    "2027 우진청년미술상 — 김승주, 임희성: 심사평",
+    "겸재정선미술관 '내일의 작가' — 이혜진: 2025년 대상 수상, 그 후속으로 2026년 10월 30일~11월 26일 개인전. 올해 수상 9인 명단은 보도에 없음.",
+    "2026 여주국제사진전 주제전 '지구방랑자' 선정 — 조성경: 대지와 인간의 서사를 정제된 이미지로 풀어낸다는 소개. 같은 달 291 포토그랩스 포트폴리오 기획전에도 선정 — 서로 다른 주체 2곳."
+   ],
+   "evidence": "판단한 수상·선정 17건(최근 30일) — 신진 대상 3 · 경력 무관 6 · 기성 5.",
+   "read": "신진 발굴 경로가 어디서 열리는지 본다 — 상세 판단은 홈의 ROOKIE RADAR.",
+   "items": [],
+   "tags": [
+    "신진"
+   ],
+   "image": null,
+   "after": false
+  },
+  {
+   "title": "서울 전시장 붐빈다 — 새 전시 평소의 두 배 이상",
+   "dek": "이번 주 새 전시 38개, 흐름은 미술관 쪽이 이끈다.",
+   "power": 3,
+   "power_label": "강한 신호",
+   "axis": "전시",
+   "points": [
+    "주목: 《고이즈미 메이로》 — 작가가 뉴스에도 함께 오른다."
+   ],
+   "about": "이번 주 서울에서 문을 연 전시:",
+   "what": [
+    "《고이즈미 메이로: 불, 어느 아카이브》 — 아트선재센터(서울), 10월 27일–12월 27일",
+    "《경기상상캠퍼스 10주년 특별전 《상상훈련》》 — 경기상상캠퍼스 M3, 10월 23일–11월 8일",
+    "《ACT 페스티벌 2026 아이, 휴먼: 테크네세에 응답하기》 — 국립아시아문화전당 문화창조원 복합 4관(광주), 10월 23일–11월 8일. venue"
+   ],
+   "evidence": "지난 7일 개막 38건(직전 4주 주평균 16.5건, +130%) — 갤러리 1 · 미술관·기관 37 · 도시 Seoul 13, 경기 6. 앞으로 2주 개막 예정 44건.",
+   "read": "개막이 평소보다 몰린 주다 이번 주 흐름은 미술관·기관 쪽이 주도한다.",
+   "items": [
+    "고이즈미 메이로: 불, 어느 아카이브",
+    "경기상상캠퍼스 10주년 특별전 《상상훈련》",
+    "ACT 페스티벌 2026 아이, 휴먼: 테크네세에 응답하기"
+   ],
+   "tags": [
+    "전시"
+   ],
+   "image": "https://www.culture.go.kr/upload/ucms/oneCltInfo/2026/202611/ac61ebb635044d8888887f02ff2cdfaf.png",
+   "after": false
+  },
+  {
+   "title": "유영국 회고전, 서울시립미술관에서 45만 명이 찾았다",
+   "dek": "관객이 먼저 움직였다. 숫자는 작품값이 아니라 관심의 온도다.",
+   "power": 3,
+   "power_label": "강한 신호",
+   "axis": "화제",
+   "points": [],
+   "about": "유영국 — 관련 기사:",
+   "what": [
+    "뉴시스 문화 10/28: ‘유영국 회고전 45만명 봤다…서울시립미술관 무료 전시 역대 최다’",
+    "news1.kr 10/28: ‘'역대 무료 전시 최고 45만 명 관람'…서울시립미술관 '유영국 회고전'...’"
+   ],
+   "evidence": "보도 9곳(최근 7일) — 근거 헤드라인: ‘유영국 회고전 45만명 봤다…서울시립미술관 무료 전시 역대 최다’(뉴시스).",
+   "read": "보도 제목에서 '첫 공개·관객·기록·수상' 단서를 읽어 다시 쓴 헤드라인이다 — 관객 수와 가격은 관심과 시장의 온도이지 예술적 가치가 아니다.",
+   "items": [
+    "[유영국 회고전 45만명 봤다…서울시립미술관 무료 전시 역대 최다](https://www.newsis.com/view/NISX20261028_0003844299)"
+   ],
+   "tags": [
+    "화제"
+   ],
+   "image": null,
+   "after": true
+  },
+  {
+   "title": "제16회 광주비엔날레 너는 네 삶을 바꿔야 한다, 폐막 D-17",
+   "dek": "막바지 관람·리뷰가 몰리는 구간.",
+   "power": 2,
+   "power_label": "눈에 띄는 신호",
+   "axis": "페어·비엔날레",
+   "points": [],
+   "about": "진행 중이거나 3주 안에 열리는 페어·비엔날레:",
+   "what": [
+    "《제16회 광주비엔날레 너는 네 삶을 바꿔야 한다 《You Must Change Your Life》》 — 광주비엔날레, 9월 5일–11월 15일 · 작가 A K Dolven, Amanda Heng, Angela Goh 외 40명"
+   ],
+   "evidence": "진행 중 제16회 광주비엔날레 너는 네 삶을 바꿔야 한다 《You Must Change Your Life》(~11-15) · 3주 안 개막 없음.",
+   "read": "아트페어·비엔날레 주간에는 갤러리 개막·신진상·판매 보도가 같이 늘어난다",
+   "items": [],
+   "tags": [
+    "페어·비엔날레"
+   ],
+   "image": null,
+   "after": true
+  },
+  {
+   "title": "겸재 정선 특별전, 대구간송미술관에서 4만 2000명이 찾았다",
+   "dek": "관객이 먼저 움직였다. 숫자는 작품값이 아니라 관심의 온도다.",
+   "power": 3,
+   "power_label": "강한 신호",
+   "axis": "화제",
+   "points": [],
+   "about": "겸재 정선 — 관련 기사:",
+   "what": [
+    "news.bbsi.co.kr 10/25: ‘대구간송미술관 '겸재 정선' 특별전 성황…한 달 만에 4만 명 돌파’",
+    "hankookilbo.com 10/23: ‘'겸재 정선' 한 달 만에 4만2000명... 대구간송미술관 가을 명소로 부상’",
+    "m-i.kr 10/23: ‘대구간송미술관 '겸재 정선 특별전', 개막 한 달 만에 4만2000명 방문’"
+   ],
+   "evidence": "보도 9곳(최근 7일) — 근거 헤드라인: ‘대구간송미술관 '겸재 정선' 특별전 성황…한 달 만에 4만 명 돌파’(news.bbsi.co.kr).",
+   "read": "보도 제목에서 '첫 공개·관객·기록·수상' 단서를 읽어 다시 쓴 헤드라인이다 — 관객 수와 가격은 관심과 시장의 온도이지 예술적 가치가 아니다.",
+   "items": [
+    "[대구간송미술관 '겸재 정선' 특별전 성황…한 달 만에 4만 명 돌파](https://news.bbsi.co.kr/news/articleView.html?idxno=4114535)"
+   ],
+   "tags": [
+    "화제"
+   ],
+   "image": null,
+   "after": true
+  }
+ ],
+ "keywords": [
+  {
+   "label": "수성국제비엔날레",
+   "kind": "행사",
+   "n": 9,
+   "sources": 31,
+   "rise": "평소의 7.2배",
+   "lift": 7.15,
+   "score": 7.249,
+   "note": "이번 주 9건 · 평소의 7.2배",
+   "examples": [
+    {
+     "title": "수성구, 건축·조경으로 일상 공간 바꾸는 국제비엔날레 개막",
+     "url": "https://tk.newdaily.co.kr/site/data/html/2026/10/29/2026102900442.html",
+     "date": "2026-10-29"
+    },
+    {
+     "title": "\"건축·조경과 일상의 만남\" '2026 수성국제비엔날레' 팡파르",
+     "url": "https://www.hidomin.com/news/articleView.html?idxno=726935",
+     "date": "2026-10-28"
+    },
+    {
+     "title": "‘2026 수성국제비엔날레’ 환영사하는 김대권 수성구청장",
+     "url": "https://www.newsis.com/view/NISI20261027_0021506769",
+     "date": "2026-10-27"
+    }
+   ]
+  },
+  {
+   "label": "프레인빌라 아트페어",
+   "kind": "행사",
+   "n": 5,
+   "sources": 6,
+   "rise": "새로 등장",
+   "lift": 11.92,
+   "score": 5.961,
+   "note": "이번 주 5건 · 새로 등장",
+   "examples": [
+    {
+     "title": "프레인빌라 아트페어 개최",
+     "url": "https://www.sedaily.com/article/20106543?ref=naver",
+     "date": "2026-10-27"
+    },
+    {
+     "title": "프레인빌라 아트페어 ‘PRAIN VILLA ART FAIR (Edition 02) - MICA’",
+     "url": "https://www.sedaily.com/article/20106542?ref=naver",
+     "date": "2026-10-27"
+    },
+    {
+     "title": "프레인빌라, MICA 출신 한국 작가 18인 조명 ... 두 번째 아트페어 개최",
+     "url": "https://www.artkoreatv.com/news/articleView.html?idxno=105260",
+     "date": "2026-10-26"
+    }
+   ]
+  },
+  {
+   "label": "노동",
+   "kind": "주제",
+   "n": 5,
+   "sources": 6,
+   "rise": "평소의 6.0배",
+   "lift": 5.96,
+   "score": 5.118,
+   "note": "이번 주 5건 · 평소의 6.0배",
+   "examples": [
+    {
+     "title": "경기문화재단, '경기젊은작가' 작품구입 공모 및 '상상훈련'·'사랑노동...",
+     "url": "https://www.cstimes.com/news/articleView.html?idxno=725702",
+     "date": "2026-10-29"
+    },
+    {
+     "title": "사랑노동아시아하기",
+     "url": "https://gmoma.ggcf.kr/exhibitions/208",
+     "date": "2026-10-29"
+    },
+    {
+     "title": "경기도미술관 '사랑노동아시아하기' 29일 개막…20주년 특별전",
+     "url": "https://www.newsis.com/view/NISX20261028_0003844607",
+     "date": "2026-10-28"
+    }
+   ]
+  },
+  {
+   "label": "가족·돌봄",
+   "kind": "주제",
+   "n": 10,
+   "sources": 12,
+   "rise": "평소의 3.4배",
+   "lift": 3.41,
+   "score": 4.702,
+   "note": "이번 주 10건 · 평소의 3.4배",
+   "examples": [
+    {
+     "title": "뮤지컬 무대에 오르는 화가 이중섭의 삶과 가족 사랑",
+     "url": "https://www.segye.com/newsView/20261029512094?OutUrl=naver",
+     "date": "2026-10-29"
+    },
+    {
+     "title": "수원시립미술관, 고립·은둔 중장년 위한 예술돌봄 교구 ‘Art in Flow’ 제...",
+     "url": "https://www.kgnews.co.kr/news/article.html?no=917259",
+     "date": "2026-10-29"
+    },
+    {
+     "title": "母가 47년간 쓴 가계부, 영화가 되다…\"어머니도 여자다? 충격이었죠\" [...",
+     "url": "https://www.news1.kr/entertain/movie/6334277",
+     "date": "2026-10-29"
+    }
+   ]
+  },
+  {
+   "label": "건축",
+   "kind": "매체",
+   "n": 13,
+   "sources": 35,
+   "rise": "평소의 2.8배",
+   "lift": 2.82,
+   "score": 4.374,
+   "note": "이번 주 13건 · 평소의 2.8배",
+   "examples": [
+    {
+     "title": "수성구, 건축·조경으로 일상 공간 바꾸는 국제비엔날레 개막",
+     "url": "https://tk.newdaily.co.kr/site/data/html/2026/10/29/2026102900442.html",
+     "date": "2026-10-29"
+    },
+    {
+     "title": "[대구 수성 24시] 수성구, 국제비엔날레 개막…수성못서 건축·조경 전시",
+     "url": "https://www.sisajournal.com/news/articleView.html?idxno=392078",
+     "date": "2026-10-29"
+    },
+    {
+     "title": "\"건축·조경과 일상의 만남\" '2026 수성국제비엔날레' 팡파르",
+     "url": "https://www.hidomin.com/news/articleView.html?idxno=726935",
+     "date": "2026-10-28"
+    }
+   ]
+  },
+  {
+   "label": "신진",
+   "kind": "형식",
+   "n": 21,
+   "sources": 28,
+   "rise": "평소의 2.3배",
+   "lift": 2.28,
+   "score": 4.067,
+   "note": "이번 주 21건 · 평소의 2.3배",
+   "examples": [
+    {
+     "title": "울산시립미술관, 지역 신진작가 성과전",
+     "url": "http://www.ujeil.com/news/articleView.html?idxno=394393",
+     "date": "2026-10-29"
+    },
+    {
+     "title": "GALLERY We, DIAF 2026서 6인 작가전… 대형 회화와 신진 작가의 만남",
+     "url": "https://www.geconomy.co.kr/news/article.html?no=325013",
+     "date": "2026-10-29"
+    },
+    {
+     "title": "제주 청년작가 김가현, 서울서 개인전 '꿈꾸는 바다' 연다",
+     "url": "https://www.jejusori.net/news/articleView.html?idxno=507831",
+     "date": "2026-10-29"
+    }
+   ]
+  },
+  {
+   "label": "미디어아트",
+   "kind": "매체",
+   "n": 14,
+   "sources": 14,
+   "rise": "평소의 2.1배",
+   "lift": 2.09,
+   "score": 3.186,
+   "note": "이번 주 14건 · 평소의 2.1배",
+   "examples": [
+    {
+     "title": "남원 미디어아트 전시관, 야간 문화행사 '남원의 밤, 피오리움 2' 개최",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3736709",
+     "date": "2026-10-29"
+    },
+    {
+     "title": "인천TP, 미디어아트 공모전 선정작 전시…네트워킹 행사",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3735683",
+     "date": "2026-10-28"
+    },
+    {
+     "title": "인천TP, ‘NEXT:ON 2026’ 미디어아트 전시·네트워킹 개최",
+     "url": "https://zdnet.co.kr/view/?no=20261028134243",
+     "date": "2026-10-28"
+    }
+   ]
+  },
+  {
+   "label": "홍진훤",
+   "kind": "작가",
+   "n": 28,
+   "sources": null,
+   "rise": "이번 주 화제",
+   "lift": null,
+   "score": 0,
+   "note": "보도 28 · 전시 0",
+   "examples": [
+    {
+     "title": "국립현대미술관 ‘올해의 작가상’ 최종 수상자에 홍진훤",
+     "url": "https://www.khan.co.kr/article/202610292018055/",
+     "date": null
+    }
+   ]
+  }
+ ],
+ "top": {
+  "trending": [
+   {
+    "title": "국립현대미술관 서울관 《올해의 작가상 2026》",
+    "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?pblprfrSn=364451&menuNo=200010",
+    "date": "2026-07-24",
+    "ago": "개막 98일째",
+    "topic": "뜨는 중",
+    "image": "https://www.culture.go.kr/upload/ucms/oneCltInfo/2026/202607/c3ad9d7727864bab98c12659bad530b6.png",
+    "reason": "이번 주 18개 매체가 다뤘다"
+   },
+   {
+    "title": "서울시립미술관 《린 허쉬만 리슨》",
+    "url": "https://sema.seoul.go.kr/kr/whatson/exhibition/detail?exNo=1559068",
+    "date": "2026-10-21",
+    "ago": "개막 9일째",
+    "topic": "주목",
+    "image": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1026305",
+    "reason": "이번 주 보도가 나오기 시작했다"
+   },
+   {
+    "title": "서울시립미술관 《서울시립 서서울미술관 미디어 작가전 김희천》",
+    "url": "https://sema.seoul.go.kr/kr/whatson/exhibition/detail?exNo=1565012",
+    "date": "2026-08-20",
+    "ago": "종료 D-10",
+    "topic": "주목",
+    "image": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1015413",
+    "reason": "김희천 — 최근 석 달 9개 매체에 오른 이름"
+   }
+  ],
+  "rookie": {
+   "title": "울산시립미술관, 신진 작가에게 첫 무대",
+   "dek": "10월 29일–12월 6일 · 《2026 울산시립미술관 신진작가 성과전》.",
+   "label": "Rookie Radar"
+  },
+  "gallery": {
+   "title": "갤러리들이 밀어주는 이름: Georg Baselitz",
+   "dek": "소속 작가의 미술관 전시·수상·언론 소개를 앞세운 발표가 잇따랐다.",
+   "label": "Gallery Moves"
+  },
+  "hero": [
+   0,
+   1,
+   2,
+   3,
+   6,
+   7
+  ]
+ },
+ "early": [
+  {
+   "title": "올해의 작가상 2026",
+   "venue": "국립현대미술관 서울관",
+   "city": "Seoul",
+   "start": "2026-07-24",
+   "end": "2026-12-06",
+   "status": "개막 98일째",
+   "level": "뜨는 중",
+   "score": 12.8,
+   "reasons": [
+    "이번 주 18개 매체가 다뤘다",
+    "지난주보다 보도가 늘고 있다"
+   ],
+   "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?pblprfrSn=364451&menuNo=200010",
+   "image": "https://www.culture.go.kr/upload/ucms/oneCltInfo/2026/202607/c3ad9d7727864bab98c12659bad530b6.png",
+   "event_id": "evt_34a2310fb93108d4",
+   "artists": [],
+   "press": [
+    {
+     "title": "국립현대미술관 '올해의 작가상 2026' 홍진훤 수상…이미지 속 권력관계...",
+     "url": "http://www.withinnews.co.kr/news/view.html?section=190&category=191&no=40834",
+     "outlet": "withinnews.co.kr"
+    },
+    {
+     "title": "국립현대미술관 '올해의 작가상 2026' 최종 수상자 홍진훤",
+     "url": "https://news.tvchosun.com/site/data/html_dir/2026/10/29/2026102990239.html",
+     "outlet": "news.tvchosun.com"
+    },
+    {
+     "title": "국립현대미술관, '올해의 작가상 2026' 최종 수상자 홍진훤 선정",
+     "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7191299",
+     "outlet": "weekly.hankooki.com"
+    }
+   ]
+  },
+  {
+   "title": "《린 허쉬만 리슨: 나의 [나]들》",
+   "venue": "서울시립미술관",
+   "city": "Seoul",
+   "start": "2026-10-21",
+   "end": "2027-02-21",
+   "status": "개막 9일째",
+   "level": "주목",
+   "score": 9.1,
+   "reasons": [
+    "이번 주 보도가 나오기 시작했다",
+    "린 허쉬만 리슨 — 최근 석 달 8개 매체에 오른 이름",
+    "'첫'·'최초' — 처음 보는 기회"
+   ],
+   "url": "https://sema.seoul.go.kr/kr/whatson/exhibition/detail?exNo=1559068",
+   "image": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1026305",
+   "event_id": "evt_748ce80fa51030dd",
+   "artists": [
+    "린 허쉬만 리슨"
+   ],
+   "press": [
+    {
+     "title": "서울시립미술관, 미디어 아트의 선구자 린 허쉬만 리슨의 아시아 첫 미...",
+     "url": "https://www.cnbizm.com/news/articleView.html?idxno=319279",
+     "outlet": "cnbizm.com"
+    },
+    {
+     "title": "\"기술과 인간의 관계 돌아보기\"…'린 허쉬만 리슨: 나의 [나]들' 展",
+     "url": "https://www.news1.kr/life-culture/performance-exhibition/6325768",
+     "outlet": "news1.kr"
+    },
+    {
+     "title": "서울시립미술관, 린 허쉬만 리슨 개인전 '린 허쉬만 리슨: 나의 [나]들'...",
+     "url": "https://www.newsis.com/view/NISI20261020_0021496517",
+     "outlet": "newsis.com"
+    }
+   ]
+  },
+  {
+   "title": "서울시립 서서울미술관 미디어 작가전 《김희천: 두더지들》",
+   "venue": "서울시립미술관",
+   "city": "Seoul",
+   "start": "2026-08-20",
+   "end": "2026-11-08",
+   "status": "종료 D-10",
+   "level": "주목",
+   "score": 7.8,
+   "reasons": [
+    "김희천 — 최근 석 달 9개 매체에 오른 이름",
+    "오늘 헤드라인에 오른 기관",
+    "11월 8일 종료 — 마지막 기회"
+   ],
+   "url": "https://sema.seoul.go.kr/kr/whatson/exhibition/detail?exNo=1565012",
+   "image": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1015413",
+   "event_id": "evt_d05f8944b740b677",
+   "artists": [
+    "김희천"
+   ],
+   "press": [
+    {
+     "title": "서울시립 서서울미술관 첫 미디어 작가전, 《김희천: 두더지들》 개최",
+     "url": "http://www.sctoday.co.kr/news/articleView.html?idxno=48417",
+     "outlet": "sctoday.co.kr"
+    },
+    {
+     "title": "기술 환경 속 인간의 감각 조명...서서울미술관 《김희천: 두더지들》개...",
+     "url": "https://www.handmk.com/news/articleView.html?idxno=42342",
+     "outlet": "handmk.com"
+    },
+    {
+     "title": "서울시립 서서울미술관, 미디어 작가전 '김희천: 두더지들' 개최... 김희...",
+     "url": "https://www.cnbizm.com/news/articleView.html?idxno=312155",
+     "outlet": "cnbizm.com"
+    }
+   ]
+  },
+  {
+   "title": "사랑노동아시아하기",
+   "venue": "경기도미술관",
+   "city": "Ansan",
+   "start": "2026-10-29",
+   "end": "2027-02-14",
+   "status": "오늘 개막",
+   "level": "주목",
+   "score": 7.6,
+   "reasons": [
+    "이번 주 2개 매체가 다뤘다",
+    "지난주보다 보도가 늘고 있다",
+    "김영은 — 최근 석 달 5개 매체에 오른 이름"
+   ],
+   "url": "https://gmoma.ggcf.kr/exhibitions/208",
+   "image": "https://gmoma.ggcf.kr/storage/upload/2026/09/23/eBAoWeWCgH0WAFtXekcels5IdkvFfP2N7KAYYZKr.jpg",
+   "event_id": "evt_b43c1fcf6253ea67",
+   "artists": [
+    "김영은",
+    "노원희",
+    "리에코 시가"
+   ],
+   "press": [
+    {
+     "title": "경기문화재단 경기도미술관 20주년 기념 '사랑노동아시아하기' 개최...아...",
+     "url": "https://www.cnbizm.com/news/articleView.html?idxno=319657",
+     "outlet": "cnbizm.com"
+    },
+    {
+     "title": "경기도미술관 '사랑노동아시아하기' 29일 개막…20주년 특별전",
+     "url": "https://www.newsis.com/view/NISX20261028_0003844607",
+     "outlet": "newsis.com"
+    }
+   ]
+  },
+  {
+   "title": "별, 괘卦",
+   "venue": "백남준아트센터",
+   "city": "Yongin",
+   "start": "2026-07-16",
+   "end": "2027-02-14",
+   "status": "개막 106일째",
+   "level": "주목",
+   "score": 5.2,
+   "reasons": [
+    "백남준 — 최근 석 달 45개 매체에 오른 이름"
+   ],
+   "url": "https://njp.ggcf.kr/exhibitions/244",
+   "image": "https://njp.ggcf.kr/storage/upload/2026/06/19/8tqXC8gCBCmSgwhAIleMl1IR2aYEN9rdpje7CibI.jpg",
+   "event_id": "evt_b02c900f31037996",
+   "artists": [
+    "백남준"
+   ],
+   "press": [
+    {
+     "title": "백남준아트센터 10월 개천절 대체공휴일 운영 안내",
+     "url": "https://njp.ggcf.kr/boards/news/articles/481",
+     "outlet": "경기문화재단 백남준아트센터"
+    },
+    {
+     "title": "백남준아트센터 9월 추석 연휴 운영 안내",
+     "url": "https://njp.ggcf.kr/boards/news/articles/480",
+     "outlet": "경기문화재단 백남준아트센터"
+    },
+    {
+     "title": "[문화&공연] 백남준아트센터, 13일까지 '서울라이트 DDP' 참여",
+     "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1536781",
+     "outlet": "obsnews.co.kr"
+    }
+   ]
+  },
+  {
+   "title": "서서울미술관 뉴미디어 신진작가전 《탈피하지 못하는 뱀은》",
+   "venue": "서울시립미술관",
+   "city": "Seoul",
+   "start": "2026-11-05",
+   "end": "2027-02-28",
+   "status": "개막 D-7",
+   "level": "체크",
+   "score": 4.2,
+   "reasons": [
+    "오늘 헤드라인에 오른 기관",
+    "11월 5일 개막 — 첫 주에 가면 붐비기 전",
+    "미술관이 막 연 작가전 — 보도가 붙기 전"
+   ],
+   "url": "https://sema.seoul.go.kr/kr/whatson/exhibition/detail?exNo=1604602",
+   "image": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1035538",
+   "event_id": "evt_a8694892c980f3cf",
+   "artists": [
+    "노오경",
+    "세렌 후이"
+   ],
+   "press": []
+  },
+  {
+   "title": "ACT 페스티벌 2026 아이, 휴먼: 테크네세에 응답하기",
+   "venue": "국립아시아문화전당 문화창조원 복합 4관",
+   "city": "Gwangju",
+   "start": "2026-10-23",
+   "end": "2026-11-08",
+   "status": "종료 D-10",
+   "level": "체크",
+   "score": 4.0,
+   "reasons": [
+    "비엔날레·페어급 대형 행사",
+    "11월 8일 종료 — 마지막 기회"
+   ],
+   "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?pblprfrSn=405148&menuNo=200010",
+   "image": "https://www.culture.go.kr/upload/ucms/oneCltInfo/2026/202610/af45d1b5d3384891ae2b09730c7b1420.jpg",
+   "event_id": "evt_235052e57eec696b",
+   "artists": [],
+   "press": []
+  },
+  {
+   "title": "현대 트랜스로컬 시리즈: 하늘의 잔물결을 따라 - 달, 메아리, 모기, 그리고 밈",
+   "venue": "백남준아트센터",
+   "city": "Yongin",
+   "start": "2026-11-05",
+   "end": "2027-03-28",
+   "status": "개막 D-7",
+   "level": "체크",
+   "score": 3.9,
+   "reasons": [
+    "김 크리스틴 선 — 최근 석 달 3개 매체에 오른 이름",
+    "11월 5일 개막 — 첫 주에 가면 붐비기 전",
+    "미술관이 막 연 작가전 — 보도가 붙기 전"
+   ],
+   "url": "https://njp.ggcf.kr/exhibitions/247",
+   "image": "https://njp.ggcf.kr/storage/upload/2026/09/23/vgcFflescbXwFSSsAui2HknYwgdJosTCC4t09Asi.jpg",
+   "event_id": "evt_77dd83e110cf4e0c",
+   "artists": [
+    "김 크리스틴 선",
+    "비비안 카쿠리",
+    "비아히츠"
+   ],
+   "press": []
+  },
+  {
+   "title": "Sol LeWitt: Open Structure",
+   "venue": "Amorepacific Museum of Art (APMA)",
+   "city": "Seoul",
+   "start": "2026-09-01",
+   "end": "2027-02-28",
+   "status": "개막 59일째",
+   "level": "체크",
+   "score": 3.6,
+   "reasons": [
+    "이번 주 보도가 나오기 시작했다",
+    "Sol LeWitt — 최근 석 달 3개 매체에 오른 이름"
+   ],
+   "url": "https://apma.amorepacific.com/contents/exhibition/4229692/view.do",
+   "image": "https://image-apma.amorepacific.com/upload/exhibition/1789435940826_2IfXsgzpXY.JPG",
+   "event_id": "evt_df787de449289a5d",
+   "artists": [
+    "Sol LeWitt"
+   ],
+   "press": [
+    {
+     "title": "[리뷰] 개념미술의 선구자, 솔 르윗 개인전 ‘Sol LeWitt: Open Structure’",
+     "url": "http://www.withinnews.co.kr/news/view.html?section=190&category=194&no=40760",
+     "outlet": "withinnews.co.kr"
+    },
+    {
+     "title": "규칙으로 만들어지는 세계, 《Sol LeWitt: Open Structure》 전시 리뷰",
+     "url": "https://www.d-art.co.kr/news/articleView.html?idxno=6409",
+     "outlet": "https://www.d-art.co.kr/"
+    },
+    {
+     "title": "아모레퍼시픽미술관, 솔 르윗 개인전 ‘Sol LeWitt: Open Structure’ 개최",
+     "url": "https://sports.donga.com/economy/article/all/20260821/134522822/1",
+     "outlet": "sports.donga.com"
+    }
+   ]
+  },
+  {
+   "title": "2026년 특별전 '나뭇결에 담긴 장인의 숨결'",
+   "venue": "송암미술관",
+   "city": "Incheon",
+   "start": "2026-07-28",
+   "end": "2026-11-15",
+   "status": "개막 94일째",
+   "level": "체크",
+   "score": 3.6,
+   "reasons": [
+    "이번 주 2개 매체가 다뤘다"
+   ],
+   "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?pblprfrSn=394089&menuNo=200010",
+   "image": "https://www.culture.go.kr/upload/rdf/26/08/rdf_2026081921241794213.jpg",
+   "event_id": "evt_b13011af1b8a47e2",
+   "artists": [],
+   "press": [
+    {
+     "title": "한-불 수교 140주년 특별전 《사랑을 담아, 미셸 들라크루아 드림》",
+     "url": "https://www.abcn.kr/news/articleView.html?idxno=93768",
+     "outlet": "abcn.kr"
+    },
+    {
+     "title": "경기도미술관 '사랑노동아시아하기' 29일 개막…20주년 특별전",
+     "url": "https://www.newsis.com/view/NISX20261028_0003844607",
+     "outlet": "newsis.com"
+    },
+    {
+     "title": "토탈미술관 개관 50주년 특별전",
+     "url": "http://www.mbn.co.kr/pages/vod/programContents.php?progCode=683&menuCode=4385&bcastSeqNo=1431749",
+     "outlet": "mbn.co.kr"
+    }
+   ]
+  },
+  {
+   "title": "포토 디스커버리 프로젝트 《기계적 시선: 접촉하여 보기》",
+   "venue": "서울시립미술관",
+   "city": "Seoul",
+   "start": "2026-10-28",
+   "end": "2026-12-20",
+   "status": "개막 2일째",
+   "level": "체크",
+   "score": 2.7,
+   "reasons": [
+    "오늘 헤드라인에 오른 기관",
+    "미술관이 막 연 작가전 — 보도가 붙기 전"
+   ],
+   "url": "https://sema.seoul.go.kr/kr/whatson/exhibition/detail?exNo=1597041",
+   "image": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1035132",
+   "event_id": "evt_16cf2dca637eb0c3",
+   "artists": [
+    "김영경"
+   ],
+   "press": []
+  },
+  {
+   "title": "경기상상캠퍼스 10주년 특별전 《상상훈련》",
+   "venue": "경기상상캠퍼스 M3",
+   "city": "경기",
+   "start": "2026-10-23",
+   "end": "2026-11-08",
+   "status": "종료 D-10",
+   "level": "체크",
+   "score": 2.7,
+   "reasons": [
+    "이번 주 보도가 나오기 시작했다",
+    "11월 8일 종료 — 마지막 기회"
+   ],
+   "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?pblprfrSn=406008&menuNo=200010",
+   "image": "https://www.culture.go.kr/upload/ucms/oneCltInfo/2026/202611/ac61ebb635044d8888887f02ff2cdfaf.png",
+   "event_id": "evt_c53db8d637e398f9",
+   "artists": [],
+   "press": [
+    {
+     "title": "경기문화재단, '경기젊은작가' 작품구입 공모 및 '상상훈련'·'사랑노동...",
+     "url": "https://www.cstimes.com/news/articleView.html?idxno=725702",
+     "outlet": "cstimes.com"
+    }
+   ]
+  }
+ ],
+ "official": [
+  {
+   "title": "《젊은 시각 새로운 시선 2027》작가 모집",
+   "title_ko": null,
+   "url": "https://art.busan.go.kr/tblTsite07Bbs/viewPressClient.nm?idx=2415&pagingParms=f4376a9d23dee6691342cd2924d601ee54551523f3a6635c7014ca568cde64a901167d5895412d46e92de2604a1674a45f4b23124c99af1430a8cfb35c7ed6a20c7d49906dedf2c7d5e9faa65b6dc78dc14193d5590f4fb5034444b8ace258df8a7b56a0a13741cb55d70e04cd1e6dda8b5590c49ec2cbb86b59401a51611f28bdb7727e2c3153b64e5bd0d96787fcd808ba8e59a54e8ba840a28f67fcc1c39677a9072058f49c19201ab505698d513418b938883d216954f37ba3ba9961b3b1da0a9a71de94e66bb6e0eab648efa4c351c3c1e03fb223536c871a69a8adb6bb0408c15c449b69a1",
+   "date": "2026-10-23",
+   "org": "부산시립미술관 (Busan Museum of Art)",
+   "weight": 1
+  },
+  {
+   "title": "CHUNG, Hyun: Group Exhibition",
+   "title_ko": null,
+   "url": "https://www.pkmgallery.com/news/chung-hyun-group-exhibition7",
+   "date": "2026-10-20",
+   "org": "PKM Gallery",
+   "weight": 1
+  },
+  {
+   "title": "헤레디움 영문 공식 홈페이지 재개편 안내",
+   "title_ko": null,
+   "url": "https://heredium.art/community/notice/38",
+   "date": "2026-10-19",
+   "org": "헤레디움",
+   "weight": 1
+  }
+ ],
+ "briefing": {
+  "editor": null,
+  "insights": [
+   "홍진훤, 국립현대미술관 ‘올해의 작가상’ 품었다 → 국가 미술관 대표 작가상 최종 수상자로 홍진훤.",
+   "유영국 회고전, 서울시립미술관에서 45만 명이 찾았다 → 관객이 먼저 움직였다.",
+   "이번 주 전시 키워드: 사진 → 《포토 디스커버리 프로젝트》(서울시립미술관), ‘신세계갤러리 청담, 최지욱 개인전 '표면의 언어'…’.",
+   "이번 주 전시 키워드: 기록과 기억 → 《고이즈미 메이로》(아트선재센터), ‘용인문화재단, '숲 속의 기억 나무그늘아래 展' 개…’."
+  ],
+  "major": [
+   {
+    "rank": 1,
+    "headline": "국립현대미술관 '올해의 작가상 2026'에 홍진훤",
+    "brief": "국가 미술관 대표 작가상 최종 수상자로 홍진훤 — 국제 심사위원 포함 공개 심사, 후원금 6,000만원.",
+    "summary": "국립현대미술관·SBS문화재단의 '올해의 작가상 2026' 최종 수상자로 사진·영상·웹 프로그래밍으로 이미지 속 정치성과 권력관계를 다뤄 온 홍진훤(1980년생)이 10월 28일 선정됐다. 후보 4인(이해민선·이정우·전현선·홍진훤) 공개 대화와 관람객 좌담회 뒤 비공개 심사로 정했고, 테이트 모던·KW 등 해외 기관 심사위원이 참여했다. 수상자에게는 기존 후원금 5,000만원에 1,000만원이 더해지며, 네 작가 전시는 서울관에서 12월 6일까지 열린다.",
+    "lead": "국가 미술관 대표 작가상 최종 수상자로 홍진훤 — 국제 심사위원 포함 공개 심사, 후원금 6,000만원.",
+    "why": [
+     "국가 미술관 주최, 2012년부터 이어진 국내 대표 현대미술 작가 후원제도의 최종 결정",
+     "국제 심사위원(테이트 모던 학예실장 직무대리, KW 디렉터) 참여 — 선정 근거가 공개 심사평으로 남음",
+     "수상자는 2024 부산비엔날레·2025 북서울미술관 타이틀매치 등 최근 2년 기관 전시 이력이 이어진 작가"
+    ],
+    "so_what": "큰 사건은 아니지만 이번 주 흐름을 보여 주는 소식이다.",
+    "related": [
+     "홍진훤",
+     "국립현대미술관",
+     "올해의 작가상"
+    ],
+    "topic": "수상·인물",
+    "date": "2026-10-29",
+    "criteria": [
+     {
+      "label": "공공·국가 주체",
+      "evidence": "…국립현대미술관, 올해의 작가상 28일 발표 국립현…"
+     },
+     {
+      "label": "제도·조직 변화",
+      "evidence": "…론 행사가 열린다. 국립현대미술관(MMCA, 관장 직무대리 윤태욱)은 오는... 윤태욱 국립현…"
+     },
+     {
+      "label": "공식 선정·수상",
+      "evidence": "…국립현대미술관, 올해의 작가상 28일 발표 국립현대미술관 '올해의 작가상…"
+     }
+    ],
+    "importance": 6,
+    "sources": [
+     {
+      "title": "국립현대미술관 ‘올해의 작가상’에 홍진훤",
+      "url": "https://www.seoul.co.kr/news/life/exhibition/2026/10/28/20261028500432?wlog_tag3=naver",
+      "outlet": "seoul.co.kr",
+      "date": "2026-10-28"
+     },
+     {
+      "title": "국립현대미술관 ‘올해의 작가상 2026’, 수상자 발표 앞두고 관객과 대...",
+      "url": "http://www.withinnews.co.kr/news/view.html?section=190&category=191&no=40700",
+      "outlet": "withinnews.co.kr",
+      "date": "2026-10-16"
+     },
+     {
+      "title": "국립현대미술관, 올해의 작가상 28일 발표",
+      "url": "https://www.bntnews.co.kr/article/view/bnt202610120020",
+      "outlet": "bntnews.co.kr",
+      "date": "2026-10-12"
+     },
+     {
+      "title": "국립현대미술관 '올해의 작가상 2026'…수상 발표 앞두고 관객과 대화",
+      "url": "https://www.fnnews.com/news/202610120806189540",
+      "outlet": "fnnews.com",
+      "date": "2026-10-12"
+     },
+     {
+      "title": "국립현대미술관, 올해의 작가상 심사 일반인 공개",
+      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=871737",
+      "outlet": "hansbiz.co.kr",
+      "date": "2026-10-12"
+     },
+     {
+      "title": "2026 대망의 올해의 작가는 누구… 국립현대미술관, 《올해의 작가상 20...",
+      "url": "https://www.abcn.kr/news/articleView.html?idxno=92967",
+      "outlet": "abcn.kr",
+      "date": "2026-10-12"
+     },
+     {
+      "title": "국립현대미술관, '올해의 작가상 2026' 심사위원과의 특별 대담…최종 ...",
+      "url": "https://www.mhns.co.kr/news/articleView.html?idxno=763635",
+      "outlet": "mhns.co.kr",
+      "date": "2026-10-12"
+     },
+     {
+      "title": "국립현대미술관, '올해의 작가상 2026'의 최종 수상 작가 선정의 마지막...",
+      "url": "https://www.cnbizm.com/news/articleView.html?idxno=317709",
+      "outlet": "cnbizm.com",
+      "date": "2026-10-12"
+     }
+    ],
+    "n_sources": 26
+   },
+   {
+    "rank": 2,
+    "headline": "문체부, 미술품 감정서·진품증명서 양식 고시 — 미신고 업체 발급 시 과태료",
+    "brief": "미술진흥법에 따른 감정서(진위·가격)·진품증명서 표준 양식이 10월 29일 고시됨 — 내년 7월까지 계도기간.",
+    "summary": "문화체육관광부가 7월 제정된 '미술진흥법'에 따라 미술품 진위·가격 감정서와 진품증명서의 양식·기재 사항을 10월 29일 고시했다. 미술품을 산 소비자는 작가나 미술서비스업자에게 진품증명서를 요구할 수 있고, 발행할 수 없으면 판매 전에 알려야 한다. 신고하지 않은 업체가 발급하면 과태료·영업 폐쇄 대상이며, 내년 7월까지 계도기간을 두고 실무지침은 연내 배포한다.",
+    "lead": "미술진흥법에 따른 감정서(진위·가격)·진품증명서 표준 양식이 10월 29일 고시됨 — 내년 7월까지 계도기간. 내년 7월 계도기간 종료 전후로 갤러리·경매사의 감정서 발급 방식과 미술서비스업 신고 현황이 바뀌는지가 다음 관전 포인트다.",
+    "why": [
+     "법률(미술진흥법)에 근거한 정부 고시 — 권고가 아니라 위반 시 과태료·영업 폐쇄가 따르는 규칙",
+     "갤러리·경매사·딜러 모두에게 적용되는 거래 서류 표준 — 한국 미술시장 유통 구조가 바뀜"
+    ],
+    "so_what": "내년 7월 계도기간 종료 전후로 갤러리·경매사의 감정서 발급 방식과 미술서비스업 신고 현황이 바뀌는지 본다. 가격 데이터가 아니라 '거래 투명성 제도'로 MARKET CONTEXT에 넣는다.",
+    "related": [
+     "문화체육관광부",
+     "미술진흥법"
+    ],
+    "topic": null,
+    "date": "2026-10-29",
+    "criteria": [],
+    "importance": null,
+    "sources": [
+     {
+      "outlet": "yna.co.kr",
+      "url": "https://www.yna.co.kr/view/AKR20261029027200005?input=1195m",
+      "date": "2026-10-29"
+     },
+     {
+      "outlet": "fnnews.com",
+      "url": "https://www.fnnews.com/news/202610290436498351",
+      "date": "2026-10-29"
+     },
+     {
+      "outlet": "news.kbs.co.kr",
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8698397&ref=A",
+      "date": "2026-10-29"
+     },
+     {
+      "outlet": "seoul.co.kr",
+      "url": "https://www.seoul.co.kr/news/life/exhibition/2026/10/29/20261029500186",
+      "date": "2026-10-29"
+     }
+    ],
+    "n_sources": 4
+   },
+   {
+    "rank": 3,
+    "headline": "2026 공립미술관 평가인증 결과 — 지역 공립미술관 운영 성적표",
+    "brief": "문체부 3년 주기 공립미술관 평가인증 결과가 지역별로 나옴 — 66개관 현장 실사.",
+    "summary": "문화체육관광부가 '박물관 및 미술관 진흥법'에 따라 3년마다 하는 공립미술관 평가인증 결과가 지역별로 발표되고 있다. 올해는 전국 73개관 가운데 서면평가를 통과한 66개관을 현장 실사했다. 김해 클레이아크미술관은 경남 최고점으로 3회 연속, 윤슬미술관은 2023년 미인증 뒤 20.1점 오른 87.1점으로 재인증, 양주 장욱진미술관 3회 연속·민복진미술관 첫 평가 인증 등이 확인된다.",
+    "lead": "문체부 3년 주기 공립미술관 평가인증 결과가 지역별로 나옴 — 66개관 현장 실사.",
+    "why": [
+     "정부 제도에 따른 공식 평가(법정 3년 주기) — 개별 홍보가 아니라 같은 기준의 비교 결과",
+     "평가 항목이 소장품 관리·전시·교육·공적 책임으로 공개돼 있어 기관 비교에 쓸 수 있음"
+    ],
+    "so_what": "전국 인증·미인증 전체 명단은 아직 확보하지 못했다 — 문체부 공식 발표 원문을 찾아 넣어야 한다.",
+    "related": [
+     "문화체육관광부",
+     "클레이아크김해미술관",
+     "양주시립장욱진미술관"
+    ],
+    "topic": "기관·정책·제도",
+    "date": "2026-10-29",
+    "criteria": [
+     {
+      "label": "공공·국가 주체",
+      "evidence": "…김해 클레이아크·윤슬미술관, 문체부 공립미술관 평가서 경남 1·3위 김해 클레이…"
+     },
+     {
+      "label": "제도·조직 변화",
+      "evidence": "…클레이아크·윤슬미술관, 문체부 '공립미술관 평가인증' 획득 김해 클레이아크·윤슬미술관, 공립미술…"
+     },
+     {
+      "label": "공식 선정·수상",
+      "evidence": "…공립미술관 평가인증'에서 모두 인증기관으로 선정됐다고 27일 밝혔다. 클레이아크김해미술관은…"
+     }
+    ],
+    "importance": 6,
+    "sources": [
+     {
+      "title": "김해 클레이아크·윤슬미술관, 공립미술관 평가인증 동시 획득",
+      "url": "http://www.newsmaker.or.kr/news/articleView.html?idxno=184859",
+      "outlet": "newsmaker.or.kr",
+      "date": "2026-10-29"
+     },
+     {
+      "title": "김해 클레이아크·윤슬미술관, 문체부 공립미술관 평가서 경남 1·3위",
+      "url": "https://www.news1.kr/local/busan-gyeongnam/6333588",
+      "outlet": "news1.kr",
+      "date": "2026-10-27"
+     },
+     {
+      "title": "김해 클레이아크·윤슬미술관, 문체부 '공립미술관 평가인증' 획득",
+      "url": "https://www.cnbnews.com/news/articleView.html?idxno=1021201",
+      "outlet": "cnbnews.com",
+      "date": "2026-10-27"
+     },
+     {
+      "title": "김해 클레이아크·윤슬미술관, 공립미술관 평가서 나란히 인증",
+      "url": "http://www.newstown.co.kr/news/articleView.html?idxno=719873",
+      "outlet": "newstown.co.kr",
+      "date": "2026-10-27"
+     }
+    ],
+    "n_sources": 4
+   },
+   {
+    "rank": 4,
+    "headline": "제14회 서울미디어시티비엔날레 예술감독에 이리니 파파디미트리우",
+    "brief": "서울미디어시티비엔날레 2027 감독에 이리니 파파디미트리우 — 국제 공모 70건 중 선정, 주제 '회복의 기계'.",
+    "summary": "서울시립미술관이 내년 8월 열 제14회 서울미디어시티비엔날레 예술감독으로 그리스 출신 기획자 이리니 파파디미트리우를 10월 23일 발표했다. 세 번째 국제 공모로, 117명이 제안서 70건을 냈고 서류·면접 심사를 거쳤다. 2023 바다미술제 예술감독을 지냈고, '회복의 기계'를 주제로 기술과 권력의 관계를 다루겠다고 밝혔다.",
+    "lead": "서울미디어시티비엔날레 2027 감독에 이리니 파파디미트리우 — 국제 공모 70건 중 선정, 주제 '회복의 기계'.",
+    "why": [
+     "공립미술관 주최 비엔날레의 다음 회차 방향을 정하는 인사",
+     "국제 공모 70건 경쟁 — 선정 절차와 규모가 공개됨"
+    ],
+    "so_what": "큰 사건은 아니지만 이번 주 흐름을 보여 주는 소식이다.",
+    "related": [
+     "서울시립미술관",
+     "서울미디어시티비엔날레"
+    ],
+    "topic": "수상·인물",
+    "date": "2026-10-25",
+    "criteria": [
+     {
+      "label": "공공·국가 주체",
+      "evidence": "…울미디어시티비엔날레 예술감독 선임 23일 서울시립미술관에 따르면 파파디미트리우는 세번째로 진행…"
+     },
+     {
+      "label": "제도·조직 변화",
+      "evidence": "…시티비엔날레 예술감독에 이리니 파파디미트리우 선임 14회 서울미디어시티비엔날레 예술감독에 이리…"
+     },
+     {
+      "label": "규모(금액·수량)",
+      "evidence": "…접 심사를 거쳐 선정됐다. 이번 공모에는 총 117명이 개인·팀 단위로 제안서 70건을 제출했다.…"
+     },
+     {
+      "label": "공식 선정·수상",
+      "evidence": "…술감독 국제 공모에서 서류·면접 심사를 거쳐 선정됐다. 이번 공모에는 총 117명이 개인·팀…"
+     },
+     {
+      "label": "ARTREND 관찰 대상",
+      "evidence": "서울시립미술관"
+     }
+    ],
+    "importance": 8,
+    "sources": [
+     {
+      "title": "서울미디어시티비엔날레 예술감독에 이리니 파파디미트리우 선임",
+      "url": "https://www.fnnews.com/news/202610231052277193",
+      "outlet": "fnnews.com",
+      "date": "2026-10-23"
+     },
+     {
+      "title": "14회 서울미디어시티비엔날레 예술감독에 이리니 파파디미트리우",
+      "url": "https://www.yna.co.kr/view/AKR20261023046500004?input=1195m",
+      "outlet": "yna.co.kr",
+      "date": "2026-10-23"
+     },
+     {
+      "title": "서울미디어시티비엔날레 예술감독에 이리니 파파디미트리우 선임",
+      "url": "https://www.news1.kr/local/seoul/6329380",
+      "outlet": "news1.kr",
+      "date": "2026-10-23"
+     },
+     {
+      "title": "이리니 파파디미트리우, 제14회 서울미디어시티비엔날레 예술감독 맡는...",
+      "url": "https://www.newspim.com/news/view/20261023000257",
+      "outlet": "newspim.com",
+      "date": "2026-10-23"
+     },
+     {
+      "title": "서울미디어시티비엔날레 예술감독에 이리니 파파디미트리우",
+      "url": "https://www.ajunews.com/view/20261023103340533",
+      "outlet": "ajunews.com",
+      "date": "2026-10-23"
+     },
+     {
+      "title": "이리니 파파디미트리우, 제14회 서울미디어시티비엔날레 예술감독 선임",
+      "url": "https://www.sctoday.co.kr/news/articleView.html?idxno=48868",
+      "outlet": "서울문화투데이",
+      "date": "2026-10-23"
+     },
+     {
+      "title": "서울미디어시티 비엔날레 예술감독에 이리니 파파디미트리우",
+      "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=715697",
+      "outlet": "newsfreezone.co.kr",
+      "date": "2026-10-23"
+     },
+     {
+      "title": "서울미디어시티비엔날레 새 예술감독에 이리니 파파디미트리우",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=2009614",
+      "outlet": "m-i.kr",
+      "date": "2026-10-23"
+     }
+    ],
+    "n_sources": 13
+   },
+   {
+    "rank": 5,
+    "headline": "부산시립미술관 '젊은 시각 새로운 시선 2027' 참여 작가 공모",
+    "brief": "부산시립미술관 신진 프로그램 '젊은 시각' 공모(11/22 마감) — 선정 뒤 2~3년 해외 지원.",
+    "summary": "부산시립미술관이 부산 출생·정주·출향 만 20~40세 시각예술 작가를 10월 23일부터 11월 22일까지 공개 모집한다. 1999년부터 17회 전시로 지역 작가 84명을 소개해 온 프로그램이며, 2025년부터 공개 모집과 국내외 전문가 심사를 도입했다. 선정 작가는 2027년 4월 전시에 참여하고 이후 2~3년 국외 전시·네트워크 지원을 받는다.",
+    "lead": "부산시립미술관 신진 프로그램 '젊은 시각' 공모(11/22 마감) — 선정 뒤 2~3년 해외 지원.",
+    "why": [
+     "공립미술관의 신진 발굴 프로그램(27년 운영)"
+    ],
+    "so_what": "선정 발표(공모 마감 11월 22일 이후)에 나오는 명단을 바로 관찰 후보로 넣는다.",
+    "related": [
+     "부산시립미술관"
+    ],
+    "topic": "전시·프로그램",
+    "date": "2026-10-23",
+    "criteria": [
+     {
+      "label": "공공·국가 주체",
+      "evidence": "…부산시립미술관 《젊은 시각 새로운 시선 2027》,…"
+     },
+     {
+      "label": "제도·조직 변화",
+      "evidence": "…가 선발 절차도 보완했다. 서진석 부산시립미술관장은 \"이번 공모를... 이 전시회는 미술관이…"
+     },
+     {
+      "label": "규모(금액·수량)",
+      "evidence": "…9년 시작한 뒤 17차례 전시에서 지역 작가 84명을 소개했다. 미술관은 지난해부터 공개 모집…"
+     },
+     {
+      "label": "공식 선정·수상",
+      "evidence": "…각' 참여 작가 공모 미술관은 전시 이후에도 선정 작가에게 2~3년에 걸친 국외 전시와 국내외…"
+     }
+    ],
+    "importance": 8,
+    "sources": [
+     {
+      "title": "부산시립미술관 '젊은 시각' 참여 작가 공모",
+      "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0500&key=20261028.99099008166",
+      "outlet": "kookje.co.kr",
+      "date": "2026-10-28"
+     },
+     {
+      "title": "부산시립미술관 '젊은 시각 새로운 시선 2027' 작가 공모",
+      "url": "https://www.busan.com/view/busan/view.php?code=2026102416352507659",
+      "outlet": "busan.com",
+      "date": "2026-10-27"
+     },
+     {
+      "title": "부산시립미술관, '젊은 시각 새로운 시선 2027' 작가 공모",
+      "url": "https://www.news1.kr/life-culture/performance-exhibition/6331303",
+      "outlet": "news1.kr",
+      "date": "2026-10-26"
+     },
+     {
+      "title": "부산시립미술관, '2027 젊은 시각 새로운 시선' 작가 공개 모집",
+      "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=368027",
+      "outlet": "ftoday.co.kr",
+      "date": "2026-10-25"
+     },
+     {
+      "title": "부산시립미술관 《젊은 시각 새로운 시선 2027》, 청년 작가 최대 8명 공모",
+      "url": "https://www.sctoday.co.kr/news/articleView.html?idxno=48866",
+      "outlet": "서울문화투데이",
+      "date": "2026-10-23"
+     },
+     {
+      "title": "역량 있는 젊은 작가 발굴...부산시립미술관, '젊은 시각 새로운 시선 2...",
+      "url": "https://www.cnbizm.com/news/articleView.html?idxno=319064",
+      "outlet": "cnbizm.com",
+      "date": "2026-10-23"
+     }
+    ],
+    "n_sources": 6
+   }
+  ],
+  "judged_by": "auto"
+ },
+ "artists": [
+  {
+   "entity_id": "ent_f11ac287fe669bbb",
+   "name": "홍진훤",
+   "press": 28,
+   "shows": 0,
+   "story_url": "https://www.khan.co.kr/article/202610292018055/",
+   "cats": [
+    "수상"
+   ]
+  },
+  {
+   "entity_id": "ent_c1d8d8d7e3eeba85",
+   "name": "유영국",
+   "press": 9,
+   "shows": 1,
+   "story_url": "https://www.newsis.com/view/NISX20261028_0003844299",
+   "cats": [
+    "회고전"
+   ]
+  },
+  {
+   "entity_id": "ent_4d3ba17c503b4648",
+   "name": "백남준",
+   "press": 6,
+   "shows": 1,
+   "story_url": "https://magazine.hankyung.com/money/article/202610265527c",
+   "cats": [
+    "소장",
+    "전시 중"
+   ]
+  },
+  {
+   "entity_id": "ent_89d8784809356890",
+   "name": "권혜원",
+   "press": 5,
+   "shows": 1,
+   "story_url": "http://www.doctorsnews.co.kr/news/articleView.html?idxno=166910",
+   "cats": [
+    "수상",
+    "전시 중"
+   ]
+  },
+  {
+   "entity_id": "ent_13987d6a7f7c706d",
+   "name": "고이즈미 메이로",
+   "press": 2,
+   "shows": 1,
+   "story_url": "https://biz.heraldcorp.com/article/10915482?ref=naver",
+   "cats": [
+    "첫 공개",
+    "경매·시장",
+    "전시 중"
+   ]
+  },
+  {
+   "entity_id": "ent_6e8c3357acd6eabc",
+   "name": "린 허쉬만 리슨",
+   "press": 2,
+   "shows": 1,
+   "story_url": "https://www.cnbizm.com/news/articleView.html?idxno=319279",
+   "cats": [
+    "첫 공개",
+    "전시 중"
+   ]
+  },
+  {
+   "entity_id": "ent_b765ecf8a30f24f5",
+   "name": "이명복",
+   "press": 2,
+   "shows": 1,
+   "story_url": "https://www.jemin.com/news/articleView.html?idxno=845612",
+   "cats": [
+    "개인전"
+   ]
+  },
+  {
+   "entity_id": "ent_0c44c9feffe2c936",
+   "name": "Sol LeWitt",
+   "press": 1,
+   "shows": 1,
+   "story_url": "http://www.withinnews.co.kr/news/view.html?section=190&category=194&no=40760",
+   "cats": [
+    "개인전"
+   ]
+  },
+  {
+   "entity_id": "ent_1ec35dfc40bea3d1",
+   "name": "권기수",
+   "press": 1,
+   "shows": 1,
+   "story_url": "https://www.dynews.co.kr/news/articleView.html?idxno=870942",
+   "cats": [
+    "전시 중"
+   ]
+  },
+  {
+   "entity_id": null,
+   "name": "김승주",
+   "press": 4,
+   "shows": 0,
+   "story_url": "https://www.yna.co.kr/view/AKR20261026128500055?input=1195m",
+   "cats": [
+    "뉴스"
+   ]
+  },
+  {
+   "entity_id": null,
+   "name": "임희성",
+   "press": 4,
+   "shows": 0,
+   "story_url": "https://www.yna.co.kr/view/AKR20261026128500055?input=1195m",
+   "cats": [
+    "뉴스"
+   ]
+  },
+  {
+   "entity_id": "ent_0b8d1e5fe5a29719",
+   "name": "김태연",
+   "press": 2,
+   "shows": 0,
+   "story_url": "http://www.jeonmin.co.kr/news/articleView.html?idxno=449571",
+   "cats": [
+    "첫 공개",
+    "개인전"
+   ]
+  }
+ ],
+ "stories": [
+  {
+   "title": "문체부, 미술품 감정서·진품 증명서 고시…미신고 업체 발급 시 과태료",
+   "title_ko": null,
+   "url": "https://www.sportsworldi.com/newsView/20261029509627",
+   "outlet": "sportsworldi.com",
+   "date": "2026-10-29",
+   "n_outlets": 10,
+   "outlets": [
+    "ajunews.com",
+    "biz.heraldcorp.com",
+    "dt.co.kr",
+    "fnnews.com",
+    "news.sbs.co.kr",
+    "sportsworldi.com",
+    "yna.co.kr",
+    "ytn.co.kr"
+   ],
+   "sources": [
+    {
+     "outlet": "sportsworldi.com",
+     "url": "https://www.sportsworldi.com/newsView/20261029509627",
+     "date": "2026-10-29",
+     "title": "문체부, 미술품 감정서·진품 증명서 고시…미신고 업체 발급 시 과태료"
+    },
+    {
+     "outlet": "fnnews.com",
+     "url": "https://www.fnnews.com/news/202610290436498351",
+     "date": "2026-10-29",
+     "title": "미술품 감정서·진품증명서 표준화…문체부, 고시 2건 제정"
+    },
+    {
+     "outlet": "yna.co.kr",
+     "url": "https://www.yna.co.kr/view/AKR20261029027200005?input=1195m",
+     "date": "2026-10-29",
+     "title": "문체부, 미술품 감정서·진품 증명서 고시…\"소비자 보호\""
+    },
+    {
+     "outlet": "연합뉴스 문화",
+     "url": "https://www.yna.co.kr/view/AKR20261029027200005",
+     "date": "2026-10-29",
+     "title": "문체부, 미술품 감정서·진품 증명서 고시…\"소비자 보호\""
+    },
+    {
+     "outlet": "news.sbs.co.kr",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008820283&plink=ORI&cooper=NAVER",
+     "date": "2026-10-29",
+     "title": "문체부, 미술품 감정서·진품 증명서 고시…\"미술품 소비자 보호\""
+    },
+    {
+     "outlet": "뉴시스 문화",
+     "url": "https://www.newsis.com/view/NISX20261029_0003845904",
+     "date": "2026-10-29",
+     "title": "문체부, 미술품 감정서·진품증명서 고시…\"시장 투명화\""
+    },
+    {
+     "outlet": "ajunews.com",
+     "url": "https://www.ajunews.com/view/20261029100028639",
+     "date": "2026-10-29",
+     "title": "문체부, 미술품 감정서·진품증명서 고시 제정…지침도 연내 배포"
+    },
+    {
+     "outlet": "ytn.co.kr",
+     "url": "https://www.ytn.co.kr/_ln/0106_202610291341517941",
+     "date": "2026-10-29",
+     "title": "'미술품 감정서·진품 증명서' 표준 서식 마련...\"소비자 보호\""
+    },
+    {
+     "outlet": "biz.heraldcorp.com",
+     "url": "https://biz.heraldcorp.com/article/10919269?ref=naver",
+     "date": "2026-10-29",
+     "title": "문체부, 미술품 감정서·진품증명서 고시…양식 표준화"
+    },
+    {
+     "outlet": "dt.co.kr",
+     "url": "https://www.dt.co.kr/article/12092098?ref=naver",
+     "date": "2026-10-29",
+     "title": "문체부, 미술품 감정서·진품증명서 고시"
+    }
+   ],
+   "topic": "시장·경매·아트페어",
+   "score": 118.4,
+   "short": false,
+   "judged_by": "editor",
+   "summary": "미술진흥법에 따른 감정서(진위·가격)·진품증명서 표준 양식이 10월 29일 고시됨 — 내년 7월까지 계도기간.",
+   "why": [
+    "법률(미술진흥법)에 근거한 정부 고시 — 권고가 아니라 위반 시 과태료·영업 폐쇄가 따르는 규칙",
+    "갤러리·경매사·딜러 모두에게 적용되는 거래 서류 표준 — 한국 미술시장 유통 구조가 바뀜"
+   ],
+   "so_what": "내년 7월 계도기간 종료 전후로 갤러리·경매사의 감정서 발급 방식과 미술서비스업 신고 현황이 바뀌는지 본다. 가격 데이터가 아니라 '거래 투명성 제도'로 MARKET CONTEXT에 넣는다.",
+   "level": "편집 판단",
+   "points": null,
+   "lead": "미술진흥법에 따른 감정서(진위·가격)·진품증명서 표준 양식이 10월 29일 고시됨 — 내년 7월까지 계도기간. 내년 7월 계도기간 종료 전후로 갤러리·경매사의 감정서 발급 방식과 미술서비스업 신고 현황이 바뀌는지가 다음 관전 포인트다.",
+   "bullets": [
+    "미술진흥법에 따른 감정서(진위·가격)·진품증명서 표준 양식이 10월 29일 고시됨 — 내년 7월까지 계도기간.",
+    "→ 내년 7월 계도기간 종료 전후로 갤러리·경매사의 감정서 발급 방식과 미술서비스업 신고 현황이 바뀌는지가 다음 관전 포인트다."
+   ],
+   "tags": [],
+   "rank": 1
+  },
+  {
+   "title": "김해 클레이아크·윤슬미술관, 공립미술관 평가인증 동시 획득",
+   "title_ko": null,
+   "url": "http://www.newsmaker.or.kr/news/articleView.html?idxno=184859",
+   "outlet": "newsmaker.or.kr",
+   "date": "2026-10-29",
+   "n_outlets": 4,
+   "outlets": [
+    "cnbnews.com",
+    "news1.kr",
+    "newsmaker.or.kr",
+    "newstown.co.kr"
+   ],
+   "sources": [
+    {
+     "outlet": "newsmaker.or.kr",
+     "url": "http://www.newsmaker.or.kr/news/articleView.html?idxno=184859",
+     "date": "2026-10-29",
+     "title": "김해 클레이아크·윤슬미술관, 공립미술관 평가인증 동시 획득"
+    },
+    {
+     "outlet": "news1.kr",
+     "url": "https://www.news1.kr/local/busan-gyeongnam/6333588",
+     "date": "2026-10-27",
+     "title": "김해 클레이아크·윤슬미술관, 문체부 공립미술관 평가서 경남 1·3위"
+    },
+    {
+     "outlet": "cnbnews.com",
+     "url": "https://www.cnbnews.com/news/articleView.html?idxno=1021201",
+     "date": "2026-10-27",
+     "title": "김해 클레이아크·윤슬미술관, 문체부 '공립미술관 평가인증' 획득"
+    },
+    {
+     "outlet": "newstown.co.kr",
+     "url": "http://www.newstown.co.kr/news/articleView.html?idxno=719873",
+     "date": "2026-10-27",
+     "title": "김해 클레이아크·윤슬미술관, 공립미술관 평가서 나란히 인증"
+    }
+   ],
+   "topic": "기관·정책·제도",
+   "score": 118.1,
+   "short": false,
+   "judged_by": "editor",
+   "summary": "문체부 3년 주기 공립미술관 평가인증 결과가 지역별로 나옴 — 66개관 현장 실사.",
+   "why": [
+    "정부 제도에 따른 공식 평가(법정 3년 주기) — 개별 홍보가 아니라 같은 기준의 비교 결과",
+    "평가 항목이 소장품 관리·전시·교육·공적 책임으로 공개돼 있어 기관 비교에 쓸 수 있음"
+   ],
+   "so_what": "전국 인증·미인증 전체 명단은 아직 확보하지 못했다 — 문체부 공식 발표 원문을 찾아 넣어야 한다.",
+   "level": "편집 판단",
+   "points": null,
+   "lead": "문체부 3년 주기 공립미술관 평가인증 결과가 지역별로 나옴 — 66개관 현장 실사.",
+   "bullets": [
+    "문체부 3년 주기 공립미술관 평가인증 결과가 지역별로 나옴 — 66개관 현장 실사."
+   ],
+   "tags": [],
+   "rank": 2
+  },
+  {
+   "title": "홍라희 리움미술관 명예관장, 국민훈장 동백장 수훈 ... 40여 년 나눔 공로",
+   "title_ko": null,
+   "url": "https://www.artkoreatv.com/news/articleView.html?idxno=105258",
+   "outlet": "아트코리아방송",
+   "date": "2026-10-26",
+   "n_outlets": 56,
+   "outlets": [
+    "asiaa.co.kr",
+    "autodaily.co.kr",
+    "biz.chosun.com",
+    "biz.heraldcorp.com",
+    "biz.newdaily.co.kr",
+    "busan.com",
+    "businesspost.co.kr",
+    "cnbizm.com"
+   ],
+   "sources": [
+    {
+     "outlet": "아트코리아방송",
+     "url": "https://www.artkoreatv.com/news/articleView.html?idxno=105258",
+     "date": "2026-10-26",
+     "title": "홍라희 리움미술관 명예관장, 국민훈장 동백장 수훈 ... 40여 년 나눔 공로"
+    },
+    {
+     "outlet": "biz.heraldcorp.com",
+     "url": "https://biz.heraldcorp.com/article/10915004?ref=naver",
+     "date": "2026-10-26",
+     "title": "‘40년간 나눔 실천’ 홍라희 리움미술관 명예관장, 국민훈장 동백장 수..."
+    },
+    {
+     "outlet": "joongangenews.com",
+     "url": "https://www.joongangenews.com/news/articleView.html?idxno=558342",
+     "date": "2026-10-26",
+     "title": "홍라희 리움미술관 명예관장, 국민훈장 동백장 수훈…40년 나눔 공로 인..."
+    },
+    {
+     "outlet": "worktoday.co.kr",
+     "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=90971",
+     "date": "2026-10-26",
+     "title": "홍라희 리움미술관 명예관장, 국민훈장 동백장 수훈 … 문화·의료·복지..."
+    },
+    {
+     "outlet": "news1.kr",
+     "url": "https://www.news1.kr/photos/8179362",
+     "date": "2026-10-26",
+     "title": "국민훈장 동백장 수여받는 홍라희 리움미술관 명예관장"
+    },
+    {
+     "outlet": "techm.kr",
+     "url": "https://www.techm.kr/news/articleView.html?idxno=156503",
+     "date": "2026-10-26",
+     "title": "홍라희 리움미술관 명예관장, 국민훈장 동백장 수훈"
+    },
+    {
+     "outlet": "biz.newdaily.co.kr",
+     "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/26/2026102600253.html",
+     "date": "2026-10-26",
+     "title": "홍라희 리움미술관 명예 관장, 국민훈장 동백장 수훈"
+    },
+    {
+     "outlet": "fnnews.com",
+     "url": "https://www.fnnews.com/news/202610261448362433",
+     "date": "2026-10-26",
+     "title": "홍라희 리움미술관 명예관장, 국민훈장 동백장 수훈"
+    },
+    {
+     "outlet": "hankookilbo.com",
+     "url": "https://www.hankookilbo.com/news/article/A2026102614270003679?did=NA",
+     "date": "2026-10-26",
+     "title": "홍라희 리움미술관 명예관장, 국민훈장 동백장 수훈"
+    },
+    {
+     "outlet": "news.tf.co.kr",
+     "url": "https://news.tf.co.kr/read/economy/2380753.htm",
+     "date": "2026-10-26",
+     "title": "'40년 나눔 실천' 홍라희 리움미술관 명예관장, 국민훈장 동백장"
+    },
+    {
+     "outlet": "wolyo.co.kr",
+     "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=319572",
+     "date": "2026-10-26",
+     "title": "\"40년 나눔 공로\"...홍라희 리움미술관 명예관장, 국민훈장 동백장 수훈"
+    },
+    {
+     "outlet": "econonews.co.kr",
+     "url": "http://www.econonews.co.kr/news/articleView.html?idxno=446243",
+     "date": "2026-10-26",
+     "title": "홍라희 리움미술관 명예관장, 국민훈장 동백장 수훈…40년 나눔 공로 인..."
+    }
+   ],
+   "topic": "수상·인물",
+   "score": 117.7,
+   "short": false,
+   "judged_by": "editor",
+   "summary": "홍라희 리움 명예관장 국민훈장 — 보도량 최다지만 새 전시·정책은 아님.",
+   "why": [
+    "정부 포상"
+   ],
+   "so_what": "보도량은 크지만 새 전시·정책 변화는 아니다(보도 집중≠활동). 이건희 컬렉션 해외 순회전 일정을 기관 사건으로 따로 확인하는 편이 쓸모 있다.",
+   "level": "편집 판단",
+   "points": null,
+   "lead": "홍라희 리움 명예관장 국민훈장 — 보도량 최다지만 새 전시·정책은 아님. 보도량은 크지만 새 전시·정책 변화는 아니다(보도 집중≠활동). 이건희 컬렉션 해외 순회전 일정을 기관 사건으로 따로 확인하는 편이 쓸모 있다.",
+   "bullets": [
+    "홍라희 리움 명예관장 국민훈장 — 보도량 최다지만 새 전시·정책은 아님.",
+    "→ 보도량은 크지만 새 전시·정책 변화는 아니다(보도 집중≠활동). 이건희 컬렉션 해외 순회전 일정을 기관 사건으로 따로 확인하는 편이 쓸모 있다."
+   ],
+   "tags": [],
+   "rank": 3
+  },
+  {
+   "title": "부산시립미술관 '젊은 시각' 참여 작가 공모",
+   "title_ko": null,
+   "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0500&key=20261028.99099008166",
+   "outlet": "kookje.co.kr",
+   "date": "2026-10-28",
+   "n_outlets": 6,
+   "outlets": [
+    "busan.com",
+    "cnbizm.com",
+    "ftoday.co.kr",
+    "kookje.co.kr",
+    "news1.kr",
+    "서울문화투데이"
+   ],
+   "sources": [
+    {
+     "outlet": "kookje.co.kr",
+     "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0500&key=20261028.99099008166",
+     "date": "2026-10-28",
+     "title": "부산시립미술관 '젊은 시각' 참여 작가 공모"
+    },
+    {
+     "outlet": "서울문화투데이",
+     "url": "https://www.sctoday.co.kr/news/articleView.html?idxno=48866",
+     "date": "2026-10-23",
+     "title": "부산시립미술관 《젊은 시각 새로운 시선 2027》, 청년 작가 최대 8명 공모"
+    },
+    {
+     "outlet": "cnbizm.com",
+     "url": "https://www.cnbizm.com/news/articleView.html?idxno=319064",
+     "date": "2026-10-23",
+     "title": "역량 있는 젊은 작가 발굴...부산시립미술관, '젊은 시각 새로운 시선 2..."
+    },
+    {
+     "outlet": "ftoday.co.kr",
+     "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=368027",
+     "date": "2026-10-25",
+     "title": "부산시립미술관, '2027 젊은 시각 새로운 시선' 작가 공개 모집"
+    },
+    {
+     "outlet": "news1.kr",
+     "url": "https://www.news1.kr/life-culture/performance-exhibition/6331303",
+     "date": "2026-10-26",
+     "title": "부산시립미술관, '젊은 시각 새로운 시선 2027' 작가 공모"
+    },
+    {
+     "outlet": "busan.com",
+     "url": "https://www.busan.com/view/busan/view.php?code=2026102416352507659",
+     "date": "2026-10-27",
+     "title": "부산시립미술관 '젊은 시각 새로운 시선 2027' 작가 공모"
+    }
+   ],
+   "topic": "전시·프로그램",
+   "score": 115.1,
+   "short": false,
+   "judged_by": "editor",
+   "summary": "부산시립미술관 신진 프로그램 '젊은 시각' 공모(11/22 마감) — 선정 뒤 2~3년 해외 지원.",
+   "why": [
+    "공립미술관의 신진 발굴 프로그램(27년 운영)"
+   ],
+   "so_what": "선정 발표(공모 마감 11월 22일 이후)에 나오는 명단을 바로 관찰 후보로 넣는다.",
+   "level": "편집 판단",
+   "points": null,
+   "lead": "부산시립미술관 신진 프로그램 '젊은 시각' 공모(11/22 마감) — 선정 뒤 2~3년 해외 지원.",
+   "bullets": [
+    "부산시립미술관 신진 프로그램 '젊은 시각' 공모(11/22 마감) — 선정 뒤 2~3년 해외 지원."
+   ],
+   "tags": [],
+   "rank": 4
+  },
+  {
+   "title": "천안시립미술관, 문체부 공립미술관 평가인증 획득…충남 유일",
+   "title_ko": null,
+   "url": "https://www.m-i.kr/news/articleView.html?idxno=2012141",
+   "outlet": "m-i.kr",
+   "date": "2026-10-29",
+   "n_outlets": 17,
+   "outlets": [
+    "abcn.kr",
+    "cctimes.kr",
+    "chungnamilbo.co.kr",
+    "dnews.co.kr",
+    "dynews.co.kr",
+    "gndomin.com",
+    "idomin.com",
+    "incheonilbo.com"
+   ],
+   "sources": [
+    {
+     "outlet": "m-i.kr",
+     "url": "https://www.m-i.kr/news/articleView.html?idxno=2012141",
+     "date": "2026-10-29",
+     "title": "천안시립미술관, 문체부 공립미술관 평가인증 획득…충남 유일"
+    },
+    {
+     "outlet": "idomin.com",
+     "url": "https://www.idomin.com/news/articleView.html?idxno=2017820",
+     "date": "2026-10-25",
+     "title": "진주시립이성자미술관, 문체부 평가 통과"
+    },
+    {
+     "outlet": "newsgn.com",
+     "url": "https://www.newsgn.com/news/articleView.html?idxno=581257",
+     "date": "2026-10-25",
+     "title": "진주시립이성자미술관, 문체부 '공립미술관 평가인증' 통과"
+    },
+    {
+     "outlet": "gndomin.com",
+     "url": "http://www.gndomin.com/news/articleView.html?idxno=494027",
+     "date": "2026-10-25",
+     "title": "진주시립이성자미술관, 공립미술관 평가인증 통과"
+    },
+    {
+     "outlet": "knnews.co.kr",
+     "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1553613",
+     "date": "2026-10-26",
+     "title": "진주시립이성자미술관 ‘공립미술관 평가인증’ 통과"
+    },
+    {
+     "outlet": "dnews.co.kr",
+     "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610251145419710004",
+     "date": "2026-10-26",
+     "title": "[경남 브리핑 모음(10월26일)] 진주시립이성자미술관, 공립미술관 평가..."
+    },
+    {
+     "outlet": "newsis.com",
+     "url": "https://www.newsis.com/view/NISX20261026_0003841305",
+     "date": "2026-10-26",
+     "title": "김홍도미술관, 문체부 '공립미술관 평가인증' 통과"
+    },
+    {
+     "outlet": "incheonilbo.com",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335110",
+     "date": "2026-10-26",
+     "title": "안산 김홍도미술관, 문체부 '공립미술관 평가인증' 통과"
+    },
+    {
+     "outlet": "kgnews.co.kr",
+     "url": "https://www.kgnews.co.kr/news/article.html?no=916647",
+     "date": "2026-10-26",
+     "title": "안산 김홍도미술관, 문화체육관광부 공립미술관 평가인증 통과"
+    },
+    {
+     "outlet": "kookje.co.kr",
+     "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261027.99099008019",
+     "date": "2026-10-27",
+     "title": "김해 두 미술관, 문체부 공립미술관 평가인증 동반 인증"
+    },
+    {
+     "outlet": "kukinews.com",
+     "url": "https://www.kukinews.com/article/view/kuk202610290003",
+     "date": "2026-10-29",
+     "title": "천안시립미술관, 공립미술관 평가인증 통과"
+    },
+    {
+     "outlet": "abcn.kr",
+     "url": "https://www.abcn.kr/news/articleView.html?idxno=93751",
+     "date": "2026-10-29",
+     "title": "천안시립미술관, 공립미술관 평가인증 통과"
+    }
+   ],
+   "topic": "기관·정책·제도",
+   "score": 31.8,
+   "short": false,
+   "judged_by": "editor",
+   "summary": "천안시립미술관이 문체부 공립미술관 평가인증을 받았다(충남 유일). 2025년 충남 대표 미술관으로 지정된 곳이다.",
+   "why": [
+    "핵심 정리 2위 '공립미술관 평가인증' 묶음의 지역 결과 — 정부 제도에 따른 같은 기준의 비교 결과"
+   ],
+   "so_what": "개별 소식이 아니라 평가인증 결과의 한 조각이다. 기관 노트에 '2026 인증'을 붙일 근거로 쓴다.",
+   "level": "편집 판단",
+   "points": null,
+   "lead": "천안시립미술관이 문체부 공립미술관 평가인증을 받았다(충남 유일). 2025년 충남 대표 미술관으로 지정된 곳이다. 개별 소식이 아니라 평가인증 결과의 한 조각이다. 기관 노트에 '2026 인증'을 붙일 근거로 쓴다.",
+   "bullets": [
+    "천안시립미술관이 문체부 공립미술관 평가인증을 받았다(충남 유일).",
+    "2025년 충남 대표 미술관으로 지정된 곳이다.",
+    "→ 개별 소식이 아니라 평가인증 결과의 한 조각이다. 기관 노트에 '2026 인증'을 붙일 근거로 쓴다."
+   ],
+   "tags": [],
+   "rank": 5
+  },
+  {
+   "title": "국립현대미술관 ‘올해의 작가상’ 최종 수상자에 홍진훤",
+   "title_ko": null,
+   "url": "https://www.khan.co.kr/article/202610292018055/",
+   "outlet": "경향신문 문화",
+   "date": "2026-10-29",
+   "n_outlets": 23,
+   "outlets": [
+    "cnbizm.com",
+    "fnnews.com",
+    "ftoday.co.kr",
+    "hani.co.kr",
+    "hankookilbo.com",
+    "hansbiz.co.kr",
+    "joongang.co.kr",
+    "khan.co.kr"
+   ],
+   "sources": [
+    {
+     "outlet": "경향신문 문화",
+     "url": "https://www.khan.co.kr/article/202610292018055/",
+     "date": "2026-10-29",
+     "title": "국립현대미술관 ‘올해의 작가상’ 최종 수상자에 홍진훤"
+    },
+    {
+     "outlet": "seoul.co.kr",
+     "url": "https://www.seoul.co.kr/news/life/exhibition/2026/10/28/20261028500432?wlog_tag3=naver",
+     "date": "2026-10-28",
+     "title": "국립현대미술관 ‘올해의 작가상’에 홍진훤"
+    },
+    {
+     "outlet": "joongang.co.kr",
+     "url": "https://www.joongang.co.kr/article/25473753",
+     "date": "2026-10-28",
+     "title": "국립현대미술관, ‘올해의 작가상 2026’ 최종 수상자에 홍진훤"
+    },
+    {
+     "outlet": "news.sbs.co.kr",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819740&plink=ORI&cooper=NAVER",
+     "date": "2026-10-28",
+     "title": "'올해의 작가상 2026' 최종 수상자 홍진훤"
+    },
+    {
+     "outlet": "khan.co.kr",
+     "url": "https://www.khan.co.kr/article/202610282112001",
+     "date": "2026-10-28",
+     "title": "국립현대미술관 ‘올해의 작가상 2026’ 최종 수상자에 홍진훤"
+    },
+    {
+     "outlet": "hankookilbo.com",
+     "url": "https://www.hankookilbo.com/news/article/A2026102820350000420?did=NA",
+     "date": "2026-10-28",
+     "title": "국립현대미술관 '올해의 작가상 2026' 최종 수상자에 홍진훤"
+    },
+    {
+     "outlet": "뉴시스 문화",
+     "url": "https://www.newsis.com/view/NISX20261028_0003845498",
+     "date": "2026-10-28",
+     "title": "국립현대미술관 ‘올해의 작가상 2026’ 최종 수상자에 홍진훤"
+    },
+    {
+     "outlet": "hansbiz.co.kr",
+     "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=877400",
+     "date": "2026-10-28",
+     "title": "홍진훤, 국립현대미술관 '올해의 작가상 2026' 최종 수상"
+    },
+    {
+     "outlet": "fnnews.com",
+     "url": "https://www.fnnews.com/news/202610290517402686",
+     "date": "2026-10-29",
+     "title": "홍진훤, 국립현대미술관 '올해의 작가상 2026' 수상"
+    },
+    {
+     "outlet": "newsfreezone.co.kr",
+     "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=716521",
+     "date": "2026-10-29",
+     "title": "'올해의 작가상' 최종 수상자로 외신기자 출신 홍진훤"
+    },
+    {
+     "outlet": "yna.co.kr",
+     "url": "https://www.yna.co.kr/view/AKR20261029032800005?input=1195m",
+     "date": "2026-10-29",
+     "title": "국립현대미술관 '올해의 작가상 2026' 최종 수상자 홍진훤"
+    },
+    {
+     "outlet": "연합뉴스 문화",
+     "url": "https://www.yna.co.kr/view/AKR20261029032800005",
+     "date": "2026-10-29",
+     "title": "국립현대미술관 '올해의 작가상 2026' 최종 수상자 홍진훤"
+    }
+   ],
+   "topic": "수상·인물",
+   "score": 26.7,
+   "short": false,
+   "judged_by": "editor",
+   "summary": "국립현대미술관·SBS문화재단의 올해의 작가상 2026에 홍진훤 — 후원금 5,000만원 + 추가 1,000만원, 서울관 전시(~12월 6일).",
+   "why": [
+    "상: 올해의 작가상 2026 — 국립현대미술관·SBS문화재단, 기성 작가 상.",
+    "홍진훤(사진·영상): 심사평: 사회적 실천과 그것이 이미지로 재현되는 과정 사이의 긴장을 드러내고 현실을 보는 시각 체계에 질문한다."
+   ],
+   "so_what": "근거(상의 무게·루키 조건)는 홈의 ROOKIE RADAR와 '루키 관찰 명단' 노트.",
+   "level": "편집 판단",
+   "points": null,
+   "lead": "국립현대미술관·SBS문화재단의 올해의 작가상 2026에 홍진훤 — 후원금 5,000만원 + 추가 1,000만원, 서울관 전시(~12월 6일). 근거(상의 무게·루키 조건)는 홈의 ROOKIE RADAR와 '루키 관찰 명단' 노트.",
+   "bullets": [
+    "국립현대미술관·SBS문화재단의 올해의 작가상 2026에 홍진훤 — 후원금 5,000만원 + 추가 1,000만원, 서울관 전시(~12월 6일).",
+    "→ 근거(상의 무게·루키 조건)는 홈의 ROOKIE RADAR와 '루키 관찰 명단' 노트."
+   ],
+   "tags": [],
+   "rank": 6
+  },
+  {
+   "title": "씨네큐브·세화미술관, 영화 '게오르그 바젤리츠' 연계 씨네토크 개최",
+   "title_ko": null,
+   "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=212217",
+   "outlet": "thefirstmedia.net",
+   "date": "2026-10-29",
+   "n_outlets": 16,
+   "outlets": [
+    "cnbizm.com",
+    "dailian.co.kr",
+    "eroun.net",
+    "financialpost.co.kr",
+    "financialreview.co.kr",
+    "hansbiz.co.kr",
+    "inthenews.co.kr",
+    "news.tvchosun.com"
+   ],
+   "sources": [
+    {
+     "outlet": "thefirstmedia.net",
+     "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=212217",
+     "date": "2026-10-29",
+     "title": "씨네큐브·세화미술관, 영화 '게오르그 바젤리츠' 연계 씨네토크 개최"
+    },
+    {
+     "outlet": "pinpointnews.co.kr",
+     "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499489",
+     "date": "2026-10-29",
+     "title": "태광 세화미술관·씨네큐브, '게오르그 바젤리츠' 씨네토크 개최"
+    },
+    {
+     "outlet": "view.asiae.co.kr",
+     "url": "https://view.asiae.co.kr/article/2026102908180054577",
+     "date": "2026-10-29",
+     "title": "씨네큐브·세화미술관, 영화 '게오르그 바젤리츠' 씨네토크 개최"
+    },
+    {
+     "outlet": "yna.co.kr",
+     "url": "https://www.yna.co.kr/view/AKR20261029031100003?input=1195m",
+     "date": "2026-10-29",
+     "title": "[게시판] 씨네큐브·세화미술관, '게오르그 바젤리츠' 씨네토크"
+    },
+    {
+     "outlet": "연합뉴스 문화",
+     "url": "https://www.yna.co.kr/view/AKR20261029031100003",
+     "date": "2026-10-29",
+     "title": "[게시판] 씨네큐브·세화미술관, '게오르그 바젤리츠' 씨네토크"
+    },
+    {
+     "outlet": "newsdream.kr",
+     "url": "http://www.newsdream.kr/news/articleView.html?idxno=121065",
+     "date": "2026-10-29",
+     "title": "씨네큐브·세화미술관, '게오르그 바젤리츠' 아트&무비 씨네토크 개최"
+    },
+    {
+     "outlet": "paxetv.com",
+     "url": "http://www.paxetv.com/news/articleView.html?idxno=285515",
+     "date": "2026-10-29",
+     "title": "세화미술관·씨네큐브, 다큐 '게오르그 바젤리츠' 씨네토크 연다"
+    },
+    {
+     "outlet": "eroun.net",
+     "url": "https://www.eroun.net/news/articleView.html?idxno=93708",
+     "date": "2026-10-29",
+     "title": "세화미술관·씨네큐브, '게오르그 바젤리츠' 아트&무비 씨네토크 개최"
+    },
+    {
+     "outlet": "financialpost.co.kr",
+     "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=283224",
+     "date": "2026-10-29",
+     "title": "미술과 영화의 만남…세화미술관·씨네큐브, '아트&무비 씨네토크'"
+    },
+    {
+     "outlet": "financialreview.co.kr",
+     "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=45919",
+     "date": "2026-10-29",
+     "title": "세화미술관·씨네큐브, 거장 게오르그에 대한 '아트&무비 씨네토크' 개..."
+    },
+    {
+     "outlet": "news.tvchosun.com",
+     "url": "https://news.tvchosun.com/site/data/html_dir/2026/10/29/2026102990142.html",
+     "date": "2026-10-29",
+     "title": "씨네큐브·세화미술관, 영화 '게오르그 바젤리츠' 씨네토크 개최"
+    },
+    {
+     "outlet": "inthenews.co.kr",
+     "url": "https://www.inthenews.co.kr/news/article.html?no=93724",
+     "date": "2026-10-29",
+     "title": "씨네큐브·세화미술관, 영화 ‘게오르그 바젤리츠’ 아트&무비 씨네토크..."
+    }
+   ],
+   "topic": "전시·프로그램",
+   "score": 21.7,
+   "short": false,
+   "judged_by": "editor",
+   "summary": "씨네큐브와 세화미술관이 영화 '게오르그 바젤리츠' 상영에 맞춰 미술·영화 전문가 해설 씨네토크를 연다.",
+   "why": [
+    "16곳 보도로 순위가 높지만 대부분 같은 보도자료 — 새 전시·제도 변화는 아님"
+   ],
+   "so_what": "주요 소식이 아니라 연계 프로그램이다. 세화미술관 기관 활동으로만 기록한다(보도량≠중요도).",
+   "level": "편집 판단",
+   "points": null,
+   "lead": "씨네큐브와 세화미술관이 영화 '게오르그 바젤리츠' 상영에 맞춰 미술·영화 전문가 해설 씨네토크를 연다. 주요 소식이 아니라 연계 프로그램이다. 세화미술관 기관 활동으로만 기록한다(보도량≠중요도).",
+   "bullets": [
+    "씨네큐브와 세화미술관이 영화 '게오르그 바젤리츠' 상영에 맞춰 미술·영화 전문가 해설 씨네토크를 연다.",
+    "→ 주요 소식이 아니라 연계 프로그램이다. 세화미술관 기관 활동으로만 기록한다(보도량≠중요도)."
+   ],
+   "tags": [],
+   "rank": 7
+  },
+  {
+   "title": "세종대 세종뮤지엄갤러리 1관, 김대열 기획초대전 '무상지경' 개최",
+   "title_ko": null,
+   "url": "https://www.kyosu.net/news/articleView.html?idxno=211834",
+   "outlet": "kyosu.net",
+   "date": "2026-10-29",
+   "n_outlets": 7,
+   "outlets": [
+    "dhnews.co.kr",
+    "kyosu.net",
+    "newstnt.com",
+    "ngonews.kr",
+    "popcornnews.net",
+    "the-biz.co.kr",
+    "veritas-a.com"
+   ],
+   "sources": [
+    {
+     "outlet": "kyosu.net",
+     "url": "https://www.kyosu.net/news/articleView.html?idxno=211834",
+     "date": "2026-10-29",
+     "title": "세종대 세종뮤지엄갤러리 1관, 김대열 기획초대전 '무상지경' 개최"
+    },
+    {
+     "outlet": "veritas-a.com",
+     "url": "https://www.veritas-a.com/news/articleView.html?idxno=633894",
+     "date": "2026-10-28",
+     "title": "세종대 세종뮤지엄갤러리 김대열 기획초대전 '무상지경' 개최.. '수묵산..."
+    },
+    {
+     "outlet": "popcornnews.net",
+     "url": "http://www.popcornnews.net/news/articleView.html?idxno=137683",
+     "date": "2026-10-28",
+     "title": "세종대 세종뮤지엄갤러리 1관, '무상지경 無象之境' 김대열 기획초대전..."
+    },
+    {
+     "outlet": "dhnews.co.kr",
+     "url": "https://dhnews.co.kr/news/view/1065580046121158",
+     "date": "2026-10-28",
+     "title": "세종대 세종뮤지엄갤러리 1관, 김대열 기획초대전 ‘무상지경’ 개최"
+    },
+    {
+     "outlet": "ngonews.kr",
+     "url": "https://www.ngonews.kr/news/articleView.html?idxno=241712",
+     "date": "2026-10-28",
+     "title": "세종대 세종뮤지엄갤러리 1관, 김대열 기획초대전 개최"
+    },
+    {
+     "outlet": "newstnt.com",
+     "url": "https://www.newstnt.com/news/articleView.html?idxno=725443",
+     "date": "2026-10-28",
+     "title": "세종뮤지엄갤러리, 김대열 개인전 '무상지경'개최…전통 수묵에 담은 깨..."
+    },
+    {
+     "outlet": "the-biz.co.kr",
+     "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=730139",
+     "date": "2026-10-28",
+     "title": "세종대, 내달 11일까지 김대열 기획초대전 '무상지경' 개최"
+    }
+   ],
+   "topic": "전시·프로그램",
+   "score": 19.5,
+   "short": false,
+   "judged_by": "editor",
+   "summary": "세종대 세종뮤지엄갤러리가 동양화가 김대열의 수묵산수 40여 점 개인전 '무상지경'을 10월 28일~11월 11일 연다.",
+   "why": [
+    "대학 갤러리 기획초대 개인전 — 관찰 기관 밖, 보도 7곳은 같은 보도자료"
+   ],
+   "so_what": "지금 가 볼 수 있는 전시다. 다음 날짜: 11월 11일.",
+   "level": "편집 판단",
+   "points": null,
+   "lead": "세종대 세종뮤지엄갤러리가 동양화가 김대열의 수묵산수 40여 점 개인전 '무상지경'을 10월 28일~11월 11일 연다. 지금 가 볼 수 있는 전시다. 다음 날짜: 11월 11일.",
+   "bullets": [
+    "세종대 세종뮤지엄갤러리가 동양화가 김대열의 수묵산수 40여 점 개인전 '무상지경'을 10월 28일~11월 11일 연다.",
+    "→ 지금 가 볼 수 있는 전시다.",
+    "일정: 11월 11일"
+   ],
+   "tags": [],
+   "rank": 8
+  },
+  {
+   "title": "\"건축·조경과 일상의 만남\" '2026 수성국제비엔날레' 팡파르",
+   "title_ko": null,
+   "url": "https://www.hidomin.com/news/articleView.html?idxno=726935",
+   "outlet": "hidomin.com",
+   "date": "2026-10-28",
+   "n_outlets": 18,
+   "outlets": [
+    "cnbnews.com",
+    "dgmbc.com",
+    "edaily.co.kr",
+    "hidomin.com",
+    "idaegu.co.kr",
+    "idaegu.com",
+    "imaeil.com",
+    "kbmaeil.com"
+   ],
+   "sources": [
+    {
+     "outlet": "hidomin.com",
+     "url": "https://www.hidomin.com/news/articleView.html?idxno=726935",
+     "date": "2026-10-28",
+     "title": "\"건축·조경과 일상의 만남\" '2026 수성국제비엔날레' 팡파르"
+    },
+    {
+     "outlet": "tbc.co.kr",
+     "url": "https://www.tbc.co.kr/news/view?pno=20261021145539AE07227&id=212568",
+     "date": "2026-10-26",
+     "title": "2026 수성국제비엔날레 오는 27일 개최"
+    },
+    {
+     "outlet": "dgmbc.com",
+     "url": "https://dgmbc.com/NewsArticle/868661",
+     "date": "2026-10-26",
+     "title": "대구 수성구, 2026 수성 국제 비엔날레 10월 27일 개막"
+    },
+    {
+     "outlet": "news1.kr",
+     "url": "https://www.news1.kr/photos/8181810",
+     "date": "2026-10-27",
+     "title": "'2026 수성국제비엔날레' 개막"
+    },
+    {
+     "outlet": "imaeil.com",
+     "url": "https://www.imaeil.com/page/view/2026102716061653916",
+     "date": "2026-10-27",
+     "title": "'짓는 비엔날레' 수성못서 막 올랐다…2026 수성국제비엔날레 개막"
+    },
+    {
+     "outlet": "newsis.com",
+     "url": "https://www.newsis.com/view/NISI20261027_0021506773",
+     "date": "2026-10-27",
+     "title": "‘2026 수성국제비엔날레’ 정자 조형물 살펴보는 시민"
+    },
+    {
+     "outlet": "news.bbsi.co.kr",
+     "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4115038",
+     "date": "2026-10-27",
+     "title": "대구 수성구, '2026 수성국제비엔날레' 개막…일상 공간의 혁신"
+    },
+    {
+     "outlet": "yna.co.kr",
+     "url": "https://www.yna.co.kr/view/PYH20261027189400053?input=1196m",
+     "date": "2026-10-27",
+     "title": "2026 수성국제비엔날레 개막"
+    },
+    {
+     "outlet": "kyongbuk.co.kr",
+     "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4088672",
+     "date": "2026-10-27",
+     "title": "수성국제비엔날레, 수성못 상화동산서 막 올랐다"
+    },
+    {
+     "outlet": "mhns.co.kr",
+     "url": "https://www.mhns.co.kr/news/articleView.html?idxno=766200",
+     "date": "2026-10-27",
+     "title": "대구 수성구, '2026 수성국제비엔날레' 전격 개막… 수성못 상화동산서..."
+    },
+    {
+     "outlet": "sentv.co.kr",
+     "url": "https://www.sentv.co.kr/article/view/sentv202610270226",
+     "date": "2026-10-27",
+     "title": "수성구, ‘2026 수성국제비엔날레’ 성황리 개막"
+    },
+    {
+     "outlet": "pennmike.com",
+     "url": "https://www.pennmike.com/news/articleView.html?idxno=130418",
+     "date": "2026-10-27",
+     "title": "\"도시와 자연을 짓다\"\"…대구 수성구, 제2026 수성국제비엔날레 개막"
+    }
+   ],
+   "topic": "전시·프로그램",
+   "score": 12.0,
+   "short": true,
+   "judged_by": "auto",
+   "summary": "27일 오후 대구 수성구 수성못 상화동산에서 '2026 수성국제비엔날레'이 개최됐다. 대구 수성구가 지난 27일 수성못 상화동산에서 국내 외 참여작가, 전문가, 지역 주민들이 참석한 가운데 '2026 수성국제비엔날레' 개막행사를 성황리에 개최했다.",
+   "why": [],
+   "so_what": "지금 가 볼 수 있는 전시다.",
+   "level": "짧은 소식",
+   "points": 1,
+   "lead": "27일 오후 대구 수성구 수성못 상화동산에서 '2026 수성국제비엔날레'이 개최됐다. 대구 수성구가 지난 27일 수성못 상화동산에서 국내 외 참여작가, 전문가, 지역 주민들이 참석한 가운데 '2026 수성국제비엔날레' 개막행사를 성황리에 개최했다. 지금 가 볼 수 있는 전시다.",
+   "bullets": [
+    "27일 오후 대구 수성구 수성못 상화동산에서 '2026 수성국제비엔날레'이 개최됐다.",
+    "대구 수성구가 지난 27일 수성못 상화동산에서 국내 외 참여작가, 전문가, 지역 주민들이 참석한 가운데 '2026 수성국제비엔날레' 개막행사를 성황리에 개최했다.",
+    "→ 지금 가 볼 수 있는 전시다."
+   ],
+   "tags": [],
+   "rank": 9
+  },
+  {
+   "title": "전북도립미술관서 만나는 독립영화…'JMA Film-WEEKEND'",
+   "title_ko": null,
+   "url": "http://www.jeollailbo.com/news/articleView.html?idxno=814999",
+   "outlet": "jeollailbo.com",
+   "date": "2026-10-28",
+   "n_outlets": 3,
+   "outlets": [
+    "jbsori.com",
+    "jeollailbo.com",
+    "sjbnews.com"
+   ],
+   "sources": [
+    {
+     "outlet": "jeollailbo.com",
+     "url": "http://www.jeollailbo.com/news/articleView.html?idxno=814999",
+     "date": "2026-10-28",
+     "title": "전북도립미술관서 만나는 독립영화…'JMA Film-WEEKEND'"
+    },
+    {
+     "outlet": "jbsori.com",
+     "url": "http://www.jbsori.com/news/articleView.html?idxno=18100",
+     "date": "2026-10-27",
+     "title": "전북도립미술관, 영화로 만나는 특별한 주말 'JMA film – WEEKEND' 개최....."
+    },
+    {
+     "outlet": "sjbnews.com",
+     "url": "https://sjbnews.com/news/news.php?number=891009",
+     "date": "2026-10-27",
+     "title": "전북도립미술관, 영화로 만나는 특별한 주말 'JMA film ? WEEKEND' 개최"
+    }
+   ],
+   "topic": "전시·프로그램",
+   "score": 11.5,
+   "short": true,
+   "judged_by": "auto",
+   "summary": "전북도립미술관과 (사)전북독립영화협회가 공동 주관하는 'JMA Film-WEEKEND'가 10월 31일과 11월 1일 이틀간 전북도립미술관 강당에서 열린다. WEEKEND'가 31일부터 다음달 1일 전북도립미술관 강당에서 열린다.",
+   "why": [],
+   "so_what": "지금 가 볼 수 있는 전시다. 다음 날짜: 10월 31일.",
+   "level": "짧은 소식",
+   "points": 3,
+   "lead": "전북도립미술관과 (사)전북독립영화협회가 공동 주관하는 'JMA Film-WEEKEND'가 10월 31일과 11월 1일 이틀간 전북도립미술관 강당에서 열린다. WEEKEND'가 31일부터 다음달 1일 전북도립미술관 강당에서 열린다. 지금 가 볼 수 있는 전시다. 다음 날짜: 10월 31일.",
+   "bullets": [
+    "전북도립미술관과 (사)전북독립영화협회가 공동 주관하는 'JMA Film-WEEKEND'가 10월 31일과 11월 1일 이틀간 전북도립미술관 강당에서 열린다.",
+    "WEEKEND'가 31일부터 다음달 1일 전북도립미술관 강당에서 열린다.",
+    "→ 지금 가 볼 수 있는 전시다.",
+    "일정: 10월 31일"
+   ],
+   "tags": [],
+   "rank": 10
+  },
+  {
+   "title": "아웃라이 소사이어티X다이와피어39, 사진전 ‘모천회귀’ 개최",
+   "title_ko": null,
+   "url": "https://www.gosiweek.com/article/1065596485677492",
+   "outlet": "gosiweek.com",
+   "date": "2026-10-26",
+   "n_outlets": 5,
+   "outlets": [
+    "apparelnews.co.kr",
+    "enetnews.co.kr",
+    "fashionbiz.co.kr",
+    "gosiweek.com",
+    "sisunnews.co.kr"
+   ],
+   "sources": [
+    {
+     "outlet": "gosiweek.com",
+     "url": "https://www.gosiweek.com/article/1065596485677492",
+     "date": "2026-10-26",
+     "title": "아웃라이 소사이어티X다이와피어39, 사진전 ‘모천회귀’ 개최"
+    },
+    {
+     "outlet": "fashionbiz.co.kr",
+     "url": "https://www.fashionbiz.co.kr/article/230511",
+     "date": "2026-10-23",
+     "title": "다이와피어39의 지원이 더해진 아웃라이 소사이어티 사진전 〈모천회귀..."
+    },
+    {
+     "outlet": "apparelnews.co.kr",
+     "url": "http://www.apparelnews.co.kr/news/news_view/?idx=228458",
+     "date": "2026-10-23",
+     "title": "아웃라이 소사이어티, '다이와피어39' 지원 사진전 '모천회귀' 개최"
+    },
+    {
+     "outlet": "sisunnews.co.kr",
+     "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=248334",
+     "date": "2026-10-23",
+     "title": "아웃라이 소사이어티 사진전 '모천회귀' 개최...다이와피어39의 지원 더..."
+    },
+    {
+     "outlet": "enetnews.co.kr",
+     "url": "https://www.enetnews.co.kr/news/articleView.html?idxno=55688",
+     "date": "2026-10-26",
+     "title": "다이와피어39·아웃라이 소사이어티, 고성서 사진전 '모천회귀' 선봬"
+    }
+   ],
+   "topic": "그 밖의 소식",
+   "score": 9.2,
+   "short": true,
+   "judged_by": "auto",
+   "summary": "다이와피어39와 아웃라이 소사이어티가 함께한 사진전 ‘모천회귀’는 10월 30일부터 11월 6일까지 고성… 이번 사진전은 아웃라이 소사이어티 멤버들이 다이와피어39의 제품을 착용하고 산과 바다, 들판과 해변 등 다양한 자연환경을 여행하며 기록한…",
+   "why": [],
+   "so_what": "큰 사건은 아니지만 이번 주 흐름을 보여 주는 소식이다. 다음 날짜: 10월 30일.",
+   "level": "짧은 소식",
+   "points": 2,
+   "lead": "다이와피어39와 아웃라이 소사이어티가 함께한 사진전 ‘모천회귀’는 10월 30일부터 11월 6일까지 고성… 이번 사진전은 아웃라이 소사이어티 멤버들이 다이와피어39의 제품을 착용하고 산과 바다, 들판과 해변 등 다양한 자연환경을 여행하며 기록한… 큰 사건은 아니지만 이번 주 흐름을 보여 주는 소식이다. 다음 날짜: 10월 30일.",
+   "bullets": [
+    "일정: 10월 30일"
+   ],
+   "tags": [],
+   "rank": 11
+  },
+  {
+   "title": "경기창작캠퍼스, '2026 공공갤러리 전시공간 지원 공모' 접수",
+   "title_ko": null,
+   "url": "https://www.m-i.kr/news/articleView.html?idxno=2012180",
+   "outlet": "m-i.kr",
+   "date": "2026-10-29",
+   "n_outlets": 5,
+   "outlets": [
+    "cnbizm.com",
+    "kihoilbo.co.kr",
+    "m-i.kr",
+    "metroseoul.co.kr",
+    "newspim.com"
+   ],
+   "sources": [
+    {
+     "outlet": "m-i.kr",
+     "url": "https://www.m-i.kr/news/articleView.html?idxno=2012180",
+     "date": "2026-10-29",
+     "title": "경기창작캠퍼스, '2026 공공갤러리 전시공간 지원 공모' 접수"
+    },
+    {
+     "outlet": "kihoilbo.co.kr",
+     "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3039110",
+     "date": "2026-10-28",
+     "title": "경기문화재단, '공공갤러리 전시공간 지원 공모'… 예술인 전시·판매 기..."
+    },
+    {
+     "outlet": "newspim.com",
+     "url": "https://www.newspim.com/news/view/20261029001112",
+     "date": "2026-10-29",
+     "title": "경기문화재단 경기창작캠퍼스 '공공갤러리 전시공간 지원 공모' 진행"
+    },
+    {
+     "outlet": "metroseoul.co.kr",
+     "url": "http://www.metroseoul.co.kr/article/20261029500509",
+     "date": "2026-10-29",
+     "title": "경기창작캠퍼스, 공공갤러리 전시공간 지원 공모"
+    },
+    {
+     "outlet": "cnbizm.com",
+     "url": "https://www.cnbizm.com/news/articleView.html?idxno=319781",
+     "date": "2026-10-29",
+     "title": "경기문화재단 경기창작캠퍼스, 2026 공공갤러리 전시공간 지원 공모 진..."
+    }
+   ],
+   "topic": "전시·프로그램",
+   "score": 8.7,
+   "short": true,
+   "judged_by": "auto",
+   "summary": "공공갤러리는 경기창작캠퍼스 교육동 1층에 있는 공공형 미술 유통 플랫폼이다.",
+   "why": [],
+   "so_what": "지금 가 볼 수 있는 전시다.",
+   "level": "짧은 소식",
+   "points": 1,
+   "lead": "공공갤러리는 경기창작캠퍼스 교육동 1층에 있는 공공형 미술 유통 플랫폼이다. 지금 가 볼 수 있는 전시다.",
+   "bullets": [
+    "공공갤러리는 경기창작캠퍼스 교육동 1층에 있는 공공형 미술 유통 플랫폼이다.",
+    "→ 지금 가 볼 수 있는 전시다."
+   ],
+   "tags": [],
+   "rank": 12
+  },
+  {
+   "title": "양주시, '장흥 미술관 여행' 통합이용권 4일 만에 매진…500매 추가 판매",
+   "title_ko": null,
+   "url": "https://www.newstnt.com/news/articleView.html?idxno=725201",
+   "outlet": "newstnt.com",
+   "date": "2026-10-27",
+   "n_outlets": 4,
+   "outlets": [
+    "gukjenews.com",
+    "newsis.com",
+    "newstnt.com",
+    "yna.co.kr"
+   ],
+   "sources": [
+    {
+     "outlet": "newstnt.com",
+     "url": "https://www.newstnt.com/news/articleView.html?idxno=725201",
+     "date": "2026-10-27",
+     "title": "양주시, '장흥 미술관 여행' 통합이용권 4일 만에 매진…500매 추가 판매"
+    },
+    {
+     "outlet": "gukjenews.com",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3733731",
+     "date": "2026-10-27",
+     "title": "양주시, '장흥 미술관 여행' 통합이용권 1,000매 완판…500매 추가 판매"
+    },
+    {
+     "outlet": "newsis.com",
+     "url": "https://www.newsis.com/view/NISX20261027_0003842843",
+     "date": "2026-10-27",
+     "title": "'장흥 미술관 여행 통합권' 매진…양주시, 500매 추가 판매"
+    },
+    {
+     "outlet": "yna.co.kr",
+     "url": "https://www.yna.co.kr/view/AKR20261027130400060?input=1195m",
+     "date": "2026-10-27",
+     "title": "양주 '장흥 미술관 여행 통합권' 매진…500매 추가 판매"
+    }
+   ],
+   "topic": "전시·프로그램",
+   "score": 8.6,
+   "short": true,
+   "judged_by": "auto",
+   "summary": "양주시가 '장흥 미술관 여행' 통합이용권 1000매가 판매 시작 4일 만에 매진되자 500매를 추가 판매한다. 10월 31일에는 '장흥 미술관 여행 가는 날'을 맞아… 통합이용권은 3900원으로, 오는 30일부터 11월 8일까지 장흥 지역 미술관 4곳을 관람할 수 있다.",
+   "why": [],
+   "so_what": "지금 가 볼 수 있는 전시다. 다음 날짜: 10월 31일.",
+   "level": "짧은 소식",
+   "points": 2,
+   "lead": "양주시가 '장흥 미술관 여행' 통합이용권 1000매가 판매 시작 4일 만에 매진되자 500매를 추가 판매한다. 10월 31일에는 '장흥 미술관 여행 가는 날'을 맞아… 통합이용권은 3900원으로, 오는 30일부터 11월 8일까지 장흥 지역 미술관 4곳을 관람할 수 있다. 지금 가 볼 수 있는 전시다. 다음 날짜: 10월 31일.",
+   "bullets": [
+    "양주시가 '장흥 미술관 여행' 통합이용권 1000매가 판매 시작 4일 만에 매진되자 500매를 추가 판매한다.",
+    "10월 31일에는 '장흥 미술관 여행 가는 날'을 맞아… 통합이용권은 3900원으로, 오는 30일부터 11월 8일까지 장흥 지역 미술관 4곳을 관람할 수 있다.",
+    "→ 지금 가 볼 수 있는 전시다.",
+    "일정: 10월 31일"
+   ],
+   "tags": [],
+   "rank": 13
+  },
+  {
+   "title": "한국타이어, 대전공장서 '사내 사진전' 개최",
+   "title_ko": null,
+   "url": "https://www.ggilbo.com/news/articleView.html?idxno=1189420",
+   "outlet": "ggilbo.com",
+   "date": "2026-10-27",
+   "n_outlets": 4,
+   "outlets": [
+    "ccnnews.co.kr",
+    "cctimes.kr",
+    "ggilbo.com",
+    "newsis.com"
+   ],
+   "sources": [
+    {
+     "outlet": "ggilbo.com",
+     "url": "https://www.ggilbo.com/news/articleView.html?idxno=1189420",
+     "date": "2026-10-27",
+     "title": "한국타이어, 대전공장서 '사내 사진전' 개최"
+    },
+    {
+     "outlet": "ccnnews.co.kr",
+     "url": "http://www.ccnnews.co.kr/news/articleView.html?idxno=416820",
+     "date": "2026-10-27",
+     "title": "카메라에 담긴 땀방울… 한국타이어 대전공장, '사내 사진전'"
+    },
+    {
+     "outlet": "cctimes.kr",
+     "url": "http://www.cctimes.kr/news/articleView.html?idxno=934005",
+     "date": "2026-10-27",
+     "title": "한국타이어 대전공장, 사내 사진전 개최"
+    },
+    {
+     "outlet": "newsis.com",
+     "url": "https://www.newsis.com/view/NISI20261027_0002275311",
+     "date": "2026-10-27",
+     "title": "사진전시회 열리는 한국타이어 대전공장"
+    }
+   ],
+   "topic": "그 밖의 소식",
+   "score": 8.6,
+   "short": true,
+   "judged_by": "auto",
+   "summary": "▲ 한국타이어 제공 한국타이어가 대전공장에서 '사내 사진전'을 개최한다. 대전시 대덕구 목상동에 위치한 대전공장 중앙휴게실에서 '사내 사진전' 개최 한국타이어는 10월 26일부터 오는 11월 8일까지 14일간 대전시 대덕구 목상동에 위치한 대전공장 중앙휴게실에서 '사내 사진전'을 개최한다",
+   "why": [],
+   "so_what": "큰 사건은 아니지만 이번 주 흐름을 보여 주는 소식이다. 다음 날짜: 11월 8일.",
+   "level": "짧은 소식",
+   "points": 2,
+   "lead": "▲ 한국타이어 제공 한국타이어가 대전공장에서 '사내 사진전'을 개최한다. 대전시 대덕구 목상동에 위치한 대전공장 중앙휴게실에서 '사내 사진전' 개최 한국타이어는 10월 26일부터 오는 11월 8일까지 14일간 대전시 대덕구 목상동에 위치한 대전공장 중앙휴게실에서 '사내 사진전'을 개최한다 큰 사건은 아니지만 이번 주 흐름을 보여 주는 소식이다. 다음 날짜: 11월 8일.",
+   "bullets": [
+    "▲ 한국타이어 제공 한국타이어가 대전공장에서 '사내 사진전'을 개최한다.",
+    "대전시 대덕구 목상동에 위치한 대전공장 중앙휴게실에서 '사내 사진전' 개최 한국타이어는 10월 26일부터 오는 11월 8일까지 14일간 대전시 대덕구 목상동에 위치한 대전공장 중앙휴게실에서 '사내 사진전'을 개최한다",
+    "일정: 11월 8일"
+   ],
+   "tags": [],
+   "rank": 14
+  },
+  {
+   "title": "HS효성더클래스·롯데백화점 '마스테리아 아트 프로그램–간송미술관' ...",
+   "title_ko": null,
+   "url": "http://www.wsobi.com/news/articleView.html?idxno=320589",
+   "outlet": "wsobi.com",
+   "date": "2026-10-29",
+   "n_outlets": 4,
+   "outlets": [
+    "autotimes.co.kr",
+    "dt.co.kr",
+    "evlounge.donga.com",
+    "wsobi.com"
+   ],
+   "sources": [
+    {
+     "outlet": "wsobi.com",
+     "url": "http://www.wsobi.com/news/articleView.html?idxno=320589",
+     "date": "2026-10-29",
+     "title": "HS효성더클래스·롯데백화점 '마스테리아 아트 프로그램–간송미술관' ..."
+    },
+    {
+     "outlet": "autotimes.co.kr",
+     "url": "http://autotimes.co.kr/detail.php?number=689703&thread=27",
+     "date": "2026-10-28",
+     "title": "HS효성더클래스, 간송미술관서 ‘마스테리아 아트 프로그램’ 진행"
+    },
+    {
+     "outlet": "evlounge.donga.com",
+     "url": "https://evlounge.donga.com/FOREV/3/all/20261028/134923699/3",
+     "date": "2026-10-28",
+     "title": "HS효성더클래스, 간송미술관서 VIP 문화예술 프로그램 개최"
+    },
+    {
+     "outlet": "dt.co.kr",
+     "url": "https://www.dt.co.kr/article/12091900?ref=naver",
+     "date": "2026-10-28",
+     "title": "HS효성더클래스, 간송미술관서 ‘마스테리아 아트 프로그램’ 개최"
+    }
+   ],
+   "topic": "전시·프로그램",
+   "score": 8.1,
+   "short": true,
+   "judged_by": "auto",
+   "summary": "HS효성더클래스가 지난 21일 서울 간송미술관에서 마스테리아 클럽 고객 대상 ‘마스테리아 아트 프로그램’... 간송미술관에서 프리미엄 멤버십 ‘마스테리아 클럽’ 고객을 위한 문화예술 프로그램 ‘마스테리아 아트 프로그램–간송미술관’을 진행했다고 28일밝혔다.",
+   "why": [],
+   "so_what": "지금 가 볼 수 있는 전시다.",
+   "level": "짧은 소식",
+   "points": 1,
+   "lead": "HS효성더클래스가 지난 21일 서울 간송미술관에서 마스테리아 클럽 고객 대상 ‘마스테리아 아트 프로그램’... 간송미술관에서 프리미엄 멤버십 ‘마스테리아 클럽’ 고객을 위한 문화예술 프로그램 ‘마스테리아 아트 프로그램–간송미술관’을 진행했다고 28일밝혔다. 지금 가 볼 수 있는 전시다.",
+   "bullets": [
+    "간송미술관에서 프리미엄 멤버십 ‘마스테리아 클럽’ 고객을 위한 문화예술 프로그램 ‘마스테리아 아트 프로그램–간송미술관’을 진행했다고 28일밝혔다.",
+    "→ 지금 가 볼 수 있는 전시다."
+   ],
+   "tags": [],
+   "rank": 15
+  },
+  {
+   "title": "'2026 대구아트스퀘어' 엑스코서 개막… 나흘간 미술 축제",
+   "title_ko": null,
+   "url": "https://www.dkilbo.com/news/articleView.html?idxno=558887",
+   "outlet": "dkilbo.com",
+   "date": "2026-10-29",
+   "n_outlets": 4,
+   "outlets": [
+    "dkilbo.com",
+    "inews24.com",
+    "news.bbsi.co.kr",
+    "pennmike.com"
+   ],
+   "sources": [
+    {
+     "outlet": "dkilbo.com",
+     "url": "https://www.dkilbo.com/news/articleView.html?idxno=558887",
+     "date": "2026-10-29",
+     "title": "'2026 대구아트스퀘어' 엑스코서 개막… 나흘간 미술 축제"
+    },
+    {
+     "outlet": "news.bbsi.co.kr",
+     "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4115139",
+     "date": "2026-10-28",
+     "title": "'2026 대구아트스퀘어' 29일 개막…풍성한 가을 미술 축제"
+    },
+    {
+     "outlet": "inews24.com",
+     "url": "http://www.inews24.com/view/2019693",
+     "date": "2026-10-28",
+     "title": "2026 대구아트스퀘어 29일 개막…“세계 미술 거장부터 청년작가까지”"
+    },
+    {
+     "outlet": "pennmike.com",
+     "url": "https://www.pennmike.com/news/articleView.html?idxno=130436",
+     "date": "2026-10-28",
+     "title": "대구 가을 채울 미술 축제…'2026 대구아트스퀘어' 29일 개막"
+    }
+   ],
+   "topic": "전시·프로그램",
+   "score": 8.1,
+   "short": true,
+   "judged_by": "auto",
+   "summary": "미술품 거래와 창작의 현장을 함께 보여주는 '2026 대구아트스퀘어'가 막을 올린다. 대구시와 대구아트스퀘어조직위원회가 주최하고 대구화랑협회와 대구미술협회가 주관하는 '2026...",
+   "why": [],
+   "so_what": "지금 가 볼 수 있는 전시다.",
+   "level": "짧은 소식",
+   "points": 1,
+   "lead": "미술품 거래와 창작의 현장을 함께 보여주는 '2026 대구아트스퀘어'가 막을 올린다. 대구시와 대구아트스퀘어조직위원회가 주최하고 대구화랑협회와 대구미술협회가 주관하는 '2026... 지금 가 볼 수 있는 전시다.",
+   "bullets": [
+    "미술품 거래와 창작의 현장을 함께 보여주는 '2026 대구아트스퀘어'가 막을 올린다.",
+    "→ 지금 가 볼 수 있는 전시다."
+   ],
+   "tags": [],
+   "rank": 16
+  },
+  {
+   "title": "교원투어 여행이지, 겨울방학 타깃 가족여행 기획전 선보여",
+   "title_ko": null,
+   "url": "http://www.ttlnews.com/news/articleView.html?idxno=3156157",
+   "outlet": "ttlnews.com",
+   "date": "2026-10-28",
+   "n_outlets": 4,
+   "outlets": [
+    "discoverynews.kr",
+    "newslock.co.kr",
+    "thepowernews.co.kr",
+    "ttlnews.com"
+   ],
+   "sources": [
+    {
+     "outlet": "ttlnews.com",
+     "url": "http://www.ttlnews.com/news/articleView.html?idxno=3156157",
+     "date": "2026-10-28",
+     "title": "교원투어 여행이지, 겨울방학 타깃 가족여행 기획전 선보여"
+    },
+    {
+     "outlet": "discoverynews.kr",
+     "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1105125",
+     "date": "2026-10-28",
+     "title": "교원투어(여행이지), 겨울방학 맞이 '가족 여행 기획전' 진행"
+    },
+    {
+     "outlet": "newslock.co.kr",
+     "url": "http://www.newslock.co.kr/news/articleView.html?idxno=138784",
+     "date": "2026-10-28",
+     "title": "교원투어 여행이지, 겨울방학 가족여행 6개 테마 기획전"
+    },
+    {
+     "outlet": "thepowernews.co.kr",
+     "url": "https://www.thepowernews.co.kr/view.php?ud=202610281540069843de3f0aa1be_7",
+     "date": "2026-10-28",
+     "title": "교원투어 여행이지, 겨울방학 가족여행 기획전…6개 테마 구성"
+    }
+   ],
+   "topic": "전시·프로그램",
+   "score": 8.1,
+   "short": true,
+   "judged_by": "auto",
+   "summary": "교원투어 여행이지는 가족 여행객을 대상으로 ‘아이와 함께 떠나는 슬기로운 겨울여행’ 기획전을 진행한다고 28일 밝혔다 교원투어 여행이지는 동계 방학 시즌을 겨냥해 가족 단위 여행객을 위한 아이와...",
+   "why": [],
+   "so_what": "지금 가 볼 수 있는 전시다.",
+   "level": "짧은 소식",
+   "points": 1,
+   "lead": "교원투어 여행이지는 가족 여행객을 대상으로 ‘아이와 함께 떠나는 슬기로운 겨울여행’ 기획전을 진행한다고 28일 밝혔다 교원투어 여행이지는 동계 방학 시즌을 겨냥해 가족 단위 여행객을 위한 아이와... 지금 가 볼 수 있는 전시다.",
+   "bullets": [
+    "교원투어 여행이지는 가족 여행객을 대상으로 ‘아이와 함께 떠나는 슬기로운 겨울여행’ 기획전을 진행한다고 28일 밝혔다",
+    "→ 지금 가 볼 수 있는 전시다."
+   ],
+   "tags": [],
+   "rank": 17
+  },
+  {
+   "title": "모두투어, 겨울 낭만 담은 '2026 유럽 크리스마스 마켓' 기획전 출시",
+   "title_ko": null,
+   "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=368378",
+   "outlet": "ftoday.co.kr",
+   "date": "2026-10-28",
+   "n_outlets": 4,
+   "outlets": [
+    "discoverynews.kr",
+    "ftoday.co.kr",
+    "lawissue.co.kr",
+    "megaeconomy.co.kr"
+   ],
+   "sources": [
+    {
+     "outlet": "ftoday.co.kr",
+     "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=368378",
+     "date": "2026-10-28",
+     "title": "모두투어, 겨울 낭만 담은 '2026 유럽 크리스마스 마켓' 기획전 출시"
+    },
+    {
+     "outlet": "discoverynews.kr",
+     "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1105111",
+     "date": "2026-10-28",
+     "title": "모두투어, '2026 유럽 크리스마스' 기획전 선보여… 동·서유럽 겨울 상..."
+    },
+    {
+     "outlet": "megaeconomy.co.kr",
+     "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065570859171259",
+     "date": "2026-10-28",
+     "title": "모두투어, 유럽 크리스마스 기획전 선봬…동·서유럽 9일 상품 구성"
+    },
+    {
+     "outlet": "lawissue.co.kr",
+     "url": "https://www.lawissue.co.kr/view.php?ud=202610280917592112204ead0791_12",
+     "date": "2026-10-28",
+     "title": "모두투어, 유럽 겨울 축제 겨냥한 '2026 크리스마스 마켓' 기획전 선보여"
+    }
+   ],
+   "topic": "전시·프로그램",
+   "score": 8.1,
+   "short": true,
+   "judged_by": "auto",
+   "summary": null,
+   "why": [],
+   "so_what": "지금 가 볼 수 있는 전시다.",
+   "level": "짧은 소식",
+   "points": 1,
+   "lead": "지금 가 볼 수 있는 전시다.",
+   "bullets": [
+    "→ 지금 가 볼 수 있는 전시다."
+   ],
+   "tags": [],
+   "rank": 18
+  },
+  {
+   "title": "교원투어 '아이와 함께 떠나는 슬기로운 겨울여행' 기획전",
+   "title_ko": null,
+   "url": "https://www.globalepic.co.kr/view.php?ud=20261028140822657448439a4874_29",
+   "outlet": "globalepic.co.kr",
+   "date": "2026-10-28",
+   "n_outlets": 4,
+   "outlets": [
+    "globalepic.co.kr",
+    "newsdream.kr",
+    "newsquest.co.kr",
+    "srtimes.kr"
+   ],
+   "sources": [
+    {
+     "outlet": "globalepic.co.kr",
+     "url": "https://www.globalepic.co.kr/view.php?ud=20261028140822657448439a4874_29",
+     "date": "2026-10-28",
+     "title": "교원투어 '아이와 함께 떠나는 슬기로운 겨울여행' 기획전"
+    },
+    {
+     "outlet": "newsquest.co.kr",
+     "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=303578",
+     "date": "2026-10-28",
+     "title": "교원투어, 겨울방학 맞아 '아이와 함께 떠나는 겨울여행' 기획전 선보여"
+    },
+    {
+     "outlet": "newsdream.kr",
+     "url": "http://www.newsdream.kr/news/articleView.html?idxno=120981",
+     "date": "2026-10-28",
+     "title": "교원투어 여행이지, '아이와 함께 떠나는 겨울여행' 기획전 개최"
+    },
+    {
+     "outlet": "srtimes.kr",
+     "url": "http://www.srtimes.kr/news/articleView.html?idxno=216064",
+     "date": "2026-10-28",
+     "title": "교원투어 여행이지, '아이와 함께 떠나는 겨울여행' 기획전 진행"
+    }
+   ],
+   "topic": "전시·프로그램",
+   "score": 8.1,
+   "short": true,
+   "judged_by": "auto",
+   "summary": null,
+   "why": [],
+   "so_what": "지금 가 볼 수 있는 전시다.",
+   "level": "짧은 소식",
+   "points": 1,
+   "lead": "지금 가 볼 수 있는 전시다.",
+   "bullets": [
+    "→ 지금 가 볼 수 있는 전시다."
+   ],
+   "tags": [],
+   "rank": 19
+  },
+  {
+   "title": "진천군, 공예 예술과의 만남 ‘행복한 공예 피크닉’ 개최",
+   "title_ko": null,
+   "url": "http://www.breaknews.com/1246159",
+   "outlet": "breaknews.com",
+   "date": "2026-10-27",
+   "n_outlets": 7,
+   "outlets": [
+    "breaknews.com",
+    "ccdn.co.kr",
+    "cctimes.kr",
+    "chungnamilbo.co.kr",
+    "ggilbo.com",
+    "inews365.com",
+    "news1.kr"
+   ],
+   "sources": [
+    {
+     "outlet": "breaknews.com",
+     "url": "http://www.breaknews.com/1246159",
+     "date": "2026-10-27",
+     "title": "진천군, 공예 예술과의 만남 ‘행복한 공예 피크닉’ 개최"
+    },
+    {
+     "outlet": "inews365.com",
+     "url": "https://www.inews365.com/news/article.html?no=940872",
+     "date": "2026-10-27",
+     "title": "진천공예마을 '행복한 공예피크닉' 마련"
+    },
+    {
+     "outlet": "chungnamilbo.co.kr",
+     "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=917023",
+     "date": "2026-10-27",
+     "title": "진천공예마을 축제 '행복한 공예피크닉' 31일 개최"
+    },
+    {
+     "outlet": "ggilbo.com",
+     "url": "https://www.ggilbo.com/news/articleView.html?idxno=1189244",
+     "date": "2026-10-27",
+     "title": "진천공예마을, '행복한 공예 피크닉' 개최"
+    },
+    {
+     "outlet": "cctimes.kr",
+     "url": "http://www.cctimes.kr/news/articleView.html?idxno=934030",
+     "date": "2026-10-27",
+     "title": "진천공예마을, '행복한 공예 피크닉' 개최"
+    },
+    {
+     "outlet": "ccdn.co.kr",
+     "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1107163",
+     "date": "2026-10-27",
+     "title": "진천공예마을 축제 '행복한 공예 피크닉' 개최"
+    },
+    {
+     "outlet": "news1.kr",
+     "url": "https://www.news1.kr/local/sejong-chungbuk/6333698",
+     "date": "2026-10-27",
+     "title": "진천공예마을, 31일 진천공예미술관서 '행복한 공예 피크닉' 개최"
+    }
+   ],
+   "topic": "그 밖의 소식",
+   "score": 8.0,
+   "short": true,
+   "judged_by": "auto",
+   "summary": null,
+   "why": [],
+   "so_what": "큰 사건은 아니지만 이번 주 흐름을 보여 주는 소식이다.",
+   "level": "짧은 소식",
+   "points": 1,
+   "lead": "",
+   "bullets": [],
+   "tags": [],
+   "rank": 20
+  },
+  {
+   "title": "부산비엔날레 마지막 주말- 무대가 된 유람선, 전시장이 된 클럽",
+   "title_ko": null,
+   "url": "https://www.d-art.co.kr/news/articleView.html?idxno=6560",
+   "outlet": "D-ART 디아트",
+   "date": "2026-10-27",
+   "n_outlets": 3,
+   "outlets": [
+    "D-ART 디아트",
+    "ftoday.co.kr",
+    "서울문화투데이"
+   ],
+   "sources": [
+    {
+     "outlet": "D-ART 디아트",
+     "url": "https://www.d-art.co.kr/news/articleView.html?idxno=6560",
+     "date": "2026-10-27",
+     "title": "부산비엔날레 마지막 주말- 무대가 된 유람선, 전시장이 된 클럽"
+    },
+    {
+     "outlet": "서울문화투데이",
+     "url": "https://www.sctoday.co.kr/news/articleView.html?idxno=48895",
+     "date": "2026-10-27",
+     "title": "유람선은 무대, 클럽은 전시장…2026부산비엔날레 마지막 주말"
+    },
+    {
+     "outlet": "ftoday.co.kr",
+     "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=368230",
+     "date": "2026-10-27",
+     "title": "유람선은 무대가 되고, 클럽은 전시장이 된다…2026 부산비엔날레 마지..."
+    }
+   ],
+   "topic": "전시·프로그램",
+   "score": 8.0,
+   "short": true,
+   "judged_by": "auto",
+   "summary": "2026 부산비엔날레 '불협하는 합창(Dissident Chorus)'이 11월 1일 폐막을 앞두고 전시장 밖으로 예술의 무대를 넓힌다.",
+   "why": [],
+   "so_what": "지금 가 볼 수 있는 전시다. 다음 날짜: 11월 1일.",
+   "level": "짧은 소식",
+   "points": 2,
+   "lead": "2026 부산비엔날레 '불협하는 합창(Dissident Chorus)'이 11월 1일 폐막을 앞두고 전시장 밖으로 예술의 무대를 넓힌다. 지금 가 볼 수 있는 전시다. 다음 날짜: 11월 1일.",
+   "bullets": [
+    "2026 부산비엔날레 '불협하는 합창(Dissident Chorus)'이 11월 1일 폐막을 앞두고 전시장 밖으로 예술의 무대를 넓힌다.",
+    "→ 지금 가 볼 수 있는 전시다.",
+    "일정: 11월 1일"
+   ],
+   "tags": [],
+   "rank": 21
+  },
+  {
+   "title": "프레인빌라, MICA 출신 한국 작가 18인 조명 ... 두 번째 아트페어 개최",
+   "title_ko": null,
+   "url": "https://www.artkoreatv.com/news/articleView.html?idxno=105260",
+   "outlet": "아트코리아방송",
+   "date": "2026-10-26",
+   "n_outlets": 3,
+   "outlets": [
+    "donga.com",
+    "gokorea.kr",
+    "아트코리아방송"
+   ],
+   "sources": [
+    {
+     "outlet": "아트코리아방송",
+     "url": "https://www.artkoreatv.com/news/articleView.html?idxno=105260",
+     "date": "2026-10-26",
+     "title": "프레인빌라, MICA 출신 한국 작가 18인 조명 ... 두 번째 아트페어 개최"
+    },
+    {
+     "outlet": "gokorea.kr",
+     "url": "https://www.gokorea.kr/news/articleView.html?idxno=882774",
+     "date": "2026-10-26",
+     "title": "프레인빌라, MICA 출신 작가 18인 참여 아트페어 개최…11월 18일까지"
+    },
+    {
+     "outlet": "donga.com",
+     "url": "https://www.donga.com/news/Culture/article/all/20261027/134916522/1",
+     "date": "2026-10-27",
+     "title": "MICA 출신 한국 작가 18인 작품 소개…프레인빌라 아트페어 개최"
+    }
+   ],
+   "topic": "시장·경매·아트페어",
+   "score": 8.0,
+   "short": true,
+   "judged_by": "auto",
+   "summary": "복합 큐레이션 공간 프레인빌라가 미국 메릴랜드 예술대학(MICA) 출신 한국 작가 18인의 작품을 소개하는 아트페어를 연다. 프레인빌라는 28일부터 다음 달 18일까지 서울 프레인빌라 지하 1층 세르주 무이 라운지에서…",
+   "why": [],
+   "so_what": "가격은 시장의 온도일 뿐 작품의 가치가 아니다. 다음 날짜: 11월 18일.",
+   "level": "짧은 소식",
+   "points": 2,
+   "lead": "복합 큐레이션 공간 프레인빌라가 미국 메릴랜드 예술대학(MICA) 출신 한국 작가 18인의 작품을 소개하는 아트페어를 연다. 프레인빌라는 28일부터 다음 달 18일까지 서울 프레인빌라 지하 1층 세르주 무이 라운지에서… 가격은 시장의 온도일 뿐 작품의 가치가 아니다. 다음 날짜: 11월 18일.",
+   "bullets": [
+    "복합 큐레이션 공간 프레인빌라가 미국 메릴랜드 예술대학(MICA) 출신 한국 작가 18인의 작품을 소개하는 아트페어를 연다.",
+    "→ 가격은 시장의 온도일 뿐 작품의 가치가 아니다.",
+    "일정: 11월 18일"
+   ],
+   "tags": [],
+   "rank": 22
+  },
+  {
+   "title": "서울문화재단-암스테르담 맞손…예술가 교류 지원",
+   "title_ko": null,
+   "url": "https://www.newsis.com/view/NISX20261027_0003842732",
+   "outlet": "newsis.com",
+   "date": "2026-10-27",
+   "n_outlets": 5,
+   "outlets": [
+    "enewstoday.co.kr",
+    "gukjenews.com",
+    "hankyung.com",
+    "newsis.com",
+    "서울문화투데이"
+   ],
+   "sources": [
+    {
+     "outlet": "newsis.com",
+     "url": "https://www.newsis.com/view/NISX20261027_0003842732",
+     "date": "2026-10-27",
+     "title": "서울문화재단-암스테르담 맞손…예술가 교류 지원"
+    },
+    {
+     "outlet": "enewstoday.co.kr",
+     "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2484724",
+     "date": "2026-10-27",
+     "title": "서울문화재단, 암스테르담시와 손잡고 문화예술 교류 확대"
+    },
+    {
+     "outlet": "hankyung.com",
+     "url": "https://www.hankyung.com/article/202610276950i",
+     "date": "2026-10-27",
+     "title": "서울문화재단, 암스테르담과 손잡았다…예술 교류 확대"
+    },
+    {
+     "outlet": "서울문화투데이",
+     "url": "https://www.sctoday.co.kr/news/articleView.html?idxno=48896",
+     "date": "2026-10-27",
+     "title": "서울문화재단·암스테르담시 문화예술 교류 협약…작가 파견·공연 유통 추진"
+    },
+    {
+     "outlet": "gukjenews.com",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3734766",
+     "date": "2026-10-28",
+     "title": "서울문화재단, 암스테르담시와 문화예술 교류 확대 업무협약 체결"
+    }
+   ],
+   "topic": "그 밖의 소식",
+   "score": 7.2,
+   "short": true,
+   "judged_by": "auto",
+   "summary": "내년에는 서울문화재단 연희문학창작촌, 암스테르담시 문화예술국, 더치컬처가 협력해 양 도시 문학 작가를 상호 파견하는 레지던시 교류 프로그램이 운영될 예정이다. 서울문화재단 연희문학창작촌과 암스테르담시 문화예술국, 더치컬처(DutchCulture)가 협력해 참여 작가의 현지 작업 공간과 체류를 지원한다.",
+   "why": [],
+   "so_what": "큰 사건은 아니지만 이번 주 흐름을 보여 주는 소식이다.",
+   "level": "짧은 소식",
+   "points": 1,
+   "lead": "내년에는 서울문화재단 연희문학창작촌, 암스테르담시 문화예술국, 더치컬처가 협력해 양 도시 문학 작가를 상호 파견하는 레지던시 교류 프로그램이 운영될 예정이다. 서울문화재단 연희문학창작촌과 암스테르담시 문화예술국, 더치컬처(DutchCulture)가 협력해 참여 작가의 현지 작업 공간과 체류를 지원한다.",
+   "bullets": [
+    "내년에는 서울문화재단 연희문학창작촌, 암스테르담시 문화예술국, 더치컬처가 협력해 양 도시 문학 작가를 상호 파견하는 레지던시 교류 프로그램이 운영될 예정이다.",
+    "서울문화재단 연희문학창작촌과 암스테르담시 문화예술국, 더치컬처(DutchCulture)가 협력해 참여 작가의 현지 작업 공간과 체류를 지원한다."
+   ],
+   "tags": [],
+   "rank": 23
+  },
+  {
+   "title": "대전한방병원, 파킨슨병 환우 미술전 개최",
+   "title_ko": null,
+   "url": "http://www.ccnnews.co.kr/news/articleView.html?idxno=416849",
+   "outlet": "ccnnews.co.kr",
+   "date": "2026-10-27",
+   "n_outlets": 4,
+   "outlets": [
+    "akomnews.com",
+    "ccnnews.co.kr",
+    "chungnamilbo.co.kr",
+    "daily.hankooki.com"
+   ],
+   "sources": [
+    {
+     "outlet": "ccnnews.co.kr",
+     "url": "http://www.ccnnews.co.kr/news/articleView.html?idxno=416849",
+     "date": "2026-10-27",
+     "title": "대전한방병원, 파킨슨병 환우 미술전 개최"
+    },
+    {
+     "outlet": "chungnamilbo.co.kr",
+     "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=917089",
+     "date": "2026-10-27",
+     "title": "대전대 대전한방병원, 오는 11월 파킨슨병 환우 미술전 열어"
+    },
+    {
+     "outlet": "akomnews.com",
+     "url": "https://www.akomnews.com/bbs/board.php?bo_table=news&wr_id=68822",
+     "date": "2026-10-27",
+     "title": "대전대 대전한방병원, 파킨슨병 환우 미술전 개최"
+    },
+    {
+     "outlet": "daily.hankooki.com",
+     "url": "https://daily.hankooki.com/news/articleView.html?idxno=1418883",
+     "date": "2026-10-27",
+     "title": "[포토뉴스] 대전대 한의대·대전한방병원, 파킨슨병 환우 미술전 개최"
+    }
+   ],
+   "topic": "그 밖의 소식",
+   "score": 6.6,
+   "short": true,
+   "judged_by": "auto",
+   "summary": "파킨슨병 환우 미술전시회 대전대학교 대전한방병원이 파킨슨병 환우들이 자신만의 삶과 감각을 주도적으로 표현한 예술 작품을 선보이는 환우 미술전을 개최했다. 대전한방병원은 다음달 1일부터 8일까지 대전한방병원…",
+   "why": [],
+   "so_what": "큰 사건은 아니지만 이번 주 흐름을 보여 주는 소식이다.",
+   "level": "짧은 소식",
+   "points": 1,
+   "lead": "파킨슨병 환우 미술전시회 대전대학교 대전한방병원이 파킨슨병 환우들이 자신만의 삶과 감각을 주도적으로 표현한 예술 작품을 선보이는 환우 미술전을 개최했다. 대전한방병원은 다음달 1일부터 8일까지 대전한방병원…",
+   "bullets": [
+    "파킨슨병 환우 미술전시회 대전대학교 대전한방병원이 파킨슨병 환우들이 자신만의 삶과 감각을 주도적으로 표현한 예술 작품을 선보이는 환우 미술전을 개최했다."
+   ],
+   "tags": [],
+   "rank": 24
+  }
+ ],
+ "topics": [
+  {
+   "label": "전시·프로그램",
+   "count": 504
+  },
+  {
+   "label": "그 밖의 소식",
+   "count": 406
+  },
+  {
+   "label": "수상·인물",
+   "count": 54
+  },
+  {
+   "label": "시장·경매·아트페어",
+   "count": 45
+  },
+  {
+   "label": "기관·정책·제도",
+   "count": 20
+  },
+  {
+   "label": "비평·리뷰",
+   "count": 5
+  }
+ ],
+ "exhibitions": {
+  "open_count": 290,
+  "featured": [
+   {
+    "id": "evt_942dae9f5585ab92",
+    "title": "고이즈미 메이로: 불, 어느 아카이브",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "아트선재센터",
+    "city": "Seoul",
+    "country": "KR",
+    "start": "2026-10-27",
+    "end": "2026-12-27",
+    "artists": [
+     "고이즈미 메이로"
+    ],
+    "url": "https://artsonje.org/exhibition/%ea%b3%a0%ec%9d%b4%ec%a6%88%eb%af%b8-%eb%a9%94%ec%9d%b4%eb%a1%9c-%eb%b6%88-%ec%96%b4%eb%8a%90-%ec%95%84%ec%b9%b4%ec%9d%b4%eb%b8%8c-2/",
+    "image": null,
+    "why": "작가가 이번 주 보도에도 함께 오르내린다"
+   },
+   {
+    "id": "evt_a8694892c980f3cf",
+    "title": "서서울미술관 뉴미디어 신진작가전 《탈피하지 못하는 뱀은》",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "서울시립미술관",
+    "city": "Seoul",
+    "country": "KR",
+    "start": "2026-11-05",
+    "end": "2027-02-28",
+    "artists": [
+     "노오경",
+     "세렌 후이"
+    ],
+    "url": "https://sema.seoul.go.kr/kr/whatson/exhibition/detail?exNo=1604602",
+    "image": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1035538",
+    "why": "수상·신진 작가의 후속 전시"
+   },
+   {
+    "id": "evt_6696cf4c22fd6419",
+    "title": "2026 울산시립미술관 신진작가 성과전 : 박지혜",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "울산시립미술관",
+    "city": "Ulsan",
+    "country": "KR",
+    "start": "2026-10-29",
+    "end": "2026-12-06",
+    "artists": [],
+    "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?pblprfrSn=405591&menuNo=200010",
+    "image": "https://www.culture.go.kr/upload/rdf/26/10/rdf_2026102921172346999.jpg",
+    "why": "수상·신진 작가의 후속 전시"
+   },
+   {
+    "id": "evt_83d177099a139b01",
+    "title": "《수상한 표면 : Suspicious Surfaces》",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "유엠 갤러리",
+    "city": "Seoul",
+    "country": "KR",
+    "start": "2026-10-31",
+    "end": "2026-11-19",
+    "artists": [],
+    "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?pblprfrSn=405589&menuNo=200010",
+    "image": "https://www.culture.go.kr/upload/rdf/26/10/show_2026102921172036466.jpg",
+    "why": "수상·신진 작가의 후속 전시"
+   },
+   {
+    "id": "evt_fd7a83d343544d11",
+    "title": "[UNAW Gallery] 젠야 다츠코 국내 첫 개인전 <The Unspoken Hour>",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "UNAW Gallery",
+    "city": "Seoul",
+    "country": "KR",
+    "start": "2026-10-31",
+    "end": "2026-12-12",
+    "artists": [],
+    "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?pblprfrSn=406125&menuNo=200010",
+    "image": "https://www.culture.go.kr/upload/ucms/oneCltInfo/2026/202611/6c9dc2e917bb480fb7917f58a8264d37.jpg",
+    "why": "수상·신진 작가의 후속 전시"
+   },
+   {
+    "id": "evt_3ba026df3bcd15ca",
+    "title": "제26회 이인성미술상 수상자전 《이명미: 더 이상은 말할 수 없다》",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "대구미술관",
+    "city": "Daegu",
+    "country": "KR",
+    "start": "2026-11-03",
+    "end": "2027-02-14",
+    "artists": [],
+    "url": "https://daeguartmuseum.or.kr/index.do?menu_id=00000729&pageUnitF=24#EHI_00000342",
+    "image": null,
+    "why": "수상·신진 작가의 후속 전시"
+   }
+  ],
+  "opened": [
+   {
+    "id": "evt_ec2eb2e5e8c1c760",
+    "title": "(no)thing",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "Gallery Hyundai",
+    "city": "Seoul",
+    "country": "KR",
+    "start": "2026-10-29",
+    "end": "2026-12-20",
+    "artists": [
+     "Myoung Ho Lee"
+    ],
+    "url": "https://www.galleryhyundai.com/exhibition/view/18",
+    "image": "https://www.galleryhyundai.com/public/2026/10/22/15/11/23/034109d0-7f66-4eb7-a5c4-e2793d3bc6a4.resize_large.jpg"
+   },
+   {
+    "id": "evt_b43c1fcf6253ea67",
+    "title": "사랑노동아시아하기",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "경기도미술관",
+    "city": "Ansan",
+    "country": "KR",
+    "start": "2026-10-29",
+    "end": "2027-02-14",
+    "artists": [
+     "김영은",
+     "노원희",
+     "리에코 시가",
+     "마르코스 쿠에",
+     "바구스 판데가",
+     "야광"
+    ],
+    "url": "https://gmoma.ggcf.kr/exhibitions/208",
+    "image": "https://gmoma.ggcf.kr/storage/upload/2026/09/23/eBAoWeWCgH0WAFtXekcels5IdkvFfP2N7KAYYZKr.jpg"
+   },
+   {
+    "id": "evt_9b02518d1fd1d8ea",
+    "title": "2026 인천아트플랫폼 지역연계 프로젝트 <IAP 아트랩> AAA 《시점들》",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "인천아트플랫폼",
+    "city": "Incheon",
+    "country": "KR",
+    "start": "2026-10-29",
+    "end": "2026-11-14",
+    "artists": [],
+    "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?pblprfrSn=405563&menuNo=200010",
+    "image": "https://www.culture.go.kr/upload/ucms/oneCltInfo/2026/202610/4b1ba119637646c393093194b355fcc7.jpg"
+   },
+   {
+    "id": "evt_895dbfba28c4571b",
+    "title": "2026 공주 올해의 작가전 배상아展",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "아트센터 고마",
+    "city": "충남",
+    "country": "KR",
+    "start": "2026-10-29",
+    "end": "2026-11-08",
+    "artists": [],
+    "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?pblprfrSn=405554&menuNo=200010",
+    "image": "https://www.culture.go.kr/upload/ucms/oneCltInfo/2026/202610/ed3d1f57ca524b09832cadd057d745cb.jpg"
+   },
+   {
+    "id": "evt_74afde0c2b6761fe",
+    "title": "2026 인천아트플랫폼 국제교류(대만) 교환 작가 쉬신츠(SHIU Jui-tsz) 개인전 《막간》",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "인천아트플랫폼",
+    "city": "Incheon",
+    "country": "KR",
+    "start": "2026-10-29",
+    "end": "2026-11-15",
+    "artists": [],
+    "url": "https://www.inartplatform.kr/program/view?no=1365",
+    "image": null
+   },
+   {
+    "id": "evt_717d78d3b3d3fd2a",
+    "title": "2026 인천아트플랫폼 국제교류(대만) 교환 작가 쉬신츠(SHIU Jui-tsz) 개인전 《막간》",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "인천아트플랫폼",
+    "city": "Incheon",
+    "country": "KR",
+    "start": "2026-10-29",
+    "end": "2026-11-15",
+    "artists": [],
+    "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?pblprfrSn=405561&menuNo=200010",
+    "image": "https://www.culture.go.kr/upload/ucms/oneCltInfo/2026/202610/08c25d137934414192430cae679235db.png"
+   },
+   {
+    "id": "evt_6696cf4c22fd6419",
+    "title": "2026 울산시립미술관 신진작가 성과전 : 박지혜",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "울산시립미술관",
+    "city": "Ulsan",
+    "country": "KR",
+    "start": "2026-10-29",
+    "end": "2026-12-06",
+    "artists": [],
+    "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?pblprfrSn=405591&menuNo=200010",
+    "image": "https://www.culture.go.kr/upload/rdf/26/10/rdf_2026102921172346999.jpg"
+   },
+   {
+    "id": "evt_08bdbf6ef0044904",
+    "title": "부평영아티스트 8기 선정작가전 <Perennial Inspiration>",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "부평아트센터",
+    "city": "Incheon",
+    "country": "KR",
+    "start": "2026-10-29",
+    "end": "2026-11-27",
+    "artists": [],
+    "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?pblprfrSn=403251&menuNo=200010",
+    "image": "https://www.culture.go.kr/upload/ucms/oneCltInfo/2026/202610/a1e5b6b850f449e78713baf25348d017.JPG"
+   },
+   {
+    "id": "evt_e8c3251cce5054ad",
+    "title": "포토 디스커버리 프로젝트 《기계적 시선: 접촉하여 보기》",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "서울시립 사진미술관",
+    "city": "Seoul",
+    "country": "KR",
+    "start": "2026-10-28",
+    "end": "2026-12-20",
+    "artists": [],
+    "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?pblprfrSn=405338&menuNo=200010",
+    "image": "https://www.culture.go.kr/upload/ucms/oneCltInfo/2026/202610/cf5591745b1845d0844277e89fb29bd0.jpg"
+   },
+   {
+    "id": "evt_6edadb0352fda9d6",
+    "title": "2026 산지천갤러리 《SJC 아카이브 윈도우: 붉은 방》 상설전시 및 작가와의 대화",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "산지천갤러리",
+    "city": "제주",
+    "country": "KR",
+    "start": "2026-10-28",
+    "end": "2027-02-28",
+    "artists": [],
+    "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?pblprfrSn=406007&menuNo=200010",
+    "image": "https://www.culture.go.kr/upload/ucms/oneCltInfo/2026/202611/d0d8bc2811e7461d88a14a3d02c4cf6d.jpg"
+   },
+   {
+    "id": "evt_16cf2dca637eb0c3",
+    "title": "포토 디스커버리 프로젝트 《기계적 시선: 접촉하여 보기》",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "서울시립미술관",
+    "city": "Seoul",
+    "country": "KR",
+    "start": "2026-10-28",
+    "end": "2026-12-20",
+    "artists": [
+     "김영경"
+    ],
+    "url": "https://sema.seoul.go.kr/kr/whatson/exhibition/detail?exNo=1597041",
+    "image": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1035132"
+   },
+   {
+    "id": "evt_f407992e6a3434c5",
+    "title": "제23회 오미회 정기전",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "오산시립미술관",
+    "city": "경기",
+    "country": "KR",
+    "start": "2026-10-27",
+    "end": "2026-11-08",
+    "artists": [],
+    "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?pblprfrSn=405484&menuNo=200010",
+    "image": "https://www.culture.go.kr/upload/rdf/26/10/rdf_202610282122987601.jpg"
+   }
+  ],
+  "upcoming": [
+   {
+    "id": "evt_3ae7e3546f3047f9",
+    "title": "박지혜 개인전 《그 날 이후 Since The Day》",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "상업화랑 용산",
+    "city": "Seoul",
+    "country": "KR",
+    "start": "2026-10-30",
+    "end": "2026-11-12",
+    "artists": [],
+    "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?pblprfrSn=406006&menuNo=200010",
+    "image": "https://www.culture.go.kr/upload/ucms/oneCltInfo/2026/202611/52812e41296e40c89be9cb6b5c80c6b6.jpg"
+   },
+   {
+    "id": "evt_4c7a1c2d696ef6a8",
+    "title": "조준연·송성원 《Time in Hands》",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "CN갤러리",
+    "city": "Seoul",
+    "country": "KR",
+    "start": "2026-10-30",
+    "end": "2026-11-08",
+    "artists": [],
+    "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?pblprfrSn=405805&menuNo=200010",
+    "image": "https://www.culture.go.kr/upload/ucms/oneCltInfo/2026/202611/d6666a4328cf47d48b72da9cee48c61a.jpg"
+   },
+   {
+    "id": "evt_607584fe644158fe",
+    "title": "사진전 <兪 ; 그러하다>",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "와이아트갤러리",
+    "city": "Seoul",
+    "country": "KR",
+    "start": "2026-10-30",
+    "end": "2026-11-12",
+    "artists": [],
+    "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?pblprfrSn=403116&menuNo=200010",
+    "image": "https://www.culture.go.kr/upload/ucms/oneCltInfo/2026/202610/fd2025c4fd40482ea88b8cd6889cf563.jpg"
+   },
+   {
+    "id": "evt_87aeb221ed1ce051",
+    "title": "달리·Differently·Dali",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "예술의전당(한가람미술관)",
+    "city": "Seoul",
+    "country": "KR",
+    "start": "2026-10-30",
+    "end": "2026-11-15",
+    "artists": [],
+    "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?pblprfrSn=405701&menuNo=200010",
+    "image": "https://www.culture.go.kr/upload/ucms/oneCltInfo/2026/202610/c47acdaa194c44c8b3690a296071219a.jpg"
+   },
+   {
+    "id": "evt_91c1c3f6ce0c1e8a",
+    "title": "2026 두 번째 그룹전 <사이시옷>",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "봄내극장 춘천미술관",
+    "city": "강원",
+    "country": "KR",
+    "start": "2026-10-30",
+    "end": "2026-11-04",
+    "artists": [],
+    "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?pblprfrSn=405722&menuNo=200010",
+    "image": "https://www.culture.go.kr/upload/rdf/26/10/rdf_2026103021172412506.jpg"
+   },
+   {
+    "id": "evt_bc60d04401953f93",
+    "title": "Lost Things Wait to Be Found",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "가나아트",
+    "city": "Seoul",
+    "country": "KR",
+    "start": "2026-10-30",
+    "end": "2026-12-01",
+    "artists": [],
+    "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?pblprfrSn=405904&menuNo=200010",
+    "image": "https://www.culture.go.kr/upload/rdf/26/11/show_2026110221174377298.png"
+   },
+   {
+    "id": "evt_cf208113286fdaaa",
+    "title": "2026 여명전",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "봄내극장 춘천미술관",
+    "city": "강원",
+    "country": "KR",
+    "start": "2026-10-30",
+    "end": "2026-11-04",
+    "artists": [],
+    "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?pblprfrSn=405721&menuNo=200010",
+    "image": "https://www.culture.go.kr/upload/rdf/26/10/rdf_2026103021172409004.jpg"
+   },
+   {
+    "id": "evt_80a57453ef140ebc",
+    "title": "김민경 개인전 《정면을 만드는 것》",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "아트벙커 B39",
+    "city": "경기",
+    "country": "KR",
+    "start": "2026-10-31",
+    "end": "2026-11-07",
+    "artists": [],
+    "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?pblprfrSn=405051&menuNo=200010",
+    "image": "https://www.culture.go.kr/upload/ucms/oneCltInfo/2026/202610/16c0bea8ef9c4e0ca9f946ad75091cb8.jpg"
+   },
+   {
+    "id": "evt_83d177099a139b01",
+    "title": "《수상한 표면 : Suspicious Surfaces》",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "유엠 갤러리",
+    "city": "Seoul",
+    "country": "KR",
+    "start": "2026-10-31",
+    "end": "2026-11-19",
+    "artists": [],
+    "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?pblprfrSn=405589&menuNo=200010",
+    "image": "https://www.culture.go.kr/upload/rdf/26/10/show_2026102921172036466.jpg"
+   },
+   {
+    "id": "evt_8f0deb88a34fb92a",
+    "title": "차동수 초대 개인전 <마음 따라 떠나는 즐거운 나들이>",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "복합문화예술공간MERGE",
+    "city": "Busan",
+    "country": "KR",
+    "start": "2026-10-31",
+    "end": "2026-11-09",
+    "artists": [],
+    "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?pblprfrSn=403099&menuNo=200010",
+    "image": "https://www.culture.go.kr/upload/ucms/oneCltInfo/2026/202610/31981d64dacc448fbec18e05db35fdf7.jpg"
+   },
+   {
+    "id": "evt_a936035a63a2449b",
+    "title": "<The Art of James J. Choi 5> : 제임스 최 5번째 개인전",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "1019 갤러리앤라운지",
+    "city": "Incheon",
+    "country": "KR",
+    "start": "2026-10-31",
+    "end": "2026-11-08",
+    "artists": [],
+    "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?pblprfrSn=404876&menuNo=200010",
+    "image": "https://www.culture.go.kr/upload/ucms/oneCltInfo/2026/202610/82beac1e43364269a0024987de036add.png"
+   },
+   {
+    "id": "evt_fd7a83d343544d11",
+    "title": "[UNAW Gallery] 젠야 다츠코 국내 첫 개인전 <The Unspoken Hour>",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "UNAW Gallery",
+    "city": "Seoul",
+    "country": "KR",
+    "start": "2026-10-31",
+    "end": "2026-12-12",
+    "artists": [],
+    "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?pblprfrSn=406125&menuNo=200010",
+    "image": "https://www.culture.go.kr/upload/ucms/oneCltInfo/2026/202611/6c9dc2e917bb480fb7917f58a8264d37.jpg"
+   }
+  ],
+  "closing": [
+   {
+    "id": "evt_76e7f2e4ea9596ea",
+    "title": "2026 백남준의 도시: 태양에 녹아드는 바다",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "백남준아트센터",
+    "city": "Yongin",
+    "country": "KR",
+    "start": "2026-05-21",
+    "end": "2026-10-31",
+    "artists": [
+     "강이연",
+     "구기정",
+     "권혜원",
+     "백남준",
+     "신재영",
+     "염인화"
+    ],
+    "url": "https://njp.ggcf.kr/exhibitions/241",
+    "image": "https://njp.ggcf.kr/storage/upload/2026/05/19/Svg2gUonKYyF91MrFtyEq335rjlBUsd6wSvOafT6.jpg"
+   },
+   {
+    "id": "evt_3b966ba959b9ad18",
+    "title": "Who Lived Happily Ever After?",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "Esther Schipper",
+    "city": "Seoul",
+    "country": "KR",
+    "start": "2026-09-02",
+    "end": "2026-10-31",
+    "artists": [],
+    "url": "https://www.estherschipper.com/exhibitions/1595-who-lived-happily-ever-after-simon-fujiwara/",
+    "image": null
+   },
+   {
+    "id": "evt_20b6d8af4755a21e",
+    "title": "《눈-길》",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "경기도미술관",
+    "city": "Ansan",
+    "country": "KR",
+    "start": "2026-05-05",
+    "end": "2026-11-01",
+    "artists": [
+     "강익중",
+     "권기수",
+     "김승영",
+     "박경률",
+     "유현미",
+     "이원석"
+    ],
+    "url": "https://gmoma.ggcf.kr/exhibitions/203",
+    "image": "https://gmoma.ggcf.kr/storage/upload/2026/04/23/CAfVHwEG7Y4OA8X5MbgW2bFD8Utx6W8vSbOo140g.gif"
+   },
+   {
+    "id": "evt_454b3883c701ddf2",
+    "title": "2026 노원 NEXT: 민하형 개인전《피 빼기》",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "경춘선숲길 갤러리",
+    "city": "Seoul",
+    "country": "KR",
+    "start": "2026-10-13",
+    "end": "2026-11-04",
+    "artists": [],
+    "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?pblprfrSn=402457&menuNo=200010",
+    "image": "https://www.culture.go.kr/upload/rdf/26/10/rdf_2026101521173250224.jpg"
+   },
+   {
+    "id": "evt_028aac877ba788db",
+    "title": "제5회 서초 청년작가 특별전시(SYAF)",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "서리풀청년아트갤러리",
+    "city": "Seoul",
+    "country": "KR",
+    "start": "2026-10-17",
+    "end": "2026-11-04",
+    "artists": [],
+    "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?pblprfrSn=403095&menuNo=200010",
+    "image": "https://www.culture.go.kr/upload/ucms/oneCltInfo/2026/202610/3572af1e3e5c48fdbd5f6b7d4e700ec5.jpg"
+   },
+   {
+    "id": "evt_65fc253be080dcc1",
+    "title": "신교명 개인전 《Active Painting》",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "문래예술공장",
+    "city": "Seoul",
+    "country": "KR",
+    "start": "2026-10-26",
+    "end": "2026-11-04",
+    "artists": [],
+    "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?pblprfrSn=404877&menuNo=200010",
+    "image": "https://www.culture.go.kr/upload/ucms/oneCltInfo/2026/202610/370ace9adbd84dc88b81c22fbbdc3660.jpg"
+   },
+   {
+    "id": "evt_80d1d5b438e288c4",
+    "title": "박성민 <형태를 지나 결에 머물다>",
+    "kind": "museum",
+    "type": "exhibition",
+    "venue": "노화랑",
+    "city": "Seoul",
+    "country": "KR",
+    "start": "2026-10-15",
+    "end": "2026-11-05",
+    "artists": [],
+    "url": "https://www.culture.go.kr/portal/cltInfo/oneCltInfo/oneCltInfoView.do?pblprfrSn=401161&menuNo=200010",
+    "image": "https://www.culture.go.kr/upload/ucms/oneCltInfo/2026/202610/c90d7dc316d94f218ac5208fa0ea4b07.jpg"
+   }
+  ],
+  "cities": [
+   {
+    "city": "Seoul",
+    "count": 97
+   },
+   {
+    "city": "경기",
+    "count": 44
+   },
+   {
+    "city": "Busan",
+    "count": 24
+   },
+   {
+    "city": "Gwangju",
+    "count": 24
+   },
+   {
+    "city": "Daegu",
+    "count": 18
+   },
+   {
+    "city": "강원",
+    "count": 11
+   }
+  ]
+ },
+ "galleries": {
+  "openings": [
+   {
+    "id": "evt_ec2eb2e5e8c1c760",
+    "title": "(no)thing",
+    "kind": "gallery",
+    "type": "exhibition",
+    "venue": "Gallery Hyundai",
+    "city": "Seoul",
+    "country": "KR",
+    "start": "2026-10-29",
+    "end": "2026-12-20",
+    "artists": [
+     "Myoung Ho Lee"
+    ],
+    "url": "https://www.galleryhyundai.com/exhibition/view/18",
+    "image": "https://www.galleryhyundai.com/public/2026/10/22/15/11/23/034109d0-7f66-4eb7-a5c4-e2793d3bc6a4.resize_large.jpg"
+   }
+  ],
+  "news": [
+   {
+    "title": "[The Hankyoreh] Anselm Kiefer Into the Golden Crucible Anselm Kiefer’s The Women Alchemists, at Palazzo Reale Milan.",
+    "url": "https://ropac.net/news/3207-anselm-kiefer-into-the-golden-crucible/",
+    "date": "2026-10-29",
+    "source": "Thaddaeus Ropac"
+   },
+   {
+    "title": "[Prestige] Georg Baselitz The Inverted Master A review of the concurrent Georg Baselitz exhibitions at Sehwa Museum of Art and Thaddaeus Ropac Seoul.",
+    "url": "https://ropac.net/news/3201-georg-baselitz-the-inverted-master/",
+    "date": "2026-10-26",
+    "source": "Thaddaeus Ropac"
+   }
+  ]
+ },
+ "rookie": {
+  "people": [
+   {
+    "name": "이영호",
+    "status": "주목할 신진",
+    "watch": true,
+    "award": "제27회 단원미술제",
+    "track": "경력 제한 없는 상·선정",
+    "genre": null,
+    "why": "선정작가.",
+    "weight": {
+     "points": 4,
+     "level": "보통",
+     "reasons": [
+      "주최 안산시·안산문화재단 김홍도미술관(국공립 미술관·지자체) +2",
+      "1999년부터 운영(27년) +1",
+      "전문가 심사·공모 절차 공개 +1"
+     ]
+    },
+    "checks": [
+     {
+      "rule": "R01 공식 선정",
+      "ok": true,
+      "detail": "제27회 단원미술제 — 보도 3곳"
+     },
+     {
+      "rule": "R02 초기 경력",
+      "ok": true,
+      "detail": "보도로 확인된 가장 이른 개인전 2023년 · 최근 기사 위주 검색이라 더 이른 이력이 있을 수 있음"
+     },
+     {
+      "rule": "R03 독립 확인",
+      "ok": true,
+      "detail": "이번 수상 외 최근 12개월 미술 관련 보도 사건 1건 (2025-11-11 이영호 개인전 '맞-닿은 자리'…일상의 흔적에서 존재를) · 유형 award, residency, solo"
+     },
+     {
+      "rule": "R05 지속성(후속 지원)",
+      "ok": true,
+      "detail": "상에 딸린 후속 지원: 선정작가전(김홍도미술관, 10월 8일~11월 29일), 후속 지원 프로그램"
+     }
+    ],
+    "homonym_note": "이름 검색 결과 7건 중 미술과 무관해 보이는 기사 2건 제외"
+   },
+   {
+    "name": "권혜원",
+    "status": "주목할 신진(경력 확인 중)",
+    "watch": true,
+    "award": "제3회 안국미술상",
+    "track": "경력 제한 없는 상·선정",
+    "genre": "영상 설치",
+    "why": "기록·관찰 기술의 조건에 따라 대상이 달라지는 매체로 미디어를 다룬다는 소개.",
+    "weight": {
+     "points": 2,
+     "level": "낮음",
+     "reasons": [
+      "주최 안국약품·안국문화재단(민간 재단·기업) +1",
+      "후속 전시 지원 +1"
+     ]
+    },
+    "checks": [
+     {
+      "rule": "R01 공식 선정",
+      "ok": true,
+      "detail": "제3회 안국미술상 — 보도 3곳"
+     },
+     {
+      "rule": "R02 초기 경력",
+      "ok": null,
+      "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+     },
+     {
+      "rule": "R03 독립 확인",
+      "ok": true,
+      "detail": "이번 수상 외 최근 12개월 미술 관련 보도 사건 1건 (2026-10-23 안국약품, AG갤러리서 권혜원 작가 '재생의 조건' 展) · 유형 award, exhibition, group"
+     },
+     {
+      "rule": "R05 지속성(후속 지원)",
+      "ok": true,
+      "detail": "상에 딸린 후속 지원: 수상 기념전(AG갤러리, ~10월 28일)"
+     }
+    ],
+    "homonym_note": "이름 검색 결과 25건 중 미술과 무관해 보이는 기사 1건 제외"
+   },
+   {
+    "name": "이혜진",
+    "status": "지켜볼 신진",
+    "watch": true,
+    "award": "겸재정선미술관 '내일의 작가'",
+    "track": "신진 대상 상",
+    "genre": null,
+    "why": "2025년 대상 수상, 그 후속으로 2026년 10월 30일~11월 26일 개인전. 올해 수상 9인 명단은 보도에 없음.",
+    "weight": {
+     "points": 6,
+     "level": "높음",
+     "reasons": [
+      "주최 겸재정선미술관(서울 강서구립)(국공립 미술관·지자체) +2",
+      "2010년부터 운영(16년) +1",
+      "전문가 심사·공모 절차 공개 +1",
+      "후속 전시 지원 +1",
+      "작품 매입·소장 +1"
+     ]
+    },
+    "checks": [
+     {
+      "rule": "R01 공식 선정",
+      "ok": true,
+      "detail": "겸재정선미술관 '내일의 작가' — 보도 1곳"
+     },
+     {
+      "rule": "R02 초기 경력",
+      "ok": true,
+      "detail": "편집 확인: 2025년 신진작가 공모 대상 → 2026년 미술관 지원 개인전"
+     },
+     {
+      "rule": "R03 독립 확인",
+      "ok": false,
+      "detail": "이번 수상 외 최근 12개월 미술 관련 보도 사건 0건 · 유형 award"
+     },
+     {
+      "rule": "R05 지속성(후속 지원)",
+      "ok": true,
+      "detail": "상에 딸린 후속 지원: 작품 매입, 이듬해 개인전"
+     }
+    ],
+    "homonym_note": "이름 검색 결과 7건 중 미술과 무관해 보이는 기사 2건 제외"
+   },
+   {
+    "name": "김승주",
+    "status": "지켜볼 신진",
+    "watch": true,
+    "award": "2027 우진청년미술상",
+    "track": "신진 대상 상",
+    "genre": "조각",
+    "why": "심사평: 예술적 기본기에 충실하면서 현실과 삶에 대한 시선으로 독자적 작업 방식을 발전시켜 왔다",
+    "weight": {
+     "points": 4,
+     "level": "보통",
+     "reasons": [
+      "주최 우진문화재단(전주)(민간 재단·기업) +1",
+      "1994년부터 운영(32년) +1",
+      "전문가 심사·공모 절차 공개 +1",
+      "후속 전시 지원 +1"
+     ]
+    },
+    "checks": [
+     {
+      "rule": "R01 공식 선정",
+      "ok": true,
+      "detail": "2027 우진청년미술상 — 보도 4곳"
+     },
+     {
+      "rule": "R02 초기 경력",
+      "ok": true,
+      "detail": "보도로 확인된 가장 이른 개인전 2022년 · 최근 기사 위주 검색이라 더 이른 이력이 있을 수 있음"
+     },
+     {
+      "rule": "R03 독립 확인",
+      "ok": false,
+      "detail": "이번 수상 외 최근 12개월 미술 관련 보도 사건 0건 · 유형 award"
+     },
+     {
+      "rule": "R05 지속성(후속 지원)",
+      "ok": true,
+      "detail": "상에 딸린 후속 지원: 창작지원금 500만원, 2027년 3월 초대전"
+     }
+    ],
+    "homonym_note": "이름 검색 결과 17건 중 미술과 무관해 보이는 기사 8건 제외"
+   },
+   {
+    "name": "조성경",
+    "status": "지켜볼 신진",
+    "watch": true,
+    "award": "2026 여주국제사진전 주제전 '지구방랑자' 선정",
+    "track": "신진 대상 상",
+    "genre": "사진",
+    "why": "대지와 인간의 서사를 정제된 이미지로 풀어낸다는 소개. 같은 달 291 포토그랩스 포트폴리오 기획전에도 선정 — 서로 다른 주체 2곳.",
+    "weight": {
+     "points": 0,
+     "level": "낮음",
+     "reasons": [
+      "주최 2026 여주국제사진전(유형 미확인) +0"
+     ]
+    },
+    "checks": [
+     {
+      "rule": "R01 공식 선정",
+      "ok": true,
+      "detail": "2026 여주국제사진전 주제전 '지구방랑자' 선정 — 보도 1곳"
+     },
+     {
+      "rule": "R02 초기 경력",
+      "ok": true,
+      "detail": "편집 확인: 보도에 개인전 '쉼표'(2025)가 첫 개인전 이력으로 나옴 — 2025년 첫 개인전이면 초기 경력"
+     },
+     {
+      "rule": "R03 독립 확인",
+      "ok": false,
+      "detail": "이번 수상 외 최근 12개월 미술 관련 보도 사건 0건 · 유형 award"
+     },
+     {
+      "rule": "R05 지속성(후속 지원)",
+      "ok": true,
+      "detail": "상에 딸린 후속 지원: 주제전 참여"
+     }
+    ],
+    "homonym_note": "이름 검색 결과 6건 중 미술과 무관해 보이는 기사 5건 제외"
+   },
+   {
+    "name": "문정운",
+    "status": "지켜볼 신진",
+    "watch": true,
+    "award": "제56회 대한민국 공예품대전 대통령상",
+    "track": "경력 제한 없는 상·선정",
+    "genre": "공예",
+    "why": "'일월오봉도 은차도구' — 전통 회화 일월오봉도를 현대 은공예로 옮겼다",
+    "weight": {
+     "points": 4,
+     "level": "보통",
+     "reasons": [
+      "주최 국가유산청·한국공예협동조합연합회(국가기관) +2",
+      "전문가 심사·공모 절차 공개 +1",
+      "후속 전시 지원 +1"
+     ]
+    },
+    "checks": [
+     {
+      "rule": "R01 공식 선정",
+      "ok": true,
+      "detail": "제56회 대한민국 공예품대전 대통령상 — 보도 1곳"
+     },
+     {
+      "rule": "R02 초기 경력",
+      "ok": true,
+      "detail": "보도로 확인된 가장 이른 개인전 2021년 · 최근 기사 위주 검색이라 더 이른 이력이 있을 수 있음"
+     },
+     {
+      "rule": "R03 독립 확인",
+      "ok": false,
+      "detail": "이번 수상 외 최근 12개월 미술 관련 보도 사건 1건 (2026-09-09 조선 궁중화가 은공예로…문정운 ‘일월오봉도 은차도구’ ) · 유형 award"
+     },
+     {
+      "rule": "R05 지속성(후속 지원)",
+      "ok": true,
+      "detail": "상에 딸린 후속 지원: 수상작 전시(11월 청주)"
+     }
+    ],
+    "homonym_note": "이름 검색 결과 8건 중 미술과 무관해 보이는 기사 1건 제외"
+   },
+   {
+    "name": "박상화",
+    "status": "지켜볼 신진",
+    "watch": true,
+    "award": "제27회 단원미술제",
+    "track": "경력 제한 없는 상·선정",
+    "genre": null,
+    "why": "단원미술대상.",
+    "weight": {
+     "points": 4,
+     "level": "보통",
+     "reasons": [
+      "주최 안산시·안산문화재단 김홍도미술관(국공립 미술관·지자체) +2",
+      "1999년부터 운영(27년) +1",
+      "전문가 심사·공모 절차 공개 +1"
+     ]
+    },
+    "checks": [
+     {
+      "rule": "R01 공식 선정",
+      "ok": true,
+      "detail": "제27회 단원미술제 — 보도 3곳"
+     },
+     {
+      "rule": "R02 초기 경력",
+      "ok": true,
+      "detail": "보도로 확인된 가장 이른 개인전 2020년 · 최근 기사 위주 검색이라 더 이른 이력이 있을 수 있음"
+     },
+     {
+      "rule": "R03 독립 확인",
+      "ok": false,
+      "detail": "이번 수상 외 최근 12개월 미술 관련 보도 사건 0건 · 유형 award"
+     },
+     {
+      "rule": "R05 지속성(후속 지원)",
+      "ok": true,
+      "detail": "상에 딸린 후속 지원: 선정작가전(김홍도미술관, 10월 8일~11월 29일), 후속 지원 프로그램"
+     }
+    ],
+    "homonym_note": "이름 검색 결과 23건 중 미술과 무관해 보이는 기사 3건 제외"
+   },
+   {
+    "name": "조현수",
+    "status": "지켜볼 신진",
+    "watch": true,
+    "award": "제27회 단원미술제",
+    "track": "경력 제한 없는 상·선정",
+    "genre": null,
+    "why": "선정작가.",
+    "weight": {
+     "points": 4,
+     "level": "보통",
+     "reasons": [
+      "주최 안산시·안산문화재단 김홍도미술관(국공립 미술관·지자체) +2",
+      "1999년부터 운영(27년) +1",
+      "전문가 심사·공모 절차 공개 +1"
+     ]
+    },
+    "checks": [
+     {
+      "rule": "R01 공식 선정",
+      "ok": true,
+      "detail": "제27회 단원미술제 — 보도 3곳"
+     },
+     {
+      "rule": "R02 초기 경력",
+      "ok": true,
+      "detail": "보도로 확인된 가장 이른 개인전 2021년 · 최근 기사 위주 검색이라 더 이른 이력이 있을 수 있음"
+     },
+     {
+      "rule": "R03 독립 확인",
+      "ok": false,
+      "detail": "이번 수상 외 최근 12개월 미술 관련 보도 사건 1건 (2026-04-14 조현수 작가 광주화루 공모전 ‘우수상’) · 유형 award"
+     },
+     {
+      "rule": "R05 지속성(후속 지원)",
+      "ok": true,
+      "detail": "상에 딸린 후속 지원: 선정작가전(김홍도미술관, 10월 8일~11월 29일), 후속 지원 프로그램"
+     }
+    ],
+    "homonym_note": "이름 검색 결과 24건 중 미술과 무관해 보이는 기사 4건 제외"
+   },
+   {
+    "name": "홍창희",
+    "status": "지켜볼 신진",
+    "watch": true,
+    "award": "2026 정부미술은행 작품 구입 선정",
+    "track": "경력 제한 없는 상·선정",
+    "genre": "사진",
+    "why": "사진 '누각(A resting place)' 매입.",
+    "weight": {
+     "points": 3,
+     "level": "보통",
+     "reasons": [
+      "주최 국립현대미술관 정부미술은행(국가기관) +2",
+      "작품 매입·소장 +1"
+     ]
+    },
+    "checks": [
+     {
+      "rule": "R01 공식 선정",
+      "ok": true,
+      "detail": "2026 정부미술은행 작품 구입 선정 — 보도 2곳"
+     },
+     {
+      "rule": "R02 초기 경력",
+      "ok": true,
+      "detail": "보도로 확인된 가장 이른 개인전 2024년 · 최근 기사 위주 검색이라 더 이른 이력이 있을 수 있음"
+     },
+     {
+      "rule": "R03 독립 확인",
+      "ok": false,
+      "detail": "이번 수상 외 최근 12개월 미술 관련 보도 사건 0건 · 유형 award"
+     },
+     {
+      "rule": "R05 지속성(후속 지원)",
+      "ok": true,
+      "detail": "상에 딸린 후속 지원: 작품 매입·소장"
+     }
+    ],
+    "homonym_note": "이름 검색 결과 4건 중 미술과 무관해 보이는 기사 1건 제외"
+   },
+   {
+    "name": "강성훈",
+    "status": "지켜볼 신진",
+    "watch": true,
+    "award": "제27회 단원미술제",
+    "track": "경력 제한 없는 상·선정",
+    "genre": null,
+    "why": "선정작가.",
+    "weight": {
+     "points": 4,
+     "level": "보통",
+     "reasons": [
+      "주최 안산시·안산문화재단 김홍도미술관(국공립 미술관·지자체) +2",
+      "1999년부터 운영(27년) +1",
+      "전문가 심사·공모 절차 공개 +1"
+     ]
+    },
+    "checks": [
+     {
+      "rule": "R01 공식 선정",
+      "ok": true,
+      "detail": "제27회 단원미술제 — 보도 3곳"
+     },
+     {
+      "rule": "R02 초기 경력",
+      "ok": null,
+      "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+     },
+     {
+      "rule": "R03 독립 확인",
+      "ok": false,
+      "detail": "이번 수상 외 최근 12개월 미술 관련 보도 사건 0건 · 유형 award"
+     },
+     {
+      "rule": "R05 지속성(후속 지원)",
+      "ok": true,
+      "detail": "상에 딸린 후속 지원: 선정작가전(김홍도미술관, 10월 8일~11월 29일), 후속 지원 프로그램"
+     }
+    ],
+    "homonym_note": "이름 검색 결과 24건 중 미술과 무관해 보이는 기사 16건 제외"
+   },
+   {
+    "name": "김소영",
+    "status": "지켜볼 신진",
+    "watch": true,
+    "award": "제27회 단원미술제",
+    "track": "경력 제한 없는 상·선정",
+    "genre": null,
+    "why": "선정작가.",
+    "weight": {
+     "points": 4,
+     "level": "보통",
+     "reasons": [
+      "주최 안산시·안산문화재단 김홍도미술관(국공립 미술관·지자체) +2",
+      "1999년부터 운영(27년) +1",
+      "전문가 심사·공모 절차 공개 +1"
+     ]
+    },
+    "checks": [
+     {
+      "rule": "R01 공식 선정",
+      "ok": true,
+      "detail": "제27회 단원미술제 — 보도 3곳"
+     },
+     {
+      "rule": "R02 초기 경력",
+      "ok": null,
+      "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+     },
+     {
+      "rule": "R03 독립 확인",
+      "ok": false,
+      "detail": "이번 수상 외 최근 12개월 미술 관련 보도 사건 0건 · 유형 award"
+     },
+     {
+      "rule": "R05 지속성(후속 지원)",
+      "ok": true,
+      "detail": "상에 딸린 후속 지원: 선정작가전(김홍도미술관, 10월 8일~11월 29일), 후속 지원 프로그램"
+     }
+    ],
+    "homonym_note": "이름 검색 결과 22건 중 미술과 무관해 보이는 기사 18건 제외"
+   },
+   {
+    "name": "김은숙",
+    "status": "지켜볼 신진",
+    "watch": true,
+    "award": "제27회 단원미술제",
+    "track": "경력 제한 없는 상·선정",
+    "genre": null,
+    "why": "선정작가.",
+    "weight": {
+     "points": 4,
+     "level": "보통",
+     "reasons": [
+      "주최 안산시·안산문화재단 김홍도미술관(국공립 미술관·지자체) +2",
+      "1999년부터 운영(27년) +1",
+      "전문가 심사·공모 절차 공개 +1"
+     ]
+    },
+    "checks": [
+     {
+      "rule": "R01 공식 선정",
+      "ok": true,
+      "detail": "제27회 단원미술제 — 보도 3곳"
+     },
+     {
+      "rule": "R02 초기 경력",
+      "ok": null,
+      "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+     },
+     {
+      "rule": "R03 독립 확인",
+      "ok": false,
+      "detail": "이번 수상 외 최근 12개월 미술 관련 보도 사건 5건 (2026-10-08 [사진]류승룡-임지연,'김은숙 작가 수상 축하드려요'; 2026-10-08 [사진]김은숙 작가,'행복한 미소'; 2026-10-08 [사진]수상 소감 말하는 김은숙 작가) · 유형 award"
+     },
+     {
+      "rule": "R05 지속성(후속 지원)",
+      "ok": true,
+      "detail": "상에 딸린 후속 지원: 선정작가전(김홍도미술관, 10월 8일~11월 29일), 후속 지원 프로그램"
+     }
+    ],
+    "homonym_note": "이름 검색 결과 77건 중 미술과 무관해 보이는 기사 42건 제외"
+   },
+   {
+    "name": "염지혜",
+    "status": "지켜볼 신진",
+    "watch": true,
+    "award": "제7회 박동준상 미술부문",
+    "track": "경력 제한 없는 상·선정",
+    "genre": "미디어",
+    "why": "미술부문 수상(선정 사유는 보도 요약에 없음).",
+    "weight": {
+     "points": 3,
+     "level": "보통",
+     "reasons": [
+      "주최 박동준기념사업회·갤러리분도(대구)(민간 재단·기업) +1",
+      "후속 전시 지원 +1",
+      "상금·지원금 2,000만원 +1"
+     ]
+    },
+    "checks": [
+     {
+      "rule": "R01 공식 선정",
+      "ok": true,
+      "detail": "제7회 박동준상 미술부문 — 보도 1곳"
+     },
+     {
+      "rule": "R02 초기 경력",
+      "ok": null,
+      "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+     },
+     {
+      "rule": "R03 독립 확인",
+      "ok": false,
+      "detail": "이번 수상 외 최근 12개월 미술 관련 보도 사건 0건 · 유형 award, exhibition"
+     },
+     {
+      "rule": "R05 지속성(후속 지원)",
+      "ok": true,
+      "detail": "상에 딸린 후속 지원: 상금 2,000만원, 전시 기회"
+     }
+    ],
+    "homonym_note": "이름 검색 결과 28건 중 미술과 무관해 보이는 기사 0건 제외"
+   },
+   {
+    "name": "정원경",
+    "status": "지켜볼 신진",
+    "watch": true,
+    "award": "2026 정부미술은행 작품 구입 선정",
+    "track": "경력 제한 없는 상·선정",
+    "genre": "조각",
+    "why": "조각 '꿈꾸다' 매입.",
+    "weight": {
+     "points": 3,
+     "level": "보통",
+     "reasons": [
+      "주최 국립현대미술관 정부미술은행(국가기관) +2",
+      "작품 매입·소장 +1"
+     ]
+    },
+    "checks": [
+     {
+      "rule": "R01 공식 선정",
+      "ok": true,
+      "detail": "2026 정부미술은행 작품 구입 선정 — 보도 2곳"
+     },
+     {
+      "rule": "R02 초기 경력",
+      "ok": null,
+      "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+     },
+     {
+      "rule": "R03 독립 확인",
+      "ok": false,
+      "detail": "이번 수상 외 최근 12개월 미술 관련 보도 사건 0건 · 유형 award"
+     },
+     {
+      "rule": "R05 지속성(후속 지원)",
+      "ok": true,
+      "detail": "상에 딸린 후속 지원: 작품 매입·소장"
+     }
+    ],
+    "homonym_note": "이름 검색 결과 4건 중 미술과 무관해 보이는 기사 2건 제외"
+   },
+   {
+    "name": "한소희",
+    "status": "지켜볼 신진",
+    "watch": true,
+    "award": "제27회 단원미술제",
+    "track": "경력 제한 없는 상·선정",
+    "genre": null,
+    "why": "선정작가.",
+    "weight": {
+     "points": 4,
+     "level": "보통",
+     "reasons": [
+      "주최 안산시·안산문화재단 김홍도미술관(국공립 미술관·지자체) +2",
+      "1999년부터 운영(27년) +1",
+      "전문가 심사·공모 절차 공개 +1"
+     ]
+    },
+    "checks": [
+     {
+      "rule": "R01 공식 선정",
+      "ok": true,
+      "detail": "제27회 단원미술제 — 보도 3곳"
+     },
+     {
+      "rule": "R02 초기 경력",
+      "ok": null,
+      "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+     },
+     {
+      "rule": "R03 독립 확인",
+      "ok": null,
+      "detail": "이번 수상 외 최근 12개월 미술 관련 보도 사건 2건 (2026-09-04 한소희·우즈·차정원, '프리즈 서울' 떴다…휠라 '실버; 2026-10-02 휠라, '실버' 테마 전시 확장…한소희·우즈 사진전도 ) · 유형 award, group — 동명이인 기사가 많아 같은 사람인지 편집자 확인 전에는 통과로 보지 않음"
+     },
+     {
+      "rule": "R05 지속성(후속 지원)",
+      "ok": true,
+      "detail": "상에 딸린 후속 지원: 선정작가전(김홍도미술관, 10월 8일~11월 29일), 후속 지원 프로그램"
+     }
+    ],
+    "homonym_note": "이름 검색 결과 33건 중 미술과 무관해 보이는 기사 28건 제외"
+   },
+   {
+    "name": "임희성",
+    "status": "재발견·중견 확인 필요",
+    "watch": false,
+    "award": "2027 우진청년미술상",
+    "track": "신진 대상 상",
+    "genre": "평면회화",
+    "why": "심사평: 예술적 기본기에 충실하면서 현실과 삶에 대한 시선으로 독자적 작업 방식을 발전시켜 왔다",
+    "weight": {
+     "points": 4,
+     "level": "보통",
+     "reasons": [
+      "주최 우진문화재단(전주)(민간 재단·기업) +1",
+      "1994년부터 운영(32년) +1",
+      "전문가 심사·공모 절차 공개 +1",
+      "후속 전시 지원 +1"
+     ]
+    },
+    "checks": [
+     {
+      "rule": "R01 공식 선정",
+      "ok": true,
+      "detail": "2027 우진청년미술상 — 보도 4곳"
+     },
+     {
+      "rule": "R02 초기 경력",
+      "ok": false,
+      "detail": "2020년 보도에 '7번째 개인전' — 첫 개인전이 10년 넘었을 가능성(재발견·중견 확인 필요)"
+     },
+     {
+      "rule": "R03 독립 확인",
+      "ok": true,
+      "detail": "이번 수상 외 최근 12개월 미술 관련 보도 사건 3건 (2026-03-19 임희성 개인전 '삶의 풍경 색채로 풀어내다'; 2026-03-22 색 조각으로 쌓은 삶의 풍경... 공유화음실, 임희성 ; 2026-06-17 [한 컷 미술관] 임희성 개인전: 삶의 풍경) · 유형 award, solo"
+     },
+     {
+      "rule": "R05 지속성(후속 지원)",
+      "ok": true,
+      "detail": "상에 딸린 후속 지원: 창작지원금 500만원, 2027년 3월 초대전"
+     }
+    ],
+    "homonym_note": "이름 검색 결과 18건 중 미술과 무관해 보이는 기사 1건 제외"
+   },
+   {
+    "name": "연기백",
+    "status": "재발견·중견 확인 필요",
+    "watch": false,
+    "award": "제8회 고암미술상",
+    "track": "경력 제한 없는 상·선정",
+    "genre": "설치",
+    "why": "심사평: 장소 특정적 설치의 완성도·예술철학·전시 공간 해석 능력. 의미를 부여하면서도 그 행위를 의심하는 태도가 이응노의 문자추상과 맞닿는다",
+    "weight": {
+     "points": 6,
+     "level": "높음",
+     "reasons": [
+      "주최 홍성군 고암이응노생가기념관 '이응노의 집'(국공립 미술관·지자체) +2",
+      "2012년부터 운영(14년) +1",
+      "전문가 심사·공모 절차 공개 +1",
+      "후속 전시 지원 +1",
+      "상금·지원금 2,000만원 +1"
+     ]
+    },
+    "checks": [
+     {
+      "rule": "R01 공식 선정",
+      "ok": true,
+      "detail": "제8회 고암미술상 — 보도 2곳"
+     },
+     {
+      "rule": "R02 초기 경력",
+      "ok": false,
+      "detail": "보도로 확인된 가장 이른 개인전 2015년 — 10년 넘음(재발견·중견 가능성) · 최근 기사 위주 검색이라 더 이른 이력이 있을 수 있음"
+     },
+     {
+      "rule": "R03 독립 확인",
+      "ok": false,
+      "detail": "이번 수상 외 최근 12개월 미술 관련 보도 사건 0건 · 유형 award"
+     },
+     {
+      "rule": "R05 지속성(후속 지원)",
+      "ok": true,
+      "detail": "상에 딸린 후속 지원: 상금 2,000만원, 2027년 이응노의 집 개인전"
+     }
+    ],
+    "homonym_note": "이름 검색 결과 19건 중 미술과 무관해 보이는 기사 2건 제외"
+   },
+   {
+    "name": "우징",
+    "status": "재발견·중견 확인 필요",
+    "watch": false,
+    "award": "제27회 단원미술제",
+    "track": "경력 제한 없는 상·선정",
+    "genre": null,
+    "why": "선정작가.",
+    "weight": {
+     "points": 4,
+     "level": "보통",
+     "reasons": [
+      "주최 안산시·안산문화재단 김홍도미술관(국공립 미술관·지자체) +2",
+      "1999년부터 운영(27년) +1",
+      "전문가 심사·공모 절차 공개 +1"
+     ]
+    },
+    "checks": [
+     {
+      "rule": "R01 공식 선정",
+      "ok": true,
+      "detail": "제27회 단원미술제 — 보도 3곳"
+     },
+     {
+      "rule": "R02 초기 경력",
+      "ok": false,
+      "detail": "보도로 확인된 가장 이른 개인전 2012년 — 10년 넘음(재발견·중견 가능성) · 최근 기사 위주 검색이라 더 이른 이력이 있을 수 있음"
+     },
+     {
+      "rule": "R03 독립 확인",
+      "ok": false,
+      "detail": "이번 수상 외 최근 12개월 미술 관련 보도 사건 0건 · 유형 award"
+     },
+     {
+      "rule": "R05 지속성(후속 지원)",
+      "ok": true,
+      "detail": "상에 딸린 후속 지원: 선정작가전(김홍도미술관, 10월 8일~11월 29일), 후속 지원 프로그램"
+     }
+    ],
+    "homonym_note": "이름 검색 결과 25건 중 미술과 무관해 보이는 기사 1건 제외"
+   },
+   {
+    "name": "김아영",
+    "status": "기성 작가",
+    "watch": false,
+    "award": "제38회 이중섭미술상",
+    "track": "기성 작가 상",
+    "genre": "미디어",
+    "why": "SF적 상상력과 미디어 기술을 결합한 작업으로 국제적 주목을 받는다는 소개.",
+    "weight": {
+     "points": 3,
+     "level": "보통",
+     "reasons": [
+      "주최 조선일보·방일영문화재단(언론사·재단) +1",
+      "1988년부터 운영(38년) +1",
+      "상금·지원금 2,000만원 +1"
+     ]
+    },
+    "checks": [
+     {
+      "rule": "R01 공식 선정",
+      "ok": true,
+      "detail": "제38회 이중섭미술상 — 보도 1곳"
+     },
+     {
+      "rule": "R02 초기 경력",
+      "ok": true,
+      "detail": "보도로 확인된 가장 이른 개인전 2026년 · 최근 기사 위주 검색이라 더 이른 이력이 있을 수 있음"
+     },
+     {
+      "rule": "R03 독립 확인",
+      "ok": null,
+      "detail": "이번 수상 외 최근 12개월 미술 관련 보도 사건 4건 (2026-07-20 자연을 바라보다, 마음을 그리다…김아영 개인전 《화이부; 2026-07-21 일상 속 자연의 풍경들⋯김아영 개인전; 2026-07-22 강원갤러리 작가 김아영 개인전 '화이부동' 서울서 개막) · 유형 award, exhibition, group, solo — 동명이인 기사가 많아 같은 사람인지 편집자 확인 전에는 통과로 보지 않음"
+     },
+     {
+      "rule": "R05 지속성(후속 지원)",
+      "ok": true,
+      "detail": "상에 딸린 후속 지원: 상금 2,000만원"
+     }
+    ],
+    "homonym_note": "이름 검색 결과 39건 중 미술과 무관해 보이는 기사 29건 제외"
+   },
+   {
+    "name": "홍진훤",
+    "status": "기성 작가",
+    "watch": false,
+    "award": "올해의 작가상 2026",
+    "track": "기성 작가 상",
+    "genre": "사진·영상",
+    "why": "심사평: 사회적 실천과 그것이 이미지로 재현되는 과정 사이의 긴장을 드러내고 현실을 보는 시각 체계에 질문한다",
+    "weight": {
+     "points": 7,
+     "level": "높음",
+     "reasons": [
+      "주최 국립현대미술관·SBS문화재단(국가기관) +2",
+      "2012년부터 운영(14년) +1",
+      "전문가 심사·공모 절차 공개 +1",
+      "국제 심사위원 +1",
+      "후속 전시 지원 +1",
+      "상금·지원금 5,000만원 +1"
+     ]
+    },
+    "checks": [
+     {
+      "rule": "R01 공식 선정",
+      "ok": true,
+      "detail": "올해의 작가상 2026 — 보도 25곳"
+     },
+     {
+      "rule": "R02 초기 경력",
+      "ok": null,
+      "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+     },
+     {
+      "rule": "R03 독립 확인",
+      "ok": false,
+      "detail": "이번 수상 외 최근 12개월 미술 관련 보도 사건 0건 · 유형 award"
+     },
+     {
+      "rule": "R05 지속성(후속 지원)",
+      "ok": true,
+      "detail": "상에 딸린 후속 지원: 후원금 5,000만원 + 추가 1,000만원, 서울관 전시(~12월 6일)"
+     }
+    ],
+    "homonym_note": "이름 검색 결과 55건 중 미술과 무관해 보이는 기사 2건 제외"
+   },
+   {
+    "name": "김성룡",
+    "status": "기성 작가",
+    "watch": false,
+    "award": "제27회 이인성미술상",
+    "track": "기성 작가 상",
+    "genre": "회화",
+    "why": "보도 요약에 선정 사유 문장 없음.",
+    "weight": {
+     "points": 6,
+     "level": "높음",
+     "reasons": [
+      "주최 대구광역시·대구미술관(국공립 미술관·지자체) +2",
+      "1999년부터 운영(27년) +1",
+      "전문가 심사·공모 절차 공개 +1",
+      "후속 전시 지원 +1",
+      "상금·지원금 5,000만원 +1"
+     ]
+    },
+    "checks": [
+     {
+      "rule": "R01 공식 선정",
+      "ok": true,
+      "detail": "제27회 이인성미술상 — 보도 12곳"
+     },
+     {
+      "rule": "R02 초기 경력",
+      "ok": false,
+      "detail": "보도로 확인된 가장 이른 개인전 2014년 — 10년 넘음(재발견·중견 가능성) · 최근 기사 위주 검색이라 더 이른 이력이 있을 수 있음"
+     },
+     {
+      "rule": "R03 독립 확인",
+      "ok": false,
+      "detail": "이번 수상 외 최근 12개월 미술 관련 보도 사건 0건 · 유형 award"
+     },
+     {
+      "rule": "R05 지속성(후속 지원)",
+      "ok": true,
+      "detail": "상에 딸린 후속 지원: 상금 5,000만원, 2027년 대구미술관 개인전"
+     }
+    ],
+    "homonym_note": "이름 검색 결과 46건 중 미술과 무관해 보이는 기사 17건 제외"
+   },
+   {
+    "name": "최승일",
+    "status": "기성 작가",
+    "watch": false,
+    "award": "제6회 W미술상",
+    "track": "기성 작가 상",
+    "genre": "조각",
+    "why": "지역 시각예술 기여도와 독자적 작품세계.",
+    "weight": {
+     "points": 2,
+     "level": "낮음",
+     "reasons": [
+      "주최 W미술관·익산문화관광재단(공공재단) +2"
+     ]
+    },
+    "checks": [
+     {
+      "rule": "R01 공식 선정",
+      "ok": true,
+      "detail": "제6회 W미술상 — 보도 2곳"
+     },
+     {
+      "rule": "R02 초기 경력",
+      "ok": false,
+      "detail": "보도로 확인된 가장 이른 개인전 2015년 — 10년 넘음(재발견·중견 가능성) · 최근 기사 위주 검색이라 더 이른 이력이 있을 수 있음"
+     },
+     {
+      "rule": "R03 독립 확인",
+      "ok": false,
+      "detail": "이번 수상 외 최근 12개월 미술 관련 보도 사건 0건 · 유형 award"
+     },
+     {
+      "rule": "R05 지속성(후속 지원)",
+      "ok": true,
+      "detail": "상에 딸린 후속 지원: 12월 수상작가전"
+     }
+    ],
+    "homonym_note": "이름 검색 결과 17건 중 미술과 무관해 보이는 기사 4건 제외"
+   },
+   {
+    "name": "박우식",
+    "status": "기성 작가",
+    "watch": false,
+    "award": "제24회 이동훈미술상 특별상",
+    "track": "기성 작가 상",
+    "genre": "회화",
+    "why": "특별상.",
+    "weight": {
+     "points": 1,
+     "level": "낮음",
+     "reasons": [
+      "주최 이동훈기념사업회(대전)(민간 재단·기업) +1"
+     ]
+    },
+    "checks": [
+     {
+      "rule": "R01 공식 선정",
+      "ok": true,
+      "detail": "제24회 이동훈미술상 특별상 — 보도 5곳"
+     },
+     {
+      "rule": "R02 초기 경력",
+      "ok": null,
+      "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+     },
+     {
+      "rule": "R03 독립 확인",
+      "ok": false,
+      "detail": "이번 수상 외 최근 12개월 미술 관련 보도 사건 0건 · 유형 award"
+     },
+     {
+      "rule": "R05 지속성(후속 지원)",
+      "ok": null,
+      "detail": "상에 딸린 후속 지원: 보도에 없음"
+     }
+    ],
+    "homonym_note": "이름 검색 결과 7건 중 미술과 무관해 보이는 기사 1건 제외"
+   }
+  ],
+  "awards": [
+   {
+    "award": "올해의 작가상 2026",
+    "organizer": "국립현대미술관·SBS문화재단",
+    "weight": {
+     "points": 7,
+     "level": "높음",
+     "reasons": [
+      "주최 국립현대미술관·SBS문화재단(국가기관) +2",
+      "2012년부터 운영(14년) +1",
+      "전문가 심사·공모 절차 공개 +1",
+      "국제 심사위원 +1",
+      "후속 전시 지원 +1",
+      "상금·지원금 5,000만원 +1"
+     ]
+    },
+    "track": "기성 작가 상",
+    "track_reason": "1980년생, 2009년 사진비평상, 2024 부산비엔날레 등 경력 중반 — 작가 포커스(H02) 대상.",
+    "winners": [
+     "홍진훤"
+    ],
+    "url": null,
+    "date": null
+   },
+   {
+    "award": "겸재정선미술관 '내일의 작가'",
+    "organizer": "겸재정선미술관(서울 강서구립)",
+    "weight": {
+     "points": 6,
+     "level": "높음",
+     "reasons": [
+      "주최 겸재정선미술관(서울 강서구립)(국공립 미술관·지자체) +2",
+      "2010년부터 운영(16년) +1",
+      "전문가 심사·공모 절차 공개 +1",
+      "후속 전시 지원 +1",
+      "작품 매입·소장 +1"
+     ]
+    },
+    "track": "신진 대상 상",
+    "track_reason": "신진작가 공모이고 작품 매입과 이듬해 개인전까지 이어진다(R05 후속 지원 확인).",
+    "winners": [
+     "이혜진"
+    ],
+    "url": null,
+    "date": null
+   },
+   {
+    "award": "제8회 고암미술상",
+    "organizer": "홍성군 고암이응노생가기념관 '이응노의 집'",
+    "weight": {
+     "points": 6,
+     "level": "높음",
+     "reasons": [
+      "주최 홍성군 고암이응노생가기념관 '이응노의 집'(국공립 미술관·지자체) +2",
+      "2012년부터 운영(14년) +1",
+      "전문가 심사·공모 절차 공개 +1",
+      "후속 전시 지원 +1",
+      "상금·지원금 2,000만원 +1"
+     ]
+    },
+    "track": "경력 제한 없는 상·선정",
+    "track_reason": "경쟁률(162명)과 심사 절차가 공개된 공립 상. 경력 제한이 없어 작가 경력을 따로 확인한다.",
+    "winners": [
+     "연기백"
+    ],
+    "url": null,
+    "date": null
+   },
+   {
+    "award": "제27회 이인성미술상",
+    "organizer": "대구광역시·대구미술관",
+    "weight": {
+     "points": 6,
+     "level": "높음",
+     "reasons": [
+      "주최 대구광역시·대구미술관(국공립 미술관·지자체) +2",
+      "1999년부터 운영(27년) +1",
+      "전문가 심사·공모 절차 공개 +1",
+      "후속 전시 지원 +1",
+      "상금·지원금 5,000만원 +1"
+     ]
+    },
+    "track": "기성 작가 상",
+    "track_reason": "1994년 국립현대미술관 '민중미술 15년' 등 30년 넘는 단체전 이력 — 기성 작가.",
+    "winners": [
+     "김성룡"
+    ],
+    "url": null,
+    "date": null
+   },
+   {
+    "award": "2027 우진청년미술상",
+    "organizer": "우진문화재단(전주)",
+    "weight": {
+     "points": 4,
+     "level": "보통",
+     "reasons": [
+      "주최 우진문화재단(전주)(민간 재단·기업) +1",
+      "1994년부터 운영(32년) +1",
+      "전문가 심사·공모 절차 공개 +1",
+      "후속 전시 지원 +1"
+     ]
+    },
+    "track": "신진 대상 상",
+    "track_reason": "청년(45세 이하) 대상 상이고 초대전 후속 지원이 붙는다. 1994년부터 77명 수상.",
+    "winners": [
+     "김승주",
+     "임희성"
+    ],
+    "url": null,
+    "date": null
+   },
+   {
+    "award": "제27회 단원미술제",
+    "organizer": "안산시·안산문화재단 김홍도미술관",
+    "weight": {
+     "points": 4,
+     "level": "보통",
+     "reasons": [
+      "주최 안산시·안산문화재단 김홍도미술관(국공립 미술관·지자체) +2",
+      "1999년부터 운영(27년) +1",
+      "전문가 심사·공모 절차 공개 +1"
+     ]
+    },
+    "track": "경력 제한 없는 상·선정",
+    "track_reason": "경력 제한이 없는 공모라 상만으로 신진이라 할 수 없다. 작가별 경력 확인으로 가른다.",
+    "winners": [
+     "박상화",
+     "강성훈",
+     "김소영",
+     "김은숙",
+     "우징",
+     "이영호",
+     "조현수",
+     "한소희"
+    ],
+    "url": null,
+    "date": null
+   },
+   {
+    "award": "제56회 대한민국 공예품대전 대통령상",
+    "organizer": "국가유산청·한국공예협동조합연합회",
+    "weight": {
+     "points": 4,
+     "level": "보통",
+     "reasons": [
+      "주최 국가유산청·한국공예협동조합연합회(국가기관) +2",
+      "전문가 심사·공모 절차 공개 +1",
+      "후속 전시 지원 +1"
+     ]
+    },
+    "track": "경력 제한 없는 상·선정",
+    "track_reason": "공예 공모전 — 현대미술 Rookie 범위 밖일 수 있어 관찰만.",
+    "winners": [
+     "문정운"
+    ],
+    "url": null,
+    "date": null
+   },
+   {
+    "award": "2026 정부미술은행 작품 구입 선정",
+    "organizer": "국립현대미술관 정부미술은행",
+    "weight": {
+     "points": 3,
+     "level": "보통",
+     "reasons": [
+      "주최 국립현대미술관 정부미술은행(국가기관) +2",
+      "작품 매입·소장 +1"
+     ]
+    },
+    "track": "경력 제한 없는 상·선정",
+    "track_reason": "국가 소장(EV10 취득)은 제도적 선택이지만 상은 아니다. 여주 지역 작가 첫 사례.",
+    "winners": [
+     "정원경",
+     "홍창희"
+    ],
+    "url": null,
+    "date": null
+   },
+   {
+    "award": "제7회 박동준상 미술부문",
+    "organizer": "박동준기념사업회·갤러리분도(대구)",
+    "weight": {
+     "points": 3,
+     "level": "보통",
+     "reasons": [
+      "주최 박동준기념사업회·갤러리분도(대구)(민간 재단·기업) +1",
+      "후속 전시 지원 +1",
+      "상금·지원금 2,000만원 +1"
+     ]
+    },
+    "track": "경력 제한 없는 상·선정",
+    "track_reason": "경력 제한 없는 민간 상.",
+    "winners": [
+     "염지혜"
+    ],
+    "url": null,
+    "date": null
+   },
+   {
+    "award": "제38회 이중섭미술상",
+    "organizer": "조선일보·방일영문화재단",
+    "weight": {
+     "points": 3,
+     "level": "보통",
+     "reasons": [
+      "주최 조선일보·방일영문화재단(언론사·재단) +1",
+      "1988년부터 운영(38년) +1",
+      "상금·지원금 2,000만원 +1"
+     ]
+    },
+    "track": "기성 작가 상",
+    "track_reason": "국제적으로 활동 중인 미디어 작가 — 루키 아님.",
+    "winners": [
+     "김아영"
+    ],
+    "url": null,
+    "date": null
+   },
+   {
+    "award": "제3회 안국미술상",
+    "organizer": "안국약품·안국문화재단",
+    "weight": {
+     "points": 2,
+     "level": "낮음",
+     "reasons": [
+      "주최 안국약품·안국문화재단(민간 재단·기업) +1",
+      "후속 전시 지원 +1"
+     ]
+    },
+    "track": "경력 제한 없는 상·선정",
+    "track_reason": "기념전에 2011년 초기작부터 나와 경력이 15년 이상으로 보인다.",
+    "winners": [
+     "권혜원"
+    ],
+    "url": null,
+    "date": null
+   },
+   {
+    "award": "제6회 W미술상",
+    "organizer": "W미술관·익산문화관광재단",
+    "weight": {
+     "points": 2,
+     "level": "낮음",
+     "reasons": [
+      "주최 W미술관·익산문화관광재단(공공재단) +2"
+     ]
+    },
+    "track": "기성 작가 상",
+    "track_reason": "개인전 24회 — 공로 성격의 상.",
+    "winners": [
+     "최승일"
+    ],
+    "url": null,
+    "date": null
+   },
+   {
+    "award": "2026 아트코리아 국제미술대전",
+    "organizer": "아트코리아",
+    "weight": {
+     "points": 2,
+     "level": "제외",
+     "reasons": [
+      "주최 아트코리아(상업 공모전·방송사) +0",
+      "전문가 심사·공모 절차 공개 +1",
+      "후속 전시 지원 +1"
+     ]
+    },
+    "track": "제외",
+    "track_reason": "참가형 공모전 — 심사 주체와 절차가 공개돼 있지 않다.",
+    "winners": [
+     "김선자"
+    ],
+    "url": null,
+    "date": null
+   },
+   {
+    "award": "제24회 이동훈미술상 특별상",
+    "organizer": "이동훈기념사업회(대전)",
+    "weight": {
+     "points": 1,
+     "level": "낮음",
+     "reasons": [
+      "주최 이동훈기념사업회(대전)(민간 재단·기업) +1"
+     ]
+    },
+    "track": "기성 작가 상",
+    "track_reason": "대학 교수 — 기성 작가.",
+    "winners": [
+     "박우식"
+    ],
+    "url": null,
+    "date": null
+   },
+   {
+    "award": "2026 KPAM 미술제 우수상",
+    "organizer": "KPAM 미술제",
+    "weight": {
+     "points": 1,
+     "level": "제외",
+     "reasons": [
+      "주최 KPAM 미술제(상업 공모전·방송사) +0",
+      "전문가 심사·공모 절차 공개 +1"
+     ]
+    },
+    "track": "제외",
+    "track_reason": "판매형 미술제의 상이고 기사가 '18점 완판'을 내세운다 — 판매 실적은 선발 근거로 쓰지 않는다(FP07).",
+    "winners": [
+     "이현주"
+    ],
+    "url": null,
+    "date": null
+   },
+   {
+    "award": "아트코리아방송 문화예술대상",
+    "organizer": "아트코리아방송",
+    "weight": {
+     "points": 1,
+     "level": "제외",
+     "reasons": [
+      "주최 아트코리아방송(상업 공모전·방송사) +0",
+      "전문가 심사·공모 절차 공개 +1"
+     ]
+    },
+    "track": "제외",
+    "track_reason": "방송사 시상 + 부스전 형식 — 독립 기관의 공식 선정으로 보기 어렵다.",
+    "winners": [
+     "김세정"
+    ],
+    "url": null,
+    "date": null
+   },
+   {
+    "award": "2026 여주국제사진전 주제전 '지구방랑자' 선정",
+    "organizer": "2026 여주국제사진전",
+    "weight": {
+     "points": 0,
+     "level": "낮음",
+     "reasons": [
+      "주최 2026 여주국제사진전(유형 미확인) +0"
+     ]
+    },
+    "track": "신진 대상 상",
+    "track_reason": "보도된 첫 개인전이 2025년('쉼표')이고 '월간사진 주목 신진작가'에 이름이 올랐다 — 초기 경력 근거가 있는 드문 경우.",
+    "winners": [
+     "조성경"
+    ],
+    "url": null,
+    "date": null
+   }
+  ]
+ },
+ "criticism": [],
+ "fairs": [
+  {
+   "id": "evt_b9525c3c245860e9",
+   "title": "제16회 광주비엔날레 너는 네 삶을 바꿔야 한다 《You Must Change Your Life》",
+   "kind": "biennial",
+   "type": "biennial_edition",
+   "venue": "광주비엔날레",
+   "city": "Gwangju",
+   "country": "KR",
+   "start": "2026-09-05",
+   "end": "2026-11-15",
+   "artists": [
+    "A K Dolven",
+    "Amanda Heng",
+    "Angela Goh",
+    "Ben Brix",
+    "Bhenji Ra",
+    "CAMP"
+   ],
+   "url": "https://www.gwangjubiennale.org/gb/exhibition/biennale/mainexhibition.do?subPage=overview",
+   "image": null,
+   "status": "진행 중",
+   "d_day": 17
+  }
+ ],
+ "stats": {
+  "articles_7d": 1443,
+  "stories_7d": 1034
+ }
+}
