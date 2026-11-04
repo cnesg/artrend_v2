@@ -1,0 +1,1437 @@
+{
+  "_doc": "엔티티 해석 규칙(가스트랜드 company_aliases.json과 같은 역할). 키 = 볼트 노트 파일명(id). aliases 중 하나가 제목/요약에 있고, required_keywords가 있으면 그중 하나 이상, exclude_keywords는 하나도 없어야 'about' 연결된다. 영문 별칭·키워드는 단어 경계(대소문자 무시), 한글은 부분 일치. exclude 추가 전에는 현재 유효 연결 중 몇 건이 걸리는지 먼저 세어 보고 0건일 때만 넣는다. google_queries/naver_queries는 크롤러 검색어.",
+  "Christies": {
+    "aliases": [
+      "Christie's",
+      "Christie’s",
+      "Christies",
+      "크리스티"
+    ],
+    "aliases_no_context": [
+      "Christie's",
+      "Christie’s"
+    ],
+    "required_keywords": [
+      "appointed",
+      "appoints",
+      "art",
+      "artwork",
+      "auction",
+      "auction house",
+      "auctions",
+      "bid",
+      "CEO",
+      "collection",
+      "consign",
+      "consigned",
+      "consignment",
+      "estimate",
+      "evening",
+      "Geneva",
+      "handbags",
+      "Hong Kong",
+      "jewel",
+      "jewellery",
+      "jewelry",
+      "jewels",
+      "London",
+      "lot",
+      "lots",
+      "marquee",
+      "names",
+      "New York",
+      "offer",
+      "offering",
+      "offers",
+      "painting",
+      "Paris",
+      "record",
+      "results",
+      "sale",
+      "sales",
+      "sell",
+      "selling",
+      "sells",
+      "sold",
+      "specialist",
+      "specialists",
+      "watch",
+      "watches",
+      "wine",
+      "경매",
+      "낙찰",
+      "미술",
+      "작품",
+      "컬렉션"
+    ],
+    "exclude_keywords": [
+      "Chris Christie",
+      "Agatha Christie",
+      "Christie's campaign",
+      "Gov. Christie",
+      "Governor Christie",
+      "크리스티 스튜어트",
+      "애거사 크리스티",
+      "아가사 크리스티",
+      "크리스티나",
+      "크리스티안",
+      "크리스티앙",
+      "VUE Christie's",
+      "tri-state affiliate"
+    ],
+    "google_queries": [
+      {
+        "q": "\"Christie's\" auction",
+        "hl": "en-US",
+        "gl": "US",
+        "window_days": 10
+      },
+      {
+        "q": "크리스티 경매",
+        "hl": "ko",
+        "gl": "KR",
+        "window_days": 60
+      },
+      {
+        "q": "クリスティーズ",
+        "hl": "ja",
+        "gl": "JP",
+        "window_days": 30
+      }
+    ],
+    "naver_queries": [
+      "크리스티 경매"
+    ]
+  },
+  "Sothebys": {
+    "aliases": [
+      "Sotheby's",
+      "Sotheby’s",
+      "Sothebys",
+      "소더비"
+    ],
+    "required_keywords": [],
+    "exclude_keywords": [
+      "International Realty",
+      "Sotheby's Realty",
+      "Sotheby’s Realty",
+      "Sotheby's International",
+      "Sotheby’s International",
+      "real estate",
+      "listing agent",
+      "home for sale",
+      "homes for sale",
+      "mansion listed",
+      "부동산",
+      "Sotheby's Institute"
+    ],
+    "google_queries": [
+      {
+        "q": "\"Sotheby's\" auction",
+        "hl": "en-US",
+        "gl": "US",
+        "window_days": 7
+      },
+      {
+        "q": "소더비 경매",
+        "hl": "ko",
+        "gl": "KR",
+        "window_days": 60
+      },
+      {
+        "q": "サザビーズ",
+        "hl": "ja",
+        "gl": "JP",
+        "window_days": 30
+      }
+    ],
+    "naver_queries": [
+      "소더비 경매"
+    ]
+  },
+  "Phillips": {
+    "aliases": [
+      "Phillips",
+      "필립스"
+    ],
+    "aliases_no_context": [
+      "필립스옥션",
+      "필립스 옥션",
+      "Phillips auction house",
+      "Phillips Auctioneers"
+    ],
+    "required_keywords": [
+      "auction",
+      "auctions",
+      "auction house",
+      "evening sale",
+      "day sale",
+      "sold",
+      "lot",
+      "lots",
+      "estimate",
+      "hammer",
+      "artwork",
+      "painting",
+      "contemporary art",
+      "Phillips Hong Kong",
+      "Phillips New York",
+      "Phillips London",
+      "경매",
+      "낙찰",
+      "경매사",
+      "sale",
+      "sells",
+      "fetch",
+      "fetches",
+      "million",
+      "watch",
+      "watches",
+      "timepiece",
+      "timepieces",
+      "jewels",
+      "jewelry",
+      "jewellery",
+      "diamond",
+      "tourmaline",
+      "Rolex",
+      "Patek",
+      "head of",
+      "names",
+      "Geneva",
+      "Dropshop",
+      "revenue",
+      "Concours",
+      "bidding",
+      "collectible",
+      "이브닝 세일",
+      "매출",
+      "파텍"
+    ],
+    "exclude_keywords": [
+      "Phillips 66",
+      "Philips",
+      "Phillips Academy",
+      "Phillips Exeter",
+      "Phillips screw",
+      "Lord Phillips",
+      "Phillips Petroleum",
+      "Phillips Collection",
+      "필립스전자",
+      "필립스 전자",
+      "필립스 코리아",
+      "필립스코리아"
+    ],
+    "google_queries": [
+      {
+        "q": "\"Phillips\" auction art",
+        "hl": "en-US",
+        "gl": "US",
+        "window_days": 30
+      },
+      {
+        "q": "필립스 경매",
+        "hl": "ko",
+        "gl": "KR",
+        "window_days": 90
+      }
+    ],
+    "naver_queries": [
+      "필립스 경매"
+    ]
+  },
+  "SeoulAuction": {
+    "aliases": [
+      "서울옥션",
+      "Seoul Auction"
+    ],
+    "required_keywords": [],
+    "exclude_keywords": [],
+    "google_queries": [
+      {
+        "q": "서울옥션",
+        "hl": "ko",
+        "gl": "KR",
+        "window_days": 15
+      }
+    ],
+    "naver_queries": [
+      "서울옥션"
+    ],
+    "naver_deep_queries": [
+      {
+        "q": "서울옥션",
+        "sorts": [
+          "sim"
+        ]
+      },
+      {
+        "q": "서울옥션 경매",
+        "sorts": [
+          "date"
+        ]
+      },
+      {
+        "q": "서울옥션 작품",
+        "sorts": [
+          "date"
+        ]
+      },
+      {
+        "q": "\"서울옥션\" 미술",
+        "sorts": [
+          "date"
+        ]
+      },
+      {
+        "q": "서울옥션 낙찰",
+        "sorts": [
+          "date"
+        ]
+      },
+      {
+        "q": "서울옥션 출품",
+        "sorts": [
+          "date"
+        ]
+      }
+    ]
+  },
+  "KAuction": {
+    "aliases": [
+      "케이옥션",
+      "K옥션",
+      "K Auction",
+      "K-Auction"
+    ],
+    "required_keywords": [],
+    "exclude_keywords": [
+      "SK옥션",
+      "KB옥션"
+    ],
+    "google_queries": [
+      {
+        "q": "케이옥션",
+        "hl": "ko",
+        "gl": "KR",
+        "window_days": 30
+      }
+    ],
+    "naver_queries": [
+      "케이옥션",
+      "K옥션"
+    ]
+  },
+  "MyArtAuction": {
+    "aliases": [
+      "마이아트옥션",
+      "MyArt Auction"
+    ],
+    "required_keywords": [],
+    "exclude_keywords": [],
+    "google_queries": [
+      {
+        "q": "마이아트옥션",
+        "hl": "ko",
+        "gl": "KR",
+        "window_days": 120
+      }
+    ],
+    "naver_queries": [
+      "마이아트옥션"
+    ]
+  },
+  "MainichiAuction": {
+    "_doc": "일본 경매사(확장, 2026-10-15 사용자 \"일본에도 3대 옥션 같은 게 있으면 설정해서 추가하자\"). 문화청(文化庁)이 낸 Arts Economics 'The Japanese Art Market 2025'의 2024년 낙찰액 점유율 1~3위(毎日 36% · SBI 20% · Shinwa 11%). 이름은 전체 이름만 — 맨 '毎日'(=매일·毎日新聞)·'SBI'(SBI証券)·'シンワ'(다른 회사들)·한글 '마이니치'(마이니치신문 번역)는 별칭으로 쓰지 않는다. 경매사 사이트는 수집하지 않는다(뉴스만). 검색어는 Google 일본판 60일 창(1년 10~30건 규모라 상한에 안 걸림)",
+    "aliases": [
+      "毎日オークション",
+      "Mainichi Auction",
+      "마이니치옥션",
+      "마이니치 옥션"
+    ],
+    "required_keywords": [],
+    "exclude_keywords": [],
+    "google_queries": [
+      {
+        "q": "\"毎日オークション\"",
+        "hl": "ja",
+        "gl": "JP",
+        "window_days": 60
+      },
+      {
+        "q": "\"Mainichi Auction\"",
+        "hl": "en-US",
+        "gl": "US",
+        "window_days": 60
+      }
+    ],
+    "naver_queries": [
+      "마이니치옥션"
+    ]
+  },
+  "SBIArtAuction": {
+    "aliases": [
+      "SBIアートオークション",
+      "SBI アートオークション",
+      "SBIオークション",
+      "SBI Art Auction",
+      "SBI아트옥션",
+      "SBI 아트옥션",
+      "SBI 아트 옥션"
+    ],
+    "required_keywords": [],
+    "exclude_keywords": [],
+    "google_queries": [
+      {
+        "q": "SBIアートオークション",
+        "hl": "ja",
+        "gl": "JP",
+        "window_days": 60
+      },
+      {
+        "q": "\"SBI Art Auction\"",
+        "hl": "en-US",
+        "gl": "US",
+        "window_days": 60
+      }
+    ],
+    "naver_queries": [
+      "SBI아트옥션"
+    ]
+  },
+  "ShinwaAuction": {
+    "aliases": [
+      "シンワオークション",
+      "シンワアートオークション",
+      "シンワワイズ",
+      "Shinwa Auction",
+      "Shinwa Art Auction",
+      "Shinwa Wise",
+      "신와옥션",
+      "신와 옥션",
+      "신와아트옥션",
+      "Ｓｈｉｎｗａ Ｗｉｓｅ"
+    ],
+    "required_keywords": [],
+    "exclude_keywords": [],
+    "google_queries": [
+      {
+        "q": "シンワオークション OR \"Shinwa Auction\" OR シンワワイズ",
+        "hl": "ja",
+        "gl": "JP",
+        "window_days": 60
+      },
+      {
+        "q": "\"Shinwa Auction\" OR \"Shinwa Wise\"",
+        "hl": "en-US",
+        "gl": "US",
+        "window_days": 60
+      }
+    ],
+    "naver_queries": [
+      "신와옥션"
+    ],
+    "_doc": "2026-10-15: 日経会社情報 적시공시 페이지는 전각 'Ｓｈｉｎｗａ Ｗｉｓｅ'로 쓴다 — 경매 결과 공시를 잡으려고 전각 별칭을 둔다. 결과가 아닌 공시(임원 사임·지배주주·중기계획)와 거래량 순위 기사는 flag_manual"
+  },
+  "TheArtNewspaper": {
+    "google_queries": [
+      {
+        "q": "site:theartnewspaper.com",
+        "hl": "en-US",
+        "gl": "US",
+        "window_days": 7
+      }
+    ]
+  },
+  "ArtnetNews": {
+    "google_queries": [
+      {
+        "q": "site:news.artnet.com",
+        "hl": "en-US",
+        "gl": "US",
+        "window_days": 7
+      }
+    ]
+  },
+  "ARTnews": {
+    "google_queries": [
+      {
+        "q": "site:artnews.com",
+        "hl": "en-US",
+        "gl": "US",
+        "window_days": 15
+      },
+      {
+        "q": "site:artnews.com",
+        "hl": "en-US",
+        "gl": "US",
+        "window_days": 60,
+        "note": "2026-10-13 3차 점검: site:artnews.com은 창이 짧을수록 Google이 덜 돌려준다(2026-04~06: 15일 창 합 19건, 60·90일 창 합 177건). 다른 매체(TAN·Artnet·Observer 등)는 긴 창으로 늘지 않아 ARTnews에만 둔다. 창 길이를 다르게 해 경계를 엇갈리게 한 것."
+      },
+      {
+        "q": "site:artnews.com",
+        "hl": "en-US",
+        "gl": "US",
+        "window_days": 75,
+        "note": "2026-10-13 3차 점검: site:artnews.com은 창이 짧을수록 Google이 덜 돌려준다(2026-04~06: 15일 창 합 19건, 60·90일 창 합 177건). 다른 매체(TAN·Artnet·Observer 등)는 긴 창으로 늘지 않아 ARTnews에만 둔다. 창 길이를 다르게 해 경계를 엇갈리게 한 것."
+      },
+      {
+        "q": "site:artnews.com",
+        "hl": "en-US",
+        "gl": "US",
+        "window_days": 90,
+        "note": "2026-10-13 3차 점검: site:artnews.com은 창이 짧을수록 Google이 덜 돌려준다(2026-04~06: 15일 창 합 19건, 60·90일 창 합 177건). 다른 매체(TAN·Artnet·Observer 등)는 긴 창으로 늘지 않아 ARTnews에만 둔다. 창 길이를 다르게 해 경계를 엇갈리게 한 것."
+      }
+    ]
+  },
+  "Arte": {
+    "google_queries": [
+      {
+        "q": "site:arte.co.kr",
+        "hl": "ko",
+        "gl": "KR",
+        "window_days": 7
+      }
+    ]
+  },
+  "MonthlyArt": {
+    "google_queries": [
+      {
+        "q": "site:monthlyart.com",
+        "hl": "ko",
+        "gl": "KR",
+        "window_days": 120
+      }
+    ]
+  },
+  "ArtInCulture": {
+    "google_queries": [
+      {
+        "q": "site:artinculture.kr",
+        "hl": "ko",
+        "gl": "KR",
+        "window_days": 120
+      }
+    ]
+  },
+  "Artsy": {
+    "_doc": "확장 매체(2026-10-13). 편집 기사 경로만.",
+    "google_queries": [
+      {
+        "q": "site:artsy.net/article",
+        "hl": "en-US",
+        "gl": "US",
+        "window_days": 15
+      }
+    ]
+  },
+  "FinancialTimes": {
+    "_doc": "확장 매체(2026-10-13). 종합지 → derive_links ART_GATE(제목 미술 단어).",
+    "google_queries": [
+      {
+        "q": "site:ft.com \"Melanie Gerlis\"",
+        "hl": "en-US",
+        "gl": "US",
+        "window_days": 60
+      },
+      {
+        "q": "site:ft.com \"art market\"",
+        "hl": "en-US",
+        "gl": "US",
+        "window_days": 15
+      }
+    ]
+  },
+  "NYTimes": {
+    "_doc": "확장 매체(2026-10-13). 종합지 → ART_GATE.",
+    "google_queries": [
+      {
+        "q": "site:nytimes.com \"art market\"",
+        "hl": "en-US",
+        "gl": "US",
+        "window_days": 15
+      },
+      {
+        "q": "site:nytimes.com \"Zachary Small\"",
+        "hl": "en-US",
+        "gl": "US",
+        "window_days": 15
+      }
+    ]
+  },
+  "Observer": {
+    "_doc": "확장 매체(2026-10-13). 종합지 → ART_GATE.",
+    "google_queries": [
+      {
+        "q": "site:observer.com \"art market\"",
+        "hl": "en-US",
+        "gl": "US",
+        "window_days": 10
+      }
+    ]
+  },
+  "SCMP": {
+    "_doc": "확장 매체(2026-10-13). 종합지 → ART_GATE.",
+    "google_queries": [
+      {
+        "q": "site:scmp.com \"art market\"",
+        "hl": "en-US",
+        "gl": "US",
+        "window_days": 60
+      },
+      {
+        "q": "site:scmp.com \"Sotheby's\" OR \"Christie's\" OR \"Art Basel\" OR \"Phillips\"",
+        "hl": "en-US",
+        "gl": "US",
+        "window_days": 15
+      }
+    ]
+  },
+  "ArtAsiaPacific": {
+    "_doc": "확장 매체(2026-10-13). 미술 전문지 — 관문 없음.",
+    "google_queries": [
+      {
+        "q": "site:artasiapacific.com",
+        "hl": "en-US",
+        "gl": "US",
+        "window_days": 15
+      }
+    ]
+  },
+  "DailyArt": {
+    "_doc": "확장 매체(2026-10-13). 미술 외(축제·영화·공연) 기사 섞임 → ART_GATE.",
+    "google_queries": [
+      {
+        "q": "site:d-art.co.kr",
+        "hl": "ko",
+        "gl": "KR",
+        "window_days": 10
+      }
+    ]
+  },
+  "ArtKoreaTV": {
+    "_doc": "확장 매체(2026-10-13). 음악·공연 기사 섞임 → ART_GATE.",
+    "google_queries": [
+      {
+        "q": "site:artkoreatv.com",
+        "hl": "ko",
+        "gl": "KR",
+        "window_days": 4
+      }
+    ]
+  },
+  "ThebellAPI": {
+    "_doc": "확장 채널(2026-10-13). 더벨 'Art Price Index' 연재 — 매체 노트 title_pattern으로 연재만 모은다.",
+    "naver_queries": [
+      "Art Price Index"
+    ]
+  },
+  "_market": {
+    "_doc": "시장 동향(가스트랜드 거시 계층에 해당) — 특정 엔티티가 아닌 미술시장 전반. 관련성 게이트: required_keywords 중 하나가 있어야 유효.",
+    "required_keywords": [
+      "art market",
+      "art auction",
+      "auction market",
+      "art fair",
+      "Art Basel",
+      "Frieze",
+      "UBS",
+      "Artprice",
+      "ArtTactic",
+      "collectors",
+      "미술시장",
+      "미술품",
+      "경매",
+      "아트페어",
+      "키아프",
+      "프리즈",
+      "조각투자",
+      "화랑",
+      "갤러리",
+      "art auctions",
+      "auction house",
+      "auction houses",
+      "painting",
+      "paintings",
+      "artwork",
+      "artworks",
+      "artist",
+      "artists",
+      "masterpiece",
+      "sculpture",
+      "Old Master",
+      "Old Masters",
+      "contemporary art",
+      "modern art",
+      "Impressionist",
+      "art world",
+      "미술 시장",
+      "아트 페어",
+      "낙찰",
+      "화가",
+      "화백",
+      "개인전",
+      "비엔날레",
+      "컬렉터",
+      "소장품",
+      "미술장터",
+      "미술 장터",
+      "아트부산",
+      "화랑미술제",
+      "미술대전",
+      "미술진흥법",
+      "미술서비스업",
+      "미술 서비스업",
+      "미술은행",
+      "진품증명",
+      "물납",
+      "화랑협회",
+      "Tokyo Gendai",
+      "도쿄 겐다이",
+      "도쿄겐다이",
+      "아모리쇼",
+      "아모리 쇼",
+      "아모리 위크"
+    ],
+    "title_keywords_en": [
+      "self-portrait",
+      "portrait",
+      "portraits",
+      "drawing",
+      "drawings",
+      "sketch",
+      "canvas",
+      "Old Master",
+      "Old Masters",
+      "Impressionist",
+      "Impressionism",
+      "works on paper",
+      "antiques"
+    ],
+    "title_keywords_ko": [
+      "회화",
+      "특별전",
+      "초대전",
+      "기획전",
+      "展",
+      "화폭",
+      "단색화",
+      "2인전",
+      "3인전",
+      "작가전",
+      "회고전",
+      "미술계",
+      "판화",
+      "드로잉",
+      "사진전",
+      "조각가",
+      "서예",
+      "레지던시",
+      "미디어아트",
+      "명화",
+      "아트바젤",
+      "아트 바젤",
+      "현대미술",
+      "미술전",
+      "퐁피두",
+      "아트마켓",
+      "아트프라이스",
+      "디자인마이애미",
+      "디자인 마이애미",
+      "아트위크",
+      "아트 위크",
+      "미술주간",
+      "미술축제",
+      "아트쇼",
+      "추급권",
+      "프리즈 서울",
+      "아트 부산",
+      "아트페스타"
+    ],
+    "_doc_title_keywords_20261013": "숨김 감사(2026-10-13): 시장 검색어로 들어온 기사의 **제목**에만 쓰는 판별어(요약에는 안 씀). 영문은 derive_links가 ART_WORDS_EN(경매사명·auction record·collector 제외)에 이 목록을 더한다 — 미켈란젤로 발 드로잉 2,720만 달러·웰링턴 공작 초상 같은 기사가 'drawing'·'portrait'만 있어 숨었다. 한글은 전시 형식·장르·기관·행사 이름만 — '작품'·'미술관'·'전시회'·'그림'·'컬렉션'은 넣지 않는다(골프장·갈라쇼·사생대회·패션 컬렉션). '아트 쇼'(띄어쓰기)는 '아트 쇼핑'이 걸려 뺐다.",
+    "_doc_required_20261013": "2차 평가(2026-10-13)에서 '미술 시장'·'아트 페어' 띄어쓰기, '낙찰'·'화가'·'개인전', 미술진흥법(미술서비스업 신고제) 같은 제도어가 없어 한글 미술 기사가 market_gate로 숨던 것을 보고 21개 추가. '작품'·'미술관'·'전시회'는 골프장·갈라쇼 기사가 섞여 넣지 않았다.",
+    "google_queries": [
+      {
+        "q": "\"art market\" report",
+        "hl": "en-US",
+        "gl": "US",
+        "window_days": 30
+      },
+      {
+        "q": "\"art market\" auction",
+        "hl": "en-US",
+        "gl": "US",
+        "window_days": 15
+      },
+      {
+        "q": "Art Basel OR Frieze art fair",
+        "hl": "en-US",
+        "gl": "US",
+        "window_days": 10
+      },
+      {
+        "q": "미술시장",
+        "hl": "ko",
+        "gl": "KR",
+        "window_days": 15
+      },
+      {
+        "q": "미술품 경매",
+        "hl": "ko",
+        "gl": "KR",
+        "window_days": 15
+      },
+      {
+        "q": "아트페어",
+        "hl": "ko",
+        "gl": "KR",
+        "window_days": 7
+      },
+      {
+        "q": "미술품 조각투자",
+        "hl": "ko",
+        "gl": "KR",
+        "window_days": 30
+      },
+      {
+        "q": "키아프",
+        "hl": "ko",
+        "gl": "KR",
+        "window_days": 5
+      },
+      {
+        "q": "프리즈 서울",
+        "hl": "ko",
+        "gl": "KR",
+        "window_days": 4
+      },
+      {
+        "q": "美術品 オークション",
+        "hl": "ja",
+        "gl": "JP",
+        "window_days": 15
+      },
+      {
+        "q": "アートオークション",
+        "hl": "ja",
+        "gl": "JP",
+        "window_days": 15
+      },
+      {
+        "q": "アート市場",
+        "hl": "ja",
+        "gl": "JP",
+        "window_days": 15
+      },
+      {
+        "q": "アートフェア",
+        "hl": "ja",
+        "gl": "JP",
+        "window_days": 7
+      },
+      {
+        "q": "シンワオークション OR \"Shinwa Auction\" OR 毎日オークション OR SBIアートオークション",
+        "hl": "ja",
+        "gl": "JP",
+        "window_days": 60
+      }
+    ],
+    "naver_queries": [
+      "미술시장",
+      "미술품 경매",
+      "아트페어",
+      "미술품 조각투자",
+      "키아프",
+      "\"프리즈 서울\"",
+      "화랑미술제",
+      "\"한국화랑협회\"",
+      "\"아트부산\"",
+      "\"서울아트쇼\"",
+      "\"조형아트서울\"",
+      "\"경매 최고가\"",
+      "미술품 컬렉터",
+      "미술 경매",
+      "미술품 물납"
+    ],
+    "_doc_backfill": "네이버 API는 검색어당 최신 1,000건 한도라 2026-10-12 기준 '미술시장'은 10-01, '아트페어'는 09-04, '서울옥션'은 02-19 이전이 비었다 — 같은 검색어를 Google News 기간 분할로 보충한다.",
+    "naver_deep_queries": [
+      {
+        "q": "미술시장",
+        "sorts": [
+          "sim"
+        ]
+      },
+      {
+        "q": "미술품 경매",
+        "sorts": [
+          "sim"
+        ]
+      },
+      {
+        "q": "아트페어",
+        "sorts": [
+          "sim"
+        ]
+      },
+      {
+        "q": "미술품 조각투자",
+        "sorts": [
+          "sim"
+        ]
+      },
+      {
+        "q": "\"미술시장\"",
+        "sorts": [
+          "date"
+        ]
+      },
+      {
+        "q": "미술품 경매 낙찰",
+        "sorts": [
+          "date"
+        ]
+      },
+      {
+        "q": "국내 미술시장",
+        "sorts": [
+          "date",
+          "sim"
+        ]
+      },
+      {
+        "q": "한국 미술시장",
+        "sorts": [
+          "sim"
+        ]
+      },
+      {
+        "q": "글로벌 미술시장",
+        "sorts": [
+          "sim"
+        ]
+      },
+      {
+        "q": "미술시장 거래",
+        "sorts": [
+          "sim"
+        ]
+      },
+      {
+        "q": "미술시장 작가",
+        "sorts": [
+          "sim"
+        ]
+      },
+      {
+        "q": "미술시장 갤러리",
+        "sorts": [
+          "sim"
+        ]
+      },
+      {
+        "q": "미술시장 컬렉터",
+        "sorts": [
+          "date",
+          "sim"
+        ]
+      },
+      {
+        "q": "미술시장 경매",
+        "sorts": [
+          "date"
+        ]
+      },
+      {
+        "q": "아트페어 개막",
+        "sorts": [
+          "date",
+          "sim"
+        ]
+      },
+      {
+        "q": "아트페어 작품",
+        "sorts": [
+          "date",
+          "sim"
+        ]
+      },
+      {
+        "q": "아트페어 판매",
+        "sorts": [
+          "date",
+          "sim"
+        ]
+      },
+      {
+        "q": "아트페어 관람객",
+        "sorts": [
+          "date",
+          "sim"
+        ]
+      },
+      {
+        "q": "아트페어 참가",
+        "sorts": [
+          "date",
+          "sim"
+        ]
+      },
+      {
+        "q": "아트페어 작가",
+        "sorts": [
+          "sim"
+        ]
+      },
+      {
+        "q": "아트페어 갤러리",
+        "sorts": [
+          "sim"
+        ]
+      },
+      {
+        "q": "아트페어 성료",
+        "sorts": [
+          "date"
+        ]
+      },
+      {
+        "q": "대구국제아트페어",
+        "sorts": [
+          "date"
+        ]
+      },
+      {
+        "q": "\"광주국제아트페어\"",
+        "sorts": [
+          "date"
+        ]
+      },
+      {
+        "q": "\"부산국제화랑아트페어\"",
+        "sorts": [
+          "date"
+        ]
+      },
+      {
+        "q": "키아프",
+        "sorts": [
+          "sim"
+        ]
+      },
+      {
+        "q": "프리즈 서울",
+        "sorts": [
+          "sim"
+        ]
+      },
+      {
+        "q": "화랑협회",
+        "sorts": [
+          "date",
+          "sim"
+        ]
+      },
+      {
+        "q": "미술 경매",
+        "sorts": [
+          "sim"
+        ]
+      }
+    ],
+    "_doc_naver_depth_20261013": "네이버 깊이 보충(2026-10-13, 국내 담당 실측). API는 검색어당 최신 1,000건이고 복합어를 쪼개 본문까지 찾는다('미술시장' 32.9만 건·1,000건=13일, '아트부산' 31.7만 건). 정확 구문(\"…\")은 줄고 정확해진다('\"아트부산\"' 4,803건 = 기간 전체). naver_queries(매일)에 넓은 검색어에 안 걸리는 새 주제(키아프·프리즈 서울·화랑미술제·한국화랑협회·아트부산·서울아트쇼·조형아트서울·경매 최고가·미술품 컬렉터·미술 경매·미술품 물납)를 더했고, 넓은 검색어의 부분집합(미술시장 ○○·아트페어 ○○·서울옥션 ○○, 지역 국제아트페어)과 정확도순(sort=sim)은 백필 전용 naver_deep_queries로 둔다(`python crawlers/naver_news.py --deep`). 넣지 않은 것: '경매 낙찰가'(아파트·법원 경매가 '경매'·'낙찰'로 시장 판별을 통과), '미술진흥법'·'미술서비스업'(박물관 및 미술관 진흥법 기사), '미술시장 전망·결산·규모·활성화·침체·회복'(본문 스침, 유효 0~10%), 조각투자 업체명, 케이옥션·마이아트옥션·'Art Price Index' 하위 검색어(최신순 1,000건이 이미 2025-10-01 이전까지 닿아 더 받을 것이 없다). Google 국내 질의는 100건 상한에 거의 안 닿지만 키아프·프리즈 주간에는 창을 쪼개면 2.6배가 나와(2026-09-04~11 '아트페어' 50→130건) '키아프'(5일)·'프리즈 서울'(4일) 질의를 더했다.",
+    "required_keywords_ja": [
+      "美術市場",
+      "アート市場",
+      "アートマーケット",
+      "美術品",
+      "美術商",
+      "古美術",
+      "骨董",
+      "アートフェア",
+      "アート・フェア",
+      "現代アート",
+      "現代美術",
+      "画廊",
+      "コレクター",
+      "落札",
+      "オークション",
+      "アートオークション",
+      "オークションハウス",
+      "競売",
+      "クリスティーズ",
+      "サザビーズ",
+      "アート・バーゼル",
+      "アートバーゼル",
+      "東京現代",
+      "アートフェア東京",
+      "SBIアートオークション",
+      "毎日オークション",
+      "シンワオークション",
+      "Shinwa",
+      "フリーズ・ソウル",
+      "キアフ",
+      "アート投資",
+      "浮世絵",
+      "絵画",
+      "日本画",
+      "版画",
+      "彫刻",
+      "名画",
+      "アートウィーク",
+      "Art Week Tokyo",
+      "アート界",
+      "美術界",
+      "アートシーン",
+      "アートワールド",
+      "アート経済",
+      "アートビジネス",
+      "ART & BUSINESS",
+      "ギャラリスト",
+      "画商",
+      "ACK",
+      "Art Collaboration Kyoto",
+      "ART OSAKA",
+      "EASTEAST",
+      "T3 PHOTO",
+      "CURATION⇄FAIR",
+      "ARTISTS' FAIR KYOTO",
+      "アーティスツフェア",
+      "KOBE ART MARCHÉ",
+      "UNKNOWN ASIA",
+      "AFAF",
+      "TEFAF",
+      "フリーズ・",
+      "パリ・フォト",
+      "パリフォト",
+      "Paris Photo",
+      "アーモリー・ショー",
+      "Armory Show",
+      "NOMAD",
+      "Artexpo",
+      "ART TAIPEI",
+      "ART SG",
+      "アートアンティーク",
+      "東京美術倶楽部",
+      "The Chain Museum",
+      "CADAN",
+      "Pace",
+      "ペース・ギャラリー",
+      "ガゴシアン",
+      "ハウザー＆ワース",
+      "ナンヅカ",
+      "NANZUKA",
+      "ミヅマ",
+      "ボナムス",
+      "フィリップス・オークション",
+      "NEW AUCTION",
+      "万里オークション",
+      "西泠印社",
+      "Artnet",
+      "Artsy",
+      "アート・バイブル"
+    ],
+    "_doc_required_ja_20261014": "일본어 시장 검색어(2026-10-14 사용자 지시 \"일본 내용 소스 추가해서 보강해줘\")의 제목 판별어. derive_links가 required_keywords에 더해 MARKET_GATE로 쓴다 — 일본어 제목에만 걸린다(가나·한자). 경매·낙찰·콜렉터뿐인 제목은 derive_links.AUCTION_ONLY_JA 규칙으로 미술 낱말·사전 작가가 더 있어야 한다(클래식카·회중시계·위스키 경매). '美術館'·'展'은 넣지 않았다 — 시장 경로에 일반지 전시 안내가 쏟아진다(전시·미술관 소식은 美術手帖·ARTnews JAPAN 몫). 'フリーズ'(컴퓨터 멈춤)·'洋画'(외화 영화)·'コレクション'(패션)도 뺐다. 2차 판독(같은 날, 숨김 1,434건 전수): 아트페어·화랑·경매사 이름(ACK·ART OSAKA·EASTEAST·T3 PHOTO·MEET YOUR ART·CURATION⇄FAIR·TEFAF·프리즈 각 도시·Pace·본햄스·NEW AUCTION 등)과 '아트 시장'을 뜻하는 말(アート界·アートシーン·アートビジネス·ギャラリスト)을 더했다. 일본어 판별어는 일본어 행에만 쓴다(derive_links.MARKET_GATE_JA). 'Tokyo Gendai'는 영문 제목에도 맞아 required_keywords로 옮겼다. 같은 날 dry-run을 읽고 'アート作品'·'美術作品'(놋쇠 은행잎 공예 화제 글), 'ArtSticker'·'MEET YOUR ART'(과자·콘돔·제약사 협찬 PR 수십 건)를 뺐다.",
+    "_doc_ja_queries_20261014": "일본 시장 기사 보강(2026-10-14): Google News 일본판(hl=ja, gl=JP) 일반 검색 — 일본 일반지·PR TIMES·포털의 경매·아트페어·시장 기사. 2026-09 30일 실측: '美術品 オークション' 47건 · 'アートオークション' 30 · 'アート市場' 61 · 'アートフェア' 90 · 일본 경매사 3곳 이름(신와·마이니치·SBI)은 1년 10~27건이라 한 검색어로 묶었다(60일 창). 국내 언론 일본어판(매일경제·연합 등)은 kr_edition으로 숨긴다(한국어 원문이 이미 있다)."
+  },
+  "_doc_windows_20261013": "2차 평가(2026-10-13): Google News RSS 100건 상한에 닿은 창이 많던 질의의 window_days를 줄였다 (Sothebys_0 15→7, Christies_0 15→10, _market_2 30→10, _market_5 15→7, Arte_0 15→7, ArtKoreaTV_0 7→4, TheArtNewspaper_0·ArtnetNews_0 10→7). 상한 도달은 크롤러가 [cap]으로 출력한다.",
+  "Artforum": {
+    "_doc": "확장 매체(2026-10-13 사용자 결정). 뉴스 경로만 — 비평·칼럼 제외. robots.txt가 AI 수집기를 막아 직접 RSS 안 씀.",
+    "google_queries": [
+      {
+        "q": "site:artforum.com/news",
+        "hl": "en-US",
+        "gl": "US",
+        "window_days": 15
+      }
+    ]
+  },
+  "Hyperallergic": {
+    "_doc": "확장 매체(2026-10-13 사용자 결정). 미술 전문지 — 관문 없음. 30일 100건 이상이라 7일 창. 시트 'global' 탭으로도 들어온다.",
+    "google_queries": [
+      {
+        "q": "site:hyperallergic.com",
+        "hl": "en-US",
+        "gl": "US",
+        "window_days": 7
+      }
+    ]
+  },
+  "Ocula": {
+    "_doc": "확장 매체(2026-10-13 사용자 결정). 매거진 경로만 — 사이트 전체는 작품 판매 페이지. 피드 403.",
+    "google_queries": [
+      {
+        "q": "site:ocula.com/magazine",
+        "hl": "en-US",
+        "gl": "US",
+        "window_days": 10
+      }
+    ]
+  },
+  "KoreaHerald": {
+    "_doc": "확장 매체(2026-10-13 사용자 결정). 종합지 → ART_GATE. 미술 단어 검색.",
+    "google_queries": [
+      {
+        "q": "site:koreaherald.com art OR exhibition OR gallery OR museum OR auction OR artist",
+        "hl": "en-US",
+        "gl": "US",
+        "window_days": 3
+      }
+    ]
+  },
+  "TheNational": {
+    "_doc": "확장 매체(2026-10-13 사용자 결정). 아랍에미리트 영문 일간지의 미술 섹션 경로만 — 경로가 곧 미술 섹션이라 관문 없음(실측 20건 중 19건 미술, 관문을 걸면 15건만 남음). Google 메타데이터만 — 사이트에 직접 요청 안 함.",
+    "google_queries": [
+      {
+        "q": "site:thenationalnews.com/arts-culture/art",
+        "hl": "en-US",
+        "gl": "US",
+        "window_days": 10
+      }
+    ]
+  },
+  "AntiquesTradeGazette": {
+    "_doc": "확장 매체(2026-10-13 사용자 결정). 영국 골동·경매 업계 주간지 — 동전·기타·담배카드 같은 비미술 수집품이 섞여 ART_GATE. 사이트는 403(Cloudflare) — Google 메타데이터만.",
+    "google_queries": [
+      {
+        "q": "site:antiquestradegazette.com",
+        "hl": "en-US",
+        "gl": "US",
+        "window_days": 10
+      }
+    ]
+  },
+  "BijutsuTecho": {
+    "_doc": "확장 매체(2026-10-13 사용자 결정). 일본 미술 전문지 美術手帖 웹 매거진 경로만 — 볼트 첫 일본어 매체. 일본어 제목은 미술 단어 목록에 거의 안 걸려 관문 없음. 일본판(hl=ja, gl=JP). 2026-10 최근 창에는 Google이 다시 색인한 옛 기사(2018~)가 섞여 100건이 찬다 → 크롤러가 쪼갠다.",
+    "google_queries": [
+      {
+        "q": "site:bijutsutecho.com/magazine",
+        "hl": "ja",
+        "gl": "JP",
+        "window_days": 5
+      }
+    ]
+  },
+  "KArtprice": {
+    "_doc": "확장 매체(2026-10-13 사용자 결정). 뉴시스 미술 데스크 k-Artprice(m.kartprice.net 포함) — 같은 기사가 newsis.com에도 실린다. ART_GATE. 한국판 Google.",
+    "google_queries": [
+      {
+        "q": "site:kartprice.net",
+        "hl": "ko",
+        "gl": "KR",
+        "window_days": 10
+      }
+    ]
+  },
+  "ARTnewsJapan": {
+    "_doc": "확장 매체(2026-10-14 사용자 지시 \"일본 내용 소스 추가해서 보강해줘\"). ARTnews JAPAN — 해외 미술 뉴스의 일본어판과 일본 시장·경매 기사(岡田美術館 125점 137억 엔 낙찰, The Japanese Art Market 2025 보고서 등). 30일 실측 94~97건. robots.txt는 막지 않고 공식 /feed도 있지만 이용약관 링크(/terms)가 404라 약관을 확인하지 못해(2026-10-14) Google 메타데이터만 — Observer와 같은 처리.",
+    "google_queries": [
+      {
+        "q": "site:artnewsjapan.com",
+        "hl": "ja",
+        "gl": "JP",
+        "window_days": 7
+      }
+    ]
+  },
+  "ArtNikkei": {
+    "_doc": "확장 매체(2026-10-14 사용자 지시). 日本経済新聞의 미술·문화 사이트 art NIKKEI — 일본 경제지 시각의 미술시장(SBI 아트옥션 인터뷰, 아트와 경제 가치, 아트페어). 음악회·뮤지컬·다도·초대권 추첨 글이 섞여 gate: art(일본어 낱말). 30일 실측 15~18건. robots.txt가 ClaudeBot·anthropic-ai를 막는다 → Google 메타데이터만.",
+    "google_queries": [
+      {
+        "q": "site:art.nikkei.com",
+        "hl": "ja",
+        "gl": "JP",
+        "window_days": 30
+      }
+    ]
+  },
+  "_artists": {
+    "_doc": "일본 작가 검색어(2026-10-14 사용자 목표 \"일본 데이터 늘려가자 — 오너가 이케무라 레이코·시오타 치하루 같은 작가를 좋아하고 일본 문화에 관심이 많다\"). 사전의 일본 작가 이름을 Google 일본판·영문판·네이버로 찾는다. 이 검색어로 들어온 기사는 **제목에 사전 작가가 있을 때만** 보인다(derive_links의 '제목의 사전 작가' 경로 — 시장 판별어 경로(_market)는 타지 않는다). 2026-09 30일 실측(일본판): 草間 100+ · 村上隆 37 · 奈良美智 23 · 横尾忠則 23 · 杉本博司 20 · 宮島/名和/森村/会田/大竹 묶음 25 · 塩田千春 3 · イケムラレイコ 2, 영문 'Chiharu Shiota' 10 · 'Leiko Ikemura' 9. 이름을 OR로 묶고, 100건이 차는 창은 크롤러가 쪼갠다. 팀랩·오노 요코는 묻지 않는다(체험관·음악 기사가 대부분). 영문 검색어는 이름 5개까지 OR로 묶는다 — 10개를 묶은 검색어는 Google이 날짜 조건을 무시하고 창마다 같은 100건을 돌려줬다(2026-10-15, 18·19를 5명씩 나눠 21·22를 더함).",
+    "google_queries": [
+      {
+        "q": "塩田千春 OR イケムラレイコ OR \"レイコ・イケムラ\"",
+        "hl": "ja",
+        "gl": "JP",
+        "window_days": 60
+      },
+      {
+        "q": "草間彌生 OR 草間弥生",
+        "hl": "ja",
+        "gl": "JP",
+        "window_days": 7
+      },
+      {
+        "q": "奈良美智 OR 村上隆",
+        "hl": "ja",
+        "gl": "JP",
+        "window_days": 15
+      },
+      {
+        "q": "杉本博司 OR 横尾忠則 OR 蜷川実花",
+        "hl": "ja",
+        "gl": "JP",
+        "window_days": 15
+      },
+      {
+        "q": "宮島達男 OR 名和晃平 OR 森村泰昌 OR 会田誠 OR 大竹伸朗 OR 森万里子",
+        "hl": "ja",
+        "gl": "JP",
+        "window_days": 30
+      },
+      {
+        "q": "河原温 OR 内藤礼 OR 鴻池朋子 OR 束芋 OR 田中功起 OR 松山智一 OR 五木田智央 OR ロッカクアヤコ",
+        "hl": "ja",
+        "gl": "JP",
+        "window_days": 30
+      },
+      {
+        "q": "井田幸昌 OR 小松美羽 OR 空山基 OR 大巻伸嗣 OR 久保田成子 OR 田名網敬一 OR 篠田桃紅 OR 荒川修作",
+        "hl": "ja",
+        "gl": "JP",
+        "window_days": 30
+      },
+      {
+        "q": "石田徹也 OR 山口晃 OR 青島千穂 OR タカノ綾 OR 天野喜孝 OR 舟越桂 OR 岡本太郎 OR 千住博",
+        "hl": "ja",
+        "gl": "JP",
+        "window_days": 30
+      },
+      {
+        "q": "白髪一雄 OR 元永定正 OR 吉原治良 OR 菅木志雄 OR 関根伸夫 OR 高松次郎 OR 篠原有司男 OR 猪熊弦一郎 OR 李禹煥 OR イサム・ノグチ",
+        "hl": "ja",
+        "gl": "JP",
+        "window_days": 30
+      },
+      {
+        "q": "森山大道 OR 荒木経惟 OR 川内倫子 OR 石内都 OR 植田正治 OR 東松照明 OR 細江英公 OR 毛利悠子 OR 池田亮司",
+        "hl": "ja",
+        "gl": "JP",
+        "window_days": 30
+      },
+      {
+        "q": "東山魁夷 OR 平山郁夫 OR 上村松園 OR 竹久夢二 OR 岸田劉生 OR 黒田清輝 OR 佐伯祐三 OR 棟方志功",
+        "hl": "ja",
+        "gl": "JP",
+        "window_days": 30
+      },
+      {
+        "q": "熊谷守一 OR 山下清 OR 速水御舟 OR 鏑木清方 OR 高島野十郎 OR 髙島野十郎 OR 横山大観 OR 藤田嗣治",
+        "hl": "ja",
+        "gl": "JP",
+        "window_days": 30
+      },
+      {
+        "q": "葛飾北斎 OR 歌川広重 OR 喜多川歌麿 OR 東洲斎写楽 OR 歌川国芳 OR 月岡芳年 OR 川瀬巴水 OR 河鍋暁斎 OR 鈴木春信",
+        "hl": "ja",
+        "gl": "JP",
+        "window_days": 15
+      },
+      {
+        "q": "伊藤若冲 OR 尾形光琳 OR 俵屋宗達 OR 長谷川等伯 OR 円山応挙 OR 雪舟 OR 狩野永徳 OR 曾我蕭白 OR 本阿弥光悦",
+        "hl": "ja",
+        "gl": "JP",
+        "window_days": 30
+      },
+      {
+        "q": "\"Chiharu Shiota\" OR \"Leiko Ikemura\"",
+        "hl": "en-US",
+        "gl": "US",
+        "window_days": 60
+      },
+      {
+        "q": "\"Yayoi Kusama\"",
+        "hl": "en-US",
+        "gl": "US",
+        "window_days": 15
+      },
+      {
+        "q": "\"Yoshitomo Nara\" OR \"Takashi Murakami\" OR \"Hiroshi Sugimoto\" OR \"Mika Ninagawa\"",
+        "hl": "en-US",
+        "gl": "US",
+        "window_days": 15
+      },
+      {
+        "q": "\"Tatsuo Miyajima\" OR \"Kohei Nawa\" OR \"Yasumasa Morimura\" OR \"Mariko Mori\" OR \"Makoto Aida\" OR \"Shinro Ohtake\" OR \"Tadanori Yokoo\" OR \"On Kawara\"",
+        "hl": "en-US",
+        "gl": "US",
+        "window_days": 30
+      },
+      {
+        "q": "\"Rei Naito\" OR \"Tomoko Konoike\" OR \"Koki Tanaka\" OR \"Izumi Kato\" OR \"Tomokazu Matsuyama\"",
+        "hl": "en-US",
+        "gl": "US",
+        "window_days": 30
+      },
+      {
+        "q": "\"Kazuo Shiraga\" OR \"Kishio Suga\" OR \"Nobuo Sekine\" OR \"Jiro Yoshihara\" OR \"Toko Shinoda\"",
+        "hl": "en-US",
+        "gl": "US",
+        "window_days": 30
+      },
+      {
+        "q": "Hokusai OR Hiroshige OR Utamaro OR Jakuchu OR \"Kawase Hasui\" OR \"Utagawa Kuniyoshi\" OR \"Tsukioka Yoshitoshi\"",
+        "hl": "en-US",
+        "gl": "US",
+        "window_days": 15
+      },
+      {
+        "q": "\"Tomoo Gokita\" OR \"Ayako Rokkaku\" OR \"Hajime Sorayama\" OR \"Shigeko Kubota\" OR \"Keiichi Tanaami\"",
+        "hl": "en-US",
+        "gl": "US",
+        "window_days": 30
+      },
+      {
+        "q": "\"Daido Moriyama\" OR \"Nobuyoshi Araki\" OR \"Rinko Kawauchi\" OR \"Ishiuchi Miyako\" OR \"Eikoh Hosoe\"",
+        "hl": "en-US",
+        "gl": "US",
+        "window_days": 30
+      }
+    ],
+    "naver_queries": [
+      "시오타 치하루",
+      "이케무라 레이코",
+      "쿠사마 야요이",
+      "나라 요시토모",
+      "무라카미 다카시",
+      "스기모토 히로시",
+      "요코오 다다노리",
+      "미야지마 다쓰오",
+      "나와 고헤이",
+      "모리무라 야스마사",
+      "소라야마 하지메",
+      "마쓰야마 도모카즈",
+      "이다 유키마사",
+      "로카쿠 아야코",
+      "호쿠사이",
+      "우키요에",
+      "일본 작가 개인전"
+    ]
+  },
+  "TokyoArtBeat": {
+    "_doc": "확장 매체(2026-10-14 사용자 목표 '일본 미디어 풀 넓히기'). Tokyo Art Beat — 일본 전국 전시 리뷰·인터뷰·미술관 뉴스(일·영). 기사 경로(/articles)만 — 전시·장소 안내 페이지(/events)는 기사가 아니다. 2026-09 30일 실측 87건(일본어), 영문 기사 경로 2건. robots.txt가 없다(404) → '읽을 수 없으면 막힌 것'으로 보고 Google 메타데이터만. 미술 전문이라 관문 없음(美術手帖과 같다). 2026-10-14 초판(같은 날 오전)에는 '전시 안내 중심'이라 뺐던 곳 — 오너의 일본 미술·문화 관심으로 다시 넣었다.",
+    "google_queries": [
+      {
+        "q": "site:tokyoartbeat.com/articles",
+        "hl": "ja",
+        "gl": "JP",
+        "window_days": 7
+      },
+      {
+        "q": "site:tokyoartbeat.com/en/articles",
+        "hl": "en-US",
+        "gl": "US",
+        "window_days": 60
+      }
+    ]
+  },
+  "BijutsutenNavi": {
+    "_doc": "확장 매체(2026-10-14 사용자 목표 '일본 미디어 풀 넓히기'). 美術展ナビ — 요미우리신문의 전시 뉴스 사이트(전시 개막·리포트·국보·일본화). 대하드라마 줄거리·피겨스케이팅·초대권 증정이 섞여 gate: art(일본어 낱말) + PROMO_JA. 2026-09 30일 창 100건 상한 → 7일 창. robots.txt가 ChatGPT-User·GPTBot·CCBot·Google-Extended를 막는다(AI 에이전트를 막는 사이트) → Google 메타데이터만.",
+    "google_queries": [
+      {
+        "q": "site:artexhibition.jp",
+        "hl": "ja",
+        "gl": "JP",
+        "window_days": 7
+      }
+    ]
+  }
+}
