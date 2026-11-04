@@ -1,0 +1,10 @@
+# Optional local English→Korean translation runtime; install only when needed.
+argostranslate==1.9.6
+ctranslate2==4.0.0
+# CTranslate2 4.0.0 predates NumPy 2; upstream metadata leaves NumPy unbounded.
+numpy==1.26.4
+lingua-language-detector==2.0.2
+# Original Marian conversion uses the separate vocabularies and NumPy directly.
+sentencepiece==0.2.0
+# Argos/Stanza dependency, never used to load remote pickle checkpoints.
+torch==2.2.2

@@ -1,0 +1,1598 @@
+{
+ "김승주": {
+  "name": "김승주",
+  "first_seen": "2026-10-30",
+  "awards": [
+   "2027 우진청년미술상"
+  ],
+  "last_checked": "2026-10-30",
+  "edition": "KR",
+  "track": "rookie",
+  "genre": "조각",
+  "machine_status": "관찰 후보",
+  "award_level": "보통",
+  "why": "심사평: 예술적 기본기에 충실하면서 현실과 삶에 대한 시선으로 독자적 작업 방식을 발전시켜 왔다.",
+  "checks": [
+   {
+    "rule": "R01 공식 선정",
+    "ok": true,
+    "detail": "2027 우진청년미술상 — 보도 4곳"
+   },
+   {
+    "rule": "R02 초기 경력",
+    "ok": true,
+    "detail": "보도로 확인된 가장 이른 개인전 2022년 · 최근 기사 위주 검색이라 더 이른 이력이 있을 수 있음"
+   },
+   {
+    "rule": "R03 독립 확인",
+    "ok": false,
+    "detail": "이번 수상 외 최근 12개월 미술 관련 보도 사건 0건 · 유형 award"
+   },
+   {
+    "rule": "R05 지속성(후속 지원)",
+    "ok": true,
+    "detail": "상에 딸린 후속 지원: 창작지원금 500만원, 2027년 3월 초대전"
+   }
+  ],
+  "homonym_risk": true,
+  "homonym_note": "이름 검색 결과 17건 중 미술과 무관해 보이는 기사 8건 제외"
+ },
+ "임희성": {
+  "name": "임희성",
+  "first_seen": "2026-10-30",
+  "awards": [
+   "2027 우진청년미술상"
+  ],
+  "last_checked": "2026-10-30",
+  "edition": "KR",
+  "track": "rookie",
+  "genre": "평면회화",
+  "machine_status": "재발견·중견 확인 필요",
+  "award_level": "보통",
+  "why": "심사평: 예술적 기본기에 충실하면서 현실과 삶에 대한 시선으로 독자적 작업 방식을 발전시켜 왔다.",
+  "checks": [
+   {
+    "rule": "R01 공식 선정",
+    "ok": true,
+    "detail": "2027 우진청년미술상 — 보도 4곳"
+   },
+   {
+    "rule": "R02 초기 경력",
+    "ok": false,
+    "detail": "2020년 보도에 '7번째 개인전' — 첫 개인전이 10년 넘었을 가능성(재발견·중견 확인 필요)"
+   },
+   {
+    "rule": "R03 독립 확인",
+    "ok": true,
+    "detail": "이번 수상 외 최근 12개월 미술 관련 보도 사건 3건 (2026-03-19 임희성 개인전 '삶의 풍경 색채로 풀어내다'; 2026-03-22 색 조각으로 쌓은 삶의 풍경... 공유화음실, 임희성 ; 2026-06-17 [한 컷 미술관] 임희성 개인전: 삶의 풍경) · 유형 award, solo"
+   },
+   {
+    "rule": "R05 지속성(후속 지원)",
+    "ok": true,
+    "detail": "상에 딸린 후속 지원: 창작지원금 500만원, 2027년 3월 초대전"
+   }
+  ],
+  "homonym_risk": false,
+  "homonym_note": "이름 검색 결과 18건 중 미술과 무관해 보이는 기사 1건 제외"
+ },
+ "이혜진": {
+  "name": "이혜진",
+  "first_seen": "2026-10-30",
+  "awards": [
+   "겸재정선미술관 '내일의 작가'"
+  ],
+  "last_checked": "2026-10-30",
+  "edition": "KR",
+  "track": "rookie",
+  "genre": null,
+  "machine_status": "관찰 후보",
+  "award_level": "높음",
+  "why": "2025년 대상 수상, 그 후속으로 2026년 10월 30일~11월 26일 개인전. 올해 수상 9인 명단은 보도에 없음.",
+  "checks": [
+   {
+    "rule": "R01 공식 선정",
+    "ok": true,
+    "detail": "겸재정선미술관 '내일의 작가' — 보도 1곳"
+   },
+   {
+    "rule": "R02 초기 경력",
+    "ok": true,
+    "detail": "편집 확인: 2025년 신진작가 공모 대상 → 2026년 미술관 지원 개인전"
+   },
+   {
+    "rule": "R03 독립 확인",
+    "ok": false,
+    "detail": "이번 수상 외 최근 12개월 미술 관련 보도 사건 0건 · 유형 award"
+   },
+   {
+    "rule": "R05 지속성(후속 지원)",
+    "ok": true,
+    "detail": "상에 딸린 후속 지원: 작품 매입, 이듬해 개인전"
+   }
+  ],
+  "homonym_risk": false,
+  "homonym_note": "이름 검색 결과 7건 중 미술과 무관해 보이는 기사 2건 제외"
+ },
+ "조성경": {
+  "name": "조성경",
+  "first_seen": "2026-10-30",
+  "awards": [
+   "2026 여주국제사진전 주제전 '지구방랑자' 선정"
+  ],
+  "last_checked": "2026-10-30",
+  "edition": "KR",
+  "track": "rookie",
+  "genre": "사진",
+  "machine_status": "관찰 후보",
+  "award_level": "낮음",
+  "why": "대지와 인간의 서사를 정제된 이미지로 풀어낸다는 소개. 같은 달 291 포토그랩스 포트폴리오 기획전에도 선정 — 서로 다른 주체 2곳.",
+  "checks": [
+   {
+    "rule": "R01 공식 선정",
+    "ok": true,
+    "detail": "2026 여주국제사진전 주제전 '지구방랑자' 선정 — 보도 1곳"
+   },
+   {
+    "rule": "R02 초기 경력",
+    "ok": true,
+    "detail": "편집 확인: 보도에 개인전 '쉼표'(2025)가 첫 개인전 이력으로 나옴 — 2025년 첫 개인전이면 초기 경력"
+   },
+   {
+    "rule": "R03 독립 확인",
+    "ok": false,
+    "detail": "이번 수상 외 최근 12개월 미술 관련 보도 사건 0건 · 유형 award"
+   },
+   {
+    "rule": "R05 지속성(후속 지원)",
+    "ok": true,
+    "detail": "상에 딸린 후속 지원: 주제전 참여"
+   }
+  ],
+  "homonym_risk": true,
+  "homonym_note": "이름 검색 결과 6건 중 미술과 무관해 보이는 기사 5건 제외"
+ },
+ "박상화": {
+  "name": "박상화",
+  "first_seen": "2026-10-30",
+  "awards": [
+   "제27회 단원미술제"
+  ],
+  "last_checked": "2026-10-30",
+  "edition": "KR",
+  "track": "open",
+  "genre": null,
+  "machine_status": "관찰 후보",
+  "award_level": "보통",
+  "why": "단원미술대상",
+  "checks": [
+   {
+    "rule": "R01 공식 선정",
+    "ok": true,
+    "detail": "제27회 단원미술제 — 보도 3곳"
+   },
+   {
+    "rule": "R02 초기 경력",
+    "ok": true,
+    "detail": "보도로 확인된 가장 이른 개인전 2020년 · 최근 기사 위주 검색이라 더 이른 이력이 있을 수 있음"
+   },
+   {
+    "rule": "R03 독립 확인",
+    "ok": false,
+    "detail": "이번 수상 외 최근 12개월 미술 관련 보도 사건 0건 · 유형 award"
+   },
+   {
+    "rule": "R05 지속성(후속 지원)",
+    "ok": true,
+    "detail": "상에 딸린 후속 지원: 선정작가전(김홍도미술관, 10월 8일~11월 29일), 후속 지원 프로그램"
+   }
+  ],
+  "homonym_risk": false,
+  "homonym_note": "이름 검색 결과 23건 중 미술과 무관해 보이는 기사 3건 제외"
+ },
+ "강성훈": {
+  "name": "강성훈",
+  "first_seen": "2026-10-30",
+  "awards": [
+   "제27회 단원미술제"
+  ],
+  "last_checked": "2026-10-30",
+  "edition": "KR",
+  "track": "open",
+  "genre": null,
+  "machine_status": "관찰 후보",
+  "award_level": "보통",
+  "why": "선정작가",
+  "checks": [
+   {
+    "rule": "R01 공식 선정",
+    "ok": true,
+    "detail": "제27회 단원미술제 — 보도 3곳"
+   },
+   {
+    "rule": "R02 초기 경력",
+    "ok": null,
+    "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+   },
+   {
+    "rule": "R03 독립 확인",
+    "ok": false,
+    "detail": "이번 수상 외 최근 12개월 미술 관련 보도 사건 0건 · 유형 award"
+   },
+   {
+    "rule": "R05 지속성(후속 지원)",
+    "ok": true,
+    "detail": "상에 딸린 후속 지원: 선정작가전(김홍도미술관, 10월 8일~11월 29일), 후속 지원 프로그램"
+   }
+  ],
+  "homonym_risk": true,
+  "homonym_note": "이름 검색 결과 24건 중 미술과 무관해 보이는 기사 16건 제외"
+ },
+ "김소영": {
+  "name": "김소영",
+  "first_seen": "2026-10-30",
+  "awards": [
+   "제27회 단원미술제"
+  ],
+  "last_checked": "2026-10-30",
+  "edition": "KR",
+  "track": "open",
+  "genre": null,
+  "machine_status": "관찰 후보",
+  "award_level": "보통",
+  "why": "선정작가",
+  "checks": [
+   {
+    "rule": "R01 공식 선정",
+    "ok": true,
+    "detail": "제27회 단원미술제 — 보도 3곳"
+   },
+   {
+    "rule": "R02 초기 경력",
+    "ok": null,
+    "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+   },
+   {
+    "rule": "R03 독립 확인",
+    "ok": false,
+    "detail": "이번 수상 외 최근 12개월 미술 관련 보도 사건 0건 · 유형 award"
+   },
+   {
+    "rule": "R05 지속성(후속 지원)",
+    "ok": true,
+    "detail": "상에 딸린 후속 지원: 선정작가전(김홍도미술관, 10월 8일~11월 29일), 후속 지원 프로그램"
+   }
+  ],
+  "homonym_risk": true,
+  "homonym_note": "이름 검색 결과 22건 중 미술과 무관해 보이는 기사 18건 제외"
+ },
+ "김은숙": {
+  "name": "김은숙",
+  "first_seen": "2026-10-30",
+  "awards": [
+   "제27회 단원미술제"
+  ],
+  "last_checked": "2026-10-30",
+  "edition": "KR",
+  "track": "open",
+  "genre": null,
+  "machine_status": "관찰 후보",
+  "award_level": "보통",
+  "why": "선정작가",
+  "checks": [
+   {
+    "rule": "R01 공식 선정",
+    "ok": true,
+    "detail": "제27회 단원미술제 — 보도 3곳"
+   },
+   {
+    "rule": "R02 초기 경력",
+    "ok": null,
+    "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+   },
+   {
+    "rule": "R03 독립 확인",
+    "ok": false,
+    "detail": "이번 수상 외 최근 12개월 미술 관련 보도 사건 5건 (2026-10-08 [사진]류승룡-임지연,'김은숙 작가 수상 축하드려요'; 2026-10-08 [사진]김은숙 작가,'행복한 미소'; 2026-10-08 [사진]수상 소감 말하는 김은숙 작가) · 유형 award"
+   },
+   {
+    "rule": "R05 지속성(후속 지원)",
+    "ok": true,
+    "detail": "상에 딸린 후속 지원: 선정작가전(김홍도미술관, 10월 8일~11월 29일), 후속 지원 프로그램"
+   }
+  ],
+  "homonym_risk": true,
+  "homonym_note": "이름 검색 결과 77건 중 미술과 무관해 보이는 기사 42건 제외"
+ },
+ "우징": {
+  "name": "우징",
+  "first_seen": "2026-10-30",
+  "awards": [
+   "제27회 단원미술제"
+  ],
+  "last_checked": "2026-10-30",
+  "edition": "KR",
+  "track": "open",
+  "genre": null,
+  "machine_status": "재발견·중견 확인 필요",
+  "award_level": "보통",
+  "why": "선정작가",
+  "checks": [
+   {
+    "rule": "R01 공식 선정",
+    "ok": true,
+    "detail": "제27회 단원미술제 — 보도 3곳"
+   },
+   {
+    "rule": "R02 초기 경력",
+    "ok": false,
+    "detail": "보도로 확인된 가장 이른 개인전 2012년 — 10년 넘음(재발견·중견 가능성) · 최근 기사 위주 검색이라 더 이른 이력이 있을 수 있음"
+   },
+   {
+    "rule": "R03 독립 확인",
+    "ok": false,
+    "detail": "이번 수상 외 최근 12개월 미술 관련 보도 사건 0건 · 유형 award"
+   },
+   {
+    "rule": "R05 지속성(후속 지원)",
+    "ok": true,
+    "detail": "상에 딸린 후속 지원: 선정작가전(김홍도미술관, 10월 8일~11월 29일), 후속 지원 프로그램"
+   }
+  ],
+  "homonym_risk": false,
+  "homonym_note": "이름 검색 결과 25건 중 미술과 무관해 보이는 기사 1건 제외"
+ },
+ "이영호": {
+  "name": "이영호",
+  "first_seen": "2026-10-30",
+  "awards": [
+   "제27회 단원미술제"
+  ],
+  "last_checked": "2026-10-30",
+  "edition": "KR",
+  "track": "open",
+  "genre": null,
+  "machine_status": "편집 검토 후보",
+  "award_level": "보통",
+  "why": "선정작가",
+  "checks": [
+   {
+    "rule": "R01 공식 선정",
+    "ok": true,
+    "detail": "제27회 단원미술제 — 보도 3곳"
+   },
+   {
+    "rule": "R02 초기 경력",
+    "ok": true,
+    "detail": "보도로 확인된 가장 이른 개인전 2023년 · 최근 기사 위주 검색이라 더 이른 이력이 있을 수 있음"
+   },
+   {
+    "rule": "R03 독립 확인",
+    "ok": true,
+    "detail": "이번 수상 외 최근 12개월 미술 관련 보도 사건 1건 (2025-11-11 이영호 개인전 '맞-닿은 자리'…일상의 흔적에서 존재를) · 유형 award, residency, solo"
+   },
+   {
+    "rule": "R05 지속성(후속 지원)",
+    "ok": true,
+    "detail": "상에 딸린 후속 지원: 선정작가전(김홍도미술관, 10월 8일~11월 29일), 후속 지원 프로그램"
+   }
+  ],
+  "homonym_risk": false,
+  "homonym_note": "이름 검색 결과 7건 중 미술과 무관해 보이는 기사 2건 제외"
+ },
+ "조현수": {
+  "name": "조현수",
+  "first_seen": "2026-10-30",
+  "awards": [
+   "제27회 단원미술제"
+  ],
+  "last_checked": "2026-10-30",
+  "edition": "KR",
+  "track": "open",
+  "genre": null,
+  "machine_status": "관찰 후보",
+  "award_level": "보통",
+  "why": "선정작가",
+  "checks": [
+   {
+    "rule": "R01 공식 선정",
+    "ok": true,
+    "detail": "제27회 단원미술제 — 보도 3곳"
+   },
+   {
+    "rule": "R02 초기 경력",
+    "ok": true,
+    "detail": "보도로 확인된 가장 이른 개인전 2021년 · 최근 기사 위주 검색이라 더 이른 이력이 있을 수 있음"
+   },
+   {
+    "rule": "R03 독립 확인",
+    "ok": false,
+    "detail": "이번 수상 외 최근 12개월 미술 관련 보도 사건 1건 (2026-04-14 조현수 작가 광주화루 공모전 ‘우수상’) · 유형 award"
+   },
+   {
+    "rule": "R05 지속성(후속 지원)",
+    "ok": true,
+    "detail": "상에 딸린 후속 지원: 선정작가전(김홍도미술관, 10월 8일~11월 29일), 후속 지원 프로그램"
+   }
+  ],
+  "homonym_risk": false,
+  "homonym_note": "이름 검색 결과 24건 중 미술과 무관해 보이는 기사 4건 제외"
+ },
+ "한소희": {
+  "name": "한소희",
+  "first_seen": "2026-10-30",
+  "awards": [
+   "제27회 단원미술제"
+  ],
+  "last_checked": "2026-10-30",
+  "edition": "KR",
+  "track": "open",
+  "genre": null,
+  "machine_status": "관찰 후보(동명이인 확인 필요)",
+  "award_level": "보통",
+  "why": "선정작가",
+  "checks": [
+   {
+    "rule": "R01 공식 선정",
+    "ok": true,
+    "detail": "제27회 단원미술제 — 보도 3곳"
+   },
+   {
+    "rule": "R02 초기 경력",
+    "ok": null,
+    "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+   },
+   {
+    "rule": "R03 독립 확인",
+    "ok": null,
+    "detail": "이번 수상 외 최근 12개월 미술 관련 보도 사건 2건 (2026-09-04 한소희·우즈·차정원, '프리즈 서울' 떴다…휠라 '실버; 2026-10-02 휠라, '실버' 테마 전시 확장…한소희·우즈 사진전도 ) · 유형 award, group — 동명이인 기사가 많아 같은 사람인지 편집자 확인 전에는 통과로 보지 않음"
+   },
+   {
+    "rule": "R05 지속성(후속 지원)",
+    "ok": true,
+    "detail": "상에 딸린 후속 지원: 선정작가전(김홍도미술관, 10월 8일~11월 29일), 후속 지원 프로그램"
+   }
+  ],
+  "homonym_risk": true,
+  "homonym_note": "이름 검색 결과 33건 중 미술과 무관해 보이는 기사 28건 제외"
+ },
+ "연기백": {
+  "name": "연기백",
+  "first_seen": "2026-10-30",
+  "awards": [
+   "제8회 고암미술상"
+  ],
+  "last_checked": "2026-10-30",
+  "edition": "KR",
+  "track": "open",
+  "genre": "설치",
+  "machine_status": "재발견·중견 확인 필요",
+  "award_level": "높음",
+  "why": "심사평: 장소 특정적 설치의 완성도·예술철학·전시 공간 해석 능력. 의미를 부여하면서도 그 행위를 의심하는 태도가 이응노의 문자추상과 맞닿는다.",
+  "checks": [
+   {
+    "rule": "R01 공식 선정",
+    "ok": true,
+    "detail": "제8회 고암미술상 — 보도 2곳"
+   },
+   {
+    "rule": "R02 초기 경력",
+    "ok": false,
+    "detail": "보도로 확인된 가장 이른 개인전 2015년 — 10년 넘음(재발견·중견 가능성) · 최근 기사 위주 검색이라 더 이른 이력이 있을 수 있음"
+   },
+   {
+    "rule": "R03 독립 확인",
+    "ok": false,
+    "detail": "이번 수상 외 최근 12개월 미술 관련 보도 사건 0건 · 유형 award"
+   },
+   {
+    "rule": "R05 지속성(후속 지원)",
+    "ok": true,
+    "detail": "상에 딸린 후속 지원: 상금 2,000만원, 2027년 이응노의 집 개인전"
+   }
+  ],
+  "homonym_risk": false,
+  "homonym_note": "이름 검색 결과 19건 중 미술과 무관해 보이는 기사 2건 제외"
+ },
+ "정원경": {
+  "name": "정원경",
+  "first_seen": "2026-10-30",
+  "awards": [
+   "2026 정부미술은행 작품 구입 선정"
+  ],
+  "last_checked": "2026-10-30",
+  "edition": "KR",
+  "track": "open",
+  "genre": "조각",
+  "machine_status": "관찰 후보",
+  "award_level": "보통",
+  "why": "조각 '꿈꾸다' 매입",
+  "checks": [
+   {
+    "rule": "R01 공식 선정",
+    "ok": true,
+    "detail": "2026 정부미술은행 작품 구입 선정 — 보도 2곳"
+   },
+   {
+    "rule": "R02 초기 경력",
+    "ok": null,
+    "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+   },
+   {
+    "rule": "R03 독립 확인",
+    "ok": false,
+    "detail": "이번 수상 외 최근 12개월 미술 관련 보도 사건 0건 · 유형 award"
+   },
+   {
+    "rule": "R05 지속성(후속 지원)",
+    "ok": true,
+    "detail": "상에 딸린 후속 지원: 작품 매입·소장"
+   }
+  ],
+  "homonym_risk": true,
+  "homonym_note": "이름 검색 결과 4건 중 미술과 무관해 보이는 기사 2건 제외"
+ },
+ "홍창희": {
+  "name": "홍창희",
+  "first_seen": "2026-10-30",
+  "awards": [
+   "2026 정부미술은행 작품 구입 선정"
+  ],
+  "last_checked": "2026-10-30",
+  "edition": "KR",
+  "track": "open",
+  "genre": "사진",
+  "machine_status": "관찰 후보",
+  "award_level": "보통",
+  "why": "사진 '누각(A resting place)' 매입",
+  "checks": [
+   {
+    "rule": "R01 공식 선정",
+    "ok": true,
+    "detail": "2026 정부미술은행 작품 구입 선정 — 보도 2곳"
+   },
+   {
+    "rule": "R02 초기 경력",
+    "ok": true,
+    "detail": "보도로 확인된 가장 이른 개인전 2024년 · 최근 기사 위주 검색이라 더 이른 이력이 있을 수 있음"
+   },
+   {
+    "rule": "R03 독립 확인",
+    "ok": false,
+    "detail": "이번 수상 외 최근 12개월 미술 관련 보도 사건 0건 · 유형 award"
+   },
+   {
+    "rule": "R05 지속성(후속 지원)",
+    "ok": true,
+    "detail": "상에 딸린 후속 지원: 작품 매입·소장"
+   }
+  ],
+  "homonym_risk": false,
+  "homonym_note": "이름 검색 결과 4건 중 미술과 무관해 보이는 기사 1건 제외"
+ },
+ "염지혜": {
+  "name": "염지혜",
+  "first_seen": "2026-10-30",
+  "awards": [
+   "제7회 박동준상 미술부문"
+  ],
+  "last_checked": "2026-10-30",
+  "edition": "KR",
+  "track": "open",
+  "genre": "미디어",
+  "machine_status": "관찰 후보",
+  "award_level": "보통",
+  "why": "미술부문 수상(선정 사유는 보도 요약에 없음)",
+  "checks": [
+   {
+    "rule": "R01 공식 선정",
+    "ok": true,
+    "detail": "제7회 박동준상 미술부문 — 보도 1곳"
+   },
+   {
+    "rule": "R02 초기 경력",
+    "ok": null,
+    "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+   },
+   {
+    "rule": "R03 독립 확인",
+    "ok": false,
+    "detail": "이번 수상 외 최근 12개월 미술 관련 보도 사건 0건 · 유형 award, exhibition"
+   },
+   {
+    "rule": "R05 지속성(후속 지원)",
+    "ok": true,
+    "detail": "상에 딸린 후속 지원: 상금 2,000만원, 전시 기회"
+   }
+  ],
+  "homonym_risk": false,
+  "homonym_note": "이름 검색 결과 28건 중 미술과 무관해 보이는 기사 0건 제외"
+ },
+ "권혜원": {
+  "name": "권혜원",
+  "first_seen": "2026-10-30",
+  "awards": [
+   "제3회 안국미술상"
+  ],
+  "last_checked": "2026-10-30",
+  "edition": "KR",
+  "track": "open",
+  "genre": "영상 설치",
+  "machine_status": "편집 검토 후보(경력 확인 필요)",
+  "award_level": "낮음",
+  "why": "기록·관찰 기술의 조건에 따라 대상이 달라지는 매체로 미디어를 다룬다는 소개.",
+  "checks": [
+   {
+    "rule": "R01 공식 선정",
+    "ok": true,
+    "detail": "제3회 안국미술상 — 보도 3곳"
+   },
+   {
+    "rule": "R02 초기 경력",
+    "ok": null,
+    "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+   },
+   {
+    "rule": "R03 독립 확인",
+    "ok": true,
+    "detail": "이번 수상 외 최근 12개월 미술 관련 보도 사건 1건 (2026-10-23 안국약품, AG갤러리서 권혜원 작가 '재생의 조건' 展) · 유형 award, exhibition, group"
+   },
+   {
+    "rule": "R05 지속성(후속 지원)",
+    "ok": true,
+    "detail": "상에 딸린 후속 지원: 수상 기념전(AG갤러리, ~10월 28일)"
+   }
+  ],
+  "homonym_risk": false,
+  "homonym_note": "이름 검색 결과 25건 중 미술과 무관해 보이는 기사 1건 제외"
+ },
+ "홍진훤": {
+  "name": "홍진훤",
+  "first_seen": "2026-10-30",
+  "awards": [
+   "올해의 작가상 2026"
+  ],
+  "last_checked": "2026-10-30",
+  "edition": "KR",
+  "track": "established",
+  "genre": "사진·영상",
+  "machine_status": "기성·재발견(루키 트랙 아님)",
+  "award_level": "높음",
+  "why": "심사평: 사회적 실천과 그것이 이미지로 재현되는 과정 사이의 긴장을 드러내고 현실을 보는 시각 체계에 질문한다.",
+  "checks": [
+   {
+    "rule": "R01 공식 선정",
+    "ok": true,
+    "detail": "올해의 작가상 2026 — 보도 25곳"
+   },
+   {
+    "rule": "R02 초기 경력",
+    "ok": null,
+    "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+   },
+   {
+    "rule": "R03 독립 확인",
+    "ok": false,
+    "detail": "이번 수상 외 최근 12개월 미술 관련 보도 사건 0건 · 유형 award"
+   },
+   {
+    "rule": "R05 지속성(후속 지원)",
+    "ok": true,
+    "detail": "상에 딸린 후속 지원: 후원금 5,000만원 + 추가 1,000만원, 서울관 전시(~12월 6일)"
+   }
+  ],
+  "homonym_risk": false,
+  "homonym_note": "이름 검색 결과 55건 중 미술과 무관해 보이는 기사 2건 제외"
+ },
+ "김아영": {
+  "name": "김아영",
+  "first_seen": "2026-10-30",
+  "awards": [
+   "제38회 이중섭미술상"
+  ],
+  "last_checked": "2026-10-30",
+  "edition": "KR",
+  "track": "established",
+  "genre": "미디어",
+  "machine_status": "기성·재발견(루키 트랙 아님)",
+  "award_level": "보통",
+  "why": "SF적 상상력과 미디어 기술을 결합한 작업으로 국제적 주목을 받는다는 소개.",
+  "checks": [
+   {
+    "rule": "R01 공식 선정",
+    "ok": true,
+    "detail": "제38회 이중섭미술상 — 보도 1곳"
+   },
+   {
+    "rule": "R02 초기 경력",
+    "ok": true,
+    "detail": "보도로 확인된 가장 이른 개인전 2026년 · 최근 기사 위주 검색이라 더 이른 이력이 있을 수 있음"
+   },
+   {
+    "rule": "R03 독립 확인",
+    "ok": null,
+    "detail": "이번 수상 외 최근 12개월 미술 관련 보도 사건 4건 (2026-07-20 자연을 바라보다, 마음을 그리다…김아영 개인전 《화이부; 2026-07-21 일상 속 자연의 풍경들⋯김아영 개인전; 2026-07-22 강원갤러리 작가 김아영 개인전 '화이부동' 서울서 개막) · 유형 award, exhibition, group, solo — 동명이인 기사가 많아 같은 사람인지 편집자 확인 전에는 통과로 보지 않음"
+   },
+   {
+    "rule": "R05 지속성(후속 지원)",
+    "ok": true,
+    "detail": "상에 딸린 후속 지원: 상금 2,000만원"
+   }
+  ],
+  "homonym_risk": true,
+  "homonym_note": "이름 검색 결과 39건 중 미술과 무관해 보이는 기사 29건 제외"
+ },
+ "김성룡": {
+  "name": "김성룡",
+  "first_seen": "2026-10-30",
+  "awards": [
+   "제27회 이인성미술상"
+  ],
+  "last_checked": "2026-10-30",
+  "edition": "KR",
+  "track": "established",
+  "genre": "회화",
+  "machine_status": "기성·재발견(루키 트랙 아님)",
+  "award_level": "높음",
+  "why": "보도 요약에 선정 사유 문장 없음",
+  "checks": [
+   {
+    "rule": "R01 공식 선정",
+    "ok": true,
+    "detail": "제27회 이인성미술상 — 보도 12곳"
+   },
+   {
+    "rule": "R02 초기 경력",
+    "ok": false,
+    "detail": "보도로 확인된 가장 이른 개인전 2014년 — 10년 넘음(재발견·중견 가능성) · 최근 기사 위주 검색이라 더 이른 이력이 있을 수 있음"
+   },
+   {
+    "rule": "R03 독립 확인",
+    "ok": false,
+    "detail": "이번 수상 외 최근 12개월 미술 관련 보도 사건 0건 · 유형 award"
+   },
+   {
+    "rule": "R05 지속성(후속 지원)",
+    "ok": true,
+    "detail": "상에 딸린 후속 지원: 상금 5,000만원, 2027년 대구미술관 개인전"
+   }
+  ],
+  "homonym_risk": true,
+  "homonym_note": "이름 검색 결과 46건 중 미술과 무관해 보이는 기사 17건 제외"
+ },
+ "최승일": {
+  "name": "최승일",
+  "first_seen": "2026-10-30",
+  "awards": [
+   "제6회 W미술상"
+  ],
+  "last_checked": "2026-10-30",
+  "edition": "KR",
+  "track": "established",
+  "genre": "조각",
+  "machine_status": "기성·재발견(루키 트랙 아님)",
+  "award_level": "낮음",
+  "why": "지역 시각예술 기여도와 독자적 작품세계",
+  "checks": [
+   {
+    "rule": "R01 공식 선정",
+    "ok": true,
+    "detail": "제6회 W미술상 — 보도 2곳"
+   },
+   {
+    "rule": "R02 초기 경력",
+    "ok": false,
+    "detail": "보도로 확인된 가장 이른 개인전 2015년 — 10년 넘음(재발견·중견 가능성) · 최근 기사 위주 검색이라 더 이른 이력이 있을 수 있음"
+   },
+   {
+    "rule": "R03 독립 확인",
+    "ok": false,
+    "detail": "이번 수상 외 최근 12개월 미술 관련 보도 사건 0건 · 유형 award"
+   },
+   {
+    "rule": "R05 지속성(후속 지원)",
+    "ok": true,
+    "detail": "상에 딸린 후속 지원: 12월 수상작가전"
+   }
+  ],
+  "homonym_risk": false,
+  "homonym_note": "이름 검색 결과 17건 중 미술과 무관해 보이는 기사 4건 제외"
+ },
+ "박우식": {
+  "name": "박우식",
+  "first_seen": "2026-10-30",
+  "awards": [
+   "제24회 이동훈미술상 특별상"
+  ],
+  "last_checked": "2026-10-30",
+  "edition": "KR",
+  "track": "established",
+  "genre": "회화",
+  "machine_status": "기성·재발견(루키 트랙 아님)",
+  "award_level": "낮음",
+  "why": "특별상",
+  "checks": [
+   {
+    "rule": "R01 공식 선정",
+    "ok": true,
+    "detail": "제24회 이동훈미술상 특별상 — 보도 5곳"
+   },
+   {
+    "rule": "R02 초기 경력",
+    "ok": null,
+    "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+   },
+   {
+    "rule": "R03 독립 확인",
+    "ok": false,
+    "detail": "이번 수상 외 최근 12개월 미술 관련 보도 사건 0건 · 유형 award"
+   },
+   {
+    "rule": "R05 지속성(후속 지원)",
+    "ok": null,
+    "detail": "상에 딸린 후속 지원: 보도에 없음"
+   }
+  ],
+  "homonym_risk": false,
+  "homonym_note": "이름 검색 결과 7건 중 미술과 무관해 보이는 기사 1건 제외"
+ },
+ "문정운": {
+  "name": "문정운",
+  "first_seen": "2026-10-30",
+  "awards": [
+   "제56회 대한민국 공예품대전 대통령상"
+  ],
+  "last_checked": "2026-10-30",
+  "edition": "KR",
+  "track": "open",
+  "genre": "공예",
+  "machine_status": "관찰 후보",
+  "award_level": "보통",
+  "why": "'일월오봉도 은차도구' — 전통 회화 일월오봉도를 현대 은공예로 옮겼다.",
+  "checks": [
+   {
+    "rule": "R01 공식 선정",
+    "ok": true,
+    "detail": "제56회 대한민국 공예품대전 대통령상 — 보도 1곳"
+   },
+   {
+    "rule": "R02 초기 경력",
+    "ok": true,
+    "detail": "보도로 확인된 가장 이른 개인전 2021년 · 최근 기사 위주 검색이라 더 이른 이력이 있을 수 있음"
+   },
+   {
+    "rule": "R03 독립 확인",
+    "ok": false,
+    "detail": "이번 수상 외 최근 12개월 미술 관련 보도 사건 1건 (2026-09-09 조선 궁중화가 은공예로…문정운 ‘일월오봉도 은차도구’ ) · 유형 award"
+   },
+   {
+    "rule": "R05 지속성(후속 지원)",
+    "ok": true,
+    "detail": "상에 딸린 후속 지원: 수상작 전시(11월 청주)"
+   }
+  ],
+  "homonym_risk": false,
+  "homonym_note": "이름 검색 결과 8건 중 미술과 무관해 보이는 기사 1건 제외"
+ },
+ "窪田望": {
+  "name": "窪田望",
+  "first_seen": "2026-10-30",
+  "awards": [
+   "Prix Ars Electronica 2026 Honorary Mention(Digital Humanity)"
+  ],
+  "last_checked": "2026-10-30",
+  "edition": "JP",
+  "track": "open",
+  "genre": "AI·미디어",
+  "machine_status": "관찰 후보",
+  "award_level": "보통",
+  "why": "AI가 만드는 '보이지 않는 배제'를 다룬 《AIが消し去る声》로 일본인 유일 수상 — 본문 확인.",
+  "checks": [
+   {
+    "rule": "R01 공식 선정",
+    "ok": true,
+    "detail": "Prix Ars Electronica 2026 Honorary Mention(Digital Humanity) — 보도 1곳"
+   },
+   {
+    "rule": "R02 초기 경력",
+    "ok": null,
+    "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+   },
+   {
+    "rule": "R03 독립 확인",
+    "ok": null,
+    "detail": "이름 검색을 하지 않음(한국어 뉴스 검색만 지원) — 편집자 확인 필요"
+   },
+   {
+    "rule": "R05 지속성(후속 지원)",
+    "ok": true,
+    "detail": "상에 딸린 후속 지원: 오스트리아 린츠 작품 상영, 국제 학술회의 발표"
+   }
+  ],
+  "homonym_risk": false,
+  "homonym_note": null
+ },
+ "Christine Sun Kim": {
+  "name": "Christine Sun Kim",
+  "first_seen": "2026-10-30",
+  "awards": [
+   "2026 MacArthur Fellowship"
+  ],
+  "last_checked": "2026-10-30",
+  "edition": "AMERICAS",
+  "track": "established",
+  "genre": "사운드·드로잉",
+  "machine_status": "기성·재발견(루키 트랙 아님)",
+  "award_level": "낮음",
+  "why": null,
+  "checks": [
+   {
+    "rule": "R01 공식 선정",
+    "ok": true,
+    "detail": "2026 MacArthur Fellowship — 보도 2곳"
+   },
+   {
+    "rule": "R02 초기 경력",
+    "ok": null,
+    "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+   },
+   {
+    "rule": "R03 독립 확인",
+    "ok": null,
+    "detail": "이름 검색을 하지 않음(한국어 뉴스 검색만 지원) — 편집자 확인 필요"
+   },
+   {
+    "rule": "R05 지속성(후속 지원)",
+    "ok": null,
+    "detail": "상에 딸린 후속 지원: 보도에 없음"
+   }
+  ],
+  "homonym_risk": false,
+  "homonym_note": null
+ },
+ "Rodney McMillian": {
+  "name": "Rodney McMillian",
+  "first_seen": "2026-10-30",
+  "awards": [
+   "2026 MacArthur Fellowship"
+  ],
+  "last_checked": "2026-10-30",
+  "edition": "AMERICAS",
+  "track": "established",
+  "genre": null,
+  "machine_status": "기성·재발견(루키 트랙 아님)",
+  "award_level": "낮음",
+  "why": null,
+  "checks": [
+   {
+    "rule": "R01 공식 선정",
+    "ok": true,
+    "detail": "2026 MacArthur Fellowship — 보도 2곳"
+   },
+   {
+    "rule": "R02 초기 경력",
+    "ok": null,
+    "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+   },
+   {
+    "rule": "R03 독립 확인",
+    "ok": null,
+    "detail": "이름 검색을 하지 않음(한국어 뉴스 검색만 지원) — 편집자 확인 필요"
+   },
+   {
+    "rule": "R05 지속성(후속 지원)",
+    "ok": null,
+    "detail": "상에 딸린 후속 지원: 보도에 없음"
+   }
+  ],
+  "homonym_risk": false,
+  "homonym_note": null
+ },
+ "馬場敬一": {
+  "name": "馬場敬一",
+  "first_seen": "2026-10-30",
+  "awards": [
+   "오카모토 다로 현대예술상(TARO賞) 수상자 개인전"
+  ],
+  "last_checked": "2026-10-30",
+  "edition": "JP",
+  "track": "open",
+  "genre": null,
+  "machine_status": "관찰 후보",
+  "award_level": "보통",
+  "why": "보도 제목: '상처'를 독자적 신화 세계로 그린 작업 — 수상 후 개인전 개최.",
+  "checks": [
+   {
+    "rule": "R01 공식 선정",
+    "ok": true,
+    "detail": "오카모토 다로 현대예술상(TARO賞) 수상자 개인전 — 보도 1곳"
+   },
+   {
+    "rule": "R02 초기 경력",
+    "ok": null,
+    "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+   },
+   {
+    "rule": "R03 독립 확인",
+    "ok": null,
+    "detail": "이름 검색을 하지 않음(한국어 뉴스 검색만 지원) — 편집자 확인 필요"
+   },
+   {
+    "rule": "R05 지속성(후속 지원)",
+    "ok": true,
+    "detail": "상에 딸린 후속 지원: 수상 후속 개인전"
+   }
+  ],
+  "homonym_risk": false,
+  "homonym_note": null
+ },
+ "永橋和雄": {
+  "name": "永橋和雄",
+  "first_seen": "2026-10-30",
+  "awards": [
+   "제45회 도몬켄상"
+  ],
+  "last_checked": "2026-10-30",
+  "edition": "JP",
+  "track": "established",
+  "genre": "사진",
+  "machine_status": "기성·재발견(루키 트랙 아님)",
+  "award_level": "보통",
+  "why": "수상작 『티베트의 미궁 포탈라궁』.",
+  "checks": [
+   {
+    "rule": "R01 공식 선정",
+    "ok": true,
+    "detail": "제45회 도몬켄상 — 보도 1곳"
+   },
+   {
+    "rule": "R02 초기 경력",
+    "ok": null,
+    "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+   },
+   {
+    "rule": "R03 독립 확인",
+    "ok": null,
+    "detail": "이름 검색을 하지 않음(한국어 뉴스 검색만 지원) — 편집자 확인 필요"
+   },
+   {
+    "rule": "R05 지속성(후속 지원)",
+    "ok": true,
+    "detail": "상에 딸린 후속 지원: 수상작 전시"
+   }
+  ],
+  "homonym_risk": false,
+  "homonym_note": null
+ },
+ "Danh Vo": {
+  "name": "Danh Vo",
+  "first_seen": "2026-10-30",
+  "awards": [
+   "메트로폴리탄미술관 2027 파사드·그레이트홀 커미션"
+  ],
+  "last_checked": "2026-10-30",
+  "edition": "AMERICAS",
+  "track": "open",
+  "genre": "설치",
+  "machine_status": "기성·재발견(루키 트랙 아님)",
+  "award_level": "낮음",
+  "why": "같은 달 이사무 노구치상도 수상 — 기성 작가로 분류(Rookie 아님).",
+  "checks": [
+   {
+    "rule": "R01 공식 선정",
+    "ok": true,
+    "detail": "메트로폴리탄미술관 2027 파사드·그레이트홀 커미션 — 보도 2곳"
+   },
+   {
+    "rule": "R02 초기 경력",
+    "ok": true,
+    "detail": "편집 확인: 기성 — 2015 베니스 덴마크관 대표"
+   },
+   {
+    "rule": "R03 독립 확인",
+    "ok": null,
+    "detail": "이름 검색을 하지 않음(한국어 뉴스 검색만 지원) — 편집자 확인 필요"
+   },
+   {
+    "rule": "R05 지속성(후속 지원)",
+    "ok": true,
+    "detail": "상에 딸린 후속 지원: 신작 제작·설치"
+   }
+  ],
+  "homonym_risk": false,
+  "homonym_note": null
+ },
+ "Sandra Mujinga": {
+  "name": "Sandra Mujinga",
+  "first_seen": "2026-10-30",
+  "awards": [
+   "메트로폴리탄미술관 2027 파사드·그레이트홀 커미션"
+  ],
+  "last_checked": "2026-10-30",
+  "edition": "AMERICAS",
+  "track": "open",
+  "genre": "설치·영상",
+  "machine_status": "관찰 후보",
+  "award_level": "낮음",
+  "why": "메트 그레이트홀 커미션 선정(제목 기준). ARTREND DB에서 처음 관찰된 미주 대형 기관 선정.",
+  "checks": [
+   {
+    "rule": "R01 공식 선정",
+    "ok": true,
+    "detail": "메트로폴리탄미술관 2027 파사드·그레이트홀 커미션 — 보도 2곳"
+   },
+   {
+    "rule": "R02 초기 경력",
+    "ok": null,
+    "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+   },
+   {
+    "rule": "R03 독립 확인",
+    "ok": null,
+    "detail": "이름 검색을 하지 않음(한국어 뉴스 검색만 지원) — 편집자 확인 필요"
+   },
+   {
+    "rule": "R05 지속성(후속 지원)",
+    "ok": true,
+    "detail": "상에 딸린 후속 지원: 신작 제작·설치"
+   }
+  ],
+  "homonym_risk": false,
+  "homonym_note": null
+ },
+ "Margaret Honda": {
+  "name": "Margaret Honda",
+  "first_seen": "2026-10-30",
+  "awards": [
+   "Audain Visual Artist in Residence 2026 가을"
+  ],
+  "last_checked": "2026-10-30",
+  "edition": "AMERICAS",
+  "track": "open",
+  "genre": "영상·설치",
+  "machine_status": "관찰 후보",
+  "award_level": "낮음",
+  "why": "e-flux 공지 — 레지던시 초청 작가.",
+  "checks": [
+   {
+    "rule": "R01 공식 선정",
+    "ok": true,
+    "detail": "Audain Visual Artist in Residence 2026 가을 — 보도 1곳"
+   },
+   {
+    "rule": "R02 초기 경력",
+    "ok": null,
+    "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+   },
+   {
+    "rule": "R03 독립 확인",
+    "ok": null,
+    "detail": "이름 검색을 하지 않음(한국어 뉴스 검색만 지원) — 편집자 확인 필요"
+   },
+   {
+    "rule": "R05 지속성(후속 지원)",
+    "ok": true,
+    "detail": "상에 딸린 후속 지원: 레지던시"
+   }
+  ],
+  "homonym_risk": false,
+  "homonym_note": null
+ },
+ "Okiki Akinfe": {
+  "name": "Okiki Akinfe",
+  "first_seen": "2026-10-30",
+  "awards": [
+   "프리즈 런던 신진 작가상(첫 회)"
+  ],
+  "last_checked": "2026-10-30",
+  "edition": "EUROPE",
+  "track": "rookie",
+  "genre": "회화",
+  "machine_status": "관찰 후보",
+  "award_level": "보통",
+  "why": "첫 회 수상. 본인은 이 상이 '더 많은 작가를 키우길' 바란다고 인터뷰(제목 기준).",
+  "checks": [
+   {
+    "rule": "R01 공식 선정",
+    "ok": true,
+    "detail": "프리즈 런던 신진 작가상(첫 회) — 보도 2곳"
+   },
+   {
+    "rule": "R02 초기 경력",
+    "ok": null,
+    "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+   },
+   {
+    "rule": "R03 독립 확인",
+    "ok": null,
+    "detail": "이름 검색을 하지 않음(한국어 뉴스 검색만 지원) — 편집자 확인 필요"
+   },
+   {
+    "rule": "R05 지속성(후속 지원)",
+    "ok": true,
+    "detail": "상에 딸린 후속 지원: 상금 £30,000"
+   }
+  ],
+  "homonym_risk": false,
+  "homonym_note": null
+ },
+ "Ella Fleck": {
+  "name": "Ella Fleck",
+  "first_seen": "2026-10-30",
+  "awards": [
+   "Camden Art Centre 신진작가상 2026(프리즈 런던)"
+  ],
+  "last_checked": "2026-10-30",
+  "edition": "EUROPE",
+  "track": "rookie",
+  "genre": null,
+  "machine_status": "관찰 후보",
+  "award_level": "보통",
+  "why": "2026 수상(제목 기준). 선정 사유는 원문 미확인.",
+  "checks": [
+   {
+    "rule": "R01 공식 선정",
+    "ok": true,
+    "detail": "Camden Art Centre 신진작가상 2026(프리즈 런던) — 보도 1곳"
+   },
+   {
+    "rule": "R02 초기 경력",
+    "ok": null,
+    "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+   },
+   {
+    "rule": "R03 독립 확인",
+    "ok": null,
+    "detail": "이름 검색을 하지 않음(한국어 뉴스 검색만 지원) — 편집자 확인 필요"
+   },
+   {
+    "rule": "R05 지속성(후속 지원)",
+    "ok": true,
+    "detail": "상에 딸린 후속 지원: 캠든아트센터 전시"
+   }
+  ],
+  "homonym_risk": false,
+  "homonym_note": null
+ },
+ "Theo Triantafyllidis": {
+  "name": "Theo Triantafyllidis",
+  "first_seen": "2026-10-30",
+  "awards": [
+   "Frieze Artist Award 2026"
+  ],
+  "last_checked": "2026-10-30",
+  "edition": "EUROPE",
+  "track": "rookie",
+  "genre": "조각·디지털",
+  "machine_status": "관찰 후보",
+  "award_level": "보통",
+  "why": "이 상으로 거대 거미 형태 조각(관객이 앉는 구조물)을 제작 — 본문 확인.",
+  "checks": [
+   {
+    "rule": "R01 공식 선정",
+    "ok": true,
+    "detail": "Frieze Artist Award 2026 — 보도 2곳"
+   },
+   {
+    "rule": "R02 초기 경력",
+    "ok": null,
+    "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+   },
+   {
+    "rule": "R03 독립 확인",
+    "ok": null,
+    "detail": "이름 검색을 하지 않음(한국어 뉴스 검색만 지원) — 편집자 확인 필요"
+   },
+   {
+    "rule": "R05 지속성(후속 지원)",
+    "ok": true,
+    "detail": "상에 딸린 후속 지원: 프리즈 런던 신작 커미션"
+   }
+  ],
+  "homonym_risk": false,
+  "homonym_note": null
+ },
+ "Brognon Rollin": {
+  "name": "Brognon Rollin",
+  "first_seen": "2026-10-30",
+  "awards": [
+   "Prix Marcel Duchamp 2026"
+  ],
+  "last_checked": "2026-10-30",
+  "edition": "EUROPE",
+  "track": "open",
+  "genre": "설치",
+  "machine_status": "관찰 후보",
+  "award_level": "높음",
+  "why": "후보 4팀(안드리아노메아리소아·앙노·은잠) 중 최종 선정 — 본문 확인.",
+  "checks": [
+   {
+    "rule": "R01 공식 선정",
+    "ok": true,
+    "detail": "Prix Marcel Duchamp 2026 — 보도 3곳"
+   },
+   {
+    "rule": "R02 초기 경력",
+    "ok": null,
+    "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+   },
+   {
+    "rule": "R03 독립 확인",
+    "ok": null,
+    "detail": "이름 검색을 하지 않음(한국어 뉴스 검색만 지원) — 편집자 확인 필요"
+   },
+   {
+    "rule": "R05 지속성(후속 지원)",
+    "ok": true,
+    "detail": "상에 딸린 후속 지원: 상금 €35,000, 퐁피두센터 전시"
+   }
+  ],
+  "homonym_risk": false,
+  "homonym_note": null
+ },
+ "Hoda Afshar": {
+  "name": "Hoda Afshar",
+  "first_seen": "2026-10-30",
+  "awards": [
+   "Deutsche Börse 사진상 2027 최종 후보"
+  ],
+  "last_checked": "2026-10-30",
+  "edition": "EUROPE",
+  "track": "shortlist",
+  "genre": "사진",
+  "machine_status": "후보 단계(최종 발표 전)",
+  "award_level": "보통",
+  "why": "2027 최종 후보 4인 — 본문 확인.",
+  "checks": [
+   {
+    "rule": "R01 공식 선정",
+    "ok": true,
+    "detail": "Deutsche Börse 사진상 2027 최종 후보 — 보도 2곳"
+   },
+   {
+    "rule": "R02 초기 경력",
+    "ok": null,
+    "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+   },
+   {
+    "rule": "R03 독립 확인",
+    "ok": null,
+    "detail": "이름 검색을 하지 않음(한국어 뉴스 검색만 지원) — 편집자 확인 필요"
+   },
+   {
+    "rule": "R05 지속성(후속 지원)",
+    "ok": true,
+    "detail": "상에 딸린 후속 지원: Photographers' Gallery 후보전"
+   }
+  ],
+  "homonym_risk": false,
+  "homonym_note": null
+ },
+ "Lotus L. Kang": {
+  "name": "Lotus L. Kang",
+  "first_seen": "2026-10-30",
+  "awards": [
+   "Deutsche Börse 사진상 2027 최종 후보"
+  ],
+  "last_checked": "2026-10-30",
+  "edition": "EUROPE",
+  "track": "shortlist",
+  "genre": "사진·설치",
+  "machine_status": "후보 단계(최종 발표 전)",
+  "award_level": "보통",
+  "why": "2027 최종 후보 4인 — 한국계 작가.",
+  "checks": [
+   {
+    "rule": "R01 공식 선정",
+    "ok": true,
+    "detail": "Deutsche Börse 사진상 2027 최종 후보 — 보도 2곳"
+   },
+   {
+    "rule": "R02 초기 경력",
+    "ok": null,
+    "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+   },
+   {
+    "rule": "R03 독립 확인",
+    "ok": null,
+    "detail": "이름 검색을 하지 않음(한국어 뉴스 검색만 지원) — 편집자 확인 필요"
+   },
+   {
+    "rule": "R05 지속성(후속 지원)",
+    "ok": true,
+    "detail": "상에 딸린 후속 지원: Photographers' Gallery 후보전"
+   }
+  ],
+  "homonym_risk": false,
+  "homonym_note": null
+ },
+ "Sasha Kurmaz": {
+  "name": "Sasha Kurmaz",
+  "first_seen": "2026-10-30",
+  "awards": [
+   "Deutsche Börse 사진상 2027 최종 후보"
+  ],
+  "last_checked": "2026-10-30",
+  "edition": "EUROPE",
+  "track": "shortlist",
+  "genre": "사진",
+  "machine_status": "후보 단계(최종 발표 전)",
+  "award_level": "보통",
+  "why": "2027 최종 후보 4인.",
+  "checks": [
+   {
+    "rule": "R01 공식 선정",
+    "ok": true,
+    "detail": "Deutsche Börse 사진상 2027 최종 후보 — 보도 2곳"
+   },
+   {
+    "rule": "R02 초기 경력",
+    "ok": null,
+    "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+   },
+   {
+    "rule": "R03 독립 확인",
+    "ok": null,
+    "detail": "이름 검색을 하지 않음(한국어 뉴스 검색만 지원) — 편집자 확인 필요"
+   },
+   {
+    "rule": "R05 지속성(후속 지원)",
+    "ok": true,
+    "detail": "상에 딸린 후속 지원: Photographers' Gallery 후보전"
+   }
+  ],
+  "homonym_risk": false,
+  "homonym_note": null
+ },
+ "Salvatore Vitale": {
+  "name": "Salvatore Vitale",
+  "first_seen": "2026-10-30",
+  "awards": [
+   "Deutsche Börse 사진상 2027 최종 후보"
+  ],
+  "last_checked": "2026-10-30",
+  "edition": "EUROPE",
+  "track": "shortlist",
+  "genre": "사진",
+  "machine_status": "후보 단계(최종 발표 전)",
+  "award_level": "보통",
+  "why": "2027 최종 후보 4인.",
+  "checks": [
+   {
+    "rule": "R01 공식 선정",
+    "ok": true,
+    "detail": "Deutsche Börse 사진상 2027 최종 후보 — 보도 2곳"
+   },
+   {
+    "rule": "R02 초기 경력",
+    "ok": null,
+    "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+   },
+   {
+    "rule": "R03 독립 확인",
+    "ok": null,
+    "detail": "이름 검색을 하지 않음(한국어 뉴스 검색만 지원) — 편집자 확인 필요"
+   },
+   {
+    "rule": "R05 지속성(후속 지원)",
+    "ok": true,
+    "detail": "상에 딸린 후속 지원: Photographers' Gallery 후보전"
+   }
+  ],
+  "homonym_risk": false,
+  "homonym_note": null
+ },
+ "Julia Phillips": {
+  "name": "Julia Phillips",
+  "first_seen": "2026-10-30",
+  "awards": [
+   "K21 Global Art Award 2026"
+  ],
+  "last_checked": "2026-10-30",
+  "edition": "EUROPE",
+  "track": "open",
+  "genre": "조각·도자",
+  "machine_status": "관찰 후보",
+  "award_level": "보통",
+  "why": "e-flux 공지 — 수상(본문은 이미지 캡션 위주라 사유 미확인).",
+  "checks": [
+   {
+    "rule": "R01 공식 선정",
+    "ok": true,
+    "detail": "K21 Global Art Award 2026 — 보도 1곳"
+   },
+   {
+    "rule": "R02 초기 경력",
+    "ok": null,
+    "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+   },
+   {
+    "rule": "R03 독립 확인",
+    "ok": null,
+    "detail": "이름 검색을 하지 않음(한국어 뉴스 검색만 지원) — 편집자 확인 필요"
+   },
+   {
+    "rule": "R05 지속성(후속 지원)",
+    "ok": true,
+    "detail": "상에 딸린 후속 지원: K21 전시"
+   }
+  ],
+  "homonym_risk": false,
+  "homonym_note": null
+ },
+ "Basim Magdy": {
+  "name": "Basim Magdy",
+  "first_seen": "2026-10-30",
+  "awards": [
+   "Helmut-Kraft-Kunstpreis 2026"
+  ],
+  "last_checked": "2026-10-30",
+  "edition": "EUROPE",
+  "track": "established",
+  "genre": "영상·회화",
+  "machine_status": "기성·재발견(루키 트랙 아님)",
+  "award_level": "보통",
+  "why": "e-flux 공지 — 수상과 신작 'PINGPINPOOLPONG' 전시.",
+  "checks": [
+   {
+    "rule": "R01 공식 선정",
+    "ok": true,
+    "detail": "Helmut-Kraft-Kunstpreis 2026 — 보도 1곳"
+   },
+   {
+    "rule": "R02 초기 경력",
+    "ok": true,
+    "detail": "편집 확인: 기성 — 국제 비엔날레 다수 참여"
+   },
+   {
+    "rule": "R03 독립 확인",
+    "ok": null,
+    "detail": "이름 검색을 하지 않음(한국어 뉴스 검색만 지원) — 편집자 확인 필요"
+   },
+   {
+    "rule": "R05 지속성(후속 지원)",
+    "ok": true,
+    "detail": "상에 딸린 후속 지원: 미술관 전시"
+   }
+  ],
+  "homonym_risk": false,
+  "homonym_note": null
+ },
+ "Hana Elhaddad": {
+  "name": "Hana Elhaddad",
+  "first_seen": "2026-10-30",
+  "awards": [
+   "Salzburger Kunstverein × ArtReview 작가(비평) 레지던시"
+  ],
+  "last_checked": "2026-10-30",
+  "edition": "EUROPE",
+  "track": "rookie",
+  "genre": "비평",
+  "machine_status": "관찰 후보",
+  "award_level": "낮음",
+  "why": "레지던시 결과물인 비평문이 ArtReview에 게재됨 — 본문 확인.",
+  "checks": [
+   {
+    "rule": "R01 공식 선정",
+    "ok": true,
+    "detail": "Salzburger Kunstverein × ArtReview 작가(비평) 레지던시 — 보도 1곳"
+   },
+   {
+    "rule": "R02 초기 경력",
+    "ok": null,
+    "detail": "개인전 보도 없음 — 경력 미확인(생년으로 대체하지 않음)"
+   },
+   {
+    "rule": "R03 독립 확인",
+    "ok": null,
+    "detail": "이름 검색을 하지 않음(한국어 뉴스 검색만 지원) — 편집자 확인 필요"
+   },
+   {
+    "rule": "R05 지속성(후속 지원)",
+    "ok": true,
+    "detail": "상에 딸린 후속 지원: 레지던시, ArtReview 게재"
+   }
+  ],
+  "homonym_risk": false,
+  "homonym_note": null
+ }
+}

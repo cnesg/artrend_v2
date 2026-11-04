@@ -1,0 +1,3 @@
+# Optional standard Chromium rendering for public JavaScript-only pages.
+# No stealth plugins, no profile cookies, and no authentication bypass.
+playwright==1.55.0
